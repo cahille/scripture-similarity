@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Book of Mormon Verses</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f4f4f9;
+                margin: 0;
+                padding: 0;
+            }
+            #header {
+                background-color: #4caf50;
+                color: white;
+                padding: 20px;
+                text-align: center;
+            }
+            .container {
+                padding: 20px;
+            }
+            .form-group {
+                display: flex;
+                align-items: center;
+                margin-bottom: 10px;
+            }
+            .form-group label {
+                width: 150px;
+                margin-right: 10px;
+                font-weight: bold;
+            }
+            input[type="number"],
+            select {
+                padding: 5px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                flex: 1;
+            }
+            .verse-container {
+                display: flex;
+                flex-direction: column;
+                background-color: white;
+                padding: 20px;
+                margin-bottom: 20px;
+                border-radius: 8px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            }
+            .verse {
+                margin-bottom: 10px;
+            }
+            .similar-verses {
+                margin-top: 10px;
+            }
+            .similar-verse {
+                margin-bottom: 10px;
+                padding: 10px;
+                background-color: #f9f9f9;
+                border-left: 4px solid #4caf50;
+                border-radius: 4px;
+            }
+            .similar-verse-score {
+                font-size: 0.9em;
+                color: #555;
+            }
+            #chapters a {
+                display: inline-block;
+                padding: 10px 15px;
+                margin: 5px;
+                background-color: #4caf50;
+                color: white;
+                text-decoration: none;
+                border-radius: 4px;
+                transition: background-color 0.3s;
+            }
+            #chapters a:hover {
+                background-color: #45a049;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="header">Book of Mormon Verses</div>
+        <div class="container">
+            <div class="form-group">
+                <label for="volume">Volume</label>
+                <select id="volume"></select>
+            </div>
+            <div class="form-group">
+                <label for="book">Book</label>
+                <select id="book"></select>
+            </div>
+            <div class="form-group">
+                <label for="volumes">Comparison Volumes</label>
+                <select id="volumes" multiple>
+                    <option value="Pearl of Great Price" selected>
+                        Pearl of Great Price
+                    </option>
+                    <option value="Doctrine and Covenants" selected>
+                        Doctrine and Covenants
+                    </option>
+                    <option value="New Testament" selected>New Testament</option>
+                    <option value="Old Testament" selected>Old Testament</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="threshold">Threshold</label>
+                <input
+                    type="number"
+                    id="threshold"
+                    value="50"
+                    min="0"
+                    max="100"
+                    step="1"
+                />
+            </div>
+            <br />
+            <div id="chapters"></div>
+            <br />
+            <div id="verses"></div>
+        </div>
+
+        <script>
+            let versesData = [];
+            let libraryInfo = {}; // Initialize libraryInfo
+
+            function renderVerses(threshold, selectedVolumes) {
+                const versesContainer = document.getElementById("verses");
+                versesContainer.innerHTML = ""; // Clear existing content
+
+                versesData.forEach((verse) => {
+                    const verseContainer = document.createElement("div");
+                    verseContainer.classList.add("verse-container");
+
+                    const verseElement = document.createElement("div");
+                    verseElement.classList.add("verse");
+                    verseElement.innerHTML = `
+                        <div class="verse-text">${verse.verse} ${verse.text}</div>
+                    `;
+                    verseContainer.appendChild(verseElement);
+
+                    const similarVersesElement = document.createElement("div");
+                    similarVersesElement.classList.add("similar-verses");
+
+                    const similarVerses = verse.similars;
+                    if (similarVerses && Array.isArray(similarVerses)) {
+                        similarVerses.forEach((similarVerse) => {
+                            const scorePercentage = (similarVerse.score * 100).toFixed(2);
+                            if (
+                                scorePercentage >= threshold &&
+                                selectedVolumes.includes(similarVerse.volume)
+                            ) {
+                                const similarVerseElement = document.createElement("div");
+                                similarVerseElement.classList.add("similar-verse");
+                                similarVerseElement.innerHTML = `
+                                    <div class="similar-verse-score">${similarVerse.volume}: ${similarVerse.book} ${similarVerse.chapter}:${similarVerse.verse} ${similarVerse.text} (${scorePercentage})</div>
+                                `;
+                                similarVersesElement.appendChild(similarVerseElement);
+                            }
+                        });
+                    } else {
+                        console.error(
+                            "Similar verses data is not defined or not an array"
+                        );
+                    }
+
+                    verseContainer.appendChild(similarVersesElement);
+                    versesContainer.appendChild(verseContainer);
+                });
+            }
+
+            function populateSelect(selectElement, options) {
+                selectElement.innerHTML = "";
+                options.forEach((option) => {
+                    const optionElement = document.createElement("option");
+                    optionElement.value = option;
+                    optionElement.textContent = option;
+                    selectElement.appendChild(optionElement);
+                });
+            }
+
+            function updateBooks(selectedBook) {
+                const volumeSelect = document.getElementById("volume");
+                const bookSelect = document.getElementById("book");
+                const selectedVolume = volumeSelect.value;
+                const books = [];
+
+                if (libraryInfo[selectedVolume]) {
+                    Object.values(libraryInfo[selectedVolume]).forEach((entry) => {
+                        if (entry.book && !books.includes(entry.book)) {
+                            books.push(entry.book);
+                        }
+                    });
+                }
+
+                populateSelect(bookSelect, books);
+                if (selectedBook) {
+                    bookSelect.value = selectedBook;
+                } else if (books.length > 0) {
+                    bookSelect.value = books[0];
+                }
+                updateChapters();
+            }
+
+            function updateChapters() {
+                const volumeSelect = document.getElementById("volume");
+                const bookSelect = document.getElementById("book");
+                const chaptersDiv = document.getElementById("chapters");
+                const selectedVolume = volumeSelect.value;
+                const selectedBook = bookSelect.value;
+                const threshold = document.getElementById("threshold").value;
+                let chapterCount = 0;
+
+                if (libraryInfo[selectedVolume]) {
+                    Object.values(libraryInfo[selectedVolume]).forEach((entry) => {
+                        if (entry.book === selectedBook && entry.chapters) {
+                            chapterCount = entry.chapters;
+                        }
+                    });
+                }
+
+                if (chapterCount > 0) {
+                    const chapterLinks = Array.from({ length: chapterCount }, (_, i) => {
+                        const chapterNumber = i + 1;
+                        return `<a href="?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapterNumber}&threshold=${threshold}">${chapterNumber}</a>`;
+                    }).join(" ");
+                    chaptersDiv.innerHTML = chapterLinks;
+                } else {
+                    chaptersDiv.textContent = "";
+                }
+            }
+
+            function getQueryParams() {
+                const params = new URLSearchParams(window.location.search);
+                return {
+                    volume: params.get("volume"),
+                    book: params.get("book"),
+                    chapter: params.get("chapter"),
+                    threshold: params.get("threshold") || 50,
+                };
+            }
+
+            function fetchVerses(volume, book, chapter) {
+                const formattedVolume = volume.replace(/\s+/g, "_").toLowerCase();
+                const formattedBook = book.replace(/\s+/g, "_").toLowerCase();
+                const filePath = `./json/${formattedVolume}/${formattedBook}-${chapter}.json`;
+                fetch(filePath)
+                    .then((response) => response.json())
+                    .then((data) => {
+                        const title = `${data.volume} - ${data.book} ${data.chapter}`;
+                        document.title = title;
+                        document.getElementById("header").innerHTML = `<h1>${title}</h1>`;
+                        versesData = data.verses;
+
+                        // Re-add all volumes to the multi-select options
+                        const volumeSelect = document.getElementById("volumes");
+                        volumeSelect.innerHTML = "";
+                        Object.keys(libraryInfo).forEach((volume) => {
+                            const optionElement = document.createElement("option");
+                            optionElement.value = volume;
+                            optionElement.textContent = volume;
+                            optionElement.selected = true;
+                            volumeSelect.appendChild(optionElement);
+                        });
+
+                        // Remove data.volume from the multi-select options
+                        const volumeToRemove = data.volume;
+                        Array.from(volumeSelect.options).forEach((option) => {
+                            if (option.value === volumeToRemove) {
+                                option.remove();
+                            }
+                        });
+
+                        renderVerses(50, getSelectedVolumes()); // Initial render with 50% threshold
+                    })
+                    .catch((error) => console.error("Error fetching JSON:", error));
+            }
+
+            // Fetch the library info JSON file
+            fetch("json/library-info.json")
+                .then((response) => response.json())
+                .then((data) => {
+                    libraryInfo = data; // Assign fetched data to libraryInfo
+                    const volumes = Object.keys(libraryInfo);
+                    populateSelect(document.getElementById("volume"), volumes);
+
+                    // Fetch verses based on URL parameters
+                    const { volume, book, chapter, threshold } = getQueryParams();
+                    document.getElementById("threshold").value = threshold;
+                    if (volume && book && chapter) {
+                        document.getElementById("volume").value = volume;
+                        updateBooks(book);
+                        fetchVerses(volume, book, chapter);
+                    } else {
+                        const defaultVolume = "Book of Mormon";
+                        const defaultBook = "1 Nephi";
+                        const defaultChapter = 1;
+                        document.getElementById("volume").value = defaultVolume;
+                        updateBooks(defaultBook);
+                        fetchVerses(defaultVolume, defaultBook, defaultChapter);
+                    }
+                })
+                .catch((error) =>
+                    console.error("Error fetching library info JSON:", error)
+                );
+
+            // Add event listener to the threshold input
+            document.getElementById("threshold").addEventListener("input", (event) => {
+                const threshold = parseFloat(event.target.value);
+                renderVerses(threshold, getSelectedVolumes());
+            });
+
+            // Add event listener to the volumes multi-select
+            document.getElementById("volumes").addEventListener("change", () => {
+                const threshold = parseFloat(document.getElementById("threshold").value);
+                renderVerses(threshold, getSelectedVolumes());
+            });
+
+            // Add event listeners to update books and chapters
+            document.getElementById("volume").addEventListener("change", () => {
+                const volumeSelect = document.getElementById("volume");
+                const selectedVolume = volumeSelect.value;
+                updateBooks();
+                const bookSelect = document.getElementById("book");
+                const selectedBook = bookSelect.value || bookSelect.options[0].value;
+                window.location.href = `?volume=${selectedVolume}&book=${selectedBook}&chapter=1&threshold=${
+                    document.getElementById("threshold").value
+                }`;
+            });
+            document.getElementById("book").addEventListener("change", () => {
+                updateChapters();
+                const volumeSelect = document.getElementById("volume");
+                const bookSelect = document.getElementById("book");
+                const selectedVolume = volumeSelect.value;
+                const selectedBook = bookSelect.value;
+                window.location.href = `?volume=${selectedVolume}&book=${selectedBook}&chapter=1&threshold=${
+                    document.getElementById("threshold").value
+                }`;
+            });
+
+            // Function to get selected volumes from the multi-select
+            function getSelectedVolumes() {
+                const selectedOptions =
+                    document.getElementById("volumes").selectedOptions;
+                return Array.from(selectedOptions).map((option) => option.value);
+            }
+        </script>
+    </body>
+</html>

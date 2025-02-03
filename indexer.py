@@ -1,5 +1,4 @@
 import argparse
-import json
 import os
 import re
 import sys
@@ -9,6 +8,7 @@ import requests as requests
 import torch
 from transformers import AutoTokenizer, AutoModel
 
+import json
 from model import Verse, SimilarVerse
 from verse_repository import VerseRepository
 
@@ -192,10 +192,94 @@ def index_raw_verses():
                     print(f' -> {chapter_string}')
 
 
+def generate_library_info():
+    verse_repository = VerseRepository()
+
+    data = {}
+
+    volumes = verse_repository.select_distinct_volumes()
+    for volume in volumes:
+        books = verse_repository.select_distinct_books(volume)
+        data[volume] = []
+        for book in books:
+            chapters = verse_repository.select_distinct_chapters(book)
+            data[volume].append({
+                'book': book,
+                'chapters': len(chapters)
+            })
+
+    with open('json/library-info.json', 'w') as file:
+        json.dump(data, file, indent=4)
+
+
+def generate_winners(threshold: float):
+    verse_repository = VerseRepository()
+
+    for volume in verse_repository.select_distinct_volumes():
+        print(f'Indexing {volume}')
+        books = verse_repository.select_distinct_books(volume)
+
+        for book in books:
+            print(f' -> {book}')
+            chapters = verse_repository.select_distinct_chapters(book)
+
+            for chapter in chapters:
+                print(f'   -> {chapter}')
+                data = {
+                    'volume': volume,
+                    'book': book,
+                    'chapter': chapter,
+                    'verses': []
+                }
+
+                these_verses = verse_repository.select_verses_by_volume_book_chapter(volume, book, chapter)
+
+                for verse in these_verses:
+                    verse_dict = verse.to_dict()
+
+                    for field in ['clean_text', 'id']:
+                        del verse_dict[field]
+
+                    similars = verse_repository.select_similar_verses(verse, threshold=threshold)
+                    if similars:
+                        similar_dicts = []
+
+                        for similar in similars:
+                            similar.embedding = None
+                            similar_dict = similar.to_dict()
+
+                            for field in ['clean_text', 'id']:
+                                del similar_dict[field]
+
+                            similar_dict['score'] = similar.similarverse.score
+                            similar_dicts.append(similar_dict)
+
+                    data['verses'].append({
+                        'verse': verse_dict['verse'],
+                        'text': verse_dict['text'],
+                        'similars': similar_dicts
+                    })
+
+                directory = f'json/{volume}'.replace(' ', '_').lower()
+                if not os.path.exists(directory):
+                    os.makedirs(directory)
+                filename = f'{directory}/{book}-{chapter}.json'.replace(' ', '_').lower()
+                with open(filename, 'w') as file:
+                    json.dump(data, file, indent=4)
+                    pass
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Index similar verses with a specified threshold.')
     parser.add_argument('--threshold', type=float, default=0.5, help='Threshold for cosine similarity')
     args = parser.parse_args()
 
-    index_raw_verses()
-    index_similar_verses(threshold=args.threshold)
+    # index_raw_verses()
+    # index_similar_verses(threshold=args.threshold)
+    generate_library_info()
+    generate_winners(threshold=args.threshold)
+
+# base volume
+# chapter
+# similar volumes
+# threshold

@@ -1,9 +1,15 @@
+import os
+
 import numpy as np
 from peewee import Model, CharField, IntegerField, TextField, PostgresqlDatabase, ForeignKeyField, FloatField, \
     CompositeKey
 from pgvector.peewee import VectorField
 
-db = PostgresqlDatabase('scripture-similarity', user='scripture-similarity', password='scripture-similarity', host='localhost', port=5432)
+dp_port = os.environ.get('DB_PORT', 5432)
+
+print(f'Connecting to database on port {dp_port}')
+db = PostgresqlDatabase('scripture-similarity', user='scripture-similarity', password='scripture-similarity',
+                        host='localhost', port=dp_port)
 
 
 class Verse(Model):
