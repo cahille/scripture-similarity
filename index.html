@@ -76,6 +76,18 @@
             #chapters a:hover {
                 background-color: #45a049;
             }
+            .verse-link {
+                color: #555;
+                text-decoration: none;
+                cursor: pointer;
+                display: block;
+                transition: background-color 0.2s;
+            }
+
+            .verse-link:hover {
+                background-color: #f0f0f0;
+                color: #4caf50;
+            }
         </style>
     </head>
     <body>
@@ -113,6 +125,15 @@
                     step="1"
                 />
             </div>
+            <div class="form-group">
+                <label for="model">Embedding Model</label>
+                <select id="model">
+                    <option value="all">All Models</option>
+                    <option value="hugging_face_bge">Hugging Face BGE</option>
+                    <option value="text-embedding-ada-002" selected>Ada 002</option>
+                    <option value="text-embedding-3-small">Embedding 3 Small</option>
+                </select>
+            </div>
             <br />
             <div id="chapters"></div>
             <br />
@@ -123,9 +144,11 @@
             let versesData = [];
             let libraryInfo = {}; // Initialize libraryInfo
 
+            // Update the renderVerses function to make similar verses clickable
             function renderVerses(threshold, selectedVolumes) {
                 const versesContainer = document.getElementById("verses");
                 versesContainer.innerHTML = ""; // Clear existing content
+                const selectedModel = document.getElementById("model").value;
 
                 versesData.forEach((verse) => {
                     const verseContainer = document.createElement("div");
@@ -134,8 +157,8 @@
                     const verseElement = document.createElement("div");
                     verseElement.classList.add("verse");
                     verseElement.innerHTML = `
-                        <div class="verse-text">${verse.verse} ${verse.text}</div>
-                    `;
+            <div class="verse-text">${verse.verse} ${verse.text}</div>
+        `;
                     verseContainer.appendChild(verseElement);
 
                     const similarVersesElement = document.createElement("div");
@@ -147,13 +170,34 @@
                             const scorePercentage = (similarVerse.score * 100).toFixed(2);
                             if (
                                 scorePercentage >= threshold &&
-                                selectedVolumes.includes(similarVerse.volume)
+                                selectedVolumes.includes(similarVerse.volume) &&
+                                (selectedModel === "all" ||
+                                    similarVerse.embedding_model === selectedModel)
                             ) {
                                 const similarVerseElement = document.createElement("div");
                                 similarVerseElement.classList.add("similar-verse");
+
+                                // Create a clickable link for the similar verse
                                 similarVerseElement.innerHTML = `
-                                    <div class="similar-verse-score">${similarVerse.volume}: ${similarVerse.book} ${similarVerse.chapter}:${similarVerse.verse} ${similarVerse.text} (${scorePercentage})</div>
-                                `;
+                        <div class="similar-verse-score">
+                            <a href="?volume=${encodeURIComponent(
+                                similarVerse.volume
+                            )}&book=${encodeURIComponent(similarVerse.book)}&chapter=${
+                                    similarVerse.chapter
+                                }&verse=${
+                                    similarVerse.verse
+                                }&threshold=${threshold}&model=${selectedModel}" class="verse-link">
+                                ${similarVerse.volume}: ${similarVerse.book} ${
+                                    similarVerse.chapter
+                                }:${similarVerse.verse} ${
+                                    similarVerse.text
+                                } (${scorePercentage}%${
+                                    similarVerse.embedding_model
+                                        ? ` - ${similarVerse.embedding_model}`
+                                        : ""
+                                })</a>
+                        </div>
+                    `;
                                 similarVersesElement.appendChild(similarVerseElement);
                             }
                         });
@@ -167,7 +211,6 @@
                     versesContainer.appendChild(verseContainer);
                 });
             }
-
             function populateSelect(selectElement, options) {
                 selectElement.innerHTML = "";
                 options.forEach((option) => {
@@ -208,6 +251,7 @@
                 const selectedVolume = volumeSelect.value;
                 const selectedBook = bookSelect.value;
                 const threshold = document.getElementById("threshold").value;
+                const selectedModel = document.getElementById("model").value;
                 let chapterCount = 0;
 
                 if (libraryInfo[selectedVolume]) {
@@ -221,7 +265,7 @@
                 if (chapterCount > 0) {
                     const chapterLinks = Array.from({ length: chapterCount }, (_, i) => {
                         const chapterNumber = i + 1;
-                        return `<a href="?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapterNumber}&threshold=${threshold}">${chapterNumber}</a>`;
+                        return `<a href="?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapterNumber}&threshold=${threshold}&model=${selectedModel}">${chapterNumber}</a>`;
                     }).join(" ");
                     chaptersDiv.innerHTML = chapterLinks;
                 } else {
@@ -235,11 +279,38 @@
                     volume: params.get("volume"),
                     book: params.get("book"),
                     chapter: params.get("chapter"),
+                    verse: params.get("verse"),
                     threshold: params.get("threshold") || 50,
+                    model: params.get("model") || "text-embedding-3-small",
                 };
             }
 
-            function fetchVerses(volume, book, chapter) {
+            // Update in the fetch library info section
+            fetch("json/library-info.json")
+                .then((response) => response.json())
+                .then((data) => {
+                    libraryInfo = data;
+                    const volumes = Object.keys(libraryInfo);
+                    populateSelect(document.getElementById("volume"), volumes);
+
+                    // Fetch verses based on URL parameters
+                    const { volume, book, chapter, verse, threshold, model } =
+                        getQueryParams();
+                    document.getElementById("threshold").value = threshold;
+                    if (model) document.getElementById("model").value = model;
+
+                    if (volume && book && chapter) {
+                        document.getElementById("volume").value = volume;
+                        updateBooks(book);
+                        fetchVerses(volume, book, chapter, verse);
+                    } else {
+                        // ...existing default code...
+                    }
+                })
+                .catch((error) =>
+                    console.error("Error fetching library info JSON:", error)
+                );
+            function fetchVerses(volume, book, chapter, highlightVerse) {
                 const formattedVolume = volume.replace(/\s+/g, "_").toLowerCase();
                 const formattedBook = book.replace(/\s+/g, "_").toLowerCase();
                 const filePath = `./json/${formattedVolume}/${formattedBook}-${chapter}.json`;
@@ -252,29 +323,41 @@
                         versesData = data.verses;
 
                         // Re-add all volumes to the multi-select options
-                        const volumeSelect = document.getElementById("volumes");
-                        volumeSelect.innerHTML = "";
-                        Object.keys(libraryInfo).forEach((volume) => {
-                            const optionElement = document.createElement("option");
-                            optionElement.value = volume;
-                            optionElement.textContent = volume;
-                            optionElement.selected = true;
-                            volumeSelect.appendChild(optionElement);
-                        });
+                        // ...existing code...
 
-                        // Remove data.volume from the multi-select options
-                        const volumeToRemove = data.volume;
-                        Array.from(volumeSelect.options).forEach((option) => {
-                            if (option.value === volumeToRemove) {
-                                option.remove();
-                            }
-                        });
+                        const threshold = parseFloat(
+                            document.getElementById("threshold").value
+                        );
+                        renderVerses(threshold, getSelectedVolumes()); // Initial render
 
-                        renderVerses(50, getSelectedVolumes()); // Initial render with 50% threshold
+                        // Highlight and scroll to the specific verse if provided
+                        if (highlightVerse) {
+                            setTimeout(() => {
+                                const verseElements =
+                                    document.querySelectorAll(".verse-text");
+                                for (let i = 0; i < verseElements.length; i++) {
+                                    const verseText = verseElements[i].textContent;
+                                    if (verseText.startsWith(highlightVerse)) {
+                                        verseElements[i].scrollIntoView({
+                                            behavior: "smooth",
+                                            block: "center",
+                                        });
+                                        verseElements[i].style.backgroundColor =
+                                            "#ffff99";
+                                        verseElements[i].style.padding = "5px";
+                                        setTimeout(() => {
+                                            verseElements[i].style.backgroundColor = "";
+                                            verseElements[i].style.transition =
+                                                "background-color 1s";
+                                        }, 2000);
+                                        break;
+                                    }
+                                }
+                            }, 500);
+                        }
                     })
                     .catch((error) => console.error("Error fetching JSON:", error));
             }
-
             // Fetch the library info JSON file
             fetch("json/library-info.json")
                 .then((response) => response.json())
@@ -284,8 +367,10 @@
                     populateSelect(document.getElementById("volume"), volumes);
 
                     // Fetch verses based on URL parameters
-                    const { volume, book, chapter, threshold } = getQueryParams();
+                    const { volume, book, chapter, threshold, model } = getQueryParams();
                     document.getElementById("threshold").value = threshold;
+                    if (model) document.getElementById("model").value = model;
+
                     if (volume && book && chapter) {
                         document.getElementById("volume").value = volume;
                         updateBooks(book);
@@ -307,12 +392,42 @@
             document.getElementById("threshold").addEventListener("input", (event) => {
                 const threshold = parseFloat(event.target.value);
                 renderVerses(threshold, getSelectedVolumes());
+
+                // Update URL to include threshold parameter without reloading
+                const volumeSelect = document.getElementById("volume");
+                const bookSelect = document.getElementById("book");
+                const selectedVolume = volumeSelect.value;
+                const selectedBook = bookSelect.value;
+                const chapter = getQueryParams().chapter || 1;
+                const selectedModel = document.getElementById("model").value;
+
+                const url = `?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapter}&threshold=${threshold}&model=${selectedModel}`;
+                window.history.pushState({}, "", url);
             });
 
             // Add event listener to the volumes multi-select
             document.getElementById("volumes").addEventListener("change", () => {
                 const threshold = parseFloat(document.getElementById("threshold").value);
                 renderVerses(threshold, getSelectedVolumes());
+            });
+
+            // Add event listener to the model select
+            document.getElementById("model").addEventListener("change", () => {
+                const threshold = parseFloat(document.getElementById("threshold").value);
+                renderVerses(threshold, getSelectedVolumes());
+
+                // Update URL to include model parameter without reloading
+                const volumeSelect = document.getElementById("volume");
+                const bookSelect = document.getElementById("book");
+                const selectedVolume = volumeSelect.value;
+                const selectedBook = bookSelect.value;
+                const chapter = getQueryParams().chapter || 1;
+                const selectedModel = document.getElementById("model").value;
+
+                const url = `?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapter}&threshold=${threshold}&model=${selectedModel}`;
+                window.history.pushState({}, "", url);
+
+                updateChapters(); // Update chapter links to include model parameter
             });
 
             // Add event listeners to update books and chapters
@@ -322,19 +437,24 @@
                 updateBooks();
                 const bookSelect = document.getElementById("book");
                 const selectedBook = bookSelect.value || bookSelect.options[0].value;
+                const selectedModel = document.getElementById("model").value;
+
                 window.location.href = `?volume=${selectedVolume}&book=${selectedBook}&chapter=1&threshold=${
                     document.getElementById("threshold").value
-                }`;
+                }&model=${selectedModel}`;
             });
+
             document.getElementById("book").addEventListener("change", () => {
                 updateChapters();
                 const volumeSelect = document.getElementById("volume");
                 const bookSelect = document.getElementById("book");
                 const selectedVolume = volumeSelect.value;
                 const selectedBook = bookSelect.value;
+                const selectedModel = document.getElementById("model").value;
+
                 window.location.href = `?volume=${selectedVolume}&book=${selectedBook}&chapter=1&threshold=${
                     document.getElementById("threshold").value
-                }`;
+                }&model=${selectedModel}`;
             });
 
             // Function to get selected volumes from the multi-select
