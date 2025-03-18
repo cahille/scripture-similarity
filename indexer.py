@@ -329,7 +329,7 @@ if __name__ == "__main__":
     parser.add_argument('--threshold', type=float, default=0.8, help='Threshold for cosine similarity')
     args = parser.parse_args()
 
-    # index_raw_verses()
+    index_raw_verses()
     index_similar_verses(thresholds=THRESHOLDS)
     generate_library_info()
     generate_static_json_content_files()
