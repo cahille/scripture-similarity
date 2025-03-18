@@ -10,82 +10,332 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 1,
                     "text": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 5,
+                    "verse": 13,
+                    "text": "Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the Lord have spoken it in my zeal, when I have accomplished my fury in them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8549859156374352
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 7,
+                    "verse": 6,
+                    "text": "Arise, O Lord, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.85139712668378
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 11,
                     "verse": 16,
                     "text": "And now, O Lord, wilt thou turn away thine anger, and try again if they will serve thee? And if so, O Lord, thou canst bless them according to thy words which thou hast said.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8513572445544484
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 13,
                     "verse": 11,
                     "text": "But if ye will repent and return unto the Lord your God I will turn away mine anger, saith the Lord; yea, thus saith the Lord, blessed are they who will repent and turn unto me, but wo unto him that repenteth not.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.840959771813437
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 61,
-                    "verse": 20,
-                    "text": "I, the Lord, was angry with you yesterday, but today mine anger is turned away.",
-                    "score": 0.8281061106697515
+                    "volume": "Old Testament",
+                    "book": "Daniel",
+                    "volume_book_index": 27,
+                    "chapter": 9,
+                    "verse": 16,
+                    "text": "O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8293563950341669
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 61,
+                    "verse": 20,
+                    "text": "I, the Lord, was angry with you yesterday, but today mine anger is turned away.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8281061106697515
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
+                    "chapter": 3,
+                    "verse": 11,
+                    "text": "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8252473547305602
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 16,
+                    "verse": 42,
+                    "text": "So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8225362047316084
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 56,
                     "verse": 1,
                     "text": "Hearken, O ye people who profess my name, saith the Lord your God; for behold, mine anger is kindled against the rebellious, and they shall know mine arm and mine indignation, in the day of visitation and of wrath upon the nations.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8225360651872398
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 48,
+                    "verse": 9,
+                    "text": "For my name's sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8193054960593893
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 6,
+                    "verse": 1,
+                    "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.816657670901666
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 2,
+                    "verse": 35,
+                    "text": "Yet thou sayest, Because I am innocent, surely his anger shall turn from me. Behold, I will plead with thee, because thou sayest, I have not sinned.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152540583485235
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 85,
+                    "verse": 3,
+                    "text": "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151365628524474
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 7,
+                    "verse": 20,
+                    "text": "Therefore thus saith the Lord God; Behold, mine anger and my fury shall be poured out upon this place, upon man, and upon beast, and upon the trees of the field, and upon the fruit of the ground; and it shall burn, and shall not be quenched.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8146252011798131
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 11,
                     "verse": 12,
                     "text": "O Lord, wilt thou turn away thine anger, yea, thy fierce anger, and cause that this famine may cease in this land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8118768650722392
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 13,
                     "verse": 39,
                     "text": "O ye people of the land, that ye would hear my words! And I pray that the anger of the Lord be turned away from you, and that ye would repent and be saved.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8113229813222563
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 9,
                     "text": "Nevertheless, for my name's sake will I defer mine anger, and for my praise will I refrain from thee, that I cut thee not off.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8107191386268844
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 9,
+                    "text": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8102011524240549
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 4,
+                    "verse": 4,
+                    "text": "Then said the Lord, Doest thou well to be angry?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8099126674670825
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 109,
                     "verse": 53,
                     "text": "But inasmuch as they will repent, thou art gracious and merciful, and wilt turn away thy wrath when thou lookest upon the face of thine Anointed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8071076445365426
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 35,
+                    "verse": 11,
+                    "text": "Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8068696507283529
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 11,
                     "verse": 11,
                     "text": "Now, O Lord, because of this their humility wilt thou turn away thine anger, and let thine anger be appeased in the destruction of those wicked men whom thou hast already destroyed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8062045475276439
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 33,
+                    "verse": 11,
+                    "text": "And thou didst hear me because of mine afflictions and my sincerity; and it is because of thy Son that thou hast been thus merciful unto me, therefore I will cry unto thee in all mine afflictions, for in thee is my joy; for thou hast turned thy judgments away from me, because of thy Son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053970935636899
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 31,
+                    "verse": 17,
+                    "text": "Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day, Are not these evils come upon us, because our God is not among us?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8038023212727318
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 1,
+                    "verse": 9,
+                    "text": "Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028985499635904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 7,
+                    "text": "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025050281135564
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Lamentations",
+                    "volume_book_index": 25,
+                    "chapter": 2,
+                    "verse": 22,
+                    "text": "Thou hast called as in a solemn day my terrors round about, so that in the day of the Lord's anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017145297615753
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 7,
+                    "verse": 8,
+                    "text": "Now will I shortly pour out my fury upon thee, and accomplish mine anger upon thee: and I will judge thee according to thy ways, and will recompense thee for all thine abominations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016474990416557
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 1,
+                    "text": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999996423721118
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 1,
+                    "text": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 61,
+                    "verse": 20,
+                    "text": "I, the Lord, was angry with you yesterday, but today mine anger is turned away.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9054923979791482
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 9,
+                    "verse": 19,
+                    "text": "For I was afraid of the anger and hot displeasure, wherewith the Lord was wroth against you to destroy you. But the Lord hearkened unto me at that time also.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902184236310035
                 }
             ]
         },
@@ -96,82 +346,532 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 2,
                     "text": "Behold, God is my salvation; I will trust, and not be afraid; for the Lord Jehovah is my strength and my song; he also has become my salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9946989573916786
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 14,
+                    "text": "The Lord is my strength and song, and is become my salvation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8954613827556643
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 15,
+                    "verse": 2,
+                    "text": "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8797452310671791
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 2,
+                    "text": "The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8654552143921371
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 28,
+                    "verse": 7,
+                    "text": "The Lord is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8642351541283977
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 56,
+                    "verse": 4,
+                    "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8597133227441006
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 91,
+                    "verse": 2,
+                    "text": "I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.85866666606698
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8427760889588866
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 1,
+                    "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8394735033026792
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 26,
+                    "verse": 4,
+                    "text": "Trust ye in the Lord for ever: for in the Lord Jehovah is everlasting strength:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8337386109222498
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 62,
+                    "verse": 7,
+                    "text": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8323261108322817
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 10,
+                    "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181151553965208
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 54,
+                    "verse": 4,
+                    "text": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8137783734552516
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 33,
+                    "text": "God is my strength and power: and he maketh my way perfect.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128039347710732
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 56,
+                    "verse": 11,
+                    "text": "In God have I put my trust: I will not be afraid what man can do unto me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8120579113126435
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 25,
+                    "verse": 2,
+                    "text": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8112630685595988
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 94,
+                    "verse": 22,
+                    "text": "But the Lord is my defence; and my God is the rock of my refuge.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809994369929574
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 6,
+                    "text": "The Lord is on my side; I will not fear: what can man do unto me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8099117159275923
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 86,
+                    "verse": 2,
+                    "text": "Preserve my soul; for I am holy: O thou my God, save thy servant that trusteth in thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095505285157079
                 },
                 {
                     "volume": "New Testament",
                     "book": "Hebrews",
+                    "volume_book_index": 19,
                     "chapter": 13,
                     "verse": 6,
                     "text": "So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8089401565019315
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Habakkuk",
+                    "volume_book_index": 35,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "The Lord God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083948379179333
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 62,
+                    "verse": 6,
+                    "text": "He only is my rock and my salvation: he is my defence; I shall not be moved.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079220346784245
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 43,
+                    "verse": 12,
+                    "text": "I have declared, and have saved, and I have shewed, when there was no strange god among you: therefore ye are my witnesses, saith the Lord, that I am God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063890135649181
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 40,
+                    "verse": 3,
+                    "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8058108755531874
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 59,
+                    "verse": 17,
+                    "text": "Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057847707030658
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 73,
+                    "verse": 26,
+                    "text": "My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056576722765667
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 62,
+                    "verse": 2,
+                    "text": "He only is my rock and my salvation; he is my defence; I shall not be greatly moved.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055640907176064
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 59,
+                    "verse": 9,
+                    "text": "Because of his strength will I wait upon thee: for God is my defence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047329536421206
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 5,
+                    "text": "My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803287586881173
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 146,
+                    "verse": 2,
+                    "text": "While I live will I praise the Lord: I will sing praises unto my God while I have any being.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029091101234386
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 68,
                     "verse": 6,
                     "text": "Wherefore, be of good cheer, and do not fear, for I the Lord am with you, and will stand by you; and ye shall bear record of me, even Jesus Christ, that I am the Son of the living God, that I was, that I am, and that I am to come.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8015612234423533
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 144,
+                    "verse": 2,
+                    "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014040931850425
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 7,
                     "verse": 6,
                     "text": "But behold, I trust that ye are not in a state of so much unbelief as were your brethren; I trust that ye are not lifted up in the pride of your hearts; yea, I trust that ye have not set your hearts upon riches and the vain things of the world; yea, I trust that you do not worship idols, but that ye do worship the true and the living God, and that ye look forward for the remission of your sins, with an everlasting faith, which is to come.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8013554440254683
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 61,
+                    "verse": 4,
+                    "text": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011078472798414
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 54,
+                    "verse": 1,
+                    "text": "Save me, O God, by thy name, and judge me by thy strength.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010100085628786
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 32,
+                    "text": "It is God that girdeth me with strength, and maketh my way perfect.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80059725271836
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 43,
+                    "verse": 10,
+                    "text": "Ye are my witnesses, saith the Lord, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005259250767179
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Habakkuk",
+                    "volume_book_index": 35,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "Yet I will rejoice in the Lord, I will joy in the God of my salvation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001823090318441
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 8,
                     "verse": 5,
                     "text": "My righteousness is near; my salvation is gone forth, and mine arm shall judge the people. The isles shall wait upon me, and on mine arm shall they trust.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.800065128073648
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Galatians",
-                    "chapter": 5,
-                    "verse": 10,
-                    "text": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
-                    "score": 0.7975164902011307
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 15,
-                    "text": "Blessed be the name of my God, for his Spirit hath not altogether withdrawn from me, or else where is thy glory, for it is darkness unto me? And I can judge between thee and God; for God said unto me: Worship God, for him only shalt thou serve.",
-                    "score": 0.7970916673540765
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 14,
-                    "verse": 1,
-                    "text": "Let not your heart be troubled: ye believe in God, believe also in me.",
-                    "score": 0.7968408536483982
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
                     "verse": 2,
-                    "text": "Behold, and lo, I am the Lord thy God, and will answer thee as touching this matter.",
-                    "score": 0.791855528605232
+                    "text": "Behold, God is my salvation; I will trust, and not be afraid; for the Lord Jehovah is my strength and my song; he also has become my salvation.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9964768882366356
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 98,
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
                     "verse": 14,
-                    "text": "Therefore, be not afraid of your enemies, for I have decreed in my heart, saith the Lord, that I will prove you in all things, whether you will abide in my covenant, even unto death, that you may be found worthy.",
-                    "score": 0.791790958940146
+                    "text": "The Lord is my strength and song, and is become my salvation.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8126905933249762
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 2,
+                    "text": "Behold, God is my salvation; I will trust, and not be afraid; for the Lord Jehovah is my strength and my song; he also has become my salvation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9975766532351551
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 14,
+                    "text": "The Lord is my strength and song, and is become my salvation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9526748260475438
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 15,
+                    "verse": 2,
+                    "text": "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9395829999198735
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 1,
+                    "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9243481619980772
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 62,
+                    "verse": 7,
+                    "text": "In God is my salvation and my glory: the rock of my strength, and my refuge, is in God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9126803122783411
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 2,
+                    "text": "The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9098485004721543
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 28,
+                    "verse": 7,
+                    "text": "The Lord is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9092192921230645
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 91,
+                    "verse": 2,
+                    "text": "I will say of the Lord, He is my refuge and my fortress: my God; in him will I trust.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9065812174428638
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 7,
+                    "verse": 7,
+                    "text": "Therefore I will look unto the Lord; I will wait for the God of my salvation: my God will hear me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9062957540263608
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 54,
+                    "verse": 4,
+                    "text": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028720739927637
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Habakkuk",
+                    "volume_book_index": 35,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "Yet I will rejoice in the Lord, I will joy in the God of my salvation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9015660109936162
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9007317901530272
                 }
             ]
         },
@@ -182,82 +882,32 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 3,
                     "text": "Therefore, with joy shall ye draw water out of the wells of salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 14,
-                    "text": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.",
-                    "score": 0.7959067465533202
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 7,
-                    "text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.",
-                    "score": 0.7869935960445352
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 55,
-                    "verse": 1,
-                    "text": "Behold, thus saith the Lord unto you, my servant William, yea, even the Lord of the whole earth, thou art called and chosen; and after thou hast been baptized by water, which if you do with an eye single to my glory, you shall have a remission of your sins and a reception of the Holy Spirit by the laying on of hands;",
-                    "score": 0.7832668878191705
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 7,
-                    "text": "And ye shall go forth baptizing with water, saying: Repent ye, repent ye, for the kingdom of heaven is at hand.",
-                    "score": 0.7827491497000579
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 7,
-                    "verse": 38,
-                    "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.",
-                    "score": 0.7782119248317743
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 15,
-                    "verse": 32,
-                    "text": "That I may come unto you with joy by the will of God, and may with you be refreshed.",
-                    "score": 0.7761438713527014
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "James",
-                    "chapter": 4,
-                    "verse": 8,
-                    "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded.",
-                    "score": 0.7755898389084986
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 10,
-                    "verse": 22,
-                    "text": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.",
-                    "score": 0.774972659382895
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "Therefore, with joy shall ye draw water out of the wells of salvation.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999996423721118
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 23,
-                    "text": "Verily I say unto you, that whoso repenteth of his sins through your words, and desireth to be baptized in my name, on this wise shall ye baptize them--Behold, ye shall go down and stand in the water, and in my name shall ye baptize them.",
-                    "score": 0.7696971211761646
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "Therefore, with joy shall ye draw water out of the wells of salvation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
                 }
             ]
         },
@@ -268,82 +918,652 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 4,
                     "text": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "Give thanks unto the Lord, call upon his name, make known his deeds among the people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8683254152232043
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 1,
+                    "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8643476835200457
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 89,
+                    "verse": 16,
+                    "text": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8484093278880231
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 22,
+                    "verse": 22,
+                    "text": "I will declare thy name unto my brethren: in the midst of the congregation will I praise thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8483828864272291
                 },
                 {
                     "volume": "New Testament",
                     "book": "Hebrews",
+                    "volume_book_index": 19,
                     "chapter": 2,
                     "verse": 12,
                     "text": "Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.847327176960568
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 49,
+                    "text": "Therefore will I give thanks unto thee, O Lord, among the heathen, and sing praises unto thy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8407467829364235
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 65,
                     "verse": 4,
                     "text": "Pray unto the Lord, call upon his holy name, make known his wonderful works among the people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8373044337291444
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8339195746649875
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 50,
+                    "text": "Therefore I will give thanks unto thee, O Lord, among the heathen, and I will sing praises unto thy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8315715845202819
                 },
                 {
                     "volume": "New Testament",
                     "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 10,
                     "verse": 13,
                     "text": "For whosoever shall call upon the name of the Lord shall be saved.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8313145689419708
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 107,
+                    "verse": 32,
+                    "text": "Let them exalt him also in the congregation of the people, and praise him in the assembly of the elders.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8307347505530991
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 68,
+                    "verse": 4,
+                    "text": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name Jah, and rejoice before him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8296171831870269
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 66,
+                    "verse": 2,
+                    "text": "Sing forth the honour of his name: make his praise glorious.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8284304015481535
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 3,
+                    "text": "I will call upon the Lord, who is worthy to be praised: so shall I be saved from mine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8257626464211804
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 28,
+                    "text": "Thou art my God, and I will praise thee: thou art my God, I will exalt thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8253494142069979
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 25,
+                    "verse": 1,
+                    "text": "O Lord, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things; thy counsels of old are faithfulness and truth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8250224482479189
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 39,
                     "text": "Verily, verily, I say unto you, that my people shall know my name; yea, in that day they shall know that I am he that doth speak.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.823881101484248
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 3,
                     "verse": 15,
                     "text": "And his name shall be called after me; and it shall be after the name of his father. And he shall be like unto me; for the thing, which the Lord shall bring forth by his hand, by the power of the Lord shall bring my people unto salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8237488143099364
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 4,
+                    "text": "I will call on the Lord, who is worthy to be praised: so shall I be saved from mine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.823253149036654
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 21,
+                    "verse": 13,
+                    "text": "Be thou exalted, Lord, in thine own strength: so will we sing and praise thy power.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8224665483243939
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 145,
+                    "verse": 2,
+                    "text": "Every day will I bless thee; and I will praise thy name for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8224381139208721
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 61,
+                    "verse": 8,
+                    "text": "So will I sing praise unto thy name for ever, that I may daily perform my vows.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8176828568236265
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 27,
                     "verse": 7,
                     "text": "Therefore, whatsoever ye shall do, ye shall do it in my name; therefore ye shall call the church in my name; and ye shall call upon the Father in my name that he will bless the church for my sake.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8168122792302916
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 36,
-                    "text": "And the Lord God has spoken it; and honor, power and glory be rendered to his holy name, both now and ever. Amen.",
-                    "score": 0.8167089984057201
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 21,
+                    "text": "To declare the name of the Lord in Zion, and his praise in Jerusalem;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8167169336246441
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 36,
+                    "text": "And the Lord God has spoken it; and honor, power and glory be rendered to his holy name, both now and ever. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8167089984057201
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 24,
+                    "text": "And call ye on the name of your gods, and I will call on the name of the Lord: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8165214354594172
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 56,
                     "verse": 1,
                     "text": "Hearken, O ye people who profess my name, saith the Lord your God; for behold, mine anger is kindled against the rebellious, and they shall know mine arm and mine indignation, in the day of visitation and of wrath upon the nations.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8161381400614824
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 2,
                     "verse": 21,
                     "text": "And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.815993024843569
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 26,
+                    "verse": 8,
+                    "text": "Blessed be the name of our God; let us sing to his praise, yea, let us give thanks to his holy name, for he doth work righteousness forever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8155469798305855
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 89,
+                    "verse": 24,
+                    "text": "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140146024184013
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 52,
+                    "verse": 6,
+                    "text": "Therefore my people shall know my name: therefore they shall know in that day that I am he that doth speak: behold, it is I.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.813133970638542
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 4,
+                    "text": "And then began these men to call upon the name of the Lord, and the Lord blessed them;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8123447272041189
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 113,
+                    "verse": 1,
+                    "text": "Praise ye the Lord. Praise, O ye servants of the Lord, praise the name of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8123265971806108
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 37,
+                    "text": "And speak freely to all; yea, preach, exhort, declare the truth, even with a loud voice, with a sound of rejoicing, crying--Hosanna, hosanna, blessed be the name of the Lord God!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811834662481641
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "I will praise the Lord according to his righteousness: and will sing praise to the name of the Lord most high.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8100718590664846
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 24,
+                    "text": "And now behold, these are the words which ye shall say, calling them by name, saying:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80863517404194
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 100,
+                    "verse": 17,
+                    "text": "And all that call upon the name of the Lord, and keep his commandments, shall be saved. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8076751411891379
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 135,
+                    "verse": 1,
+                    "text": "Praise ye the Lord. Praise ye the name of the Lord; praise him, O ye servants of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074563656103877
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 29,
+                    "verse": 13,
+                    "text": "Now therefore, our God, we thank thee, and praise thy glorious name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071058945047086
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 66,
+                    "verse": 8,
+                    "text": "O bless our God, ye people, and make the voice of his praise to be heard:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8070299008311694
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 17,
+                    "text": "I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8068537181673172
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 113,
+                    "verse": 2,
+                    "text": "Blessed be the name of the Lord from this time forth and for evermore.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067363932297507
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 15,
+                    "text": "And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060099887440711
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 18,
+                    "verse": 24,
+                    "text": "Wherefore, all men must take upon them the name which is given of the Father, for in that name shall they be called at the last day;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057715838094408
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 145,
+                    "verse": 1,
+                    "text": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057541539019097
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 26,
+                    "verse": 13,
+                    "text": "O Lord our God, other lords beside thee have had dominion over us: but by thee only will we make mention of thy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054912684861131
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 8,
+                    "text": "Give unto the Lord the glory due unto his name: bring an offering, and come into his courts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054654420490667
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 14,
+                    "verse": 11,
+                    "text": "For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045214583471417
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 9,
+                    "verse": 5,
+                    "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8043542666881366
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 106,
+                    "verse": 47,
+                    "text": "Save us, O Lord our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8038693650945565
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 23,
+                    "verse": 12,
+                    "text": "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021425040056199
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 148,
+                    "verse": 13,
+                    "text": "Let them praise the name of the Lord: for his name alone is excellent; his glory is above the earth and heaven.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017721857078199
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 16,
+                    "verse": 3,
+                    "text": "And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me him whom I name unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013176408733194
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 29,
+                    "text": "Give unto the Lord the glory due unto his name: bring an offering, and come before him: worship the Lord in the beauty of holiness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007410112922203
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 149,
+                    "verse": 3,
+                    "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005770196280281
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Helaman",
+                    "volume_book_index": 10,
+                    "chapter": 3,
+                    "verse": 27,
+                    "text": "Thus we may see that the Lord is merciful unto all who will, in the sincerity of their hearts, call upon his holy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004126832300287
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 99,
+                    "verse": 3,
+                    "text": "Let them praise thy great and terrible name; for it is holy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003856519608883
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 4,
+                    "text": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 4,
+                    "text": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "Give thanks unto the Lord, call upon his name, make known his deeds among the people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.929866882268585
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 65,
+                    "verse": 4,
+                    "text": "Pray unto the Lord, call upon his holy name, make known his wonderful works among the people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9225958585739201
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9199688434600896
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 1,
+                    "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9195469761704862
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 108,
+                    "verse": 3,
+                    "text": "I will praise thee, O Lord, among the people: and I will sing praises unto thee among the nations.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9015984417913743
                 }
             ]
         },
@@ -354,82 +1574,372 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 5,
                     "text": "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 23,
+                    "text": "Sing unto the Lord, all the earth; shew forth from day to day his salvation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8579617406886721
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 68,
+                    "verse": 32,
+                    "text": "Sing unto God, ye kingdoms of the earth; O sing praises unto the Lord; Selah:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8398065114723537
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 98,
+                    "verse": 1,
+                    "text": "O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8338735100707798
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 1,
+                    "text": "O sing unto the Lord a new song: sing unto the Lord, all the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8306630525490609
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 49,
+                    "verse": 13,
+                    "text": "Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the Lord hath comforted his people, and will have mercy upon his afflicted.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8240467152715341
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 98,
+                    "verse": 4,
+                    "text": "Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8216846213472443
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 44,
+                    "verse": 23,
+                    "text": "Sing, O ye heavens; for the Lord hath done it: shout, ye lower parts of the earth: break forth into singing, ye mountains, O forest, and every tree therein: for the Lord hath redeemed Jacob, and glorified himself in Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8215737138032927
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 2,
+                    "text": "Sing unto the Lord, bless his name; shew forth his salvation from day to day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8174029431830502
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 66,
+                    "verse": 4,
+                    "text": "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8167568419694152
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 10,
+                    "text": "Sing unto the Lord a new song, and his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8137886345131397
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 147,
+                    "verse": 7,
+                    "text": "Sing unto the Lord with thanksgiving; sing praise upon the harp unto our God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8135481526566589
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079344955919401
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 47,
+                    "verse": 6,
+                    "text": "Sing praises to God, sing praises: sing praises unto our King, sing praises.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079125590566496
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 57,
+                    "verse": 9,
+                    "text": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075512139781773
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 68,
+                    "verse": 4,
+                    "text": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name Jah, and rejoice before him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067436263543482
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 20,
+                    "verse": 13,
+                    "text": "Sing unto the Lord, praise ye the Lord: for he hath delivered the soul of the poor from the hand of evildoers.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060969313727446
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 47,
+                    "verse": 7,
+                    "text": "For God is the King of all the earth: sing ye praises with understanding.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054353816554676
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 138,
+                    "verse": 5,
+                    "text": "Yea, they shall sing in the ways of the Lord: for great is the glory of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042279979429854
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 13,
+                    "verse": 6,
+                    "text": "I will sing unto the Lord, because he hath dealt bountifully with me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040001843118577
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 100,
+                    "verse": 2,
+                    "text": "Serve the Lord with gladness: come before his presence with singing.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037455783148012
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 135,
+                    "verse": 3,
+                    "text": "Praise the Lord; for the Lord is good: sing praises unto his name; for it is pleasant.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803354748155434
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 9,
+                    "text": "O Lord our Lord, how excellent is thy name in all the earth!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006933782550414
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 5,
+                    "text": "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.",
+                    "embedding_model": "text-embedding-3-small",
                     "score": 1.0
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 13,
-                    "text": "Sing, O heavens; and be joyful, O earth; for the feet of those who are in the east shall be established; and break forth into singing, O mountains; for they shall be smitten no more; for the Lord hath comforted his people, and will have mercy upon his afflicted.",
-                    "score": 0.796162773612756
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 5,
+                    "text": "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 5,
-                    "verse": 19,
-                    "text": "Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;",
-                    "score": 0.795563055761493
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 9,
+                    "text": "O Lord our Lord, how excellent is thy name in all the earth!",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9155194759368896
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 1,
+                    "text": "O sing unto the Lord a new song: sing unto the Lord, all the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9072531461715698
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 23,
+                    "text": "Sing unto the Lord, all the earth; shew forth from day to day his salvation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9040275273306667
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 1,
+                    "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9026130553945301
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 98,
+                    "verse": 1,
+                    "text": "O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9023044051113386
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "O Lord our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022860795940785
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 2,
+                    "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018953115312852
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 9,
+                    "text": "Sing unto him, sing psalms unto him, talk ye of all his wondrous works.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018827080726624
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "Give thanks unto the Lord, call upon his name, make known his deeds among the people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018704563936731
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 126,
+                    "verse": 3,
+                    "text": "The Lord hath done great things for us; whereof we are glad.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9016081212034145
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901125842399947
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 98,
-                    "text": "Until all shall know me, who remain, even from the least unto the greatest, and shall be filled with the knowledge of the Lord, and shall see eye to eye, and shall lift up their voice, and with the voice together sing this new song, saying:",
-                    "score": 0.7949785118138339
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 65,
                     "verse": 4,
                     "text": "Pray unto the Lord, call upon his holy name, make known his wonderful works among the people.",
-                    "score": 0.7938549766972022
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 26,
-                    "verse": 8,
-                    "text": "Blessed be the name of our God; let us sing to his praise, yea, let us give thanks to his holy name, for he doth work righteousness forever.",
-                    "score": 0.7910374710526107
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 34,
-                    "text": "And again, verily I say unto you, O inhabitants of the earth: I the Lord am willing to make these things known unto all flesh;",
-                    "score": 0.7892768271326174
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 59,
-                    "verse": 7,
-                    "text": "Thou shalt thank the Lord thy God in all things.",
-                    "score": 0.7865914675194098
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 13,
-                    "verse": 22,
-                    "text": "Yea, and the voice of the Lord, by the mouth of angels, doth declare it unto all nations; yea, doth declare it, that they may have glad tidings of great joy; yea, and he doth sound these glad tidings among all his people, yea, even to them that are scattered abroad upon the face of the earth; wherefore they have come unto us.",
-                    "score": 0.782478167284967
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 16,
-                    "text": "I say unto you, can you imagine to yourselves that ye hear the voice of the Lord, saying unto you, in that day: Come unto me ye blessed, for behold, your works have been the works of righteousness upon the face of the earth?",
-                    "score": 0.781793754512058
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005904734486639
                 }
             ]
         },
@@ -440,82 +1950,212 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 6,
                     "text": "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 135,
+                    "verse": 21,
+                    "text": "Blessed be the Lord out of Zion, which dwelleth at Jerusalem. Praise ye the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8412156822342932
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.831501208156183
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 30,
+                    "verse": 19,
+                    "text": "For the people shall dwell in Zion at Jerusalem: thou shalt weep no more: he will be very gracious unto thee at the voice of thy cry; when he shall hear it, he will answer thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8312907604951386
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 147,
+                    "verse": 12,
+                    "text": "Praise the Lord, O Jerusalem; praise thy God, O Zion.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8193798996767983
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "The Lord also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the Lord will be the hope of his people, and the strength of the children of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8116349177352752
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 21,
+                    "text": "To declare the name of the Lord in Zion, and his praise in Jerusalem;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8113061885813151
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 21,
                     "text": "And he shall utter his voice out of Zion, and he shall speak from Jerusalem, and his voice shall be heard among all people;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8110492003824153
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 33,
-                    "verse": 13,
-                    "text": "And now, my beloved brethren, all those who are of the house of Israel, and all ye ends of the earth, I speak unto you as the voice of one crying from the dust: Farewell until that great day shall come.",
-                    "score": 0.7996112697597677
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "Cry yet, saying, Thus saith the Lord of hosts; My cities through prosperity shall yet be spread abroad; and the Lord shall yet comfort Zion, and shall yet choose Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079217325787615
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 117,
-                    "verse": 9,
-                    "text": "Therefore, come up hither unto the land of my people, even Zion.",
-                    "score": 0.7946789178088829
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 28,
+                    "text": "The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the Lord our God, the vengeance of his temple.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063241093578845
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 13,
-                    "text": "And he that fighteth against Zion shall perish, saith God.",
-                    "score": 0.7899591407883645
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 110,
+                    "verse": 2,
+                    "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8059515501899671
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 12,
-                    "text": "Let them, therefore, who are among the Gentiles flee unto Zion.",
-                    "score": 0.7894588992828935
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "But thou art holy, O thou that inhabitest the praises of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051400686229726
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 16,
-                    "text": "Wherefore, he that fighteth against Zion, both Jew and Gentile, both bond and free, both male and female, shall perish; for they are they who are the whore of all the earth; for they who are not for me are against me, saith our God.",
-                    "score": 0.7891345331401931
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "Thus saith the Lord; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the Lord of hosts the holy mountain.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021865209341205
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 60,
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 1,
                     "verse": 14,
-                    "text": "And after thou hast come up unto the land of Zion, and hast proclaimed my word, thou shalt speedily return, proclaiming my word among the congregations of the wicked, not in haste, neither in wrath nor with strife.",
-                    "score": 0.7890658087613193
+                    "text": "So the angel that communed with me said unto me, Cry thou, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017489015628296
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 9,
-                    "text": "And behold, and lo, this shall be their cry, and the voice of the Lord unto all people: Go ye forth unto the land of Zion, that the borders of my people may be enlarged, and that her stakes may be strengthened, and that Zion may go forth unto the regions round about.",
-                    "score": 0.7878673861192788
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 1,
+                    "verse": 2,
+                    "text": "And he said, The Lord will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013506857821532
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 97,
-                    "verse": 21,
-                    "text": "Therefore, verily, thus saith the Lord, let Zion rejoice, for this is Zion--the pure in heart; therefore, let Zion rejoice, while all the wicked shall mourn.",
-                    "score": 0.7851045385817919
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 51,
+                    "verse": 35,
+                    "text": "The violence done to me and to my flesh be upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003518285375325
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 6,
+                    "text": "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999996423721313
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 6,
+                    "text": "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "But thou art holy, O thou that inhabitest the praises of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9155007600784302
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 10,
+                    "text": "Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9110751695081709
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.909287983732701
                 }
             ]
         }

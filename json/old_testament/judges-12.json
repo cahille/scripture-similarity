@@ -8,84 +8,124 @@
             "text": "And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 8,
+                    "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8201433219070002
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 4,
+                    "text": "Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8162111300035267
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 24,
+                    "text": "Thus saith the Lord, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the Lord, and returned to depart, according to the word of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085037838945489
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 8,
-                    "verse": 21,
-                    "text": "And he that shall breathe out wrath and strifes against the work of the Lord, and against the covenant people of the Lord who are the house of Israel, and shall say: We will destroy the work of the Lord, and the Lord will not remember his covenant which he hath made unto the house of Israel--the same is in danger to be hewn down and cast into the fire;",
-                    "score": 0.7992249508759454
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 2,
-                    "verse": 23,
-                    "text": "And the Lord said unto the brother of Jared: What will ye that I should do that ye may have light in your vessels? For behold, ye cannot have windows, for they will be dashed in pieces; neither shall ye take fire with you, for ye shall not go by the light of fire.",
-                    "score": 0.788164452402819
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 5,
-                    "text": "Let us gather together this people of the Lord, and let us go down to the land of Zarahemla to our brethren the Nephites, and flee out of the hands of our enemies, that we be not destroyed.",
-                    "score": 0.7830043021835299
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
-                    "score": 0.7816770189575569
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 37,
-                    "text": "For behold, the day cometh that shall burn as an oven, and all the proud, yea, and all that do wickedly shall burn as stubble; for they that come shall burn them, saith the Lord of Hosts, that it shall leave them neither root nor branch.",
-                    "score": 0.7786632378197739
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 7,
-                    "text": "And the Lord said unto me: Prophesy; and I prophesied, saying: Behold the people of Canaan, which are numerous, shall go forth in battle array against the people of Shum, and shall slay them that they shall utterly be destroyed; and the people of Canaan shall divide themselves in the land, and the land shall be barren and unfruitful, and none other people shall dwell there but the people of Canaan;",
-                    "score": 0.7786094904987391
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 23,
-                    "text": "And behold, we will set our armies between the land Jershon and the land Nephi, that we may protect our brethren in the land Jershon; and this we do for our brethren, on account of their fear to take up arms against their brethren lest they should commit sin; and this their great fear came because of their sore repentance which they had, on account of their many murders and their awful wickedness.",
-                    "score": 0.7769211394554438
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 68,
-                    "text": "And it shall come to pass among the wicked, that every man that will not take his sword against his neighbor must needs flee unto Zion for safety.",
-                    "score": 0.7752643049715242
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 33,
-                    "text": "And those men again stood to scatter their flocks; but Ammon said unto his brethren: Encircle the flocks round about that they flee not; and I go and contend with these men who do scatter our flocks.",
-                    "score": 0.7749211353500227
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
                     "verse": 1,
-                    "text": "Now we will return in our record to Amalickiah and those who had fled with him into the wilderness; for, behold, he had taken those who went with him, and went up in the land of Nephi among the Lamanites, and did stir up the Lamanites to anger against the people of Nephi, insomuch that the king of the Lamanites sent a proclamation throughout all his land, among all his people, that they should gather themselves together again to go to battle against the Nephites.",
-                    "score": 0.7747792772180307
+                    "text": "And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071217298092949
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 19,
+                    "verse": 18,
+                    "text": "And he said unto him, We are passing from Beth-lehem-judah toward the side of mount Ephraim; from thence am I: and I went to Beth-lehem-judah, but I am now going to the house of the Lord; and there is no man that receiveth me to house.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8059711813178121
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 11,
+                    "verse": 4,
+                    "text": "Thus saith the Lord, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the Lord, and returned from going against Jeroboam.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040611113849823
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 6,
+                    "verse": 1,
+                    "text": "O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth-haccerem: for evil appeareth out of the north, and great destruction.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005601784934249
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 14,
+                    "verse": 31,
+                    "text": "Then Joab arose, and came to Absalom unto his house, and said unto him, Wherefore have thy servants set my field on fire?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004087732586165
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 8,
+                    "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9119226012206857
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 6,
+                    "text": "And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.909988284111023
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 4,
+                    "text": "Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9099804162979126
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9074281509263442
                 }
             ]
         },
@@ -94,84 +134,294 @@
             "text": "And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 32,
+                    "text": "So Jephthah passed over unto the children of Ammon to fight against them; and the Lord delivered them into his hands.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8631506193254758
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 3,
+                    "text": "And when I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the Lord delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8530653603606384
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 12,
+                    "text": "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8510780200223904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 6,
+                    "text": "And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8350481928635085
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 30,
+                    "text": "And Jephthah vowed a vow unto the Lord, and said, If thou shalt without fail deliver the children of Ammon into mine hands,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8298178265429443
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
+                    "verse": 11,
+                    "text": "And the Lord said unto the children of Israel, Did not I deliver you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.826029927468717
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 9,
+                    "verse": 26,
+                    "text": "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8210654073797586
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 9,
+                    "text": "And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the Lord deliver them before me, shall I be your head?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181258494697151
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 18,
+                    "text": "And said unto the children of Israel, Thus saith the Lord God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8110479190211235
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 28,
+                    "text": "Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8109847591172724
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 11,
+                    "text": "And the Lord sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8104790279641048
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 7,
+                    "text": "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father's house? and why are ye come unto me now when ye are in distress?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8084596153204485
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 14,
+                    "text": "And Jephthah sent messengers again unto the king of the children of Ammon:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049076046277311
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 35,
                     "verse": 9,
                     "text": "And he breathed out many threatenings against them. And now the people of Ammon did not fear their words; therefore they did not cast them out, but they did receive all the poor of the Zoramites that came over unto them; and they did nourish them, and did clothe them, and did give unto them lands for their inheritance; and they did administer unto them according to their wants.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8048863374968112
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "Yea, in the strength of the Lord did we go forth to battle against the Lamanites; for I and my people did cry mightily to the Lord that he would deliver us out of the hands of our enemies, for we were awakened to a remembrance of the deliverance of our fathers.",
-                    "score": 0.7823964087009599
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 19,
-                    "verse": 27,
-                    "text": "And there were some who said that Ammon was sent by the Great Spirit to afflict them because of their iniquities; and that it was the Great Spirit that had always attended the Nephites, who had ever delivered them out of their hands; and they said that it was this Great Spirit who had destroyed so many of their brethren, the Lamanites.",
-                    "score": 0.7816920110050903
+                    "verse": 11,
+                    "text": "And the rest of the people he delivered unto the hand of Abishai his brother, and they set themselves in array against the children of Ammon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027633995549899
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 58,
-                    "verse": 39,
-                    "text": "And those sons of the people of Ammon, of whom I have so highly spoken, are with me in the city of Manti; and the Lord has supported them, yea, and kept them from falling by the sword, insomuch that even one soul has not been slain.",
-                    "score": 0.7792662788257652
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 30,
+                    "text": "And Jephthah vowed a vow unto the Lord, and said, If thou shalt without fail deliver the children of Ammon into mine hands,",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8264843471790659
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 4,
-                    "text": "And behold, I say unto you, they were delivered out of the hands of the people of king Noah, by the mercy and power of God.",
-                    "score": 0.7791514062146617
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
                     "verse": 32,
-                    "text": "But, O my people, beware lest there shall arise contentions among you, and ye list to obey the evil spirit, which was spoken of by my father Mosiah.",
-                    "score": 0.776795928278022
+                    "text": "So Jephthah passed over unto the children of Ammon to fight against them; and the Lord delivered them into his hands.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8231575628957958
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 24,
-                    "text": "And inasmuch as mine enemies come against you to drive you from my goodly land, which I have consecrated to be the land of Zion, even from your own lands after these testimonies, which ye have brought before me against them, ye shall curse them;",
-                    "score": 0.7757534424703787
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 12,
+                    "text": "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8101611378836975
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 7,
-                    "verse": 16,
-                    "text": "And it came to pass that when I, Nephi, had spoken these words unto my brethren, they were angry with me. And it came to pass that they did lay their hands upon me, for behold, they were exceedingly wroth, and they did bind me with cords, for they sought to take away my life, that they might leave me in the wilderness to be devoured by wild beasts.",
-                    "score": 0.7754362355551886
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 30,
+                    "text": "And Jephthah vowed a vow unto the Lord, and said, If thou shalt without fail deliver the children of Ammon into mine hands,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.935332179069519
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 29,
-                    "text": "And the word came to Alma, saying: Go; and also say unto my servant Amulek, go forth and prophesy unto this people, saying--Repent ye, for thus saith the Lord, except ye repent I will visit this people in mine anger; yea, and I will not turn my fierce anger away.",
-                    "score": 0.775415552121175
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 32,
+                    "text": "So Jephthah passed over unto the children of Ammon to fight against them; and the Lord delivered them into his hands.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9280546436212253
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 36,
-                    "text": "But Ammon stood forth and began to cast stones at them with his sling; yea, with mighty power he did sling stones amongst them; and thus he slew a certain number of them insomuch that they began to be astonished at his power; nevertheless they were angry because of the slain of their brethren, and they were determined that he should fall; therefore, seeing that they could not hit him with their stones, they came forth with clubs to slay him.",
-                    "score": 0.7744281601316355
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 12,
+                    "text": "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9193751908093529
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 6,
+                    "text": "And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9120985865592957
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.906798249077903
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 7,
+                    "text": "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father's house? and why are ye come unto me now when ye are in distress?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9061995092749319
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 9,
+                    "text": "And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the Lord deliver them before me, shall I be your head?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.903861570818618
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 8,
+                    "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9037889511522342
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 13,
+                    "text": "And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those lands again peaceably.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9032796775221444
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 3,
+                    "text": "And when I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the Lord delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902462893871243
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 14,
+                    "text": "And Jephthah sent messengers again unto the king of the children of Ammon:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9001209735870361
                 }
             ]
         },
@@ -180,84 +430,324 @@
             "text": "And when I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the Lord delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8530653603606384
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 32,
+                    "text": "So Jephthah passed over unto the children of Ammon to fight against them; and the Lord delivered them into his hands.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8497794576835498
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 1,
+                    "verse": 19,
+                    "text": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8376779816969208
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 12,
+                    "text": "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8333192907999949
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 59,
+                    "verse": 1,
+                    "text": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8326850301585998
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 24,
+                    "verse": 10,
+                    "text": "Behold, this day thine eyes have seen how that the Lord had delivered thee to day into mine hand in the cave: and some bade me kill thee: but mine eye spared thee; and I said, I will not put forth mine hand against my lord; for he is the Lord's anointed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8322086399468617
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 24,
+                    "verse": 18,
+                    "text": "And thou hast shewed this day how that thou hast dealt well with me: forasmuch as when the Lord had delivered me into thine hand, thou killedst me not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8315508469719394
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 9,
+                    "text": "And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the Lord deliver them before me, shall I be your head?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8310583760642987
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 48,
+                    "text": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8294580029412372
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 14,
+                    "verse": 10,
+                    "text": "And David inquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the Lord said unto him, Go up; for I will deliver them into thine hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8238679553870403
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "Wherefore will ye plead with me? ye all have transgressed against me, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8169720780144624
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
+                    "verse": 11,
+                    "text": "And the Lord said unto the children of Israel, Did not I deliver you from the Egyptians, and from the Amorites, from the children of Ammon, and from the Philistines?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8161856814042597
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 31,
+                    "verse": 15,
+                    "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8137951328211708
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 49,
+                    "text": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8135452820141416
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 9,
+                    "verse": 26,
+                    "text": "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8110566017331889
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 21,
+                    "verse": 10,
+                    "text": "When thou goest forth to war against thine enemies, and the Lord thy God hath delivered them into thine hands, and thou hast taken them captive,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8098522928755613
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 54,
                     "verse": 12,
                     "text": "And behold, if ye do not this, I will come against you with my armies; yea, even I will arm my women and my children, and I will come against you, and I will follow you even into your own land, which is the land of our first inheritance; yea, and it shall be blood for blood, yea, life for life; and I will give you battle even until you are destroyed from off the face of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8095520825844517
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 12,
+                    "text": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the Lord your God was your king.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085235601472057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 24,
+                    "verse": 11,
+                    "text": "And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8059740214811468
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 20,
+                    "verse": 28,
+                    "text": "And Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the Lord said, Go up; for to morrow I will deliver them into thine hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8048301656601895
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 40,
+                    "text": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046576133360464
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 20,
+                    "verse": 23,
+                    "text": "(And the children of Israel went up and wept before the Lord until even, and asked counsel of the Lord, saying, Shall I go up again to battle against the children of Benjamin my brother? And the Lord said, Go up against him.)",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042457477342655
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 30,
+                    "verse": 23,
+                    "text": "Then said David, Ye shall not do so, my brethren, with that which the Lord hath given us, who hath preserved us, and delivered the company that came against us into our hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803715257152835
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 10,
+                    "verse": 8,
+                    "text": "And the Lord said unto Joshua, Fear them not: for I have delivered them into thine hand; there shall not a man of them stand before thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033862262735124
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "And he said unto them, The Lord is witness against you, and his anointed is witness this day, that ye have not found ought in my hand. And they answered, He is witness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029498947397129
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Lamentations",
+                    "volume_book_index": 25,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise up.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029169532794754
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 39,
+                    "text": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027488615252919
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 17,
+                    "verse": 8,
+                    "text": "And he stood and cried unto the armies of Israel, and said unto them, Why are ye come out to set your battle in array? am not I a Philistine, and ye servants to Saul? choose you a man for you, and let him come down to me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025826825704359
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 18,
+                    "verse": 14,
+                    "text": "And when he was come to the king, the king said unto him, Micaiah, shall we go to Ramoth-gilead to battle, or shall I forbear? And he said, Go ye up, and prosper, and they shall be delivered into your hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024752821798878
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 39,
+                    "verse": 17,
+                    "text": "But I will deliver thee in that day, saith the Lord: and thou shalt not be given into the hand of the men of whom thou art afraid.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8022136590221569
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 9,
                     "verse": 17,
                     "text": "Yea, in the strength of the Lord did we go forth to battle against the Lamanites; for I and my people did cry mightily to the Lord that he would deliver us out of the hands of our enemies, for we were awakened to a remembrance of the deliverance of our fathers.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8001135762847817
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 71,
-                    "text": "Behold, and lo, there are none to deliver you; for ye obeyed not my voice when I called to you out of the heavens; ye believed not my servants, and when they were sent unto you ye received them not.",
-                    "score": 0.7993199019488164
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "But Gidgiddoni saith unto them: The Lord forbid; for if we should go up against them the Lord would deliver us into their hands; therefore we will prepare ourselves in the center of our lands, and we will gather all our armies together, and we will not go against them, but we will wait till they shall come against us; therefore as the Lord liveth, if we do this he will deliver them into our hands.",
-                    "score": 0.7963462893881528
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 39,
-                    "text": "Behold thou hast driven me out this day from the face of the Lord, and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that he that findeth me will slay me, because of mine iniquities, for these things are not hid from the Lord.",
-                    "score": 0.7935432662430931
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 14,
-                    "verse": 48,
-                    "text": "And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and with staves to take me?",
-                    "score": 0.792924120256506
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 98,
-                    "verse": 29,
-                    "text": "And then, if he shall come upon you or your children, or your children's children unto the third and fourth generation, I have delivered thine enemy into thine hands;",
-                    "score": 0.7928058523829026
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 7,
-                    "verse": 8,
-                    "text": "And the Lord is near, and he justifieth me. Who will contend with me? Let us stand together. Who is mine adversary? Let him come near me, and I will smite him with the strength of my mouth.",
-                    "score": 0.7926915770544646
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 23,
-                    "text": "But I will put it into the hand of them that afflict thee; who have said to thy soul: Bow down, that we may go over--and thou hast laid thy body as the ground and as the street to them that went over.",
-                    "score": 0.7910505040402072
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 14,
-                    "text": "And when they had sworn by all that had been forbidden them by our Lord and Savior Jesus Christ, that they would go up unto their enemies to battle, and avenge themselves of the blood of their brethren, behold the voice of the Lord came unto me, saying:",
-                    "score": 0.7906538986798564
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902462893871243
                 }
             ]
         },
@@ -266,84 +756,84 @@
             "text": "Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 8,
+                    "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8226074885213864
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 12,
-                    "verse": 15,
-                    "text": "And it came to pass that I looked and beheld the people of my seed gathered together in multitudes against the seed of my brethren; and they were gathered together to battle.",
-                    "score": 0.7654220030993246
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
                     "verse": 1,
-                    "text": "Now we will return in our record to Amalickiah and those who had fled with him into the wilderness; for, behold, he had taken those who went with him, and went up in the land of Nephi among the Lamanites, and did stir up the Lamanites to anger against the people of Nephi, insomuch that the king of the Lamanites sent a proclamation throughout all his land, among all his people, that they should gather themselves together again to go to battle against the Nephites.",
-                    "score": 0.7630511042433964
+                    "text": "And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8162111300035267
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 19,
-                    "verse": 21,
-                    "text": "Manasseh, Ephraim; and Ephraim, Manasseh; they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.",
-                    "score": 0.7592734103984979
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 7,
-                    "verse": 7,
-                    "text": "And the Lord said unto me: Prophesy; and I prophesied, saying: Behold the people of Canaan, which are numerous, shall go forth in battle array against the people of Shum, and shall slay them that they shall utterly be destroyed; and the people of Canaan shall divide themselves in the land, and the land shall be barren and unfruitful, and none other people shall dwell there but the people of Canaan;",
-                    "score": 0.7487126850609064
+                    "verse": 23,
+                    "text": "And the men of Israel gathered themselves together out of Naphtali, and out of Asher, and out of all Manasseh, and pursued after the Midianites.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046483068113661
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 24,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
                     "verse": 5,
-                    "text": "Now when Ammon and his brethren and all those who had come up with him saw the preparations of the Lamanites to destroy their brethren, they came forth to the land of Midian, and there Ammon met all his brethren; and from thence they came to the land of Ishmael that they might hold a council with Lamoni and also with his brother Anti-Nephi-Lehi, what they should do to defend themselves against the Lamanites.",
-                    "score": 0.7464022436842822
+                    "text": "And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024164401966449
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 24,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 8,
+                    "text": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9100151333217367
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
                     "verse": 1,
-                    "text": "And it came to pass that the Amalekites and the Amulonites and the Lamanites who were in the land of Amulon, and also in the land of Helam, and who were in the land of Jerusalem, and in fine, in all the land round about, who had not been converted and had not taken upon them the name of Anti-Nephi-Lehi, were stirred up by the Amalekites and by the Amulonites to anger against their brethren.",
-                    "score": 0.746097418313527
+                    "text": "And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9099804162979126
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 59,
-                    "text": "And it came to pass that as he went forth among the people, yea, among a people who had separated themselves from the Nephites and called themselves Zoramites, being led by a man whose name was Zoram--and as he went forth amongst them, behold, he was run upon and trodden down, even until he was dead.",
-                    "score": 0.744962568133266
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055459769232866
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 37,
-                    "text": "But behold, every man that lifted his club to smite Ammon, he smote off their arms with his sword; for he did withstand their blows by smiting their arms with the edge of his sword, insomuch that they began to be astonished, and began to flee before him; yea, and they were not few in number; and he caused them to flee by the strength of his arm.",
-                    "score": 0.7429127761227197
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 15,
-                    "text": "And it came to pass that when they saw that they were surrounded, they pled with Amalickiah that he would suffer them to fall in with their brethren, that they might not be destroyed. Now this was the very thing which Amalickiah desired.",
-                    "score": 0.740872849248449
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 28,
-                    "text": "Wherefore, they went up into the wilderness. And their leader being a strong and mighty man, and a stiffnecked man, wherefore he caused a contention among them; and they were all slain, save fifty, in the wilderness, and they returned again to the land of Zarahemla.",
-                    "score": 0.7407427042613559
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 1,
+                    "text": "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024145661345399
                 }
             ]
         },
@@ -352,84 +842,44 @@
             "text": "And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 32,
+                    "verse": 29,
+                    "text": "And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the Lord, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8107962330471976
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 12,
-                    "verse": 18,
-                    "text": "And it came to pass that they said unto the king: Bring him hither that we may question him; and the king commanded that he should be brought before them.",
-                    "score": 0.7711332077990681
+                    "verse": 6,
+                    "text": "Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060316773210803
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 61,
-                    "verse": 21,
-                    "text": "Wherefore, let those concerning whom I have spoken, that should take their journey in haste--again I say unto you, let them take their journey in haste.",
-                    "score": 0.7665207462636398
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 4,
+                    "text": "Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024164401966449
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "And it came to pass that the Lord said unto me: Look; and I looked, and I beheld the land of Sharon, and the land of Enoch, and the land of Omner, and the land of Heni, and the land of Shem, and the land of Haner, and the land of Hanannihah, and all the inhabitants thereof;",
-                    "score": 0.7613113519275653
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 12,
-                    "text": "Let them, therefore, who are among the Gentiles flee unto Zion.",
-                    "score": 0.7599076768797529
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 24,
-                    "verse": 17,
-                    "text": "And he said unto Alma: Thou shalt go before this people, and I will go with thee and deliver this people out of bondage.",
-                    "score": 0.7596866108479992
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 30,
-                    "text": "Nevertheless, thou beholdest that the Gentiles who have gone forth out of captivity, and have been lifted up by the power of God above all other nations, upon the face of the land which is choice above all other lands, which is the land that the Lord God hath covenanted with thy father that his seed should have for the land of their inheritance; wherefore, thou seest that the Lord God will not suffer that the Gentiles will utterly destroy the mixture of thy seed, which are among thy brethren.",
-                    "score": 0.7596363287436094
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 1,
-                    "verse": 18,
-                    "text": "And now, it came to pass that Mosiah went and did as his father had commanded him, and proclaimed unto all the people who were in the land of Zarahemla that thereby they might gather themselves together, to go up to the temple to hear the words which his father should speak unto them.",
-                    "score": 0.7593539731155492
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 21,
-                    "verse": 11,
-                    "text": "And when he was come unto us, he took Paul's girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.",
-                    "score": 0.7572454149327489
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 10,
-                    "verse": 1,
-                    "text": "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
-                    "score": 0.7542139324291973
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 2,
-                    "text": "And the people shall take them and bring them to their place; yea, from far unto the ends of the earth; and they shall return to their lands of promise. And the house of Israel shall possess them, and the land of the Lord shall be for servants and handmaids; and they shall take them captives unto whom they were captives; and they shall rule over their oppressors.",
-                    "score": 0.7538339736600774
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 4,
+                    "text": "Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055459769232866
                 }
             ]
         },
@@ -438,84 +888,14 @@
             "text": "Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 43,
-                    "verse": 1,
-                    "text": "And now it came to pass that the sons of Alma did go forth among the people, to declare the word unto them. And Alma, also, himself, could not rest, and he also went forth.",
-                    "score": 0.7558544855001392
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 19,
-                    "verse": 28,
-                    "text": "And when he had thus spoken, he went before, ascending up to Jerusalem.",
-                    "score": 0.7558126979146974
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 9,
-                    "verse": 18,
-                    "text": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.",
-                    "score": 0.7536756846968254
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 8,
-                    "verse": 11,
-                    "text": "Therefore he was constrained to speak more unto them saying: Behold, my brethren, have ye not read that God gave power unto one man, even Moses, to smite upon the waters of the Red Sea, and they parted hither and thither, insomuch that the Israelites, who were our fathers, came through upon dry ground, and the waters closed upon the armies of the Egyptians and swallowed them up?",
-                    "score": 0.7535010968297444
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 6,
-                    "verse": 14,
-                    "text": "And Lamah had fallen with his ten thousand; and Gilgal had fallen with his ten thousand; and Limhah had fallen with his ten thousand; and Jeneum had fallen with his ten thousand; and Cumenihah, and Moronihah, and Antionum, and Shiblom, and Shem, and Josh, had fallen with their ten thousand each.",
-                    "score": 0.7528792951635132
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 10,
-                    "verse": 1,
-                    "text": "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.",
-                    "score": 0.7520088515164003
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 8,
-                    "text": "And it came to pass that he began to speak to his people from the tower; and they could not all hear his words because of the greatness of the multitude; therefore he caused that the words which he spake should be written and sent forth among those that were not under the sound of his voice, that they might also receive his words.",
-                    "score": 0.7509509590091481
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 18,
-                    "verse": 14,
-                    "text": "Therefore Ammon turned himself unto the king, and said unto him: What wilt thou that I should do for thee, O king? And the king answered him not for the space of an hour, according to their time, for he knew not what he should say unto him.",
-                    "score": 0.7508214180733306
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 4,
-                    "verse": 1,
-                    "text": "And now, it came to pass that when king Benjamin had made an end of speaking the words which had been delivered unto him by the angel of the Lord, that he cast his eyes round about on the multitude, and behold they had fallen to the earth, for the fear of the Lord had come upon them.",
-                    "score": 0.7503811591830998
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 2,
-                    "text": "For behold, they rejected all the words of Ether; for he truly told them of all things, from the beginning of man; and that after the waters had receded from off the face of this land it became a choice land above all other lands, a chosen land of the Lord; wherefore the Lord would have that all men should serve him who dwell upon the face thereof;",
-                    "score": 0.7491401085804857
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060316773210803
                 }
             ]
         },
@@ -524,84 +904,24 @@
             "text": "And Jephthah judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
-                    "score": 0.711257230657518
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
+                    "verse": 3,
+                    "text": "And after him arose Jair, a Gileadite, and judged Israel twenty and two years.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9045218540793238
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
                     "verse": 1,
-                    "text": "Now it came to pass that the ninety and first year had passed away and it was six hundred years from the time that Lehi left Jerusalem; and it was in the year that Lachoneus was the chief judge and the governor over the land.",
-                    "score": 0.7009379695906414
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "And it came to pass that Orihah did execute judgment upon the land in righteousness all his days, whose days were exceedingly many.",
-                    "score": 0.7007875397097362
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "And six hundred and nine years had passed away since Lehi left Jerusalem.",
-                    "score": 0.6982469752758383
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.",
-                    "score": 0.6979233524004828
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 8,
-                    "text": "And behold he cometh, according to the words of the angel, in six hundred years from the time my father left Jerusalem.",
-                    "score": 0.6954021812787531
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 4,
-                    "verse": 25,
-                    "text": "But I tell you of a truth, many widows were in Israel in the days of Elias, when the heaven was shut up three years and six months, when great famine was throughout all the land;",
-                    "score": 0.6953433059883688
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 8,
-                    "verse": 7,
-                    "text": "And all the days of Methuselah were nine hundred and sixty-nine years, and he died.",
-                    "score": 0.6931422303691973
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 6,
-                    "verse": 15,
-                    "text": "And it came to pass that in the sixty and sixth year of the reign of the judges, behold, Cezoram was murdered by an unknown hand as he sat upon the judgment-seat. And it came to pass that in the same year, that his son, who had been appointed by the people in his stead, was also murdered. And thus ended the sixty and sixth year.",
-                    "score": 0.6930256500501761
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 4,
-                    "verse": 11,
-                    "text": "And the battle commenced in this the sixth month; and great and terrible was the battle thereof, yea, great and terrible was the slaughter thereof, insomuch that there never was known so great a slaughter among all the people of Lehi since he left Jerusalem.",
-                    "score": 0.6925195167776877
+                    "text": "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041727128131959
                 }
             ]
         },
@@ -610,84 +930,24 @@
             "text": "And after him Ibzan of Beth-lehem judged Israel.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 16,
-                    "text": "Now this judge was after the order and faith of Nehor, who slew Gideon.",
-                    "score": 0.721019503973819
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 10,
+                    "text": "Then died Ibzan, and was buried at Beth-lehem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8345764580006653
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
-                    "verse": 17,
-                    "text": "And whoso standeth in this mission is appointed to be a judge in Israel, like as it was in ancient days, to divide the lands of the heritage of God unto his children;",
-                    "score": 0.7207671116442601
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 72,
-                    "text": "And also to be a judge in Israel, to do the business of the church, to sit in judgment upon transgressors upon testimony as it shall be laid before him according to the laws, by the assistance of his counselors, whom he has chosen or will choose among the elders of the church.",
-                    "score": 0.7105350311104912
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 34,
-                    "text": "And it came to pass that Alma went and judged those that had been taken in iniquity, according to the word of the Lord.",
-                    "score": 0.7067494692532691
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 25,
-                    "verse": 15,
-                    "text": "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him.",
-                    "score": 0.701896734419668
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 3,
-                    "verse": 20,
-                    "text": "Nevertheless Helaman did fill the judgment-seat with justice and equity; yea, he did observe to keep the statutes, and the judgments, and the commandments of God; and he did do that which was right in the sight of God continually; and he did walk after the ways of his father, insomuch that he did prosper in the land.",
-                    "score": 0.6987133876084836
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 22,
-                    "text": "And we know that the people who were in the land of Jerusalem were a righteous people; for they kept the statutes and judgments of the Lord, and all his commandments, according to the law of Moses; wherefore, we know that they are a righteous people; and our father hath judged them, and hath led us away because we would hearken unto his words; yea, and our brother is like unto him. And after this manner of language did my brethren murmur and complain against us.",
-                    "score": 0.6983499302186479
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 16,
-                    "verse": 11,
-                    "text": "Of judgment, because the prince of this world is judged.",
-                    "score": 0.6969325655610545
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 1,
-                    "verse": 49,
-                    "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
-                    "score": 0.6938777581396461
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 15,
-                    "text": "And it shall come to pass that when all men shall have passed from this first death unto life, insomuch as they have become immortal, they must appear before the judgment-seat of the Holy One of Israel; and then cometh the judgment, and then must they be judged according to the holy judgment of God.",
-                    "score": 0.6906460623122039
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 13,
+                    "text": "And after him Abdon the son of Hillel, a Pirathonite, judged Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9202430891845916
                 }
             ]
         },
@@ -696,84 +956,84 @@
             "text": "And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 15,
+                    "text": "Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, even all the children of Israel, being seven thousand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8327281078479435
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 1,
                     "verse": 2,
-                    "text": "And he begat sons and daughters; yea, he begat thirty and one, among whom were twenty and three sons.",
-                    "score": 0.7976182182890239
+                    "text": "And there were born unto him seven sons and three daughters.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.831591406184021
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 8,
-                    "verse": 6,
-                    "text": "And Methuselah lived, after he begat Lamech, seven hundred and eighty-two years, and begat sons and daughters;",
-                    "score": 0.7825726107541897
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 42,
+                    "verse": 13,
+                    "text": "He had also seven sons and three daughters.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8271854547750511
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 63,
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 3,
                     "verse": 4,
-                    "text": "And it came to pass that in the thirty and seventh year of the reign of the judges, there was a large company of men, even to the amount of five thousand and four hundred men, with their wives and their children, departed out of the land of Zarahemla into the land which was northward.",
-                    "score": 0.7785537887624198
+                    "text": "These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8183869095035218
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 21,
-                    "text": "And Emer did execute judgment in righteousness all his days, and he begat many sons and daughters; and he begat Coriantum, and he anointed Coriantum to reign in his stead.",
-                    "score": 0.7723298482157415
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 26,
+                    "verse": 51,
+                    "text": "These were the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063970310267674
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 19,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
                     "verse": 14,
-                    "text": "And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.",
-                    "score": 0.7662780917125012
+                    "text": "And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802416746378167
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
                     "verse": 14,
-                    "text": "And Seth lived, after he begat Enos, eight hundred and seven years, and begat many sons and daughters.",
-                    "score": 0.7654159868651049
+                    "text": "And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8199023985746396
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 11,
-                    "text": "And the days of Adam, after he had begotten Seth, were eight hundred years, and he begat many sons and daughters;",
-                    "score": 0.7610465987869648
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 12,
-                    "text": "And it came to pass that Shule also begat many sons and daughters.",
-                    "score": 0.7603193252890925
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 3,
-                    "text": "And from that time forth, the sons and daughters of Adam began to divide two and two in the land, and to till the land, and to tend flocks, and they also begat sons and daughters.",
-                    "score": 0.753527687470619
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "And when Corihor was thirty and two years old he rebelled against his father, and went over and dwelt in the land of Nehor; and he begat sons and daughters, and they became exceedingly fair; wherefore Corihor drew away many people after him.",
-                    "score": 0.7527668493217992
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 14,
+                    "text": "And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9318084635506229
                 }
             ]
         },
@@ -782,342 +1042,60 @@
             "text": "Then died Ibzan, and was buried at Beth-lehem.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 16,
-                    "verse": 34,
-                    "text": "And it came to pass that Ishmael died, and was buried in the place which was called Nahom.",
-                    "score": 0.7308735935392948
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 28,
-                    "text": "In the year that king Ahaz died was this burden.",
-                    "score": 0.6970374826254541
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 16,
-                    "verse": 22,
-                    "text": "And it came to pass, that the beggar died, and was carried by the angels into Abraham's bosom: the rich man also died, and was buried;",
-                    "score": 0.6884900549281437
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "And Ethem was the son of Ahah.",
-                    "score": 0.6799433348700341
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
-                    "verse": 29,
-                    "text": "Men and brethren, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.",
-                    "score": 0.6792915126567187
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 45,
-                    "verse": 19,
-                    "text": "Behold, this we know, that he was a righteous man; and the saying went abroad in the church that he was taken up by the Spirit, or buried by the hand of the Lord, even as Moses. But behold, the scriptures saith the Lord took Moses unto himself; and we suppose that he has also received Alma in the spirit, unto himself; therefore, for this cause we know nothing concerning his death and burial.",
-                    "score": 0.6782277747516263
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "And because of the way of deliverance of our God, the Holy One of Israel, this death, of which I have spoken, which is the temporal, shall deliver up its dead; which death is the grave.",
-                    "score": 0.6773295643958108
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 16,
-                    "verse": 1,
-                    "text": "In the year that king Uzziah died, I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.",
-                    "score": 0.6769000916224875
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "Behold, Potiphar's Hill was in the land of Ur, of Chaldea. And the Lord broke down the altar of Elkenah, and of the gods of the land, and utterly destroyed them, and smote the priest that he died; and there was great mourning in Chaldea, and also in the court of Pharaoh; which Pharaoh signifies king by royal blood.",
-                    "score": 0.676134463974012
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "And six hundred and nine years had passed away since Lehi left Jerusalem.",
-                    "score": 0.6761229957214725
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 8,
+                    "text": "And after him Ibzan of Beth-lehem judged Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8345764580006653
                 }
             ]
         },
         {
             "verse": 11,
             "text": "And after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.",
-            "similars": [
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 64,
-                    "text": "And there shall be mine abode, and it shall be Zion, which shall come forth out of all the creations which I have made; and for the space of a thousand years the earth shall rest.",
-                    "score": 0.70047635608128
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 15,
-                    "verse": 19,
-                    "text": "And thus ended the tenth year of the reign of the judges over the people of Nephi.",
-                    "score": 0.6999151053709431
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 3,
-                    "text": "And it came to pass in the commencement of the tenth year of the reign of the judges over the people of Nephi, that Alma departed from thence and took his journey over into the land of Melek, on the west of the river Sidon, on the west by the borders of the wilderness.",
-                    "score": 0.6928693854102921
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 25,
-                    "verse": 6,
-                    "text": "And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought.",
-                    "score": 0.6912445451684375
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 23,
-                    "text": "And after that Zion was taken up into heaven, Enoch beheld, and lo, all the nations of the earth were before him;",
-                    "score": 0.6871808684301902
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "Now consider how great this man was, unto whom even the patriarch Abraham gave the tenth of the spoils.",
-                    "score": 0.6866458476158328
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 68,
-                    "text": "And all the days of Zion, in the days of Enoch, were three hundred and sixty-five years.",
-                    "score": 0.6859682167514486
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 24,
-                    "text": "And the land of Jerusalem and the land of Zion shall be turned back into their own place, and the earth shall be like as it was in the days before it was divided.",
-                    "score": 0.6853802991449084
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 17,
-                    "text": "And Enos lived ninety years, and begat Cainan. And Enos and the residue of the people of God came out from the land, which was called Shulon, and dwelt in a land of promise, which he called after his own son, whom he had named Cainan.",
-                    "score": 0.6827137713177382
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 52,
-                    "text": "Noah was ten years old when he was ordained under the hand of Methuselah.",
-                    "score": 0.6824921719470637
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
             "text": "And Elon the Zebulonite died, and was buried in Aijalon in the country of Zebulun.",
-            "similars": [
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 64,
-                    "text": "And there shall be mine abode, and it shall be Zion, which shall come forth out of all the creations which I have made; and for the space of a thousand years the earth shall rest.",
-                    "score": 0.6621724887389152
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 31,
-                    "text": "And when he dies he shall not sleep, that is to say in the earth, but shall be changed in the twinkling of an eye, and shall be caught up, and his rest shall be glorious.",
-                    "score": 0.6544985457074177
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 4,
-                    "verse": 15,
-                    "text": "The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;",
-                    "score": 0.6528315027363817
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 23,
-                    "text": "And after that Zion was taken up into heaven, Enoch beheld, and lo, all the nations of the earth were before him;",
-                    "score": 0.6479685636150047
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 1,
-                    "verse": 12,
-                    "text": "And it came to pass that Nephi died.",
-                    "score": 0.6408125676562518
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 48,
-                    "text": "He that sendeth up treasures unto the land of Zion shall receive an inheritance in this world, and his works shall follow him, and also a reward in the world to come.",
-                    "score": 0.6396525370611074
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 17,
-                    "text": "And Enos lived ninety years, and begat Cainan. And Enos and the residue of the people of God came out from the land, which was called Shulon, and dwelt in a land of promise, which he called after his own son, whom he had named Cainan.",
-                    "score": 0.6349821357530888
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 56,
-                    "text": "In the year 1823 my father's family met with a great affliction by the death of my eldest brother, Alvin. In the month of October, 1825, I hired with an old gentleman by the name of Josiah Stoal, who lived in Chenango county, State of New York. He had heard something of a silver mine having been opened by the Spaniards in Harmony, Susquehanna county, State of Pennsylvania; and had, previous to my hiring to him, been digging, in order, if possible, to discover the mine. After I went to live with him, he took me, with the rest of his hands, to dig for the silver mine, at which I continued to work for nearly a month, without success in our undertaking, and finally I prevailed with the old gentleman to cease digging after it. Hence arose the very prevalent story of my having been a money-digger.",
-                    "score": 0.6344274694693165
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 21,
-                    "text": "And it came to pass that the Lord showed unto Enoch all the inhabitants of the earth; and he beheld, and lo, Zion, in process of time, was taken up into heaven. And the Lord said unto Enoch: Behold mine abode forever.",
-                    "score": 0.6336839811968955
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 59,
-                    "verse": 2,
-                    "text": "For those that live shall inherit the earth, and those that die shall rest from all their labors, and their works shall follow them; and they shall receive a crown in the mansions of my Father, which I have prepared for them.",
-                    "score": 0.6335628558409444
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 13,
             "text": "And after him Abdon the son of Hillel, a Pirathonite, judged Israel.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
-                    "verse": 17,
-                    "text": "And whoso standeth in this mission is appointed to be a judge in Israel, like as it was in ancient days, to divide the lands of the heritage of God unto his children;",
-                    "score": 0.740769186109167
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 15,
+                    "text": "And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8320347264093789
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "For behold, Pahoran had died, and gone the way of all the earth; therefore there began to be a serious contention concerning who should have the judgment-seat among the brethren, who were the sons of Pahoran.",
-                    "score": 0.7266264953923262
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 8,
+                    "text": "And after him Ibzan of Beth-lehem judged Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9202430891845916
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 5,
-                    "verse": 27,
-                    "text": "And hath given him authority to execute judgment also, because he is the Son of man.",
-                    "score": 0.7245922618987582
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 50,
-                    "verse": 39,
-                    "text": "Behold, it came to pass that the son of Nephihah was appointed to fill the judgment-seat, in the stead of his father; yea, he was appointed chief judge and governor over the people, with an oath and sacred ordinance to judge righteously, and to keep the peace and the freedom of the people, and to grant unto them their sacred privileges to worship the Lord their God, yea, to support and maintain the cause of God all his days, and to bring the wicked to justice according to their crime.",
-                    "score": 0.7147711900294749
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 21,
-                    "text": "And thus Ammon was carried before the king who was over the land of Ishmael; and his name was Lamoni; and he was a descendant of Ishmael.",
-                    "score": 0.7109665796642781
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon.",
-                    "score": 0.7097006833443141
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 4,
-                    "text": "And Amalickiah was desirous to be a king; and those people who were wroth were also desirous that he should be their king; and they were the greater part of them the lower judges of the land, and they were seeking for power.",
-                    "score": 0.7074776304309766
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 1,
-                    "verse": 49,
-                    "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
-                    "score": 0.7068034180017301
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 1,
-                    "verse": 4,
-                    "text": "Now these are not all the sons of Pahoran (for he had many), but these are they who did contend for the judgment-seat; therefore, they did cause three divisions among the people.",
-                    "score": 0.7058110288904602
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 16,
-                    "verse": 11,
-                    "text": "Of judgment, because the prince of this world is judged.",
-                    "score": 0.7044046552888943
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 15,
+                    "text": "And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9184341077702932
                 }
             ]
         },
@@ -1126,84 +1104,54 @@
             "text": "And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 25,
-                    "text": "And it came to pass that he begat Com, and Com reigned in his stead; and he reigned forty and nine years, and he begat Heth; and he also begat other sons and daughters.",
-                    "score": 0.7577987000767957
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 23,
-                    "text": "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.",
-                    "score": 0.753769468587594
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 2,
-                    "text": "And he begat sons and daughters; yea, he begat thirty and one, among whom were twenty and three sons.",
-                    "score": 0.731412353258889
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 11,
-                    "text": "And the days of Adam, after he had begotten Seth, were eight hundred years, and he begat many sons and daughters;",
-                    "score": 0.7093694093881371
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 7,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
                     "verse": 4,
-                    "text": "And I heard the number of them which were sealed: and there were sealed an hundred and forty and four thousand of all the tribes of the children of Israel.",
-                    "score": 0.7068531214497791
+                    "text": "And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havoth-jair unto this day, which are in the land of Gilead.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8105581618547827
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 21,
-                    "text": "And Emer did execute judgment in righteousness all his days, and he begat many sons and daughters; and he begat Coriantum, and he anointed Coriantum to reign in his stead.",
-                    "score": 0.7036856782997273
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 9,
+                    "text": "And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802416746378167
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 8,
-                    "text": "Now the sons of Mosiah were numbered among the unbelievers; and also one of the sons of Alma was numbered among them, he being called Alma, after his father; nevertheless, he became a very wicked and an idolatrous man. And he was a man of many words, and did speak much flattery to the people; therefore he led many of the people to do after the manner of his iniquities.",
-                    "score": 0.7032959492826718
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 9,
+                    "text": "And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8199023985746396
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 1,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 9,
+                    "text": "And he had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9318084635506229
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
                     "verse": 4,
-                    "text": "Now these are not all the sons of Pahoran (for he had many), but these are they who did contend for the judgment-seat; therefore, they did cause three divisions among the people.",
-                    "score": 0.6892770325174765
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 15,
-                    "text": "And the children of men were numerous upon all the face of the land. And in those days Satan had great dominion among men, and raged in their hearts; and from thenceforth came wars and bloodshed; and a man's hand was against his own brother, in administering death, because of secret works, seeking for power.",
-                    "score": 0.6881410603292006
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?",
-                    "score": 0.6862327800873924
+                    "text": "And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havoth-jair unto this day, which are in the land of Gilead.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9176627397537297
                 }
             ]
         },
@@ -1212,84 +1160,34 @@
             "text": "And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "Behold, Potiphar's Hill was in the land of Ur, of Chaldea. And the Lord broke down the altar of Elkenah, and of the gods of the land, and utterly destroyed them, and smote the priest that he died; and there was great mourning in Chaldea, and also in the court of Pharaoh; which Pharaoh signifies king by royal blood.",
-                    "score": 0.7172144906946317
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 13,
+                    "text": "And after him Abdon the son of Hillel, a Pirathonite, judged Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8320347264093789
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 12,
+                    "verse": 13,
+                    "text": "And after him Abdon the son of Hillel, a Pirathonite, judged Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9184341077702932
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
                     "chapter": 24,
-                    "verse": 29,
-                    "text": "Now, among those who joined the people of the Lord, there were none who were Amalekites or Amulonites, or who were of the order of Nehor, but they were actual descendants of Laman and Lemuel.",
-                    "score": 0.7156499409379087
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "And it came to pass that the Amalekites and the Amulonites and the Lamanites who were in the land of Amulon, and also in the land of Helam, and who were in the land of Jerusalem, and in fine, in all the land round about, who had not been converted and had not taken upon them the name of Anti-Nephi-Lehi, were stirred up by the Amalekites and by the Amulonites to anger against their brethren.",
-                    "score": 0.7145180833429041
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 2,
-                    "verse": 17,
-                    "text": "And they began to slay the Amlicites upon the hill east of Sidon. And the Amlicites did contend with the Nephites with great strength, insomuch that many of the Nephites did fall before the Amlicites.",
-                    "score": 0.71125496568123
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 12,
-                    "text": "Behold, I am Amaleki, the son of Abinadom. Behold, I will speak unto you somewhat concerning Mosiah, who was made king over the land of Zarahemla; for behold, he being warned of the Lord that he should flee out of the land of Nephi, and as many as would hearken unto the voice of the Lord should also depart out of the land with him, into the wilderness--",
-                    "score": 0.7097418543509161
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 1,
-                    "verse": 15,
-                    "text": "And it came to pass that they took him; and his name was Nehor; and they carried him upon the top of the hill Manti, and there he was caused, or rather did acknowledge, between the heavens and the earth, that what he had taught to the people was contrary to the word of God; and there he suffered an ignominious death.",
-                    "score": 0.7090022384420546
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "And they had a king over them, which is the angel of the bottomless pit, whose name in the Hebrew tongue is Abaddon, but in the Greek tongue hath his name Apollyon.",
-                    "score": 0.707876104836465
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 16,
-                    "verse": 11,
-                    "text": "Nevertheless, after many days their dead bodies were heaped up upon the face of the earth, and they were covered with a shallow covering. And now so great was the scent thereof that the people did not go in to possess the land of Ammonihah for many years. And it was called Desolation of Nehors; for they were of the profession of Nehor, who were slain; and their lands remained desolate.",
-                    "score": 0.7073242834757257
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 59,
-                    "text": "And it came to pass that as he went forth among the people, yea, among a people who had separated themselves from the Nephites and called themselves Zoramites, being led by a man whose name was Zoram--and as he went forth amongst them, behold, he was run upon and trodden down, even until he was dead.",
-                    "score": 0.7063411979900127
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 6,
-                    "text": "And Ammon took three of his brethren, and their names were Amaleki, Helem, and Hem, and they went down into the land of Nephi.",
-                    "score": 0.705572241081968
+                    "verse": 33,
+                    "text": "And Eleazar the son of Aaron died; and they buried him in a hill that pertained to Phinehas his son, which was given him in mount Ephraim.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9121437229853318
                 }
             ]
         }

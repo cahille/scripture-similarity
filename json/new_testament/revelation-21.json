@@ -10,82 +10,42 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 13,
                     "verse": 9,
                     "text": "And there shall be a new heaven and a new earth; and they shall be like unto the old save the old have passed away, and all things have become new.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8215816773267679
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 29,
                     "verse": 23,
                     "text": "And the end shall come, and the heaven and the earth shall be consumed and pass away, and there shall be a new heaven and a new earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8096431904454189
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "In the beginning God created the heaven and the earth.",
-                    "score": 0.791804105935069
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 3,
-                    "verse": 1,
-                    "text": "Thus the heaven and the earth were finished, and all the host of them.",
-                    "score": 0.7745620751347437
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 4,
-                    "verse": 23,
-                    "text": "I beheld the earth, and, lo, it was without form, and void; and the heavens, and they had no light.",
-                    "score": 0.7719061457448961
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 146,
-                    "verse": 6,
-                    "text": "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:",
-                    "score": 0.7718635775753879
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 38,
-                    "text": "And as one earth shall pass away, and the heavens thereof even so shall another come; and there is no end to my works, neither to my words.",
-                    "score": 0.7687939942193299
-                },
-                {
                     "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 13,
-                    "text": "And it came to pass that I saw the multitudes of the earth gathered together.",
-                    "score": 0.7638911819895524
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "Thus the heavens and the earth were finished, and all the host of them.",
-                    "score": 0.7628919348444325
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "And there shall be a new heaven and a new earth; and they shall be like unto the old save the old have passed away, and all things have become new.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9088293964368481
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 109,
-                    "text": "But behold, and lo, we saw the glory and the inhabitants of the telestial world, that they were as innumerable as the stars in the firmament of heaven, or as the sand upon the seashore;",
-                    "score": 0.7606874612360451
+                    "volume_book_index": 1,
+                    "chapter": 29,
+                    "verse": 23,
+                    "text": "And the end shall come, and the heaven and the earth shall be consumed and pass away, and there shall be a new heaven and a new earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9039887900365842
                 }
             ]
         },
@@ -94,84 +54,44 @@
             "text": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 10,
+                    "text": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023944705225725
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 13,
                     "verse": 3,
                     "text": "And that it was the place of the New Jerusalem, which should come down out of heaven, and the holy sanctuary of the Lord.",
-                    "score": 0.7845773986510893
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.913557231426239
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 6,
-                    "text": "And I saw the heavens open, and the Lamb of God descending out of heaven; and he came down and showed himself unto them.",
-                    "score": 0.7648381141508699
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "And I looked and beheld the Redeemer of the world, of whom my father had spoken; and I also beheld the prophet who should prepare the way before him. And the Lamb of God went forth and was baptized of him; and after he was baptized, I beheld the heavens open, and the Holy Ghost come down out of heaven and abide upon him in the form of a dove.",
-                    "score": 0.7608996648103705
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 10,
+                    "text": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9019582926059803
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 13,
                     "verse": 4,
                     "text": "Behold, Ether saw the days of Christ, and he spake concerning a New Jerusalem upon this land.",
-                    "score": 0.7565531109764894
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 13,
-                    "text": "And it came to pass that I looked and beheld the great city of Jerusalem, and also other cities. And I beheld the city of Nazareth; and in the city of Nazareth I beheld a virgin, and she was exceedingly fair and white.",
-                    "score": 0.7546936393406439
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 4,
-                    "verse": 9,
-                    "text": "And she said unto her husband, Behold now, I perceive that this is an holy man of God, which passeth by us continually.",
-                    "score": 0.7546922250116883
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 92,
-                    "text": "And angels shall fly through the midst of heaven, crying with a loud voice, sounding the trump of God, saying: Prepare ye, prepare ye, O inhabitants of the earth; for the judgment of our God is come. Behold, and lo, the Bridegroom cometh; go ye out to meet him.",
-                    "score": 0.7525766713159726
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 61,
-                    "verse": 10,
-                    "text": "I will greatly rejoice in the Lord, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels.",
-                    "score": 0.7513694501877733
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 30,
-                    "text": "And it came to pass that when the servant of Laban beheld my brethren he began to tremble, and was about to flee from before me and return to the city of Jerusalem.",
-                    "score": 0.7475224751278096
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 9,
-                    "text": "Until the time shall come when it shall be revealed unto you from on high, when the city of the New Jerusalem shall be prepared, that ye may be gathered in one, that ye may be my people and I will be your God.",
-                    "score": 0.7444620841609787
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9001358807005969
                 }
             ]
         },
@@ -182,82 +102,102 @@
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 37,
                     "verse": 27,
                     "text": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8389974995434717
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 19,
+                    "verse": 1,
+                    "text": "And after these things I heard a great voice of much people in heaven, saying, Alleluia; Salvation, and glory, and honour, and power, unto the Lord our God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8130271780337383
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 8,
                     "verse": 20,
                     "text": "And the man said unto him: I am a Nephite, and I know that thou art a holy prophet of God, for thou art the man whom an angel said in a vision: Thou shalt receive. Therefore, go with me into my house and I will impart unto thee of my food; and I know that thou wilt be a blessing unto me and my house.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8100492920440278
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 4,
                     "verse": 36,
                     "text": "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8096816278988838
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 18,
                     "verse": 20,
                     "text": "Then there came out a spirit, and stood before the Lord, and said, I will entice him. And the Lord said unto him, Wherewith?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8091596309175711
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 43,
                     "verse": 23,
                     "text": "And again, the Lord shall utter his voice out of heaven, saying: Hearken, O ye nations of the earth, and hear the words of that God who made you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8079627997029952
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 10,
                     "verse": 8,
                     "text": "And it came to pass that I obeyed the voice of the angel, and returned towards my house. And as I was going thither I found the man whom the angel said unto me: Thou shalt receive into thy house--and behold it was this same man who has been speaking unto you concerning the things of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8050733259565203
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "After this I looked, and, behold, a door was opened in heaven: and the first voice which I heard was as it were of a trumpet talking with me; which said, Come up hither, and I will shew thee things which must be hereafter.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046160347883898
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 5,
                     "verse": 24,
                     "text": "And ye said, Behold, the Lord our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021746190538863
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--Matthew",
-                    "chapter": 1,
-                    "verse": 37,
-                    "text": "And whoso treasureth up my word, shall not be deceived, for the Son of Man shall come, and he shall send his angels before him with the great sound of a trumpet, and they shall gather together the remainder of his elect from the four winds, from one end of heaven to the other.",
-                    "score": 0.7967178524077995
-                },
-                {
                     "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 29,
-                    "verse": 46,
-                    "text": "And they shall know that I am the Lord their God, that brought them forth out of the land of Egypt, that I may dwell among them: I am the Lord their God.",
-                    "score": 0.7951893673327217
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 11,
-                    "text": "For I will reveal myself from heaven with power and great glory, with all the hosts thereof, and dwell in righteousness with men on earth a thousand years, and the wicked shall not stand.",
-                    "score": 0.7944877961276855
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 27,
+                    "text": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9142498918921097
                 }
             ]
         },
@@ -268,82 +208,42 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 25,
                     "verse": 8,
                     "text": "He will swallow up death in victory; and the Lord God will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the Lord hath spoken it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8244068789209499
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 60,
                     "verse": 20,
                     "text": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the Lord shall be thine everlasting light, and the days of thy mourning shall be ended.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8054018301077239
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 101,
                     "verse": 14,
                     "text": "And all they who have mourned shall be comforted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021742965753347
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 36,
-                    "verse": 14,
-                    "text": "Therefore thou shalt devour men no more, neither bereave thy nations any more, saith the Lord God.",
-                    "score": 0.7911495281541674
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 31,
-                    "verse": 16,
-                    "text": "Thus saith the Lord; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the Lord; and they shall come again from the land of the enemy.",
-                    "score": 0.7908873637929965
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 116,
-                    "text": "This is the glory of God, and the sanctified; and they shall not any more see death.",
-                    "score": 0.7891486509648158
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 22,
-                    "verse": 10,
-                    "text": "Weep ye not for the dead, neither bemoan him: but weep sore for him that goeth away: for he shall return no more, nor see his native country.",
-                    "score": 0.7803846033208506
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 11,
-                    "verse": 18,
-                    "text": "And they shall come thither, and they shall take away all the detestable things thereof and all the abominations thereof from thence.",
-                    "score": 0.7792753617577687
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 30,
-                    "verse": 6,
-                    "text": "And then shall they rejoice; for they shall know that it is a blessing unto them from the hand of God; and their scales of darkness shall begin to fall from their eyes; and many generations shall not pass away among them, save they shall be a pure and a delightsome people.",
-                    "score": 0.7785638223112565
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 12,
-                    "verse": 4,
-                    "text": "And again, blessed are all they that mourn, for they shall be comforted.",
-                    "score": 0.777360100372017
+                    "volume_book_index": 1,
+                    "chapter": 101,
+                    "verse": 29,
+                    "text": "And there shall be no sorrow because there is no death.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9149203966344471
                 }
             ]
         },
@@ -352,84 +252,54 @@
             "text": "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 22,
+                    "verse": 6,
+                    "text": "And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8143720165060374
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 52,
                     "verse": 13,
                     "text": "And behold, he that is faithful shall be made ruler over many things.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8134094776066897
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 21,
+                    "text": "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812304745540364
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 23,
+                    "text": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8070509954323305
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 33,
                     "verse": 4,
                     "text": "For the word of the Lord is right; and all his works are done in truth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8051560738120391
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 11,
-                    "text": "And he said: Yea, I believe that the Great Spirit created all things, and I desire that ye should tell me concerning all these things, and I will believe thy words.",
-                    "score": 0.7988586036757539
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 11,
-                    "text": "And the Lord said unto him: Believest thou the words which I shall speak?",
-                    "score": 0.7960304105789833
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 100,
-                    "verse": 11,
-                    "text": "And I will give unto thee power to be mighty in expounding all scriptures, that thou mayest be a spokesman unto him, and he shall be a revelator unto thee, that thou mayest know the certainty of all things pertaining to the things of my kingdom on the earth.",
-                    "score": 0.7936414234487692
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 22,
-                    "verse": 19,
-                    "text": "And he said, Hear thou therefore the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
-                    "score": 0.7926461429180175
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 18,
-                    "verse": 40,
-                    "text": "And it came to pass that after he had said all these things, and expounded them to the king, that the king believed all his words.",
-                    "score": 0.7921006572941414
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 7,
-                    "verse": 10,
-                    "text": "And I said unto him: Believest thou the scriptures? And he said, Yea.",
-                    "score": 0.7899085192222188
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "And blessed is he that is found faithful unto my name at the last day, for he shall be lifted up to dwell in the kingdom prepared for him from the foundation of the world. And behold it is I that hath spoken it. Amen.",
-                    "score": 0.7894202039010048
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 23,
-                    "verse": 4,
-                    "text": "Therefore give heed to my words; write the things which I have told you; and according to the time and the will of the Father they shall go forth unto the Gentiles.",
-                    "score": 0.786974093701542
                 }
             ]
         },
@@ -440,82 +310,152 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 120,
                     "text": "I am Alpha and Omega, the beginning and the end. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8638178386882435
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 1,
+                    "verse": 8,
+                    "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8631180977187176
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 7,
                     "text": "For verily I say unto you that I am Alpha and Omega, the beginning and the end, the light and the life of the world--a light that shineth in darkness and the darkness comprehendeth it not.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8585238254306616
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 9,
                     "verse": 18,
                     "text": "I am the light and the life of the world. I am Alpha and Omega, the beginning and the end.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8523907926480644
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 22,
+                    "verse": 13,
+                    "text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8492800208733635
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 19,
                     "verse": 1,
                     "text": "I am Alpha and Omega, Christ the Lord; yea, even I am he, the beginning and the end, the Redeemer of the world.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8457337654679979
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 61,
                     "verse": 1,
                     "text": "Behold, and hearken unto the voice of him who has all power, who is from everlasting to everlasting, even Alpha and Omega, the beginning and the end.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.81349458701329
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 38,
                     "verse": 1,
                     "text": "Thus saith the Lord your God, even Jesus Christ, the Great I Am, Alpha and Omega, the beginning and the end, the same which looked upon the wide expanse of eternity, and all the seraphic hosts of heaven, before the world was made;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8108340257526511
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 60,
                     "text": "Behold, I am Alpha and Omega, even Jesus Christ.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.810651690682214
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 75,
                     "verse": 1,
                     "text": "Verily, verily, I say unto you, I who speak even by the voice of my Spirit, even Alpha and Omega, your Lord and your God--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8080047690157975
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 81,
                     "verse": 7,
                     "text": "Behold, and lo, these are the words of Alpha and Omega, even Jesus Christ. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8073345048801748
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 112,
                     "verse": 34,
                     "text": "Be faithful until I come, for I come quickly; and my reward is with me to recompense every man according as his work shall be. I am Alpha and Omega. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.805442318904006
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 66,
+                    "text": "And now, as pertaining to this law, verily, verily, I say unto you, I will reveal more unto you, hereafter; therefore, let this suffice for the present. Behold, I am Alpha and Omega. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8048438944015196
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 68,
+                    "verse": 35,
+                    "text": "Behold, I am Alpha and Omega, and I come quickly. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025091077984511
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 22,
+                    "verse": 1,
+                    "text": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016091983054995
                 }
             ]
         },
@@ -526,82 +466,502 @@
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 15,
                     "verse": 8,
                     "text": "And he said, Lord God, whereby shall I know that I shall inherit it?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8601255136007044
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 17,
                     "verse": 13,
                     "text": "I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8540371534452985
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 15,
                     "verse": 2,
                     "text": "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8372502035332362
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 78,
                     "verse": 22,
                     "text": "And he that is a faithful and wise steward shall inherit all things. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8364440053230406
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 22,
                     "verse": 10,
                     "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8349787695772253
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 16,
+                    "verse": 15,
+                    "text": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8326636911519498
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 20,
                     "text": "Nevertheless, he that endureth in faith and doeth my will, the same shall overcome, and shall receive an inheritance upon the earth when the day of transfiguration shall come;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8325181231157179
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 47,
                     "verse": 14,
                     "text": "And ye shall inherit it, one as well as another: concerning the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8270796549760508
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 22,
                     "verse": 16,
                     "text": "And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8267746637899568
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 132,
                     "verse": 53,
                     "text": "For I am the Lord thy God, and ye shall obey my voice; and I give unto my servant Joseph that he shall be made ruler over many things; for he hath been faithful over a few things, and from henceforth I will strengthen him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8254476234334488
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 22,
                     "verse": 11,
                     "text": "Now, my son, the Lord be with thee; and prosper thou, and build the house of the Lord thy God, as he hath said of thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8249292753409057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 32,
+                    "verse": 38,
+                    "text": "And they shall be my people, and I will be their God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8244468067822899
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 1,
+                    "text": "At the same time, saith the Lord, will I be the God of all the families of Israel, and they shall be my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8217776726761746
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 26,
+                    "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8210726666641933
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 68,
+                    "text": "Behold, thou art one in me, a son of God; and thus may all become my sons. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8199803646386862
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 21,
+                    "text": "To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8192049803811072
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 30,
+                    "verse": 22,
+                    "text": "And ye shall be my people, and I will be your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8190224713545601
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 32,
+                    "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8186953045749353
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 6,
+                    "verse": 18,
+                    "text": "And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8183257495058675
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 75,
+                    "verse": 16,
+                    "text": "And he who is faithful shall overcome all things, and shall be lifted up at the last day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8163271660556215
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.816169999988232
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "1 Corinthians",
+                    "volume_book_index": 7,
+                    "chapter": 15,
+                    "verse": 28,
+                    "text": "And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151120174909866
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 3,
+                    "verse": 14,
+                    "text": "Behold, I am he who was prepared from the foundation of the world to redeem my people. Behold, I am Jesus Christ. I am the Father and the Son. In me shall all mankind have life, and that eternally, even they who shall believe on my name; and they shall become my sons and my daughters.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8139217541748472
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 38,
+                    "text": "And he that receiveth my Father receiveth my Father's kingdom; therefore all that my Father hath shall be given unto him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8136080097780624
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 31,
+                    "text": "And they shall believe in me, that I am Jesus Christ, the Son of God, and shall pray unto the Father in my name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128062503128843
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 28,
+                    "text": "And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8125826607669762
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 14,
+                    "text": "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812138826259279
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 28,
+                    "verse": 10,
+                    "text": "And for this cause ye shall have fulness of joy; and ye shall sit down in the kingdom of my Father; yea, your joy shall be full, even as the Father hath given me fulness of joy; and ye shall be even as I am, and I am even as the Father; and the Father and I are one;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811410968729909
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 27,
+                    "text": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8103483755068355
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 26,
+                    "verse": 12,
+                    "text": "And I will walk among you, and will be your God, and ye shall be my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8099627836715143
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 2,
+                    "verse": 8,
+                    "text": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8099149395351135
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Ephesians",
+                    "volume_book_index": 10,
+                    "chapter": 4,
+                    "verse": 6,
+                    "text": "One God and Father of all, who is above all, and through all, and in you all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095327950197975
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 6,
+                    "verse": 40,
+                    "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8092907706008552
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 52,
+                    "verse": 44,
+                    "text": "Behold, I am Jesus Christ, the Son of God, and I will lift them up at the last day. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8089101040249467
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 15,
+                    "verse": 31,
+                    "text": "And he said unto him, Son, thou art ever with me, and all that I have is thine.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.808100705773602
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 33,
+                    "text": "And whoso believeth in me, and is baptized, the same shall be saved; and they are they who shall inherit the kingdom of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071660279616693
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 20,
+                    "verse": 24,
+                    "text": "But I have said unto you, Ye shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the Lord your God, which have separated you from other people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8070962328535045
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 41,
+                    "verse": 40,
+                    "text": "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065737308134833
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040886321754153
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 49,
+                    "text": "For I am the Lord thy God, and will be with thee even unto the end of the world, and through all eternity; for verily I seal upon you your exaltation, and prepare a throne for you in the kingdom of my Father, with Abraham your father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803275341992716
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 48,
+                    "text": "I say unto you, that I know of myself that whatsoever I shall say unto you, concerning that which is to come, is true; and I say unto you, that I know that Jesus Christ shall come, yea, the Son, the Only Begotten of the Father, full of grace, and mercy, and truth. And behold, it is he that cometh to take away the sins of the world, yea, the sins of every man who steadfastly believeth on his name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028525352849778
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 40,
+                    "text": "I am the Lord thy God, and I gave unto thee, my servant Joseph, an appointment, and restore all things. Ask what ye will, and it shall be given unto you according to my word.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026765776270088
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 10,
+                    "verse": 7,
+                    "text": "But behold, thus saith the Lord God: When the day cometh that they shall believe in me, that I am Christ, then have I covenanted with their fathers that they shall be restored in the flesh, upon the earth, unto the lands of their inheritance.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026529192015047
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 28,
+                    "text": "I am the Lord thy God, and will give unto thee the law of my Holy Priesthood, as was ordained by me and my Father before the world was.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026227148645341
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 1,
+                    "verse": 30,
+                    "text": "Even as I sware unto thee by the Lord God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015628398321145
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 7,
+                    "text": "The Lord God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006028205816165
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Timothy",
+                    "volume_book_index": 16,
+                    "chapter": 2,
+                    "verse": 1,
+                    "text": "Thou therefore, my son, be strong in the grace that is in Christ Jesus.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004145821211687
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 21,
+                    "text": "To him that overcometh will I grant to sit with me in my throne, even as I also overcame, and am set down with my Father in his throne.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9242102002469247
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 22,
+                    "verse": 10,
+                    "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.908074086423313
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 26,
+                    "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9071844220161696
                 }
             ]
         },
@@ -612,82 +972,112 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 17,
                     "text": "Wherefore, I, the Lord, have said that the fearful, and the unbelieving, and all liars, and whosoever loveth and maketh a lie, and the whoremonger, and the sorcerer, shall have their part in that lake which burneth with fire and brimstone, which is the second death.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9482587036731698
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 20,
+                    "verse": 14,
+                    "text": "And death and hell were cast into the lake of fire. This is the second death.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8533900559979322
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
                     "verse": 36,
                     "text": "These are they who shall go away into the lake of fire and brimstone, with the devil and his angels--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8303879484330287
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 20,
+                    "verse": 10,
+                    "text": "And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8210035653332054
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 14,
                     "verse": 14,
                     "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8174157386741502
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 3,
                     "verse": 11,
                     "text": "O my brethren, hearken unto my words; arouse the faculties of your souls; shake yourselves that ye may awake from the slumber of death; and loose yourselves from the pains of hell that ye may not become angels to the devil, to be cast into that lake of fire and brimstone which is the second death.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.805154089412986
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 3,
                     "verse": 27,
                     "text": "And their torment is as a lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up forever and ever. Thus hath the Lord commanded me. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8019320813046977
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 12,
                     "verse": 17,
                     "text": "Then is the time when their torments shall be as a lake of fire and brimstone, whose flame ascendeth up forever and ever; and then is the time that they shall be chained down to an everlasting destruction, according to the power and captivity of Satan, he having subjected them according to his will.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8012278556598998
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "And according to the power of justice, for justice cannot be denied, ye must go away into that lake of fire and brimstone, whose flames are unquenchable, and whose smoke ascendeth up forever and ever, which lake of fire and brimstone is endless torment.",
-                    "score": 0.7946424344755507
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 19,
-                    "text": "O the greatness of the mercy of our God, the Holy One of Israel! For he delivereth his saints from that awful monster the devil, and death, and hell, and that lake of fire and brimstone, which is endless torment.",
-                    "score": 0.7894784642119632
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 41,
-                    "text": "And it shall be answered upon their heads; for the presence of the Lord shall be as the melting fire that burneth, and as the fire which causeth the waters to boil.",
-                    "score": 0.7876166201362982
+                    "volume_book_index": 1,
+                    "chapter": 63,
+                    "verse": 17,
+                    "text": "Wherefore, I, the Lord, have said that the fearful, and the unbelieving, and all liars, and whosoever loveth and maketh a lie, and the whoremonger, and the sorcerer, shall have their part in that lake which burneth with fire and brimstone, which is the second death.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8861997459471337
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 26,
-                    "text": "For the atonement satisfieth the demands of his justice upon all those who have not the law given to them, that they are delivered from that awful monster, death and hell, and the devil, and the lake of fire and brimstone, which is endless torment; and they are restored to that God who gave them breath, which is the Holy One of Israel.",
-                    "score": 0.7853310501359454
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 63,
+                    "verse": 17,
+                    "text": "Wherefore, I, the Lord, have said that the fearful, and the unbelieving, and all liars, and whosoever loveth and maketh a lie, and the whoremonger, and the sorcerer, shall have their part in that lake which burneth with fire and brimstone, which is the second death.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9648983190984073
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 20,
+                    "verse": 14,
+                    "text": "And death and hell were cast into the lake of fire. This is the second death.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9007995128631656
                 }
             ]
         },
@@ -696,84 +1086,84 @@
             "text": "And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 17,
+                    "verse": 1,
+                    "text": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8878935085718741
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 15,
+                    "verse": 1,
+                    "text": "And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8243725362961899
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 15,
+                    "verse": 7,
+                    "text": "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8223592813611913
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 14,
                     "verse": 20,
                     "text": "And the angel said unto me: Behold one of the twelve apostles of the Lamb.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8193358515966425
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 8,
-                    "text": "And the angel spake unto me, saying: Behold the twelve disciples of the Lamb, who are chosen to minister unto thy seed.",
-                    "score": 0.7966773064687314
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 8,
+                    "verse": 2,
+                    "text": "And I saw the seven angels which stood before God; and to them were given seven trumpets.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025876021655977
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 3,
-                    "verse": 16,
-                    "text": "And it came to pass at the end of seven days, that the word of the Lord came unto me, saying,",
-                    "score": 0.7877072553616459
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 26,
-                    "verse": 21,
-                    "text": "And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.",
-                    "score": 0.7832759060686123
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 31,
-                    "text": "And he spake unto me again, saying: Look! And I looked, and I beheld the Lamb of God going forth among the children of men. And I beheld multitudes of people who were sick, and who were afflicted with all manner of diseases, and with devils and unclean spirits; and the angel spake and showed all these things unto me. And they were healed by the power of the Lamb of God; and the devils and the unclean spirits were cast out.",
-                    "score": 0.7824467250643183
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 34,
-                    "text": "And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel--and this remnant of whom I speak is the seed of thy father--wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb--I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.",
-                    "score": 0.7761144446357928
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 34,
-                    "text": "And after he was slain I saw the multitudes of the earth, that they were gathered together to fight against the apostles of the Lamb; for thus were the twelve called by the angel of the Lord.",
-                    "score": 0.7733183860208109
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 11,
-                    "text": "And it came to pass that the angel said unto me: Behold the wrath of God is upon the seed of thy brethren.",
-                    "score": 0.7731670040457631
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 21,
-                    "verse": 30,
-                    "text": "And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.",
-                    "score": 0.7718169261191066
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 17,
                     "verse": 1,
-                    "text": "And it came to pass that the angel said unto me: Look, and behold thy seed, and also the seed of thy brethren. And I looked and beheld the land of promise; and I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.",
-                    "score": 0.7714309167822209
+                    "text": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8148889894816613
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 17,
+                    "verse": 1,
+                    "text": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9355380217891679
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 20,
+                    "text": "And the angel said unto me: Behold one of the twelve apostles of the Lamb.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9021030816589518
                 }
             ]
         },
@@ -782,256 +1172,105 @@
             "text": "And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 2,
+                    "text": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023944705225725
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "When he was come down from the mountain, great multitudes followed him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014817530966856
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 48,
                     "verse": 1,
                     "text": "Great is the Lord, and greatly to be praised in the city of our God, in the mountain of his holiness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8013632433935018
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 2,
-                    "text": "In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south.",
-                    "score": 0.7989181599484955
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 9,
-                    "text": "And the king said: Is God that Great Spirit that brought our fathers out of the land of Jerusalem?",
-                    "score": 0.7980241674109659
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 14,
-                    "verse": 12,
-                    "text": "Now therefore give me this mountain, whereof the Lord spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I shall be able to drive them out, as the Lord said.",
-                    "score": 0.7888668095432597
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 25,
-                    "text": "And upon the wings of his Spirit hath my body been carried away upon exceedingly high mountains. And mine eyes have beheld great things, yea, even too great for man; therefore I was bidden that I should not write them.",
-                    "score": 0.7834922513644531
+                    "volume_book_index": 26,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where was the seat of the image of jealousy, which provoketh to jealousy.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9175062277905669
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
-                    "chapter": 11,
-                    "verse": 23,
-                    "text": "And the glory of the Lord went up from the midst of the city, and stood upon the mountain which is on the east side of the city.",
-                    "score": 0.7830836110146405
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 3,
-                    "verse": 4,
-                    "text": "I cried unto the Lord with my voice, and he heard me out of his holy hill. Selah.",
-                    "score": 0.7811267064364308
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 17,
-                    "verse": 6,
-                    "text": "And his heart was lifted up in the ways of the Lord: moreover he took away the high places and groves out of Judah.",
-                    "score": 0.7792822129532964
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
+                    "volume_book_index": 26,
                     "chapter": 40,
-                    "verse": 9,
-                    "text": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!",
-                    "score": 0.7785449071087834
+                    "verse": 2,
+                    "text": "In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9140580347741838
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 26,
-                    "text": "And it came to pass that Enoch journeyed in the land, among the people; and as he journeyed, the Spirit of God descended out of heaven, and abode upon him.",
-                    "score": 0.7767291532998066
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 2,
+                    "text": "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9019582926059803
                 }
             ]
         },
         {
             "verse": 11,
             "text": "Having the glory of God: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal;",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 28,
-                    "verse": 13,
-                    "text": "Thou hast been in Eden the garden of God; every precious stone was thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.",
-                    "score": 0.7791566559283852
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 24,
-                    "verse": 10,
-                    "text": "And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.",
-                    "score": 0.7774924067509672
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 16,
-                    "verse": 14,
-                    "text": "And thy renown went forth among the heathen for thy beauty: for it was perfect through my comeliness, which I had put upon thee, saith the Lord God.",
-                    "score": 0.766528552469085
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 50,
-                    "verse": 2,
-                    "text": "Out of Zion, the perfection of beauty, God hath shined.",
-                    "score": 0.7623711957231829
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 6,
-                    "text": "But after repenting, and humbling himself sincerely, through faith, God ministered unto him by an holy angel, whose countenance was as lightning, and whose garments were pure and white above all other whiteness;",
-                    "score": 0.7584467520516021
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 3,
-                    "verse": 15,
-                    "text": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
-                    "score": 0.7559330018287699
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 22,
-                    "verse": 47,
-                    "text": "The Lord liveth; and blessed be my rock; and exalted be the God of the rock of my salvation.",
-                    "score": 0.754588352654814
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 22,
-                    "verse": 11,
-                    "text": "O thou afflicted, tossed with tempest, and not comforted! Behold, I will lay thy stones with fair colors, and lay thy foundations with sapphires.",
-                    "score": 0.7525791391852689
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 101,
-                    "text": "The earth hath travailed and brought forth her strength;And truth is established in her bowels;And the heavens have smiled upon her;And she is clothed with the glory of her God;For he stands in the midst of his people.",
-                    "score": 0.7503757115492745
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 45,
-                    "text": "The earth rolls upon her wings, and the sun giveth his light by day, and the moon giveth her light by night, and the stars also give their light, as they roll upon their wings in their glory, in the midst of the power of God.",
-                    "score": 0.7498298536213894
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
             "text": "And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 14,
+                    "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025551355107987
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 14,
+                    "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9096192879165896
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 39,
                     "verse": 14,
                     "text": "And the stones were according to the names of the children of Israel, twelve, according to their names, like the engravings of a signet, every one with his name, according to the twelve tribes.",
-                    "score": 0.7994238538183819
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 21,
-                    "text": "And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes.",
-                    "score": 0.7992446110977784
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 48,
-                    "verse": 31,
-                    "text": "And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.",
-                    "score": 0.7898790255781986
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 22,
-                    "verse": 10,
-                    "text": "And when they came unto the borders of Jordan, that are in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.",
-                    "score": 0.7780273314949543
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 27,
-                    "verse": 3,
-                    "text": "He built the high gate of the house of the Lord, and on the wall of Ophel he built much.",
-                    "score": 0.7758632986410664
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 25,
-                    "verse": 16,
-                    "text": "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.",
-                    "score": 0.7738469024463189
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 24,
-                    "verse": 4,
-                    "text": "And Moses wrote all the words of the Lord, and rose up early in the morning, and builded an altar under the hill, and twelve pillars, according to the twelve tribes of Israel.",
-                    "score": 0.7708709903472021
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 1,
-                    "verse": 44,
-                    "text": "These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.",
-                    "score": 0.7697109827652814
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 32,
-                    "verse": 8,
-                    "text": "When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.",
-                    "score": 0.7678273431300012
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 47,
-                    "verse": 13,
-                    "text": "Thus saith the Lord God; This shall be the border, whereby ye shall inherit the land according to the twelve tribes of Israel: Joseph shall have two portions.",
-                    "score": 0.7647279310172435
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.900256305856628
                 }
             ]
         },
@@ -1042,82 +1281,22 @@
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 40,
                     "verse": 10,
                     "text": "And the little chambers of the gate eastward were three on this side, and three on that side; they three were of one measure: and the posts had one measure on this side and on that side.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8014358766802663
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
-                    "chapter": 48,
-                    "verse": 32,
-                    "text": "And at the east side four thousand and five hundred: and three gates; and one gate of Joseph, one gate of Benjamin, one gate of Dan.",
-                    "score": 0.7786503614193354
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 63,
-                    "text": "And behold, it shall come to pass that my servants shall be sent forth to the east and to the west, to the north and to the south.",
-                    "score": 0.748627258817508
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 48,
-                    "verse": 34,
-                    "text": "At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.",
-                    "score": 0.7407066180839965
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 48,
-                    "verse": 31,
-                    "text": "And the gates of the city shall be after the names of the tribes of Israel: three gates northward; one gate of Reuben, one gate of Judah, one gate of Levi.",
-                    "score": 0.7405287327888674
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 48,
-                    "verse": 33,
-                    "text": "And at the south side four thousand and five hundred measures: and three gates; one gate of Simeon, one gate of Issachar, one gate of Zebulun.",
-                    "score": 0.7401177776621315
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 107,
-                    "verse": 3,
-                    "text": "And gathered them out of the lands, from the east, and from the west, from the north, and from the south.",
-                    "score": 0.7365921317138019
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 48,
-                    "verse": 16,
-                    "text": "And these shall be the measures thereof; the north side four thousand and five hundred, and the south side four thousand and five hundred, and on the east side four thousand and five hundred, and the west side four thousand and five hundred.",
-                    "score": 0.7356595882211949
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 9,
-                    "verse": 24,
-                    "text": "In four quarters were the porters, toward the east, west, north, and south.",
-                    "score": 0.7356393668612609
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 40,
-                    "verse": 21,
-                    "text": "And the little chambers thereof were three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof was fifty cubits, and the breadth five and twenty cubits.",
-                    "score": 0.7324306761926248
+                    "verse": 10,
+                    "text": "And the little chambers of the gate eastward were three on this side, and three on that side; they three were of one measure: and the posts had one measure on this side and on that side.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9091962684159024
                 }
             ]
         },
@@ -1126,84 +1305,24 @@
             "text": "And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 14,
-                    "verse": 20,
-                    "text": "And the angel said unto me: Behold one of the twelve apostles of the Lamb.",
-                    "score": 0.7699729974831496
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "And he said unto me: Thou rememberest the twelve apostles of the Lamb? Behold they are they who shall judge the twelve tribes of Israel; wherefore, the twelve ministers of thy seed shall be judged of them; for ye are of the house of Israel.",
-                    "score": 0.7550642116156645
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 8,
-                    "text": "And the angel spake unto me, saying: Behold the twelve disciples of the Lamb, who are chosen to minister unto thy seed.",
-                    "score": 0.7546624478855927
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 41,
-                    "text": "And they must come according to the words which shall be established by the mouth of the Lamb; and the words of the Lamb shall be made known in the records of thy seed, as well as in the records of the twelve apostles of the Lamb; wherefore they both shall be established in one; for there is one God and one Shepherd over all the earth.",
-                    "score": 0.7529268134669755
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 34,
-                    "text": "And after he was slain I saw the multitudes of the earth, that they were gathered together to fight against the apostles of the Lamb; for thus were the twelve called by the angel of the Lord.",
-                    "score": 0.7422784990993307
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 26,
-                    "text": "And after they go forth by the hand of the twelve apostles of the Lamb, from the Jews unto the Gentiles, thou seest the formation of that great and abominable church, which is most abominable above all other churches; for behold, they have taken away from the gospel of the Lamb many parts which are plain and most precious; and also many covenants of the Lord have they taken away.",
-                    "score": 0.7383638367186357
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 22,
-                    "verse": 10,
-                    "text": "And ye have numbered the houses of Jerusalem, and the houses have ye broken down to fortify the wall.",
-                    "score": 0.7354802015952756
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 40,
-                    "text": "And the angel spake unto me, saying: These last records, which thou hast seen among the Gentiles, shall establish the truth of the first, which are of the twelve apostles of the Lamb, and shall make known the plain and precious things which have been taken away from them; and shall make known to all kindreds, tongues, and people, that the Lamb of God is the Son of the Eternal Father, and the Savior of the world; and that all men must come unto him, or they cannot be saved.",
-                    "score": 0.7327929358147419
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 11,
-                    "verse": 5,
-                    "text": "And the Lord came down to see the city and the tower, which the children of men builded.",
-                    "score": 0.7306759384138966
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 4,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
                     "verse": 12,
-                    "text": "Be it known unto the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations.",
-                    "score": 0.7288885460266425
+                    "text": "And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025551355107987
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 12,
+                    "text": "And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9096192879165896
                 }
             ]
         },
@@ -1214,170 +1333,29 @@
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 40,
                     "verse": 35,
                     "text": "And he brought me to the north gate, and measured it according to these measures;",
-                    "score": 0.7979632100590974
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9043749031797125
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 8,
-                    "text": "He measured also the porch of the gate within, one reed.",
-                    "score": 0.791846450562758
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 3,
-                    "text": "And he brought me thither, and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.",
-                    "score": 0.7860411194942684
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 40,
                     "verse": 32,
                     "text": "And he brought me into the inner court toward the east: and he measured the gate according to these measures.",
-                    "score": 0.7788344040474181
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 5,
-                    "text": "And behold a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.",
-                    "score": 0.7786694229127318
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 6,
-                    "text": "Then came he unto the gate which looketh toward the east, and went up the stairs thereof, and measured the threshold of the gate, which was one reed broad; and the other threshold of the gate, which was one reed broad.",
-                    "score": 0.7775903517347125
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 28,
-                    "text": "And he brought me to the inner court by the south gate: and he measured the south gate according to these measures;",
-                    "score": 0.7653066506456528
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 42,
-                    "verse": 15,
-                    "text": "Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect is toward the east, and measured it round about.",
-                    "score": 0.7550806884262252
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 24,
-                    "text": "After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.",
-                    "score": 0.7519928095408747
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 42,
-                    "verse": 19,
-                    "text": "He turned about to the west side, and measured five hundred reeds with the measuring reed.",
-                    "score": 0.7510641224400211
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022028060736816
                 }
             ]
         },
         {
             "verse": 16,
             "text": "And the city lieth foursquare, and the length is as large as the breadth: and he measured the city with the reed, twelve thousand furlongs. The length and the breadth and the height of it are equal.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 16,
-                    "text": "Foursquare it shall be being doubled; a span shall be the length thereof, and a span shall be the breadth thereof.",
-                    "score": 0.7962173035177327
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 30,
-                    "verse": 2,
-                    "text": "A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same.",
-                    "score": 0.7821101812651637
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 47,
-                    "text": "So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar that was before the house.",
-                    "score": 0.7683953793398653
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 9,
-                    "text": "It was foursquare; they made the breastplate double: a span was the length thereof, and a span the breadth thereof, being doubled.",
-                    "score": 0.7606828584715547
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 37,
-                    "verse": 25,
-                    "text": "And he made the incense altar of shittim wood: the length of it was a cubit, and the breadth of it a cubit; it was foursquare; and two cubits was the height of it; the horns thereof were of the same.",
-                    "score": 0.7569395413424983
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 38,
-                    "verse": 1,
-                    "text": "And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof.",
-                    "score": 0.750832237895163
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 48,
-                    "verse": 20,
-                    "text": "All the oblation shall be five and twenty thousand by five and twenty thousand: ye shall offer the holy oblation foursquare, with the possession of the city.",
-                    "score": 0.7463067344712301
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 5,
-                    "text": "And behold a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.",
-                    "score": 0.729483262407417
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.",
-                    "score": 0.7238823001902445
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 27,
-                    "verse": 1,
-                    "text": "And thou shalt make an altar of shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof shall be three cubits.",
-                    "score": 0.7168611770453198
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 17,
@@ -1386,82 +1364,62 @@
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 41,
                     "verse": 13,
                     "text": "So he measured the house, an hundred cubits long; and the separate place, and the building, with the walls thereof, an hundred cubits long;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8242931597357012
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 40,
                     "verse": 5,
                     "text": "And behold a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8180317710812142
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 41,
                     "verse": 2,
                     "text": "And the breadth of the door was ten cubits; and the sides of the door were five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8174004798220154
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 41,
                     "verse": 5,
                     "text": "After he measured the wall of the house, six cubits; and the breadth of every side chamber, four cubits, round about the house on every side.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8116087693416769
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 40,
                     "verse": 47,
                     "text": "So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar that was before the house.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8077788636099075
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 27,
-                    "text": "And there was a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits.",
-                    "score": 0.7931712978218695
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 37,
-                    "verse": 25,
-                    "text": "And he made the incense altar of shittim wood: the length of it was a cubit, and the breadth of it a cubit; it was foursquare; and two cubits was the height of it; the horns thereof were of the same.",
-                    "score": 0.7883217565412514
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 38,
-                    "verse": 1,
-                    "text": "And he made the altar of burnt offering of shittim wood: five cubits was the length thereof, and five cubits the breadth thereof; it was foursquare; and three cubits the height thereof.",
-                    "score": 0.7880410452316263
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 23,
-                    "text": "And the gate of the inner court was over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.",
-                    "score": 0.7825275057710235
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 37,
-                    "verse": 10,
-                    "text": "And he made the table of shittim wood: two cubits was the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof:",
-                    "score": 0.7765127581790782
+                    "volume_book_index": 26,
+                    "chapter": 41,
+                    "verse": 13,
+                    "text": "So he measured the house, an hundred cubits long; and the separate place, and the building, with the walls thereof, an hundred cubits long;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9143816334746386
                 }
             ]
         },
@@ -1470,430 +1428,67 @@
             "text": "And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 37,
-                    "verse": 24,
-                    "text": "Of a talent of pure gold made he it, and all the vessels thereof.",
-                    "score": 0.7155976428343094
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 137,
-                    "verse": 4,
-                    "text": "I saw the beautiful streets of that kingdom, which had the appearance of being paved with gold.",
-                    "score": 0.7085306272423746
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 16,
-                    "verse": 13,
-                    "text": "Thus wast thou decked with gold and silver; and thy raiment was of fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.",
-                    "score": 0.6999001407624313
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 1,
-                    "verse": 15,
-                    "text": "And the king made silver and gold at Jerusalem as plenteous as stones, and cedar trees made he as the sycomore trees that are in the vale for abundance.",
-                    "score": 0.6932674032065985
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 4,
-                    "verse": 22,
-                    "text": "And the snuffers, and the basins, and the spoons, and the censers, of pure gold: and the entry of the house, the inner doors thereof for the most holy place, and the doors of the house of the temple, were of gold.",
-                    "score": 0.6929647526958654
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 4,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
                     "verse": 21,
-                    "text": "And the flowers, and the lamps, and the tongs, made he of gold, and that perfect gold;",
-                    "score": 0.6915353983293795
+                    "text": "And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8260790098977019
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 15,
-                    "text": "And they made upon the breastplate chains at the ends, of wreathen work of pure gold.",
-                    "score": 0.6910738474225244
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 29,
-                    "verse": 4,
-                    "text": "Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal:",
-                    "score": 0.6907421742946
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "Moreover the king made a great throne of ivory, and overlaid it with pure gold.",
-                    "score": 0.6897266520416648
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 17,
-                    "verse": 12,
-                    "text": "And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store.",
-                    "score": 0.6870448308903804
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 21,
+                    "text": "And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9090564034119679
                 }
             ]
         },
         {
             "verse": 19,
             "text": "And the foundations of the wall of the city were garnished with all manner of precious stones. The first foundation was jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 7,
-                    "verse": 10,
-                    "text": "And the foundation was of costly stones, even great stones, stones of ten cubits, and stones of eight cubits.",
-                    "score": 0.7609467697679836
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 3,
-                    "verse": 6,
-                    "text": "And he garnished the house with precious stones for beauty: and the gold was gold of Parvaim.",
-                    "score": 0.7488179177714489
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 13,
-                    "text": "And the fourth row, a beryl, an onyx, and a jasper: they were inclosed in ouches of gold in their inclosings.",
-                    "score": 0.7486039522591381
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 10,
-                    "text": "And they set in it four rows of stones: the first row was a sardius, a topaz, and a carbuncle: this was the first row.",
-                    "score": 0.7394635967883499
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 7,
-                    "verse": 11,
-                    "text": "And above were costly stones, after the measures of hewed stones, and cedars.",
-                    "score": 0.7349709842429021
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 28,
-                    "verse": 6,
-                    "text": "The stones of it are the place of sapphires: and it hath dust of gold.",
-                    "score": 0.7340482668307969
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "All these were of costly stones, according to the measures of hewed stones, sawed with saws, within and without, even from the foundation unto the coping, and so on the outside toward the great court.",
-                    "score": 0.7299089386193527
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 5,
-                    "verse": 17,
-                    "text": "And the king commanded, and they brought great stones, costly stones, and hewed stones, to lay the foundation of the house.",
-                    "score": 0.7297879476031683
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 11,
-                    "text": "And the second row, an emerald, a sapphire, and a diamond.",
-                    "score": 0.7273853055031753
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 28,
-                    "verse": 13,
-                    "text": "Thou hast been in Eden the garden of God; every precious stone was thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.",
-                    "score": 0.7246719411341198
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 20,
             "text": "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 17,
-                    "text": "And thou shalt set in it settings of stones, even four rows of stones: the first row shall be a sardius, a topaz, and a carbuncle: this shall be the first row.",
-                    "score": 0.7602696907306994
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 20,
-                    "text": "And the fourth row a beryl, and an onyx, and a jasper: they shall be set in gold in their inclosings.",
-                    "score": 0.7435240061943181
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 10,
-                    "text": "And they set in it four rows of stones: the first row was a sardius, a topaz, and a carbuncle: this was the first row.",
-                    "score": 0.743241512819031
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 28,
-                    "verse": 13,
-                    "text": "Thou hast been in Eden the garden of God; every precious stone was thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.",
-                    "score": 0.7391312804574379
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 10,
-                    "text": "Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.",
-                    "score": 0.7349756441258738
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 12,
-                    "text": "And the third row, a ligure, an agate, and an amethyst.",
-                    "score": 0.7260770467286038
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 19,
-                    "text": "And the third row a ligure, an agate, and an amethyst.",
-                    "score": 0.7260770467286038
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 24,
-                    "verse": 9,
-                    "text": "The fifth to Malchijah, the sixth to Mijamin,",
-                    "score": 0.7198368829204808
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 13,
-                    "text": "And the fourth row, a beryl, an onyx, and a jasper: they were inclosed in ouches of gold in their inclosings.",
-                    "score": 0.7114382929818007
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 26,
-                    "verse": 26,
-                    "text": "Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.",
-                    "score": 0.7108279097628049
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 21,
             "text": "And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 137,
-                    "verse": 4,
-                    "text": "I saw the beautiful streets of that kingdom, which had the appearance of being paved with gold.",
-                    "score": 0.7362306026081553
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 18,
+                    "text": "And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8260790098977019
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 4,
-                    "verse": 22,
-                    "text": "And the snuffers, and the basins, and the spoons, and the censers, of pure gold: and the entry of the house, the inner doors thereof for the most holy place, and the doors of the house of the temple, were of gold.",
-                    "score": 0.7337725194446886
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 16,
-                    "verse": 13,
-                    "text": "Thus wast thou decked with gold and silver; and thy raiment was of fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.",
-                    "score": 0.7280147429080503
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 28,
-                    "verse": 13,
-                    "text": "Thou hast been in Eden the garden of God; every precious stone was thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.",
-                    "score": 0.7277769176563655
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 4,
-                    "verse": 1,
-                    "text": "How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.",
-                    "score": 0.7264738467533743
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 11,
-                    "verse": 10,
-                    "text": "And a limnah of gold was the value of them all.",
-                    "score": 0.7235276173523372
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 13,
-                    "text": "And it came to pass that I looked and beheld the great city of Jerusalem, and also other cities. And I beheld the city of Nazareth; and in the city of Nazareth I beheld a virgin, and she was exceedingly fair and white.",
-                    "score": 0.7187524618064104
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "Having all manner of fruit, and of grain, and of silks, and of fine linen, and of gold, and of silver, and of precious things;",
-                    "score": 0.7183457638571308
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 37,
-                    "verse": 24,
-                    "text": "Of a talent of pure gold made he it, and all the vessels thereof.",
-                    "score": 0.7144375071788195
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 25,
-                    "verse": 11,
-                    "text": "And thou shalt overlay it with pure gold, within and without shalt thou overlay it, and shalt make upon it a crown of gold round about.",
-                    "score": 0.7107023976269313
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 18,
+                    "text": "And the building of the wall of it was of jasper: and the city was pure gold, like unto clear glass.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9090564034119679
                 }
             ]
         },
         {
             "verse": 22,
             "text": "And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 34,
-                    "text": "And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel--and this remnant of whom I speak is the seed of thy father--wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb--I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.",
-                    "score": 0.7501166025376615
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "There is none holy as the Lord: for there is none beside thee: neither is there any rock like our God.",
-                    "score": 0.7377823643900943
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 1,
-                    "verse": 14,
-                    "text": "And there were no gifts from the Lord, and the Holy Ghost did not come upon any, because of their wickedness and unbelief.",
-                    "score": 0.7367343012806211
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 18,
-                    "verse": 10,
-                    "text": "As the Lord thy God liveth, there is no nation or kingdom, whither my lord hath not sent to seek thee: and when they said, He is not there; he took an oath of the kingdom and nation, that they found thee not.",
-                    "score": 0.7304724665074561
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 34,
-                    "verse": 8,
-                    "text": "As I live, saith the Lord God, surely because my flock became a prey, and my flock became meat to every beast of the field, because there was no shepherd, neither did my shepherds search for my flock, but the shepherds fed themselves, and fed not my flock;",
-                    "score": 0.7258125432187625
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
-                    "chapter": 13,
-                    "verse": 4,
-                    "text": "Yet I am the Lord thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me.",
-                    "score": 0.7254174016843284
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 8,
-                    "verse": 9,
-                    "text": "There was nothing in the ark save the two tables of stone, which Moses put there at Horeb, when the Lord made a covenant with the children of Israel, when they came out of the land of Egypt.",
-                    "score": 0.7252392477101438
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 5,
-                    "verse": 10,
-                    "text": "There was nothing in the ark save the two tables which Moses put therein at Horeb, when the Lord made a covenant with the children of Israel, when they came out of Egypt.",
-                    "score": 0.724504891180882
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 33,
-                    "text": "Wherefore saith the Lamb of God: I will be merciful unto the Gentiles, unto the visiting of the remnant of the house of Israel in great judgment.",
-                    "score": 0.7237337875288055
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 44,
-                    "verse": 6,
-                    "text": "Thus saith the Lord the King of Israel, and his redeemer the Lord of hosts; I am the first, and I am the last; and beside me there is no God.",
-                    "score": 0.7228238375476751
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 23,
@@ -1902,82 +1497,12 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 60,
                     "verse": 19,
                     "text": "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the Lord shall be unto thee an everlasting light, and thy God thy glory.",
-                    "score": 0.7841235376632769
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 13,
-                    "verse": 10,
-                    "text": "For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.",
-                    "score": 0.7759265143623838
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 10,
-                    "text": "For the stars of heaven and the constellations thereof shall not give their light; the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.",
-                    "score": 0.7759265143623838
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 121,
-                    "verse": 6,
-                    "text": "The sun shall not smite thee by day, nor the moon by night.",
-                    "score": 0.7733076329574504
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Amos",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "Shall not the day of the Lord be darkness, and not light? even very dark, and no brightness in it?",
-                    "score": 0.7583410874398094
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 23,
-                    "verse": 4,
-                    "text": "And he shall be as the light of the morning, when the sun riseth, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain.",
-                    "score": 0.7484704664046051
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 8,
-                    "verse": 22,
-                    "text": "And there was not any light seen, neither fire, nor glimmer, neither the sun, nor the moon, nor the stars, for so great were the mists of darkness which were upon the face of the land.",
-                    "score": 0.747493732134109
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 19,
-                    "text": "And it came to pass that there was no darkness in all that night, but it was as light as though it was mid-day. And it came to pass that the sun did rise in the morning again, according to its proper order; and they knew that it was the day that the Lord should be born, because of the sign which had been given.",
-                    "score": 0.7473596255256513
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 46,
-                    "verse": 6,
-                    "text": "And in the day of the new moon it shall be a young bullock without blemish, and six lambs, and a ram: they shall be without blemish.",
-                    "score": 0.7425457088506293
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 12,
-                    "verse": 2,
-                    "text": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
-                    "score": 0.738983534508085
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9033600630378776
                 }
             ]
         },
@@ -1986,84 +1511,144 @@
             "text": "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 26,
+                    "text": "And they shall bring the glory and honour of the nations into it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8501337414209599
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 60,
                     "verse": 3,
                     "text": "And the Gentiles shall come to thy light, and kings to the brightness of thy rising.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8264580420592074
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 50,
                     "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8112517183263405
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 103,
                     "verse": 9,
                     "text": "For they were set to be a light unto the world, and to be the saviors of men;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8082691601034429
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 59,
                     "verse": 3,
                     "text": "Yea, blessed are they whose feet stand upon the land of Zion, who have obeyed my gospel; for they shall receive for their reward the good things of the earth, and it shall bring forth in its strength.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.807111264901292
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 59,
                     "text": "For the Lord shall be in their midst, and his glory shall be upon them, and he will be their king and their lawgiver.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8056945527723522
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 40,
                     "text": "And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace; that bringeth good tidings unto them of good, that publisheth salvation; that saith unto Zion: Thy God reigneth!",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8037428704671042
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Zechariah",
+                    "volume_book_index": 38,
                     "chapter": 9,
                     "verse": 16,
                     "text": "And the Lord their God shall save them in that day as the flock of his people: for they shall be as the stones of a crown, lifted up as an ensign upon his land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8028430697168009
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 50,
                     "verse": 41,
                     "text": "Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.802742823705209
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "1 Peter",
+                    "volume_book_index": 21,
+                    "chapter": 2,
+                    "verse": 9,
+                    "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801547026418378
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 16,
                     "verse": 31,
                     "text": "Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The Lord reigneth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8013321129952555
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 30,
                     "verse": 6,
                     "text": "And then shall they rejoice; for they shall know that it is a blessing unto them from the hand of God; and their scales of darkness shall begin to fall from their eyes; and many generations shall not pass away among them, save they shall be a pure and a delightsome people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8013090456037745
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 26,
+                    "text": "And they shall bring the glory and honour of the nations into it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9117647304254449
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 60,
+                    "verse": 3,
+                    "text": "And the Gentiles shall come to thy light, and kings to the brightness of thy rising.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9058203045022685
                 }
             ]
         },
@@ -2074,82 +1659,22 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 60,
                     "verse": 11,
                     "text": "Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8044268677527032
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 121,
-                    "verse": 6,
-                    "text": "The sun shall not smite thee by day, nor the moon by night.",
-                    "score": 0.797928687999426
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 34,
-                    "verse": 10,
-                    "text": "It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.",
-                    "score": 0.7837795250071673
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 44,
-                    "verse": 2,
-                    "text": "Then said the Lord unto me; This gate shall be shut, it shall not be opened, and no man shall enter in by it; because the Lord, the God of Israel, hath entered in by it, therefore it shall be shut.",
-                    "score": 0.7760686736767148
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 14,
-                    "verse": 6,
-                    "text": "And it shall come to pass in that day, that the light shall not be clear, nor dark:",
-                    "score": 0.7724896375496559
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 28,
-                    "text": "And in that day Satan shall not have power to tempt any man.",
-                    "score": 0.7662853833347103
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 3,
-                    "verse": 6,
-                    "text": "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.",
-                    "score": 0.7619304668512916
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 17,
-                    "verse": 27,
-                    "text": "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.",
-                    "score": 0.7587509710312703
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Amos",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "Shall not the day of the Lord be darkness, and not light? even very dark, and no brightness in it?",
-                    "score": 0.7580493263854328
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 46,
-                    "verse": 2,
-                    "text": "And the prince shall enter by the way of the porch of that gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening.",
-                    "score": 0.757645178926174
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 22,
+                    "verse": 5,
+                    "text": "And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9058611392975111
                 }
             ]
         },
@@ -2158,84 +1683,54 @@
             "text": "And they shall bring the glory and honour of the nations into it.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 24,
+                    "text": "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8501337414209599
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 89,
                     "verse": 17,
                     "text": "For thou art the glory of their strength: and in thy favour our horn shall be exalted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8052992209149781
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 45,
                     "verse": 15,
                     "text": "With gladness and rejoicing shall they be brought: they shall enter into the king's palace.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8042856516528512
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 9,
                     "text": "And I will make of thee a great nation, and I will bless thee above measure, and make thy name great among all nations, and thou shalt be a blessing unto thy seed after thee, that in their hands they shall bear this ministry and Priesthood unto all nations;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8032871162067846
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 28,
-                    "verse": 5,
-                    "text": "In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,",
-                    "score": 0.796704906126589
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 12,
-                    "verse": 2,
-                    "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:",
-                    "score": 0.796546675284393
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 59,
-                    "text": "For the Lord shall be in their midst, and his glory shall be upon them, and he will be their king and their lawgiver.",
-                    "score": 0.7948669327035734
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 110,
-                    "verse": 10,
-                    "text": "And the fame of this house shall spread to foreign lands; and this is the beginning of the blessing which shall be poured out upon the heads of my people. Even so. Amen.",
-                    "score": 0.7943105232390687
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 15,
-                    "verse": 14,
-                    "text": "And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.",
-                    "score": 0.7910743337143438
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 42,
-                    "verse": 12,
-                    "text": "Let them give glory unto the Lord, and declare his praise in the islands.",
-                    "score": 0.7903825296243254
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 66,
-                    "verse": 18,
-                    "text": "For I know their works and their thoughts: it shall come, that I will gather all nations and tongues; and they shall come, and see my glory.",
-                    "score": 0.7878570588873514
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 24,
+                    "text": "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9117647304254449
                 }
             ]
         },
@@ -2246,82 +1741,12 @@
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 17,
                     "verse": 1,
                     "text": "Thou shalt not sacrifice unto the Lord thy God any bullock, or sheep, wherein is blemish, or any evilfavouredness: for that is an abomination unto the Lord thy God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8067099748644848
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 9,
-                    "verse": 4,
-                    "text": "But flesh with the life thereof, which is the blood thereof, shall ye not eat.",
-                    "score": 0.795035227363915
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 7,
-                    "verse": 26,
-                    "text": "Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed thing.",
-                    "score": 0.7893446321674257
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 7,
-                    "verse": 24,
-                    "text": "And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it.",
-                    "score": 0.7887827824872021
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 14,
-                    "verse": 25,
-                    "text": "But the things which thou shalt see hereafter thou shalt not write; for the Lord God hath ordained the apostle of the Lamb of God that he should write them.",
-                    "score": 0.7876524671537894
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 22,
-                    "verse": 23,
-                    "text": "Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer for a freewill offering; but for a vow it shall not be accepted.",
-                    "score": 0.7868543971059236
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 18,
-                    "verse": 23,
-                    "text": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion.",
-                    "score": 0.7866030652287428
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 11,
-                    "verse": 42,
-                    "text": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination.",
-                    "score": 0.7858672862423557
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 11,
-                    "verse": 41,
-                    "text": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten.",
-                    "score": 0.783820943040664
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 22,
-                    "verse": 8,
-                    "text": "That which dieth of itself, or is torn with beasts, he shall not eat to defile himself therewith: I am the Lord.",
-                    "score": 0.7825887586113042
                 }
             ]
         }

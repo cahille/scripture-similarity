@@ -8,84 +8,114 @@
             "text": "And when the seventh month was come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 24,
-                    "verse": 33,
-                    "text": "And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,",
-                    "score": 0.7806755380361883
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 11,
-                    "verse": 52,
-                    "text": "And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.",
-                    "score": 0.764424897511861
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 9,
-                    "verse": 28,
-                    "text": "And he was with them coming in and going out at Jerusalem.",
-                    "score": 0.7631102669490016
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 25,
-                    "text": "And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together.",
-                    "score": 0.7628872890209392
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 21,
-                    "verse": 27,
-                    "text": "And when the seven days were almost ended, the Jews which were of Asia, when they saw him in the temple, stirred up all the people, and laid hands on him,",
-                    "score": 0.7564154110429178
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 19,
-                    "verse": 14,
-                    "text": "And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.",
-                    "score": 0.7554988328654337
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 14,
-                    "verse": 16,
-                    "text": "And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.",
-                    "score": 0.7535989088254742
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 12,
-                    "verse": 12,
-                    "text": "On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,",
-                    "score": 0.7528408043926231
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 7,
-                    "verse": 1,
-                    "text": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
-                    "score": 0.748463007875584
+                    "verse": 73,
+                    "text": "So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8712220035466928
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 5,
+                    "verse": 3,
+                    "text": "Wherefore all the men of Israel assembled themselves unto the king in the feast which was in the seventh month.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.814203210703811
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 7,
+                    "verse": 7,
+                    "text": "And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078122668121273
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 5,
+                    "verse": 3,
+                    "text": "Wherefore all the men of Israel assembled themselves unto the king in the feast which was in the seventh month.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.923967453123129
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9108720640127752
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 7,
+                    "verse": 73,
+                    "text": "So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9090193672507062
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 20,
                     "verse": 1,
-                    "text": "And when the day of Pentecost was fully come, they were all with one accord in one place.",
-                    "score": 0.7481242322295559
+                    "text": "Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beer-sheba, with the land of Gilead, unto the Lord in Mizpeh.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905578955176677
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 10,
+                    "verse": 7,
+                    "text": "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9052477905597313
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 15,
+                    "verse": 10,
+                    "text": "So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9050785516272717
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 8,
+                    "verse": 2,
+                    "text": "And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which is the seventh month.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9030440276343872
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 23,
+                    "verse": 2,
+                    "text": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902584752671551
                 }
             ]
         },
@@ -94,84 +124,194 @@
             "text": "Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8315972042364481
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 8,
+                    "verse": 31,
+                    "text": "As Moses the servant of the Lord commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up any iron: and they offered thereon burnt offerings unto the Lord, and sacrificed peace offerings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8277327482327823
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 10,
+                    "verse": 34,
+                    "text": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the Lord our God, as it is written in the law:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8174895825679928
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 40,
+                    "text": "To offer burnt offerings unto the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8174022877689128
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 6,
+                    "verse": 49,
+                    "text": "But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8172315652763811
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 6,
+                    "verse": 9,
+                    "text": "Command Aaron and his sons, saying, This is the law of the burnt offering: It is the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8171250625346673
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 40,
+                    "verse": 29,
+                    "text": "And he put the altar of burnt offering by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the Lord commanded Moses.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8163122217019859
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 9,
+                    "text": "Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8149621548869234
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 23,
+                    "verse": 18,
+                    "text": "Also Jehoiada appointed the offices of the house of the Lord by the hand of the priests the Levites, whom David had distributed in the house of the Lord, to offer the burnt offerings of the Lord, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128263792360992
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 27,
+                    "verse": 6,
+                    "text": "Thou shalt build the altar of the Lord thy God of whole stones: and thou shalt offer burnt offerings thereon unto the Lord thy God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8127721994220406
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 35,
+                    "verse": 14,
+                    "text": "And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8120979773837897
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 43,
+                    "verse": 18,
+                    "text": "And he said unto me, Son of man, thus saith the Lord God; These are the ordinances of the altar in the day when they shall make it, to offer burnt offerings thereon, and to sprinkle blood thereon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8099691411210107
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 10,
+                    "verse": 12,
+                    "text": "And Moses spake unto Aaron, and unto Eleazar and unto Ithamar, his sons that were left, Take the meat offering that remaineth of the offerings of the Lord made by fire, and eat it without leaven beside the altar: for it is most holy:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065071513452804
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049512413097101
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 2,
                     "verse": 3,
                     "text": "And they also took of the firstlings of their flocks, that they might offer sacrifice and burnt offerings according to the law of Moses;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.802573359431483
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 12,
+                    "verse": 1,
+                    "text": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006234354810717
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 9,
+                    "text": "Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.908647282477729
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9064139127731581
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 8,
                     "verse": 31,
-                    "text": "Therefore, as I said concerning the sons of Moses--for the sons of Moses and also the sons of Aaron shall offer an acceptable offering and sacrifice in the house of the Lord, which house shall be built unto the Lord in this generation, upon the consecrated spot as I have appointed--",
-                    "score": 0.7859529102072988
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 14,
-                    "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
-                    "score": 0.7763330624212893
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 1,
-                    "verse": 8,
-                    "text": "Now, at this time it was the custom of the priest of Pharaoh, the king of Egypt, to offer up upon the altar which was built in the land of Chaldea, for the offering unto these strange gods, men, women, and children.",
-                    "score": 0.7709446472247714
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:",
-                    "score": 0.7624265305167122
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 25,
-                    "verse": 4,
-                    "text": "Remember ye the law of Moses, my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
-                    "score": 0.7606135601739158
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 4,
-                    "verse": 6,
-                    "text": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
-                    "score": 0.75883841907065
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 8,
-                    "text": "Now the sons of Mosiah were numbered among the unbelievers; and also one of the sons of Alma was numbered among them, he being called Alma, after his father; nevertheless, he became a very wicked and an idolatrous man. And he was a man of many words, and did speak much flattery to the people; therefore he led many of the people to do after the manner of his iniquities.",
-                    "score": 0.7577182394844509
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
-                    "verse": 11,
-                    "text": "If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?",
-                    "score": 0.7570918806589786
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 4,
-                    "verse": 5,
-                    "text": "Behold, they believed in Christ and worshiped the Father in his name, and also we worship the Father in his name. And for this intent we keep the law of Moses, it pointing our souls to him; and for this cause it is sanctified unto us for righteousness, even as it was accounted unto Abraham in the wilderness to be obedient unto the commands of God in offering up his son Isaac, which is a similitude of God and his Only Begotten Son.",
-                    "score": 0.7561611814453322
+                    "text": "As Moses the servant of the Lord commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up any iron: and they offered thereon burnt offerings unto the Lord, and sacrificed peace offerings.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055130481720228
                 }
             ]
         },
@@ -180,84 +320,74 @@
             "text": "And they set the altar upon his bases; for fear was upon them because of the people of those countries: and they offered burnt offerings thereon unto the Lord, even burnt offerings morning and evening.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 23,
-                    "text": "And behold, we will set our armies between the land Jershon and the land Nephi, that we may protect our brethren in the land Jershon; and this we do for our brethren, on account of their fear to take up arms against their brethren lest they should commit sin; and this their great fear came because of their sore repentance which they had, on account of their many murders and their awful wickedness.",
-                    "score": 0.7764254689400709
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 40,
+                    "text": "To offer burnt offerings unto the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045705129774618
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 75,
-                    "text": "And all nations shall be afraid because of the terror of the Lord, and the power of his might. Even so. Amen.",
-                    "score": 0.7725303858051727
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 21,
+                    "verse": 26,
+                    "text": "And David built there an altar unto the Lord, and offered burnt offerings and peace offerings, and called upon the Lord; and he answered him from heaven by fire upon the altar of burnt offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036399900133535
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 8,
-                    "verse": 10,
-                    "text": "And it came to pass that those people who sought to destroy Nephi were compelled because of their fear, that they did not lay their hands on him; therefore he began again to speak unto them, seeing that he had gained favor in the eyes of some, insomuch that the remainder of them did fear.",
-                    "score": 0.7709797232847893
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 13,
+                    "verse": 11,
+                    "text": "And they burn unto the Lord every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the Lord our God; but ye have forsaken him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803351610755389
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 21,
+                    "verse": 4,
+                    "text": "And it came to pass on the morrow, that the people rose early, and built there an altar, and offered burnt offerings and peace offerings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029285028778479
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
                     "chapter": 1,
-                    "verse": 37,
-                    "text": "For behold, the day cometh that shall burn as an oven, and all the proud, yea, and all that do wickedly shall burn as stubble; for they that come shall burn them, saith the Lord of Hosts, that it shall leave them neither root nor branch.",
-                    "score": 0.7663672972659628
+                    "verse": 16,
+                    "text": "Then the men feared the Lord exceedingly, and offered a sacrifice unto the Lord, and made vows.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010143224780797
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 3,
-                    "text": "And they also took of the firstlings of their flocks, that they might offer sacrifice and burnt offerings according to the law of Moses;",
-                    "score": 0.7658762823767145
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 21,
+                    "verse": 4,
+                    "text": "And it came to pass on the morrow, that the people rose early, and built there an altar, and offered burnt offerings and peace offerings.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9155853986740112
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "And it came to pass that they did rejoice exceedingly, and did offer sacrifice and burnt offerings unto the Lord; and they gave thanks unto the God of Israel.",
-                    "score": 0.7650982747838119
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 17,
-                    "text": "The fear of the Lord was upon all nations, so great was the glory of the Lord, which was upon his people. And the Lord blessed the land, and they were blessed upon the mountains, and upon the high places, and did flourish.",
-                    "score": 0.7650370340605992
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 46,
-                    "text": "Therefore, O Lord, deliver thy people from the calamity of the wicked; enable thy servants to seal up the law, and bind up the testimony, that they may be prepared against the day of burning.",
-                    "score": 0.7644637725378283
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 24,
-                    "text": "Therefore, thus saith the Lord God of Hosts: O my people that dwellest in Zion, be not afraid of the Assyrian; he shall smite thee with a rod, and shall lift up his staff against thee, after the manner of Egypt.",
-                    "score": 0.7644598348337657
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 15,
-                    "text": "Thus they were a very indolent people, many of whom did worship idols, and the curse of God had fallen upon them because of the traditions of their fathers; notwithstanding the promises of the Lord were extended unto them on the conditions of repentance.",
-                    "score": 0.7642704912508494
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 21,
+                    "verse": 26,
+                    "text": "And David built there an altar unto the Lord, and offered burnt offerings and peace offerings, and called upon the Lord; and he answered him from heaven by fire upon the altar of burnt offering.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9011646122781621
                 }
             ]
         },
@@ -266,84 +396,114 @@
             "text": "They kept also the feast of tabernacles, as it is written, and offered the daily burnt offerings by number, according to the custom, as the duty of every day required;",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 23,
-                    "text": "And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.",
-                    "score": 0.7755590619588725
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 24,
+                    "text": "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the Lord: it shall be offered beside the continual burnt offering, and his drink offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8310962808305145
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 7,
-                    "verse": 2,
-                    "text": "Now the Jews' feast of tabernacles was at hand.",
-                    "score": 0.7689738905653113
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 40,
+                    "text": "To offer burnt offerings unto the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8302807116048454
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 30,
-                    "text": "Therefore there was a law given them, yea, a law of performances and of ordinances, a law which they were to observe strictly from day to day, to keep them in remembrance of God and their duty towards him.",
-                    "score": 0.765475731986834
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 23,
-                    "verse": 56,
-                    "text": "And they returned, and prepared spices and ointments; and rested the sabbath day according to the commandment.",
-                    "score": 0.7576246584670417
+                    "verse": 31,
+                    "text": "And to offer all burnt sacrifices unto the Lord in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the Lord:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8245705692889437
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
-                    "verse": 27,
-                    "text": "Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.",
-                    "score": 0.7528608149061377
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 37,
+                    "text": "These are the feasts of the Lord, which ye shall proclaim to be holy convocations, to offer an offering made by fire unto the Lord, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8195021836612801
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 25,
-                    "text": "And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together.",
-                    "score": 0.7527872185150026
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 6,
+                    "text": "Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166298535205504
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 5,
+                    "text": "And afterward offered the continual burnt offering, both of the new moons, and of all the set feasts of the Lord that were consecrated, and of every one that willingly offered a freewill offering unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8124620674232759
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 45,
+                    "verse": 23,
+                    "text": "And seven days of the feast he shall prepare a burnt offering to the Lord, seven bullocks and seven rams without blemish daily the seven days; and a kid of the goats daily for a sin offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8096966088467278
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 31,
                     "verse": 3,
-                    "text": "And they also took of the firstlings of their flocks, that they might offer sacrifice and burnt offerings according to the law of Moses;",
-                    "score": 0.751491062056371
+                    "text": "He appointed also the king's portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806500480601098
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 23,
-                    "verse": 54,
-                    "text": "And that day was the preparation, and the sabbath drew on.",
-                    "score": 0.7503425642326765
+                    "verse": 31,
+                    "text": "And to offer all burnt sacrifices unto the Lord in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the Lord:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905867094151206
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "And it came to pass that they did rejoice exceedingly, and did offer sacrifice and burnt offerings unto the Lord; and they gave thanks unto the God of Israel.",
-                    "score": 0.7493182904630837
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 40,
+                    "text": "To offer burnt offerings unto the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9048802909326524
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 23,
-                    "text": "Behold, now it is called today until the coming of the Son of Man, and verily it is a day of sacrifice, and a day for the tithing of my people; for he that is tithed shall not be burned at his coming.",
-                    "score": 0.7488008274830714
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 18,
+                    "text": "Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9031344863594614
                 }
             ]
         },
@@ -352,84 +512,304 @@
             "text": "And afterward offered the continual burnt offering, both of the new moons, and of all the set feasts of the Lord that were consecrated, and of every one that willingly offered a freewill offering unto the Lord.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "And it came to pass that they did rejoice exceedingly, and did offer sacrifice and burnt offerings unto the Lord; and they gave thanks unto the God of Israel.",
-                    "score": 0.7858431149143057
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 23,
+                    "verse": 31,
+                    "text": "And to offer all burnt sacrifices unto the Lord in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the Lord:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8789139662007082
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 10,
+                    "verse": 33,
+                    "text": "For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8589571951065209
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 37,
+                    "text": "These are the feasts of the Lord, which ye shall proclaim to be holy convocations, to offer an offering made by fire unto the Lord, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8500075816659037
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 10,
+                    "text": "This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8345037669406246
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 15,
                     "verse": 3,
-                    "text": "And they also took of the firstlings of their flocks, that they might offer sacrifice and burnt offerings according to the law of Moses;",
-                    "score": 0.7748168196247107
+                    "text": "And will make an offering by fire unto the Lord, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the Lord, of the herd, or of the flock:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8323811393420033
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;",
-                    "score": 0.7699041368952261
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "It is a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8294253092521667
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 9,
-                    "verse": 19,
-                    "text": "And ye shall offer up unto me no more the shedding of blood; yea, your sacrifices and your burnt offerings shall be done away, for I will accept none of your sacrifices and your burnt offerings.",
-                    "score": 0.7648607672595388
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 6,
+                    "text": "Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8292476043484458
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 7,
-                    "text": "And it came to pass that he built an altar of stones, and made an offering unto the Lord, and gave thanks unto the Lord our God.",
-                    "score": 0.7619452052734424
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 9,
-                    "verse": 49,
-                    "text": "For every one shall be salted with fire, and every sacrifice shall be salted with salt.",
-                    "score": 0.7615929151218394
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 10,
-                    "verse": 14,
-                    "text": "For by one offering he hath perfected for ever them that are sanctified.",
-                    "score": 0.7606557608877015
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 4,
-                    "text": "And when they had eaten and were filled, he commanded that they should give unto the multitude.",
-                    "score": 0.7606370965590818
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 14,
-                    "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
-                    "score": 0.7578664766340537
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 128,
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
                     "verse": 24,
-                    "text": "Behold, the great day of the Lord is at hand; and who can abide the day of his coming, and who can stand when he appeareth? For he is like a refiner's fire, and like fuller's soap; and he shall sit as a refiner and purifier of silver, and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness. Let us, therefore, as a church and a people, and as Latter-day Saints, offer unto the Lord an offering in righteousness; and let us present in his holy temple, when it is finished, a book containing the records of our dead, which shall be worthy of all acceptation.",
-                    "score": 0.7573089101272783
+                    "text": "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the Lord: it shall be offered beside the continual burnt offering, and his drink offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8270217357376168
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 23,
+                    "text": "Ye shall offer these beside the burnt offering in the morning, which is for a continual burnt offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8232712894625936
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 31,
+                    "text": "Ye shall offer them beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8200032796675145
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 31,
+                    "verse": 3,
+                    "text": "He appointed also the king's portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8175944186715871
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 40,
+                    "text": "To offer burnt offerings unto the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152399245537264
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 29,
+                    "verse": 25,
+                    "text": "And thou shalt receive them of their hands, and burn them upon the altar for a burnt offering, for a sweet savour before the Lord: it is an offering made by fire unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8137241364708555
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "They kept also the feast of tabernacles, as it is written, and offered the daily burnt offerings by number, according to the custom, as the duty of every day required;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8124620674232759
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 39,
+                    "text": "These things ye shall do unto the Lord in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8123043453162445
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 27,
+                    "verse": 6,
+                    "text": "Thou shalt build the altar of the Lord thy God of whole stones: and thou shalt offer burnt offerings thereon unto the Lord thy God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809701696204272
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 20,
+                    "verse": 3,
+                    "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085772655859662
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 8,
+                    "verse": 28,
+                    "text": "And Moses took them from off their hands, and burnt them on the altar upon the burnt offering: they were consecrations for a sweet savour: it is an offering made by fire unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082768584109427
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 3,
+                    "text": "And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the Lord; two lambs of the first year without spot day by day, for a continual burnt offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8080196904174389
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 51,
+                    "verse": 19,
+                    "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056254133672256
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 8,
+                    "verse": 13,
+                    "text": "Even after a certain rate every day, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the solemn feasts, three times in the year, even in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054463352515135
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 29,
+                    "verse": 21,
+                    "text": "And they sacrificed sacrifices unto the Lord, and offered burnt offerings unto the Lord, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8019352919137752
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 23,
+                    "verse": 31,
+                    "text": "And to offer all burnt sacrifices unto the Lord in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the Lord:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.828569313458292
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 23,
+                    "verse": 31,
+                    "text": "And to offer all burnt sacrifices unto the Lord in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the Lord:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.932403032040417
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 35,
+                    "text": "And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the Lord was set in order.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9051067885692857
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 31,
+                    "verse": 3,
+                    "text": "He appointed also the king's portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9043752126022809
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 6,
+                    "text": "Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9036487994403378
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 40,
+                    "text": "To offer burnt offerings unto the Lord upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the Lord, which he commanded Israel;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028596455705815
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 37,
+                    "text": "These are the feasts of the Lord, which ye shall proclaim to be holy convocations, to offer an offering made by fire unto the Lord, a burnt offering, and a meat offering, a sacrifice, and drink offerings, every thing upon his day:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9025883674621646
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 29,
+                    "verse": 21,
+                    "text": "And they sacrificed sacrifices unto the Lord, and offered burnt offerings unto the Lord, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9003208160783089
                 }
             ]
         },
@@ -438,84 +818,14 @@
             "text": "From the first day of the seventh month began they to offer burnt offerings unto the Lord. But the foundation of the temple of the Lord was not yet laid.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 3,
-                    "text": "And they also took of the firstlings of their flocks, that they might offer sacrifice and burnt offerings according to the law of Moses;",
-                    "score": 0.7617978648923478
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 13,
-                    "text": "And Alma said: Be it according to the will of the Lord. But, behold, our work is not finished; therefore they burn us not.",
-                    "score": 0.7570641833771827
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 10,
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
                     "verse": 8,
-                    "text": "Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;",
-                    "score": 0.7510047591155489
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 9,
-                    "verse": 8,
-                    "text": "The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:",
-                    "score": 0.7494845456422013
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 15,
-                    "verse": 8,
-                    "text": "And the temple was filled with smoke from the glory of God, and from his power; and no man was able to enter into the temple, till the seven plagues of the seven angels were fulfilled.",
-                    "score": 0.7463656802753272
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 8,
-                    "verse": 20,
-                    "text": "These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.",
-                    "score": 0.7440945995226258
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 14,
-                    "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
-                    "score": 0.7429442746721225
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 128,
-                    "verse": 24,
-                    "text": "Behold, the great day of the Lord is at hand; and who can abide the day of his coming, and who can stand when he appeareth? For he is like a refiner's fire, and like fuller's soap; and he shall sit as a refiner and purifier of silver, and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness. Let us, therefore, as a church and a people, and as Latter-day Saints, offer unto the Lord an offering in righteousness; and let us present in his holy temple, when it is finished, a book containing the records of our dead, which shall be worthy of all acceptation.",
-                    "score": 0.7421436569422541
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 18,
-                    "text": "But the seventh day, the sabbath of the Lord thy God, thou shalt not do any work, thou, nor thy son, nor thy daughter, thy man-servant, nor thy maid-servant, nor thy cattle, nor thy stranger that is within thy gates;",
-                    "score": 0.739141894984953
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 28,
-                    "text": "And it came to pass that the Lord commanded him that he should seal up the two stones which he had received, and show them not, until the Lord should show them unto the children of men.",
-                    "score": 0.7365879628668937
+                    "text": "But ye shall offer an offering made by fire unto the Lord seven days: in the seventh day is an holy convocation: ye shall do no servile work therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148235587766635
                 }
             ]
         },
@@ -524,84 +834,14 @@
             "text": "They gave money also unto the masons, and to the carpenters; and meat, and drink, and oil, unto them of Zidon, and to them of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had of Cyrus king of Persia.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
-                    "verse": 13,
-                    "text": "Yea, and the day of the Lord shall come upon all the cedars of Lebanon, for they are high and lifted up; and upon all the oaks of Bashan;",
-                    "score": 0.7520550928677845
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 117,
-                    "verse": 14,
-                    "text": "Therefore, let him come up hither speedily, unto the land of Zion; and in the due time he shall be made a merchant unto my name, saith the Lord, for the benefit of my people.",
-                    "score": 0.7452229217269684
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 43,
-                    "text": "Nevertheless, let him impart all the money which he can impart, to be sent up unto the land of Zion.",
-                    "score": 0.7418985689546397
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 4,
-                    "verse": 37,
-                    "text": "Having land, sold it, and brought the money, and laid it at the apostles' feet.",
-                    "score": 0.7410317129897419
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 50,
-                    "text": "Come, my brethren, every one that thirsteth, come ye to the waters; and he that hath no money, come buy and eat; yea, come buy wine and milk without money and without price.",
-                    "score": 0.7394085409102092
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 6,
-                    "verse": 23,
-                    "text": "(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)",
-                    "score": 0.7392299539999893
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Words of Mormon",
-                    "chapter": 1,
-                    "verse": 18,
-                    "text": "Wherefore, with the help of these, king Benjamin, by laboring with all the might of his body and the faculty of his whole soul, and also the prophets, did once more establish peace in the land.",
-                    "score": 0.7386425049091887
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 13,
-                    "text": "And it came to pass that he caused many buildings to be built in the land Shilom; and he caused a great tower to be built on the hill north of the land Shilom, which had been a resort for the children of Nephi at the time they fled out of the land; and thus he did do with the riches which he obtained by the taxation of his people.",
-                    "score": 0.7372941694781389
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 5,
-                    "text": "And when they had given unto the multitude he also gave them wine to drink, and commanded them that they should give unto the multitude.",
-                    "score": 0.7370701469530017
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 40,
-                    "text": "And let all the moneys which can be spared, it mattereth not unto me whether it be little or much, be sent up unto the land of Zion, unto them whom I have appointed to receive.",
-                    "score": 0.7359580161043456
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 22,
+                    "verse": 4,
+                    "text": "Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035674277509669
                 }
             ]
         },
@@ -610,84 +850,164 @@
             "text": "Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the Lord.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 10,
-                    "text": "And then cometh the New Jerusalem; and blessed are they who dwell therein, for it is they whose garments are white through the blood of the Lamb; and they are they who are numbered among the remnant of the seed of Joseph, who were of the house of Israel.",
-                    "score": 0.7657036106240155
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8703649867704318
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 16,
-                    "text": "And the friends of Jared and his brother were in number about twenty and two souls; and they also begat sons and daughters before they came to the promised land; and therefore they began to be many.",
-                    "score": 0.7654971772705759
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 32,
-                    "text": "And the sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion in the Lord's house, whose sons are ye; and also many whom I have called and sent forth to build up my church.",
-                    "score": 0.7641054613239211
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 15,
-                    "verse": 14,
-                    "text": "And at that day shall the remnant of our seed know that they are of the house of Israel, and that they are the covenant people of the Lord; and then shall they know and come to the knowledge of their forefathers, and also to the knowledge of the gospel of their Redeemer, which was ministered unto their fathers by him; wherefore, they shall come to the knowledge of their Redeemer and the very points of his doctrine, that they may know how to come unto him and be saved.",
-                    "score": 0.7634368119093385
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 1,
-                    "verse": 29,
-                    "text": "And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.",
-                    "score": 0.7615781664830026
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:",
-                    "score": 0.761290881971909
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 27,
-                    "text": "And now it came to pass in the second month of this year, there was brought unto us many provisions from the fathers of those my two thousand sons.",
-                    "score": 0.7603687022733905
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 3,
-                    "verse": 13,
-                    "text": "And out of weakness he shall be made strong, in that day when my work shall commence among all my people, unto the restoring thee, O house of Israel, saith the Lord.",
-                    "score": 0.7600560948025914
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 12,
-                    "verse": 3,
-                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
-                    "score": 0.7587945082810864
+                    "verse": 1,
+                    "text": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8437753339508788
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8225129745182456
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 1,
+                    "verse": 1,
+                    "text": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8124479720436417
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 9,
+                    "text": "Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073137538800905
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 6,
-                    "verse": 7,
-                    "text": "And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;",
-                    "score": 0.7583082668120532
+                    "verse": 1,
+                    "text": "And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month Zif, which is the second month, that he began to build the house of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80657592642642
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 2,
+                    "text": "Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049512413097101
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 11,
+                    "verse": 12,
+                    "text": "And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037526789779321
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the Lord which is in Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024636724633867
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8019398826875052
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 31,
+                    "verse": 17,
+                    "text": "Both to the genealogy of the priests by the house of their fathers, and the Levites from twenty years old and upward, in their charges by their courses;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011509442331513
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 12,
+                    "verse": 1,
+                    "text": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9191822779909822
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9142469542401873
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9116684960825027
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 1,
+                    "verse": 12,
+                    "text": "Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018378526520093
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 1,
+                    "verse": 1,
+                    "text": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9017604379272169
                 }
             ]
         },
@@ -696,84 +1016,174 @@
             "text": "Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 32,
-                    "text": "And the sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion in the Lord's house, whose sons are ye; and also many whom I have called and sent forth to build up my church.",
-                    "score": 0.7813052137701461
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8163753450383429
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 8,
-                    "verse": 13,
-                    "text": "And Noah and his sons hearkened unto the Lord, and gave heed, and they were called the sons of God.",
-                    "score": 0.7718346323522212
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 31,
-                    "text": "Therefore, as I said concerning the sons of Moses--for the sons of Moses and also the sons of Aaron shall offer an acceptable offering and sacrifice in the house of the Lord, which house shall be built unto the Lord in this generation, upon the consecrated spot as I have appointed--",
-                    "score": 0.7682683902037097
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 1,
-                    "verse": 18,
-                    "text": "And now, it came to pass that Mosiah went and did as his father had commanded him, and proclaimed unto all the people who were in the land of Zarahemla that thereby they might gather themselves together, to go up to the temple to hear the words which his father should speak unto them.",
-                    "score": 0.7651488247640921
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 48,
-                    "verse": 18,
-                    "text": "Behold, he was a man like unto Ammon, the son of Mosiah, yea, and even the other sons of Mosiah, yea, and also Alma and his sons, for they were all men of God.",
-                    "score": 0.763419769229123
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 16,
-                    "text": "Therefore, he caused that his sons should be gathered together, that he might give unto them every one his charge, separately, concerning the things pertaining unto righteousness. And we have an account of his commandments, which he gave unto them according to his own record.",
-                    "score": 0.7582742027661594
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 32,
-                    "verse": 5,
-                    "text": "And they came unto Alma; and the one who was the foremost among them said unto him: Behold, what shall these my brethren do, for they are despised of all men because of their poverty, yea, and more especially by our priests; for they have cast us out of our synagogues which we have labored abundantly to build with our own hands; and they have cast us out because of our exceeding poverty; and we have no place to worship our God; and behold, what shall we do?",
-                    "score": 0.7562810267806235
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7560331234235544
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 58,
-                    "text": "That from among all these, thy servants, the sons of Jacob, may gather out the righteous to build a holy city to thy name, as thou hast commanded them.",
-                    "score": 0.7558567583676103
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
                     "chapter": 3,
-                    "verse": 13,
-                    "text": "And out of weakness he shall be made strong, in that day when my work shall commence among all my people, unto the restoring thee, O house of Israel, saith the Lord.",
-                    "score": 0.7551840069320632
+                    "verse": 2,
+                    "text": "Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8149621548869234
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117894862091548
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 2,
+                    "verse": 40,
+                    "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8115480166661387
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 7,
+                    "verse": 43,
+                    "text": "The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8089119283566222
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073137538800905
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the Lord which is in Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8072427232729799
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 25,
+                    "verse": 15,
+                    "text": "The eighth to Jeshaiah, he, his sons, and his brethren, were twelve:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064579822536471
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 8,
+                    "verse": 19,
+                    "text": "And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035188867599582
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 12,
+                    "text": "Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002658815536672
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9212979172113303
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 2,
+                    "text": "Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.908647282477729
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 2,
+                    "verse": 40,
+                    "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9069481977162597
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 12,
+                    "verse": 24,
+                    "text": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9035207610943625
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the Lord which is in Jerusalem.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028960888796027
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 12,
+                    "text": "Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020199238050174
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 9,
+                    "verse": 4,
+                    "text": "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the Lord their God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9007441997528141
                 }
             ]
         },
@@ -782,84 +1192,104 @@
             "text": "And when the builders laid the foundation of the temple of the Lord, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the Lord, after the ordinance of David king of Israel.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "And then began these men to call upon the name of the Lord, and the Lord blessed them;",
-                    "score": 0.7555165327238447
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 26,
+                    "text": "And the Levites stood with the instruments of David, and the priests with the trumpets.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8212670022007355
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 2,
-                    "verse": 21,
-                    "text": "In whom all the building fitly framed together groweth unto an holy temple in the Lord:",
-                    "score": 0.7485141967959342
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 32,
-                    "text": "And the sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion in the Lord's house, whose sons are ye; and also many whom I have called and sent forth to build up my church.",
-                    "score": 0.746934962813132
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 32,
-                    "text": "But behold, it came to pass that the king, having discovered a movement among the people, sent his servants to watch them. Therefore on the day that they were assembling themselves together to hear the word of the Lord they were discovered unto the king.",
-                    "score": 0.7450366869311316
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 23,
-                    "verse": 4,
-                    "text": "And now it came to pass that when the king had sent forth this proclamation, that Aaron and his brethren went forth from city to city, and from one house of worship to another, establishing churches, and consecrating priests and teachers throughout the land among the Lamanites, to preach and to teach the word of God among them; and thus they began to have great success.",
-                    "score": 0.7418508040108236
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 23,
-                    "text": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
-                    "score": 0.7402999574703956
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 4,
-                    "text": "Verily this is the word of the Lord, that the city New Jerusalem shall be built by the gathering of the saints, beginning at this place, even the place of the temple, which temple shall be reared in this generation.",
-                    "score": 0.7385703441606098
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 94,
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
                     "verse": 6,
-                    "text": "And it shall be dedicated unto the Lord from the foundation thereof, according to the order of the priesthood, according to the pattern which shall be given unto you hereafter.",
-                    "score": 0.735822246630138
+                    "text": "And the priests waited on their offices: the Levites also with instruments of musick of the Lord, which David the king had made to praise the Lord, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151358188616034
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 24,
-                    "verse": 53,
-                    "text": "And were continually in the temple, praising and blessing God. Amen.",
-                    "score": 0.7357394102419026
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 25,
+                    "text": "And he set the Levites in the house of the Lord with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king's seer, and Nathan the prophet: for so was the commandment of the Lord by his prophets.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8052978240441024
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 11,
-                    "verse": 1,
-                    "text": "And there was given me a reed like unto a rod: and the angel stood, saying, Rise, and measure the temple of God, and the altar, and them that worship therein.",
-                    "score": 0.735639208640541
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 30,
+                    "text": "Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the Lord with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003784098922743
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
+                    "verse": 6,
+                    "text": "And the priests waited on their offices: the Levites also with instruments of musick of the Lord, which David the king had made to praise the Lord, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9232801795005864
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 5,
+                    "verse": 12,
+                    "text": "Also the Levites which were the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, being arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9161303266403376
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 25,
+                    "text": "And he set the Levites in the house of the Lord with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king's seer, and Nathan the prophet: for so was the commandment of the Lord by his prophets.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9151985150339249
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 26,
+                    "text": "And the Levites stood with the instruments of David, and the priests with the trumpets.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9107445372038528
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 15,
+                    "verse": 16,
+                    "text": "And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9034708738327091
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 35,
+                    "verse": 15,
+                    "text": "And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king's seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9008121012673513
                 }
             ]
         },
@@ -868,84 +1298,234 @@
             "text": "And they sang together by course in praising and giving thanks unto the Lord; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the Lord, because the foundation of the house of the Lord was laid.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 5,
+                    "verse": 13,
+                    "text": "It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the Lord; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the Lord, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the Lord;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8517601248068168
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 63,
+                    "verse": 7,
+                    "text": "I will mention the lovingkindnesses of the Lord, and the praises of the Lord, according to all that the Lord hath bestowed on us, and the great goodness toward the house of Israel, which he hath bestowed on them according to his mercies, and according to the multitude of his lovingkindnesses.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8377848308137927
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
+                    "verse": 3,
+                    "text": "And when all the children of Israel saw how the fire came down, and the glory of the Lord upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the Lord, saying, For he is good; for his mercy endureth for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8305653165961705
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 36,
+                    "text": "Blessed be the Lord God of Israel for ever and ever. And all the people said, Amen, and praised the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8268127937125015
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 7,
+                    "text": "For thus saith the Lord; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O Lord, save thy people, the remnant of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8262489890792046
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8197809076987141
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 24,
                     "verse": 22,
                     "text": "And they gave thanks to God, yea, all their men and all their women and all their children that could speak lifted their voices in the praises of their God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8158914784799267
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 106,
+                    "verse": 1,
+                    "text": "Praise ye the Lord. O give thanks unto the Lord; for he is good: for his mercy endureth for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8150952543596749
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 92,
+                    "verse": 1,
+                    "text": "It is a good thing to give thanks unto the Lord, and to sing praises unto thy name, O most High:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140952500812313
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 6,
                     "verse": 9,
                     "text": "And they did sing praises unto the Lord; yea, the brother of Jared did sing praises unto the Lord, and he did thank and praise the Lord all the day long; and when the night came, they did not cease to praise the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8102530328152014
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 147,
+                    "verse": 1,
+                    "text": "Praise ye the Lord: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8100034997660395
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 4,
                     "verse": 31,
                     "text": "And it came to pass that they did break forth, all as one, in singing, and praising their God for the great thing which he had done for them, in preserving them from falling into the hands of their enemies.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8097559291886722
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 33,
+                    "verse": 11,
+                    "text": "The voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the Lord of hosts: for the Lord is good; for his mercy endureth for ever: and of them that shall bring the sacrifice of praise into the house of the Lord. For I will cause to return the captivity of the land, as at the first, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083086625124335
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 108,
+                    "verse": 3,
+                    "text": "I will praise thee, O Lord, among the people: and I will sing praises unto thee among the nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8058425926952422
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 106,
+                    "verse": 48,
+                    "text": "Blessed be the Lord God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8043880981976563
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 138,
                     "verse": 24,
                     "text": "Their countenances shone, and the radiance from the presence of the Lord rested upon them, and they sang praises unto his holy name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8027140484204036
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 15,
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 135,
+                    "verse": 19,
+                    "text": "Bless the Lord, O house of Israel: bless the Lord, O house of Aaron:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802365687424027
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 30,
+                    "text": "Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the Lord with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010549236784292
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 136,
                     "verse": 11,
-                    "text": "And again, Praise the Lord, all ye Gentiles; and laud him, all ye people.",
-                    "score": 0.7932616098779831
+                    "text": "And brought out Israel from among them: for his mercy endureth for ever:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005833100699602
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 13,
-                    "verse": 22,
-                    "text": "Yea, and the voice of the Lord, by the mouth of angels, doth declare it unto all nations; yea, doth declare it, that they may have glad tidings of great joy; yea, and he doth sound these glad tidings among all his people, yea, even to them that are scattered abroad upon the face of the earth; wherefore they have come unto us.",
-                    "score": 0.7927220982418086
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 57,
+                    "verse": 9,
+                    "text": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003588565314724
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 14,
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
                     "verse": 3,
-                    "text": "Long time therefore abode they speaking boldly in the Lord, which gave testimony unto the word of his grace, and granted signs and wonders to be done by their hands.",
-                    "score": 0.7891341703456921
+                    "text": "And when all the children of Israel saw how the fire came down, and the glory of the Lord upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the Lord, saying, For he is good; for his mercy endureth for ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9182172740037261
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 5,
+                    "verse": 13,
+                    "text": "It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the Lord; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the Lord, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the Lord;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.91124487452241
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 3,
-                    "verse": 24,
-                    "text": "And there shall rise up one mighty among them, who shall do much good, both in word and in deed, being an instrument in the hands of God, with exceeding faith, to work mighty wonders, and do that thing which is great in the sight of God, unto the bringing to pass much restoration unto the house of Israel, and unto the seed of thy brethren.",
-                    "score": 0.7875145416545117
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 1,
-                    "text": "Thanks be to thy name, O Lord God of Israel, who keepest covenant and showest mercy unto thy servants who walk uprightly before thee, with all their hearts--",
-                    "score": 0.7867619462237166
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 25,
-                    "verse": 24,
-                    "text": "And they were called the people of God. And the Lord did pour out his Spirit upon them, and they were blessed, and prospered in the land.",
-                    "score": 0.7841066100455006
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 4,
+                    "verse": 31,
+                    "text": "And it came to pass that they did break forth, all as one, in singing, and praising their God for the great thing which he had done for them, in preserving them from falling into the hands of their enemies.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9010240016536726
                 }
             ]
         },
@@ -954,172 +1534,21 @@
             "text": "But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 5,
-                    "verse": 38,
-                    "text": "And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.",
-                    "score": 0.7838893499873388
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 15,
-                    "text": "And there shall be weeping and wailing among the hosts of men;",
-                    "score": 0.7769584813897009
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 4,
-                    "verse": 9,
-                    "text": "And it came to pass that when the armies of Giddianhi saw this they began to shout with a loud voice, because of their joy, for they had supposed that the Nephites had fallen with fear because of the terror of their armies.",
-                    "score": 0.7573657385771195
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 21,
-                    "verse": 15,
-                    "text": "And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the Son of David; they were sore displeased,",
-                    "score": 0.7543522005372911
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 37,
-                    "text": "And it came to pass that Enoch went forth in the land, among the people, standing upon the hills and the high places, and cried with a loud voice, testifying against their works; and all men were offended because of him.",
-                    "score": 0.7521272853737868
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 5,
-                    "verse": 17,
-                    "text": "Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,",
-                    "score": 0.7496417974115067
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 4,
-                    "verse": 1,
-                    "text": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,",
-                    "score": 0.7472267922359523
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 8,
-                    "verse": 7,
-                    "text": "For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed.",
-                    "score": 0.7464582628713555
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 12,
-                    "text": "And they did land upon the shore of the promised land. And when they had set their feet upon the shores of the promised land they bowed themselves down upon the face of the land, and did humble themselves before the Lord, and did shed tears of joy before the Lord, because of the multitude of his tender mercies over them.",
-                    "score": 0.7444488847286369
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 15,
-                    "verse": 8,
-                    "text": "And the multitude crying aloud began to desire him to do as he had ever done unto them.",
-                    "score": 0.7434998415672411
+                    "verse": 2,
+                    "text": "And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039541365693501
                 }
             ]
         },
         {
             "verse": 13,
             "text": "So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 12,
-                    "verse": 29,
-                    "text": "The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him.",
-                    "score": 0.7747754562515728
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 9,
-                    "verse": 1,
-                    "text": "And it came to pass that there was a voice heard among all the inhabitants of the earth, upon all the face of this land, crying:",
-                    "score": 0.7635072506462872
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 15,
-                    "text": "And there shall be weeping and wailing among the hosts of men;",
-                    "score": 0.7606012279568858
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 10,
-                    "verse": 2,
-                    "text": "For so great was the astonishment of the people that they did cease lamenting and howling for the loss of their kindred which had been slain; therefore there was silence in all the land for the space of many hours.",
-                    "score": 0.7585322587238126
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And now it came to pass that after the people had heard these words, behold, they began to weep and howl again because of the loss of their kindred and friends.",
-                    "score": 0.757549900013748
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 11,
-                    "text": "And now when the people had heard these words, they clapped their hands for joy, and exclaimed: This is the desire of our hearts.",
-                    "score": 0.7549169159692152
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 27,
-                    "text": "Behold, O God, they cry unto thee, and yet their hearts are swallowed up in their pride. Behold, O God, they cry unto thee with their mouths, while they are puffed up, even to greatness, with the vain things of the world.",
-                    "score": 0.7514276651359785
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 15,
-                    "verse": 30,
-                    "text": "And in that day they shall roar against them like the roaring of the sea; and if they look unto the land, behold, darkness and sorrow, and the light is darkened in the heavens thereof.",
-                    "score": 0.7479325382896308
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 10,
-                    "verse": 3,
-                    "text": "And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices.",
-                    "score": 0.7470939557087596
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 2,
-                    "verse": 18,
-                    "text": "In Rama was there a voice heard, lamentation, and weeping, and great mourning, Rachel weeping for her children, and would not be comforted, because they are not.",
-                    "score": 0.7468553893212629
-                }
-            ]
+            "similars": []
         }
     ]
 }

@@ -8,428 +8,236 @@
             "text": "And I saw another mighty angel come down from heaven, clothed with a cloud: and a rainbow was upon his head, and his face was as it were the sun, and his feet as pillars of fire:",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 18,
+                    "verse": 1,
+                    "text": "And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8492448663608545
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 1,
                     "verse": 28,
                     "text": "As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell upon my face, and I heard a voice of one that spake.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8034013312199795
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 9,
                     "text": "And it came to pass that he saw One descending out of the midst of heaven, and he beheld that his luster was above that of the sun at noon-day.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8010030876299025
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 6,
                     "text": "And I saw the heavens open, and the Lamb of God descending out of heaven; and he came down and showed himself unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8007387101591499
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 18,
+                    "verse": 1,
+                    "text": "And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9336484114141633
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 6,
+                    "text": "And I saw the heavens open, and the Lamb of God descending out of heaven; and he came down and showed himself unto them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9071906374948222
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 11,
-                    "verse": 14,
-                    "text": "And it came to pass that I saw the heavens open; and an angel came down and stood before me; and he said unto me: Nephi, what beholdest thou?",
-                    "score": 0.7997797733170395
+                    "verse": 30,
+                    "text": "And it came to pass that the angel spake unto me again, saying: Look! And I looked, and I beheld the heavens open again, and I saw angels descending upon the children of men; and they did minister unto them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9052409812089873
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 19,
+                    "verse": 17,
+                    "text": "And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9039261994406267
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "And, behold, the angel that talked with me went forth, and another angel went out to meet him,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9035780236097491
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 14,
+                    "text": "And behold, they were encircled about as if it were by fire; and it came down from heaven, and the multitude did witness it, and did bear record; and angels did come down out of heaven and did minister unto them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9023988036157095
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Daniel",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 13,
+                    "text": "I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902065527192913
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 17,
                     "verse": 24,
                     "text": "And as they looked to behold they cast their eyes towards heaven, and they saw the heavens open, and they saw angels descending out of heaven as it were in the midst of fire; and they came down and encircled those little ones about, and they were encircled about with fire; and the angels did minister unto them.",
-                    "score": 0.7994067696161238
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 18,
-                    "verse": 9,
-                    "text": "He bowed the heavens also, and came down: and darkness was under his feet.",
-                    "score": 0.7966527179818333
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 22,
-                    "verse": 10,
-                    "text": "He bowed the heavens also, and came down; and darkness was under his feet.",
-                    "score": 0.7966527179818333
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 13,
-                    "verse": 20,
-                    "text": "For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the Lord ascended in the flame of the altar. And Manoah and his wife looked on it, and fell on their faces to the ground.",
-                    "score": 0.7922006338777959
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 30,
-                    "text": "And it came to pass that the angel spake unto me again, saying: Look! And I looked, and I beheld the heavens open again, and I saw angels descending upon the children of men; and they did minister unto them.",
-                    "score": 0.7872124575932353
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 11,
-                    "text": "And as I said unto you, as they were going about rebelling against God, behold, the angel of the Lord appeared unto them; and he descended as it were in a cloud; and he spake as it were with a voice of thunder, which caused the earth to shake upon which they stood;",
-                    "score": 0.7858505637314668
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002314984384624
                 }
             ]
         },
         {
             "verse": 2,
             "text": "And he had in his hand a little book open: and he set his right foot upon the sea, and his left foot on the earth,",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 25,
-                    "text": "I will set his hand also in the sea, and his right hand in the rivers.",
-                    "score": 0.7775373648159055
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
-                    "verse": 11,
-                    "text": "And they came down and went forth upon the face of the earth; and the first came and stood before my father, and gave unto him a book, and bade him that he should read.",
-                    "score": 0.7646834849870913
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 95,
-                    "verse": 5,
-                    "text": "The sea is his, and he made it: and his hands formed the dry land.",
-                    "score": 0.7589348152583049
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 6,
-                    "verse": 13,
-                    "text": "He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;",
-                    "score": 0.7562111974728116
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 36,
-                    "verse": 30,
-                    "text": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea.",
-                    "score": 0.755782673349528
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 4,
-                    "verse": 10,
-                    "text": "And he set the sea on the right side of the east end, over against the south.",
-                    "score": 0.7549592814709146
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 44,
-                    "text": "The heavens he made; the earth is his footstool; and the foundation thereof is his. Behold, he laid it, an host of men hath he brought in upon the face thereof.",
-                    "score": 0.7525532432437184
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 34,
-                    "text": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
-                    "score": 0.751367744764225
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.",
-                    "score": 0.7497750052619441
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 8,
-                    "verse": 27,
-                    "text": "When he prepared the heavens, I was there: when he set a compass upon the face of the depth:",
-                    "score": 0.7477890230112746
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 3,
             "text": "And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 51,
-                    "verse": 38,
-                    "text": "They shall roar together like lions: they shall yell as lions' whelps.",
-                    "score": 0.7951827659912548
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 4,
-                    "verse": 10,
-                    "text": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.",
-                    "score": 0.7912689160144493
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 19,
-                    "verse": 4,
-                    "text": "But the king covered his face, and the king cried with a loud voice, O my son Absalom, O Absalom, my son, my son!",
-                    "score": 0.7807048973846636
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 22,
-                    "text": "And it came to pass that Satan cried with a loud voice, with weeping, and wailing, and gnashing of teeth; and he departed hence, even from the presence of Moses, that he beheld him not.",
-                    "score": 0.7734555855576205
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 14,
-                    "text": "He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:",
-                    "score": 0.7728002116130783
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 11,
-                    "verse": 3,
-                    "text": "There is a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.",
-                    "score": 0.7709482459411708
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 90,
-                    "text": "And also cometh the testimony of the voice of thunderings, and the voice of lightnings, and the voice of tempests, and the voice of the waves of the sea heaving themselves beyond their bounds.",
-                    "score": 0.768915584863789
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
-                    "chapter": 11,
-                    "verse": 10,
-                    "text": "They shall walk after the Lord: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.",
-                    "score": 0.7686618901986263
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 13,
-                    "text": "And so great was the faith of Enoch that he led the people of God, and their enemies came to battle against them; and he spake the word of the Lord, and the earth trembled, and the mountains fled, even according to his command; and the rivers of water were turned out of their course; and the roar of the lions was heard out of the wilderness; and all nations feared greatly, so powerful was the word of Enoch, and so great was the power of the language which God had given him.",
-                    "score": 0.768549819981366
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 19,
-                    "verse": 12,
-                    "text": "The king's wrath is as the roaring of a lion; but his favour is as dew upon the grass.",
-                    "score": 0.7684513911742522
+                    "verse": 43,
+                    "text": "And when he thus had spoken, he cried with a loud voice, Lazarus, come forth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078819636803625
                 }
             ]
         },
         {
             "verse": 4,
             "text": "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 5,
-                    "verse": 29,
-                    "text": "And it came to pass that there came a voice as if it were above the cloud of darkness, saying: Repent ye, repent ye, and seek no more to destroy my servants whom I have sent unto you to declare good tidings.",
-                    "score": 0.7687149982322656
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 28,
-                    "verse": 25,
-                    "text": "Behold, I was about to write the names of those who were never to taste of death, but the Lord forbade; therefore I write them not, for they are hid from the world.",
-                    "score": 0.7673390052622927
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 15,
-                    "verse": 23,
-                    "text": "And they understood me not that I said they shall hear my voice; and they understood me not that the Gentiles should not at any time hear my voice--that I should not manifest myself unto them save it were by the Holy Ghost.",
-                    "score": 0.7669212300003194
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 26,
-                    "verse": 11,
-                    "text": "Behold, I was about to write them, all which were engraven upon the plates of Nephi, but the Lord forbade it, saying: I will try the faith of my people.",
-                    "score": 0.7645870004163878
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 1,
-                    "verse": 4,
-                    "text": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.",
-                    "score": 0.7618196872782381
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 90,
-                    "text": "And also cometh the testimony of the voice of thunderings, and the voice of lightnings, and the voice of tempests, and the voice of the waves of the sea heaving themselves beyond their bounds.",
-                    "score": 0.7572266853679942
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 27,
-                    "text": "And the Lord said unto him: Write these things and seal them up; and I will show them in mine own due time unto the children of men.",
-                    "score": 0.7565011304885608
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 31,
-                    "verse": 22,
-                    "text": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.",
-                    "score": 0.7563688797819865
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And he had hope to shake me from the faith, notwithstanding the many revelations and the many things which I had seen concerning these things; for I truly had seen angels, and they had ministered unto me. And also, I had heard the voice of the Lord speaking unto me in very word, from time to time; wherefore, I could not be shaken.",
-                    "score": 0.7559252194779096
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 43,
-                    "verse": 25,
-                    "text": "How oft have I called upon you by the mouth of my servants, and by the ministering of angels, and by mine own voice, and by the voice of thunderings, and by the voice of lightnings, and by the voice of tempests, and by the voice of earthquakes, and great hailstorms, and by the voice of famines and pestilences of every kind, and by the great sound of a trump, and by the voice of judgment, and by the voice of mercy all the day long, and by the voice of glory and honor and the riches of eternal life, and would have saved you with an everlasting salvation, but ye would not!",
-                    "score": 0.7545633142757371
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 5,
             "text": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 22,
+                    "verse": 43,
+                    "text": "And there appeared an angel unto him from heaven, strengthening him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8196779619761241
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 8,
+                    "text": "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8153682009651002
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 11,
                     "verse": 14,
                     "text": "And it came to pass that I saw the heavens open; and an angel came down and stood before me; and he said unto me: Nephi, what beholdest thou?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.809317587984557
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 5,
-                    "verse": 5,
-                    "text": "Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth.",
-                    "score": 0.7986607114705158
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 48,
-                    "verse": 13,
-                    "text": "Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.",
-                    "score": 0.7941834667410956
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 121,
-                    "verse": 2,
-                    "text": "My help cometh from the Lord, which made heaven and earth.",
-                    "score": 0.7911998240148224
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 1,
-                    "text": "And it came to pass that the angel said unto me: Look, and behold thy seed, and also the seed of thy brethren. And I looked and beheld the land of promise; and I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.",
-                    "score": 0.7903127787263993
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 20,
-                    "verse": 13,
-                    "text": "Mine hand hath also laid the foundation of the earth, and my right hand hath spanned the heavens. I call unto them and they stand up together.",
-                    "score": 0.7895134399597411
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
                     "verse": 8,
-                    "text": "But behold, the voice said unto me: Arise. And I arose and stood up, and beheld the angel.",
-                    "score": 0.7872433747370141
+                    "text": "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.915014478116816
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 135,
-                    "verse": 6,
-                    "text": "Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
-                    "score": 0.7787582395534467
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 7,
+                    "verse": 2,
+                    "text": "And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.91410348587304
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 34,
-                    "text": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
-                    "score": 0.7760107740242222
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 18,
+                    "verse": 1,
+                    "text": "And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9040232896805066
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 14,
-                    "verse": 22,
-                    "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,",
-                    "score": 0.7755541021628033
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 7,
+                    "verse": 56,
+                    "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012802511835497
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 22,
+                    "verse": 43,
+                    "text": "And there appeared an angel unto him from heaven, strengthening him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.900598657059836
                 }
             ]
         },
@@ -440,82 +248,82 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 146,
                     "verse": 6,
                     "text": "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8670086342556067
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 1,
                     "text": "In the beginning God created the heaven and the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8199661275899881
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 9,
                     "verse": 6,
                     "text": "Thou, even thou, art Lord alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8157560137324468
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Colossians",
+                    "volume_book_index": 12,
+                    "chapter": 1,
+                    "verse": 16,
+                    "text": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8115831480580972
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 17,
                     "text": "By these things we know that there is a God in heaven, who is infinite and eternal, from everlasting to everlasting the same unchangeable God, the framer of heaven and earth, and all things which are in them;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8081828662587608
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 45,
                     "verse": 18,
                     "text": "For thus saith the Lord that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I am the Lord; and there is none else.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.807916329207216
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 29,
                     "verse": 24,
                     "text": "For all old things shall pass away, and all things shall become new, even the heaven and the earth, and all the fulness thereof, both men and beasts, the fowls of the air, and the fishes of the sea;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8070564487945867
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 69,
                     "verse": 34,
                     "text": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8064829728086187
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 135,
-                    "verse": 6,
-                    "text": "Whatsoever the Lord pleased, that did he in heaven, and in earth, in the seas, and all deep places.",
-                    "score": 0.7993626067245836
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 42,
-                    "verse": 5,
-                    "text": "Thus saith God the Lord, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:",
-                    "score": 0.7984737749708989
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 26,
-                    "verse": 3,
-                    "text": "And he did expound all things, even from the beginning until the time that he should come in his glory--yea, even all things which should come upon the face of the earth, even until the elements should melt with fervent heat, and the earth should be wrapt together as a scroll, and the heavens and the earth should pass away;",
-                    "score": 0.7983550745470853
                 }
             ]
         },
@@ -526,82 +334,22 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 13,
                     "verse": 26,
                     "text": "And it shall be made known unto just and holy men, by the mouth of angels, at the time of his coming, that the words of our fathers may be fulfilled, according to that which they have spoken concerning him, which was according to the spirit of prophecy which was in them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8119170423888334
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 14,
                     "text": "And the arm of the Lord shall be revealed; and the day cometh that they who will not hear the voice of the Lord, neither the voice of his servants, neither give heed to the words of the prophets and apostles, shall be cut off from among the people;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8009459292530536
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Amos",
-                    "chapter": 3,
-                    "verse": 7,
-                    "text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets.",
-                    "score": 0.7923854449450201
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 7,
-                    "text": "I, the Lord God, have spoken it; but the hour and the day no man knoweth, neither the angels in heaven, nor shall they know until he comes.",
-                    "score": 0.7845005477336183
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 29,
-                    "verse": 2,
-                    "text": "And ye may know that the words of the Lord, which have been spoken by the holy prophets, shall all be fulfilled; and ye need not say that the Lord delays his coming unto the children of Israel.",
-                    "score": 0.7844330525969562
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 106,
-                    "text": "And again, another angel shall sound his trump, which is the seventh angel, saying: It is finished; it is finished! The Lamb of God hath overcome and trodden the wine-press alone, even the wine-press of the fierceness of the wrath of Almighty God.",
-                    "score": 0.7833370242410731
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 28,
-                    "verse": 9,
-                    "text": "The prophet which prophesieth of peace, when the word of the prophet shall come to pass, then shall the prophet be known, that the Lord hath truly sent him.",
-                    "score": 0.7808522470460243
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 14,
-                    "text": "And again, the angel said: Behold, the Lord hath heard the prayers of his people, and also the prayers of his servant, Alma, who is thy father; for he has prayed with much faith concerning thee that thou mightest be brought to the knowledge of the truth; therefore, for this purpose have I come to convince thee of the power and authority of God, that the prayers of his servants might be answered according to their faith.",
-                    "score": 0.7799463960220272
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--Matthew",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "For I say unto you, that ye shall not see me henceforth and know that I am he of whom it is written by the prophets, until ye shall say: Blessed is he who cometh in the name of the Lord, in the clouds of heaven, and all the holy angels with him. Then understood his disciples that he should come again on the earth, after that he was glorified and crowned on the right hand of God.",
-                    "score": 0.7789971253511562
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 71,
-                    "verse": 1,
-                    "text": "Behold, thus saith the Lord unto you my servants Joseph Smith, Jun., and Sidney Rigdon, that the time has verily come that it is necessary and expedient in me that you should open your mouths in proclaiming my gospel, the things of the kingdom, expounding the mysteries thereof out of the scriptures, according to that portion of Spirit and power which shall be given unto you, even as I will.",
-                    "score": 0.7789877442284161
                 }
             ]
         },
@@ -610,84 +358,54 @@
             "text": "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 10,
-                    "verse": 8,
-                    "text": "And it came to pass that I obeyed the voice of the angel, and returned towards my house. And as I was going thither I found the man whom the angel said unto me: Thou shalt receive into thy house--and behold it was this same man who has been speaking unto you concerning the things of God.",
-                    "score": 0.7985526803800027
+                    "verse": 9,
+                    "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8206406298217986
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 5,
+                    "text": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8153682009651002
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 5,
+                    "text": "And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.915014478116816
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 36,
                     "verse": 8,
                     "text": "But behold, the voice said unto me: Arise. And I arose and stood up, and beheld the angel.",
-                    "score": 0.796571411034531
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 5,
-                    "verse": 5,
-                    "text": "Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth.",
-                    "score": 0.7925486288509411
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9014195354908017
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 30,
-                    "text": "And it came to pass that the angel spake unto me again, saying: Look! And I looked, and I beheld the heavens open again, and I saw angels descending upon the children of men; and they did minister unto them.",
-                    "score": 0.7845062366165179
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 68,
-                    "verse": 33,
-                    "text": "To him that rideth upon the heavens of heavens, which were of old; lo, he doth send out his voice, and that a mighty voice.",
-                    "score": 0.7817277108204796
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 30,
-                    "verse": 1,
-                    "text": "The word of the Lord came again unto me, saying,",
-                    "score": 0.7780999550975763
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 28,
-                    "verse": 1,
-                    "text": "The word of the Lord came again unto me, saying,",
-                    "score": 0.7780999550975763
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 27,
-                    "verse": 1,
-                    "text": "The word of the Lord came again unto me, saying,",
-                    "score": 0.7780999550975763
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 25,
-                    "verse": 1,
-                    "text": "The word of the Lord came again unto me, saying,",
-                    "score": 0.7780999550975763
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 23,
-                    "verse": 1,
-                    "text": "The word of the Lord came again unto me, saying,",
-                    "score": 0.7780999550975763
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 18,
+                    "text": "And it came to pass that the angel spake unto me, saying: Look!",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9008911461434829
                 }
             ]
         },
@@ -696,84 +414,64 @@
             "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 10,
+                    "text": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9132203997804104
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 8,
+                    "text": "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8206406298217986
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 3,
                     "verse": 3,
                     "text": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8100083910708403
                 },
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 10,
+                    "text": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8836849858573086
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 10,
+                    "text": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9482148541404214
+                },
+                {
                     "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 14,
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 3,
                     "verse": 3,
-                    "text": "And take with thee ten loaves, and cracknels, and a cruse of honey, and go to him: he shall tell thee what shall become of the child.",
-                    "score": 0.7836395585413172
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 7,
-                    "verse": 15,
-                    "text": "Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.",
-                    "score": 0.7824253781758878
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 15,
-                    "text": "Butter and honey shall he eat, that he may know to refuse the evil and to choose the good.",
-                    "score": 0.7818703603911584
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 17,
-                    "verse": 13,
-                    "text": "And Elijah said unto her, Fear not; go and do as thou hast said: but make me thereof a little cake first, and bring it unto me, and after make for thee and for thy son.",
-                    "score": 0.7818368585040912
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 6,
-                    "verse": 15,
-                    "text": "And he shall take of it his handful, of the flour of the meat offering, and of the oil thereof, and all the frankincense which is upon the meat offering, and shall burn it upon the altar for a sweet savour, even the memorial of it, unto the Lord.",
-                    "score": 0.781831181286328
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 26,
-                    "verse": 16,
-                    "text": "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.",
-                    "score": 0.7783465280951992
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "And he shall bring it to Aaron's sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the Lord:",
-                    "score": 0.7751597150792723
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 14,
-                    "verse": 43,
-                    "text": "Then Saul said to Jonathan, Tell me what thou hast done. And Jonathan told him, and said, I did but taste a little honey with the end of the rod that was in mine hand, and, lo, I must die.",
-                    "score": 0.774693036506626
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 13,
-                    "verse": 25,
-                    "text": "The righteous eateth to the satisfying of his soul: but the belly of the wicked shall want.",
-                    "score": 0.7745146561373546
+                    "text": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9164806331253063
                 }
             ]
         },
@@ -782,84 +480,34 @@
             "text": "And I took the little book out of the angel's hand, and ate it up; and it was in my mouth sweet as honey: and as soon as I had eaten it, my belly was bitter.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 3,
-                    "verse": 3,
-                    "text": "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness.",
-                    "score": 0.7502627143050926
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 27,
-                    "verse": 7,
-                    "text": "The full soul loatheth an honeycomb; but to the hungry soul every bitter thing is sweet.",
-                    "score": 0.7389462065693219
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 10,
-                    "text": "When I wept, and chastened my soul with fasting, that was to my reproach.",
-                    "score": 0.7345884821038828
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 16,
-                    "verse": 7,
-                    "text": "And he laid it upon my mouth, and said: Lo, this has touched thy lips; and thine iniquity is taken away, and thy sin purged.",
-                    "score": 0.7321452346929161
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 29,
-                    "text": "My soul hath been redeemed from the gall of bitterness and bonds of iniquity. I was in the darkest abyss; but now I behold the marvelous light of God. My soul was racked with eternal torment; but I am snatched, and my soul is pained no more.",
-                    "score": 0.7284030888485103
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.",
-                    "score": 0.728107547334699
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 3,
-                    "verse": 14,
-                    "text": "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the Lord was strong upon me.",
-                    "score": 0.7262358323232322
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 102,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
                     "verse": 9,
-                    "text": "For I have eaten ashes like bread, and mingled my drink with weeping,",
-                    "score": 0.7216723067139553
+                    "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9132203997804104
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 14,
-                    "verse": 29,
-                    "text": "Then said Jonathan, My father hath troubled the land: see, I pray you, how mine eyes have been enlightened, because I tasted a little of this honey.",
-                    "score": 0.7197493288404726
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8836849858573086
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 16,
-                    "verse": 19,
-                    "text": "My meat also which I gave thee, fine flour, and oil, and honey, wherewith I fed thee, thou hast even set it before them for a sweet savour: and thus it was, saith the Lord God.",
-                    "score": 0.7195542446176154
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9482148541404214
                 }
             ]
         },
@@ -870,82 +518,342 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 7,
                     "verse": 3,
                     "text": "And the Lord said unto me: Verily, verily, I say unto thee, because thou desirest this thou shalt tarry until I come in my glory, and shalt prophesy before nations, kindreds, tongues and people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.856221515544337
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 24,
+                    "verse": 19,
+                    "text": "And he said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8278371801512511
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 21,
+                    "verse": 10,
+                    "text": "Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8206896441867342
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 25,
                     "verse": 3,
                     "text": "Wherefore, I write unto my people, unto all those that shall receive hereafter these things which I write, that they may know the judgments of God, that they come upon all nations, according to the word which he hath spoken.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8197776292881295
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 13,
                     "verse": 2,
                     "text": "And the angel said unto me: What beholdest thou? And I said: I behold many nations and kingdoms.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8186584712635959
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 17,
+                    "verse": 15,
+                    "text": "And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8156100772568414
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 58,
                     "text": "And I give unto you a commandment that then ye shall teach them unto all men; for they shall be taught unto all nations, kindreds, tongues and people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8142997908867441
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 1,
                     "verse": 10,
                     "text": "Therefore, he had Mosiah brought before him; and these are the words which he spake unto him, saying: My son, I would that ye should make a proclamation throughout all this land among all this people, or the people of Zarahemla, and the people of Mosiah who dwell in the land, that thereby they may be gathered together; for on the morrow I shall proclaim unto this my people out of mine own mouth that thou art a king and a ruler over this people, whom the Lord our God hath given us.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8134896201926813
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 35,
                     "verse": 11,
                     "text": "And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8126262900124632
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 27,
                     "verse": 25,
                     "text": "And the Lord said unto me: Marvel not that all mankind, yea, men and women, all nations, kindreds, tongues and people, must be born again; yea, born of God, changed from their carnal and fallen state, to a state of righteousness, being redeemed of God, becoming his sons and daughters;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8125199991924772
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 15,
                     "verse": 28,
                     "text": "And now I say unto you that the time shall come that the salvation of the Lord shall be declared to every nation, kindred, tongue, and people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.811835375437662
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 26,
                     "verse": 19,
                     "text": "And to make thee high above all nations which he hath made, in praise, and in name, and in honour; and that thou mayest be an holy people unto the Lord thy God, as he hath spoken.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8087424968006992
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 4,
                     "verse": 1,
                     "text": "Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8086543638093519
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 108,
+                    "verse": 3,
+                    "text": "I will praise thee, O Lord, among the people: and I will sing praises unto thee among the nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071021781434009
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 28,
+                    "verse": 8,
+                    "text": "The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806244896564691
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 22,
+                    "verse": 8,
+                    "text": "And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath the Lord done thus unto this great city?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8061252721627277
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 3,
+                    "text": "And he said unto me: These are the nations and kingdoms of the Gentiles.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057097299463926
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "And many nations shall be joined to the Lord in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the Lord of hosts hath sent me unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036223035008518
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 27,
+                    "verse": 1,
+                    "text": "The word of the Lord came again unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030363193396799
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 23,
+                    "verse": 1,
+                    "text": "The word of the Lord came again unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030363193396799
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 25,
+                    "verse": 1,
+                    "text": "The word of the Lord came again unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030363193396799
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 28,
+                    "verse": 1,
+                    "text": "The word of the Lord came again unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030363193396799
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 30,
+                    "verse": 1,
+                    "text": "The word of the Lord came again unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030363193396799
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 15,
+                    "text": "The word of the Lord came again unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030363193396799
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 3,
+                    "verse": 20,
+                    "text": "And moreover, I say unto you, that the time shall come when the knowledge of a Savior shall spread throughout every nation, kindred, tongue, and people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028275938357685
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Helaman",
+                    "volume_book_index": 10,
+                    "chapter": 13,
+                    "verse": 3,
+                    "text": "But behold, the voice of the Lord came unto him, that he should return again, and prophesy unto the people whatsoever things should come into his heart.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026631226015143
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 24,
+                    "verse": 14,
+                    "text": "And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025275394542531
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 17,
+                    "text": "Yea, and all the earth shall see the salvation of the Lord, saith the prophet; every nation, kindred, tongue and people shall be blessed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801710875405052
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 21,
+                    "verse": 18,
+                    "text": "The word of the Lord came unto me again, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008118145396977
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 18,
+                    "verse": 1,
+                    "text": "The word of the Lord came unto me again, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008118145396977
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 57,
+                    "verse": 9,
+                    "text": "I will praise thee, O Lord, among the people: I will sing unto thee among the nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007754019806715
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 17,
+                    "verse": 6,
+                    "text": "And I will make thee exceeding fruitful, and I will make nations of thee, and kings shall come out of thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800307284667379
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 3,
+                    "text": "And the Lord said unto me: Verily, verily, I say unto thee, because thou desirest this thou shalt tarry until I come in my glory, and shalt prophesy before nations, kindreds, tongues and people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.921340649048066
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 10,
+                    "verse": 13,
+                    "text": "And again, to another, that he may prophesy concerning all things;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9021328266621558
                 }
             ]
         }

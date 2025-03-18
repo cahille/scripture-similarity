@@ -8,84 +8,14 @@
             "text": "The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 40,
-                    "text": "And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace; that bringeth good tidings unto them of good, that publisheth salvation; that saith unto Zion: Thy God reigneth!",
-                    "score": 0.7986544543492123
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 21,
-                    "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings; that publisheth peace; that bringeth good tidings of good; that publisheth salvation; that saith unto Zion, Thy God reigneth;",
-                    "score": 0.7917358596044268
-                },
-                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 49,
                     "verse": 24,
                     "text": "But before the great day of the Lord shall come, Jacob shall flourish in the wilderness, and the Lamanites shall blossom as the rose.",
-                    "score": 0.7895531690512386
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 3,
-                    "text": "For the Lord shall comfort Zion, he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the Lord. Joy and gladness shall be found therein, thanksgiving and the voice of melody.",
-                    "score": 0.7870834894611853
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 25,
-                    "text": "Zion shall flourish upon the hills and rejoice upon the mountains, and shall be assembled together unto the place which I have appointed.",
-                    "score": 0.777128220235299
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 37,
-                    "text": "And blessed are they who shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost; and if they endure unto the end they shall be lifted up at the last day, and shall be saved in the everlasting kingdom of the Lamb; and whoso shall publish peace, yea, tidings of great joy, how beautiful upon the mountains shall they be.",
-                    "score": 0.7712181306259257
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 117,
-                    "verse": 7,
-                    "text": "Therefore, will I not make solitary places to bud and to blossom, and to bring forth in abundance? saith the Lord.",
-                    "score": 0.770228987916447
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 44,
-                    "text": "Yea, when thou comest down, and the mountains flow down at thy presence, thou shalt meet him who rejoiceth and worketh righteousness, who remembereth thee in thy ways.",
-                    "score": 0.7645377789828063
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 15,
-                    "verse": 17,
-                    "text": "And again, how beautiful upon the mountains are the feet of those who shall hereafter publish peace, yea, from this time henceforth and forever!",
-                    "score": 0.7644012444728487
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 29,
-                    "text": "And thou shalt declare glad tidings, yea, publish it upon the mountains, and upon every high place, and among every people that thou shalt be permitted to see.",
-                    "score": 0.761656758523964
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9023882034287759
                 }
             ]
         },
@@ -96,82 +26,92 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 14,
                     "verse": 2,
                     "text": "In that day shall the branch of the Lord be beautiful and glorious; the fruit of the earth excellent and comely to them that are escaped of Israel.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8338885341469905
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 4,
+                    "verse": 2,
+                    "text": "In that day shall the branch of the Lord be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8310643791559994
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 64,
                     "verse": 41,
                     "text": "For, behold, I say unto you that Zion shall flourish, and the glory of the Lord shall be upon her;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8086203945755812
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 19,
+                    "text": "And I will bring Israel again to his habitation, and he shall feed on Carmel and Bashan, and his soul shall be satisfied upon mount Ephraim and Gilead.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082536352122093
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 13,
                     "verse": 37,
                     "text": "And blessed are they who shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost; and if they endure unto the end they shall be lifted up at the last day, and shall be saved in the everlasting kingdom of the Lamb; and whoso shall publish peace, yea, tidings of great joy, how beautiful upon the mountains shall they be.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8049507504430181
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 12,
+                    "text": "Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the Lord, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80320414478748
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 8,
                     "verse": 11,
                     "text": "Therefore, the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy and holiness shall be upon their heads; and they shall obtain gladness and joy; sorrow and mourning shall flee away.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016742083647629
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 127,
-                    "verse": 3,
-                    "text": "Let all the saints rejoice, therefore, and be exceedingly glad; for Israel's God is their God, and he will mete out a just recompense of reward upon the heads of all their oppressors.",
-                    "score": 0.79838660850543
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 21,
+                    "verse": 1,
+                    "text": "The king shall joy in thy strength, O Lord; and in thy salvation how greatly shall he rejoice!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011253051634595
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 30,
-                    "text": "And the meek also shall increase, and their joy shall be in the Lord, and the poor among men shall rejoice in the Holy One of Israel.",
-                    "score": 0.7923301807468729
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 71,
-                    "text": "And it shall come to pass that the righteous shall be gathered out from among all nations, and shall come to Zion, singing with songs of everlasting joy.",
-                    "score": 0.7917411356088759
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 13,
-                    "verse": 22,
-                    "text": "Yea, and the voice of the Lord, by the mouth of angels, doth declare it unto all nations; yea, doth declare it, that they may have glad tidings of great joy; yea, and he doth sound these glad tidings among all his people, yea, even to them that are scattered abroad upon the face of the earth; wherefore they have come unto us.",
-                    "score": 0.7911112093356067
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 60,
                     "verse": 13,
-                    "text": "Yea, and the day of the Lord shall come upon all the cedars of Lebanon, for they are high and lifted up; and upon all the oaks of Bashan;",
-                    "score": 0.7860703823505661
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 107,
-                    "text": "And then shall the angels be crowned with the glory of his might, and the saints shall be filled with his glory, and receive their inheritance and be made equal with him.",
-                    "score": 0.7858624519048322
+                    "text": "The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9004641384301345
                 }
             ]
         },
@@ -180,84 +120,64 @@
             "text": "Strengthen ye the weak hands, and confirm the feeble knees.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "All hands shall be feeble, and all knees shall be weak as water.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8558514246201676
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 81,
                     "verse": 5,
                     "text": "Wherefore, be faithful; stand in the office which I have appointed unto you; succor the weak, lift up the hands which hang down, and strengthen the feeble knees.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.848734942289037
                 },
                 {
                     "volume": "New Testament",
                     "book": "Hebrews",
+                    "volume_book_index": 19,
                     "chapter": 12,
                     "verse": 12,
                     "text": "Wherefore lift up the hands which hang down, and the feeble knees;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8364657564326101
                 },
                 {
                     "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 14,
-                    "verse": 1,
-                    "text": "Him that is weak in the faith receive ye, but not to doubtful disputations.",
-                    "score": 0.7637937713616357
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 12,
+                    "verse": 12,
+                    "text": "Wherefore lift up the hands which hang down, and the feeble knees;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9290749472931208
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 20,
-                    "text": "For behold, I have workings in the spirit, which doth weary me even that all my joints are weak, for those who are at Jerusalem; for had not the Lord been merciful, to show unto me concerning them, even as he had prophets of old, I should have perished also.",
-                    "score": 0.7574267947342743
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 81,
+                    "verse": 5,
+                    "text": "Wherefore, be faithful; stand in the office which I have appointed unto you; succor the weak, lift up the hands which hang down, and strengthen the feeble knees.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9165672610144582
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 20,
-                    "verse": 35,
-                    "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive.",
-                    "score": 0.7356095607148252
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Thessalonians",
-                    "chapter": 5,
-                    "verse": 14,
-                    "text": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.",
-                    "score": 0.7318960163435329
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 15,
-                    "verse": 1,
-                    "text": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.",
-                    "score": 0.7275275232794131
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 26,
-                    "verse": 41,
-                    "text": "Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.",
-                    "score": 0.7256880789429337
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Corinthians",
-                    "chapter": 13,
-                    "verse": 3,
-                    "text": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.",
-                    "score": 0.7242476628313843
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 14,
-                    "verse": 38,
-                    "text": "Watch ye and pray, lest ye enter into temptation. The spirit truly is ready, but the flesh is weak.",
-                    "score": 0.7239517490202266
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 4,
+                    "verse": 4,
+                    "text": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9099173599530985
                 }
             ]
         },
@@ -266,84 +186,384 @@
             "text": "Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 31,
+                    "verse": 6,
+                    "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8598998530191576
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 8,
                     "verse": 16,
                     "text": "Wo be unto them that shall pervert the ways of the Lord after this manner, for they shall perish except they repent. Behold, I speak with boldness, having authority from God; and I fear not what man can do; for perfect love casteth out all fear.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8340873728807231
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 112,
-                    "verse": 13,
-                    "text": "And after their temptations, and much tribulation, behold, I, the Lord, will feel after them, and if they harden not their hearts, and stiffen not their necks against me, they shall be converted, and I will heal them.",
-                    "score": 0.8176103805540297
+                    "verse": 7,
+                    "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.833923065985757
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 38,
+                    "text": "Stablish thy word unto thy servant, who is devoted to thy fear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.831299710954191
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "Ye shall not fear them: for the Lord your God he shall fight for you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.827019057949918
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 1,
+                    "verse": 8,
+                    "text": "Be not afraid of their faces: for I am with thee to deliver thee, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8249071381677561
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 145,
+                    "verse": 19,
+                    "text": "He will fulfil the desire of them that fear him: he also will hear their cry, and will save them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8192739110166777
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 16,
+                    "text": "Take heed to yourselves, that your heart be not deceived, and ye turn aside, and serve other gods, and worship them;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8184856954398426
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 20,
+                    "verse": 3,
+                    "text": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8177419647973173
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 112,
+                    "verse": 13,
+                    "text": "And after their temptations, and much tribulation, behold, I, the Lord, will feel after them, and if they harden not their hearts, and stiffen not their necks against me, they shall be converted, and I will heal them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8176103805540297
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 1,
+                    "verse": 9,
+                    "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166685249739511
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 24,
+                    "text": "Only fear the Lord, and serve him in truth with all your heart: for consider how great things he hath done for you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8153805809390047
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 42,
+                    "verse": 11,
+                    "text": "Be not afraid of the king of Babylon, of whom ye are afraid; be not afraid of him, saith the Lord: for I am with you to save you, and to deliver you from his hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152858857961844
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 19,
+                    "verse": 23,
+                    "text": "The fear of the Lord tendeth to life: and he that hath it shall abide satisfied; he shall not be visited with evil.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8127696985335234
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 7,
+                    "verse": 18,
+                    "text": "Thou shalt not be afraid of them: but shalt well remember what the Lord thy God did unto Pharaoh, and unto all Egypt;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8126271899834904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 10,
+                    "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8123267032118626
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 29,
+                    "verse": 25,
+                    "text": "The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8109229294455949
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 31,
+                    "verse": 8,
+                    "text": "And the Lord, he it is that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8104516460253967
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 98,
                     "verse": 14,
                     "text": "Therefore, be not afraid of your enemies, for I have decreed in my heart, saith the Lord, that I will prove you in all things, whether you will abide in my covenant, even unto death, that you may be found worthy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8094045094698867
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 18,
                     "verse": 9,
                     "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8075463352875933
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 74,
                     "text": "For when the Lord shall appear he shall be terrible unto them, that fear may seize upon them, and they shall stand afar off and tremble.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.807219406226242
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 115,
+                    "verse": 11,
+                    "text": "Ye that fear the Lord, trust in the Lord: he is their help and their shield.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8066642563857478
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 30,
+                    "verse": 10,
+                    "text": "Therefore fear thou not, O my servant Jacob, saith the Lord; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8059119164821106
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 46,
+                    "verse": 27,
+                    "text": "But fear not thou, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make him afraid.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040430643875754
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 4,
+                    "text": "Let them now that fear the Lord say, that his mercy endureth for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037448289866819
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 38,
                     "text": "And the servants of God shall go forth, saying with a loud voice: Fear God and give glory to him, for the hour of his judgment is come;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8028375344120199
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 12,
+                    "verse": 30,
+                    "text": "Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou inquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024503839493645
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 13,
+                    "text": "For I the Lord thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023497798413797
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 15,
                     "verse": 20,
                     "text": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.802309257337236
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 7,
                     "verse": 15,
                     "text": "Yea, I say unto you come and fear not, and lay aside every sin, which easily doth beset you, which doth bind you down to destruction, yea, come and go forth, and show unto your God that ye are willing to repent of your sins and enter into a covenant with him to keep his commandments, and witness it unto him this day by going into the waters of baptism.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8017850619088022
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 20,
+                    "verse": 22,
+                    "text": "Say not thou, I will recompense evil; but wait on the Lord, and he shall save thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017483247495667
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 20,
+                    "verse": 8,
+                    "text": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801063710370135
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 19,
+                    "verse": 9,
+                    "text": "And he charged them, saying, Thus shall ye do in the fear of the Lord, faithfully, and with a perfect heart.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009711997229318
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 14,
+                    "verse": 26,
+                    "text": "In the fear of the Lord is strong confidence: and his children shall have a place of refuge.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008997731689792
                 },
                 {
                     "volume": "New Testament",
                     "book": "1 Peter",
+                    "volume_book_index": 21,
                     "chapter": 3,
                     "verse": 14,
                     "text": "But and if ye suffer for righteousness' sake, happy are ye: and be not afraid of their terror, neither be troubled;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8008127041019888
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 31,
+                    "verse": 24,
+                    "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002783462978114
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 9,
                     "verse": 22,
                     "text": "But behold, my son, I recommend thee unto God, and I trust in Christ that thou wilt be saved; and I pray unto God that he will spare thy life, to witness the return of his people unto him, or their utter destruction; for I know that they must perish except they repent and return unto him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8000859477475584
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 31,
+                    "verse": 6,
+                    "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the Lord thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9044087897321934
                 }
             ]
         },
@@ -354,170 +574,159 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 69,
                     "text": "In my name they shall open the eyes of the blind, and unstop the ears of the deaf;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9169127447742697
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 29,
+                    "verse": 18,
+                    "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8693949244607043
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 27,
                     "verse": 29,
                     "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity and out of darkness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8693949244607043
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 43,
+                    "verse": 8,
+                    "text": "Bring forth the blind people that have eyes, and the deaf that have ears.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.863904400497792
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 146,
+                    "verse": 8,
+                    "text": "The Lord openeth the eyes of the blind: the Lord raiseth them that are bowed down: the Lord loveth the righteous:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8291866936605636
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 18,
+                    "text": "Hear, ye deaf; and look, ye blind, that ye may see.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8203934882815798
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 32,
+                    "verse": 3,
+                    "text": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8094176435180205
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 11,
                     "verse": 5,
                     "text": "The blind receive their sight, and the lame walk, the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor have the gospel preached to them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8034969937333861
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 9,
                     "verse": 32,
                     "text": "Wo unto the blind that will not see; for they shall perish also.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8001701913639617
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 10,
-                    "verse": 51,
-                    "text": "And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.",
-                    "score": 0.7906828696925389
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 7,
-                    "verse": 22,
-                    "text": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.",
-                    "score": 0.7904306971497845
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "For verily the voice of the Lord is unto all men, and there is none to escape; and there is no eye that shall not see, neither ear that shall not hear, neither heart that shall not be penetrated.",
-                    "score": 0.787432187626644
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 69,
+                    "text": "In my name they shall open the eyes of the blind, and unstop the ears of the deaf;",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8081887707372732
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 15,
-                    "verse": 14,
-                    "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.",
-                    "score": 0.7870086761862908
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 69,
+                    "text": "In my name they shall open the eyes of the blind, and unstop the ears of the deaf;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9383238237596702
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 43,
+                    "verse": 8,
+                    "text": "Bring forth the blind people that have eyes, and the deaf that have ears.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9158635908162086
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 31,
-                    "text": "And wo unto the deaf that will not hear; for they shall perish.",
-                    "score": 0.7848054609423946
+                    "volume_book_index": 2,
+                    "chapter": 27,
+                    "verse": 29,
+                    "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity and out of darkness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9139391183853149
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.",
-                    "score": 0.7839136268694287
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 29,
+                    "verse": 18,
+                    "text": "And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9139391183853149
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 32,
+                    "verse": 3,
+                    "text": "And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9100303810780704
                 }
             ]
         },
         {
             "verse": 6,
             "text": "Then shall the lame man leap as an hart, and the tongue of the dumb sing: for in the wilderness shall waters break out, and streams in the desert.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 51,
-                    "text": "The lame who hath faith to leap shall leap.",
-                    "score": 0.7857651379455585
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 22,
-                    "text": "And it shall be a voice as the voice of many waters, and as the voice of a great thunder, which shall break down the mountains, and the valleys shall not be found.",
-                    "score": 0.7675415828620747
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 29,
-                    "text": "And in the barren deserts there shall come forth pools of living water; and the parched ground shall no longer be a thirsty land.",
-                    "score": 0.7619583238981436
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
-                    "score": 0.7500122587842639
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 21,
-                    "text": "But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.",
-                    "score": 0.7493651276176528
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 49,
-                    "text": "Now Alma said unto him: This will I give unto thee for a sign, that thou shalt be struck dumb, according to my words; and I say, that in the name of God, ye shall be struck dumb, that ye shall no more have utterance.",
-                    "score": 0.7473553958964216
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "Yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord, and make his paths straight; for there standeth one among you whom ye know not; and he is mightier than I, whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.",
-                    "score": 0.7468349498595642
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 34,
-                    "text": "Behold my Spirit is upon you, wherefore all thy words will I justify; and the mountains shall flee before you, and the rivers shall turn from their course; and thou shalt abide in me, and I in you; therefore walk with me.",
-                    "score": 0.7452242907888805
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 70,
-                    "text": "And the tongue of the dumb shall speak;",
-                    "score": 0.7448920394518327
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 13,
-                    "text": "Sing, O heavens; and be joyful, O earth; for the feet of those who are in the east shall be established; and break forth into singing, O mountains; for they shall be smitten no more; for the Lord hath comforted his people, and will have mercy upon his afflicted.",
-                    "score": 0.7435663688473998
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 7,
@@ -526,82 +735,12 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 29,
                     "text": "And in the barren deserts there shall come forth pools of living water; and the parched ground shall no longer be a thirsty land.",
-                    "score": 0.7945576204993013
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 21,
-                    "text": "But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.",
-                    "score": 0.7550405426841642
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "And I, God, said: Let the waters under the heaven be gathered together unto one place, and it was so; and I, God, said: Let there be dry land; and it was so.",
-                    "score": 0.7407676788524169
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 6,
-                    "text": "And the Gods also said: Let there be an expanse in the midst of the waters, and it shall divide the waters from the waters.",
-                    "score": 0.7337353068327822
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 9,
-                    "text": "And the Gods ordered, saying: Let the waters under the heaven be gathered together unto one place, and let the earth come up dry; and it was so as they ordered;",
-                    "score": 0.7312200165627971
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 20,
-                    "text": "And the Gods said: Let us prepare the waters to bring forth abundantly the moving creatures that have life; and the fowl, that they may fly above the earth in the open expanse of heaven.",
-                    "score": 0.7302571118558511
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 14,
-                    "text": "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.",
-                    "score": 0.7255331468245387
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 19,
-                    "text": "And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.",
-                    "score": 0.7200152181500451
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 11,
-                    "text": "And again, he saith that thou shalt be as a stalk, even as a dry stalk of the field, which is run over by the beasts and trodden under foot.",
-                    "score": 0.7153643245644165
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 23,
-                    "text": "I will also make it a possession for the bittern, and pools of water; and I will sweep it with the besom of destruction, saith the Lord of Hosts.",
-                    "score": 0.7151841640722629
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9231664033929886
                 }
             ]
         },
@@ -610,84 +749,74 @@
             "text": "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 16,
+                    "verse": 17,
+                    "text": "The highway of the upright is to depart from evil: he that keepeth his way preserveth his soul.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8222411999457911
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 2,
+                    "verse": 20,
+                    "text": "That thou mayest walk in the way of good men, and keep the paths of the righteous.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8203768026435289
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 42,
                     "text": "For ye shall not go out with haste nor go by flight; for the Lord will go before you, and the God of Israel shall be your rearward.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.808573896615561
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 24,
-                    "verse": 2,
-                    "text": "Nevertheless, thou art not excusable in thy transgressions; nevertheless, go thy way and sin no more.",
-                    "score": 0.7985022827342255
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 1,
+                    "verse": 6,
+                    "text": "For the Lord knoweth the way of the righteous: but the way of the ungodly shall perish.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8080086974830543
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 41,
-                    "text": "O then, my beloved brethren, come unto the Lord, the Holy One. Remember that his paths are righteous. Behold, the way for man is narrow, but it lieth in a straight course before him, and the keeper of the gate is the Holy One of Israel; and he employeth no servant there; and there is none other way save it be by the gate; for he cannot be deceived, for the Lord God is his name.",
-                    "score": 0.7969201532855517
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 52,
+                    "verse": 12,
+                    "text": "For ye shall not go out with haste, nor go by flight: for the Lord will go before you; and the God of Israel will be your rearward.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80434451516602
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 11,
-                    "text": "And I will make all my mountains a way, and my highways shall be exalted.",
-                    "score": 0.7917300274362072
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 3,
+                    "verse": 23,
+                    "text": "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023674726287426
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 12,
-                    "verse": 14,
-                    "text": "Follow peace with all men, and holiness, without which no man shall see the Lord:",
-                    "score": 0.7897212681649166
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 61,
-                    "verse": 24,
-                    "text": "Behold, I, the Lord, have appointed a way for the journeying of my saints; and behold, this is the way--that after they leave the canal they shall journey by land, inasmuch as they are commanded to journey and go up unto the land of Zion;",
-                    "score": 0.7853812917988986
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 29,
-                    "text": "And they shall go out from all nations; and they shall not go out in haste, nor go by flight, for I will go before them, saith the Father, and I will be their rearward.",
-                    "score": 0.7840436699994447
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 27,
-                    "text": "And an highway shall be cast up in the midst of the great deep.",
-                    "score": 0.7827533959920498
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 33,
-                    "text": "O Lord, wilt thou encircle me around in the robe of thy righteousness! O Lord, wilt thou make a way for mine escape before mine enemies! Wilt thou make my path straight before me! Wilt thou not place a stumbling block in my way--but that thou wouldst clear my way before me, and hedge not up my way, but the ways of mine enemy.",
-                    "score": 0.7816291447050039
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.",
-                    "score": 0.7806385057467494
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 33,
+                    "verse": 8,
+                    "text": "The highways lie waste, the wayfaring man ceaseth: he hath broken the covenant, he hath despised the cities, he regardeth no man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008040657663126
                 }
             ]
         },
@@ -696,84 +825,14 @@
             "text": "No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 17,
-                    "verse": 8,
-                    "text": "The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is.",
-                    "score": 0.7763341246215613
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 97,
-                    "verse": 17,
-                    "text": "But if it be defiled I will not come into it, and my glory shall not be there; for I will not come into unholy temples.",
-                    "score": 0.7737056125041628
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 16,
-                    "text": "Then shall ye, who are a remnant of the house of Jacob, go forth among them; and ye shall be in the midst of them who shall be many; and ye shall be among them as a lion among the beasts of the forest, and as a young lion among the flocks of sheep, who, if he goeth through both treadeth down and teareth in pieces, and none can deliver.",
-                    "score": 0.7696527572538681
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 7,
-                    "verse": 34,
-                    "text": "Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.",
-                    "score": 0.7672984189782908
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 18,
-                    "verse": 12,
-                    "text": "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?",
-                    "score": 0.7645932411757775
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 85,
-                    "text": "These are they who shall not be redeemed from the devil until the last resurrection, until the Lord, even Christ the Lamb, shall have finished his work.",
-                    "score": 0.7620107519446171
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 12,
-                    "verse": 19,
-                    "text": "And if the Lord shall say--Be thou accursed, that no man shall find thee from this time henceforth and forever--behold, no man getteth it henceforth and forever.",
-                    "score": 0.7617488939778168
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 61,
-                    "verse": 16,
-                    "text": "And it shall be said in days to come that none is able to go up to the land of Zion upon the waters, but he that is upright in heart.",
-                    "score": 0.760928187041122
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 12,
-                    "text": "And my people who are a remnant of Jacob shall be among the Gentiles, yea, in the midst of them as a lion among the beasts of the forest, as a young lion among the flocks of sheep, who, if he go through both treadeth down and teareth in pieces, and none can deliver.",
-                    "score": 0.7607437390407055
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 94,
-                    "verse": 8,
-                    "text": "And ye shall not suffer any unclean thing to come in unto it; and my glory shall be there, and my presence shall be there.",
-                    "score": 0.7601419233959269
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 30,
+                    "verse": 30,
+                    "text": "A lion which is strongest among beasts, and turneth not away for any;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016434795655488
                 }
             ]
         },
@@ -782,84 +841,494 @@
             "text": "And the ransomed of the Lord shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 11,
+                    "text": "Therefore the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9473941165951093
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 8,
                     "verse": 11,
                     "text": "Therefore, the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy and holiness shall be upon their heads; and they shall obtain gladness and joy; sorrow and mourning shall flee away.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9424189278938545
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 13,
                     "verse": 37,
                     "text": "And blessed are they who shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost; and if they endure unto the end they shall be lifted up at the last day, and shall be saved in the everlasting kingdom of the Lamb; and whoso shall publish peace, yea, tidings of great joy, how beautiful upon the mountains shall they be.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8615753040445433
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 71,
-                    "text": "And it shall come to pass that the righteous shall be gathered out from among all nations, and shall come to Zion, singing with songs of everlasting joy.",
-                    "score": 0.8462245295139296
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 14,
+                    "verse": 7,
+                    "text": "Oh that the salvation of Israel were come out of Zion! when the Lord bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8472289792387067
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 71,
+                    "text": "And it shall come to pass that the righteous shall be gathered out from among all nations, and shall come to Zion, singing with songs of everlasting joy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8462245295139296
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 53,
+                    "verse": 6,
+                    "text": "Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.840393999611492
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 12,
+                    "text": "Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the Lord, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8362222649396291
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 101,
                     "verse": 18,
                     "text": "They that remain, and are pure in heart, shall return, and come to their inheritances, they and their children, with songs of everlasting joy, to build up the waste places of Zion--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8349851880269878
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 109,
                     "verse": 39,
                     "text": "And whatsoever city thy servants shall enter, and the people of that city receive their testimony, let thy peace and thy salvation be upon that city; that they may gather out of that city the righteous, that they may come forth to Zion, or to her stakes, the places of thine appointment, with songs of everlasting joy;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8231437449741413
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
                     "verse": 3,
-                    "text": "For the Lord shall comfort Zion, he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the Lord. Joy and gladness shall be found therein, thanksgiving and the voice of melody.",
+                    "text": "For the Lord shall comfort Zion: he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the Lord; joy and gladness shall be found therein, thanksgiving, and the voice of melody.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8213044408203162
                 },
                 {
                     "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "For the Lord shall comfort Zion, he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the Lord. Joy and gladness shall be found therein, thanksgiving and the voice of melody.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8213044408203162
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 30,
+                    "verse": 3,
+                    "text": "For, lo, the days come, saith the Lord, that I will bring again the captivity of my people Israel and Judah, saith the Lord: and I will cause them to return to the land that I gave to their fathers, and they shall possess it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8167232783453798
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 10,
+                    "text": "Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.815135367550714
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 49,
+                    "verse": 13,
+                    "text": "Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the Lord hath comforted his people, and will have mercy upon his afflicted.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148388934805504
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 30,
+                    "verse": 19,
+                    "text": "For the people shall dwell in Zion at Jerusalem: thou shalt weep no more: he will be very gracious unto thee at the voice of thy cry; when he shall hear it, he will answer thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8119185898011615
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 128,
+                    "verse": 5,
+                    "text": "The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8116886581551759
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 19,
+                    "verse": 31,
+                    "text": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the Lord of hosts shall do this.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106843379504999
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 37,
+                    "verse": 32,
+                    "text": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the Lord of hosts shall do this.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106843379504999
+                },
+                {
+                    "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 21,
                     "verse": 13,
                     "text": "Sing, O heavens; and be joyful, O earth; for the feet of those who are in the east shall be established; and break forth into singing, O mountains; for they shall be smitten no more; for the Lord hath comforted his people, and will have mercy upon his afflicted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8100044806351968
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 27,
+                    "text": "The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809406430776183
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 97,
                     "verse": 21,
                     "text": "Therefore, verily, thus saith the Lord, let Zion rejoice, for this is Zion--the pure in heart; therefore, let Zion rejoice, while all the wicked shall mourn.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8093448801630717
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 7,
                     "verse": 53,
                     "text": "And the Lord said: Blessed is he through whose seed Messiah shall come; for he saith--I am Messiah, the King of Zion, the Rock of Heaven, which is broad as eternity; whoso cometh in at the gate and climbeth up by me shall never fall; wherefore, blessed are they of whom I have spoken, for they shall come forth with songs of everlasting joy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8090495438298224
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 34,
                     "text": "Then shall they break forth into joy--Sing together, ye waste places of Jerusalem; for the Father hath comforted his people, he hath redeemed Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8078425711739752
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 28,
+                    "text": "The voice of them that flee and escape out of the land of Babylon, to declare in Zion the vengeance of the Lord our God, the vengeance of his temple.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8070270788453472
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 40,
+                    "text": "And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace; that bringeth good tidings unto them of good, that publisheth salvation; that saith unto Zion: Thy God reigneth!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064479161691257
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056328273176387
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 6,
+                    "verse": 38,
+                    "text": "If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and toward the city which thou hast chosen, and toward the house which I have built for thy name:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045702927291145
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 64,
+                    "verse": 34,
+                    "text": "Behold, the Lord requireth the heart and a willing mind; and the willing and obedient shall eat the good of the land of Zion in these last days.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042296143101226
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
+                    "chapter": 3,
+                    "verse": 14,
+                    "text": "Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037835844350882
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 12,
+                    "text": "For ye shall have great joy and be exceedingly glad, for great shall be your reward in heaven; for so persecuted they the prophets who were before you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035588313562945
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 9,
+                    "text": "And behold, and lo, this shall be their cry, and the voice of the Lord unto all people: Go ye forth unto the land of Zion, that the borders of my people may be enlarged, and that her stakes may be strengthened, and that Zion may go forth unto the regions round about.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034679829308167
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "The Lord also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the Lord will be the hope of his people, and the strength of the children of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021308403254479
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "Thus saith the Lord; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the Lord of hosts the holy mountain.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018618691909573
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 65,
+                    "verse": 19,
+                    "text": "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016843774026978
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 30,
+                    "verse": 3,
+                    "text": "That then the Lord thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the Lord thy God hath scattered thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801403551895013
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 16,
+                    "text": "Thus saith the Lord; Refrain thy voice from weeping, and thine eyes from tears: for thy work shall be rewarded, saith the Lord; and they shall come again from the land of the enemy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009848925735815
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 135,
+                    "verse": 21,
+                    "text": "Blessed be the Lord out of Zion, which dwelleth at Jerusalem. Praise ye the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007274008677812
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 11,
+                    "text": "Therefore the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9056319268236143
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 11,
+                    "text": "Therefore, the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy and holiness shall be upon their heads; and they shall obtain gladness and joy; sorrow and mourning shall flee away.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8972685871880405
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 11,
+                    "text": "Therefore the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy shall be upon their head: they shall obtain gladness and joy; and sorrow and mourning shall flee away.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9757880597367216
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 11,
+                    "text": "Therefore, the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy and holiness shall be upon their heads; and they shall obtain gladness and joy; sorrow and mourning shall flee away.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9723537547799358
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 71,
+                    "text": "And it shall come to pass that the righteous shall be gathered out from among all nations, and shall come to Zion, singing with songs of everlasting joy.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9278657159845355
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 101,
+                    "verse": 18,
+                    "text": "They that remain, and are pure in heart, shall return, and come to their inheritances, they and their children, with songs of everlasting joy, to build up the waste places of Zion--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.919777929782874
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 12,
+                    "text": "Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the Lord, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9146864465065945
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 14,
+                    "verse": 7,
+                    "text": "Oh that the salvation of Israel were come out of Zion! when the Lord bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055691305142267
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 34,
+                    "text": "Then shall they break forth into joy--Sing together, ye waste places of Jerusalem; for the Father hath comforted his people, he hath redeemed Jerusalem.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.903716033475637
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 33,
+                    "text": "And they shall be filled with songs of everlasting joy.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028832374284738
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 59,
+                    "verse": 20,
+                    "text": "And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9026633733121523
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 53,
+                    "verse": 6,
+                    "text": "Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9010954676099792
                 }
             ]
         }

@@ -10,82 +10,92 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 39,
                     "text": "And to ordain other elders, priests, teachers, and deacons;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8678650099820959
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 107,
                     "verse": 63,
                     "text": "Wherefore, from deacon to teacher, and from teacher to priest, and from priest to elder, severally as they are appointed, according to the covenants and commandments of the church.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8433099406544446
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 60,
                     "text": "Every elder, priest, teacher, or deacon is to be ordained according to the gifts and callings of God unto him; and he is to be ordained by the power of the Holy Ghost, which is in the one who ordains him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8268234210175823
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 38,
                     "text": "The duty of the elders, priests, teachers, deacons, and members of the church of Christ--An apostle is an elder, and it is his calling to baptize;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8192413863309603
                 },
                 {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "The manner of their elders and priests administering the flesh and blood of Christ unto the church; and they administered it according to the commandments of Christ; wherefore we know the manner to be true; and the elder or priest did minister it--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8116702396179516
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 111,
                     "text": "And behold, the high priests should travel, and also the elders, and also the lesser priests; but the deacons and teachers should be appointed to watch over the church, to be standing ministers unto the church.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8051535943361927
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 23,
-                    "text": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
-                    "score": 0.790377807531166
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 39,
+                    "text": "And to ordain other elders, priests, teachers, and deacons;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9192246924213525
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 44,
-                    "verse": 1,
-                    "text": "Behold, thus saith the Lord unto you my servants, it is expedient in me that the elders of my church should be called together, from the east and from the west, and from the north and from the south, by letter or some other way.",
-                    "score": 0.7872185983082238
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 107,
-                    "verse": 12,
-                    "text": "The high priest and elder are to administer in spiritual things, agreeable to the covenants and commandments of the church; and they have a right to officiate in all these offices of the church when there are no higher authorities present.",
-                    "score": 0.7865253156101663
+                    "verse": 63,
+                    "text": "Wherefore, from deacon to teacher, and from teacher to priest, and from priest to elder, severally as they are appointed, according to the covenants and commandments of the church.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9075993189334316
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 68,
-                    "text": "The duty of the members after they are received by baptism--The elders or priests are to have a sufficient time to expound all things concerning the church of Christ to their understanding, previous to their partaking of the sacrament and being confirmed by the laying on of the hands of the elders, so that all things may be done in order.",
-                    "score": 0.7865038690652552
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 64,
-                    "text": "Each priest, teacher, or deacon, who is ordained by a priest, may take a certificate from him at the time, which certificate, when presented to an elder, shall entitle him to a license, which shall authorize him to perform the duties of his calling, or he may receive it from a conference.",
-                    "score": 0.7842636296239774
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9063962474814116
                 }
             ]
         },
@@ -96,82 +106,132 @@
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 6,
                     "verse": 6,
                     "text": "Whom they set before the apostles: and when they had prayed, they laid their hands on them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8426159299931484
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 8,
                     "verse": 17,
                     "text": "Then laid they their hands on them, and they received the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8341592539636382
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 2,
+                    "text": "And Jesus again showed himself unto them, for they were praying unto the Father in his name; and Jesus came and stood in the midst of them, and said unto them: What will ye that I shall give unto you?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8217826783617496
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 18,
+                    "text": "And behold, they began to pray; and they did pray unto Jesus, calling him their Lord and their God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.81972587208555
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 7,
+                    "text": "And the disciples did pray unto the Father also in the name of Jesus. And it came to pass that they arose and ministered unto the people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8188131760673272
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 4,
+                    "verse": 2,
+                    "text": "And they did kneel down with the church, and pray to the Father in the name of Christ, saying:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8183476272163219
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 13,
                     "verse": 3,
                     "text": "And when they had fasted and prayed, and laid their hands on them, they sent them away.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.817455658075543
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8090756196561485
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 10,
                     "verse": 16,
                     "text": "And he took them up in his arms, put his hands upon them, and blessed them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8058685737225979
                 },
                 {
                     "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 1,
-                    "verse": 66,
-                    "text": "And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.",
-                    "score": 0.7969772986268895
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 6,
-                    "verse": 4,
-                    "text": "And then began these men to call upon the name of the Lord, and the Lord blessed them;",
-                    "score": 0.7945649285170964
+                    "verse": 6,
+                    "text": "Whom they set before the apostles: and when they had prayed, they laid their hands on them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9236516861500956
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 4,
-                    "text": "And now we ask thee, Holy Father, in the name of Jesus Christ, the Son of thy bosom, in whose name alone salvation can be administered to the children of men, we ask thee, O Lord, to accept of this house, the workmanship of the hands of us, thy servants, which thou didst command us to build.",
-                    "score": 0.7874315282804208
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 11,
-                    "verse": 9,
-                    "text": "And they that went before, and they that followed, cried, saying, Hosanna; Blessed is he that cometh in the name of the Lord:",
-                    "score": 0.7825356409840035
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 11,
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 4,
                     "verse": 2,
-                    "text": "And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.",
-                    "score": 0.7812646123523054
+                    "text": "And they did kneel down with the church, and pray to the Father in the name of Christ, saying:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9206628297969371
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 8,
+                    "verse": 17,
+                    "text": "Then laid they their hands on them, and they received the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9092713702593666
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 19,
-                    "verse": 5,
-                    "text": "When they heard this, they were baptized in the name of the Lord Jesus.",
-                    "score": 0.7803109429783894
+                    "verse": 18,
+                    "text": "And behold, they began to pray; and they did pray unto Jesus, calling him their Lord and their God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9046511877414732
                 }
             ]
         },
@@ -182,82 +242,72 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 49,
                     "verse": 13,
                     "text": "Repent and be baptized in the name of Jesus Christ, according to the holy commandment, for the remission of sins;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8152270096379935
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 55,
                     "verse": 2,
                     "text": "And then thou shalt be ordained by the hand of my servant Joseph Smith, Jun., to be an elder unto this church, to preach repentance and remission of sins by way of baptism in the name of Jesus Christ, the Son of the living God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8112023690976805
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 32,
                     "text": "And, behold, you are they who are ordained of me to ordain priests and teachers; to declare my gospel, according to the power of the Holy Ghost which is in you, and according to the callings and gifts of God unto men;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8111221494579213
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 41,
                     "text": "And you must preach unto the world, saying: You must repent and be baptized, in the name of Jesus Christ;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8103975441708732
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 28,
-                    "verse": 19,
-                    "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:",
-                    "score": 0.7957072341671867
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 25,
+                    "text": "Having authority given me of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029190742196248
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
-                    "verse": 22,
-                    "text": "And as many as repent and are baptized in my name, which is Jesus Christ, and endure to the end, the same shall be saved.",
-                    "score": 0.7954301967214314
+                    "verse": 32,
+                    "text": "And, behold, you are they who are ordained of me to ordain priests and teachers; to declare my gospel, according to the power of the Holy Ghost which is in you, and according to the callings and gifts of God unto men;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9068324025373364
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 18,
-                    "verse": 29,
-                    "text": "And they are they who are ordained of me to baptize in my name, according to that which is written;",
-                    "score": 0.7916736974566128
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "Behold, I am the light and the life of the world, that speak these words, therefore give heed with your might, and then you are called. Amen.",
-                    "score": 0.7796878634175762
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 14,
-                    "verse": 8,
-                    "text": "And it shall come to pass, that if you shall ask the Father in my name, in faith believing, you shall receive the Holy Ghost, which giveth utterance, that you may stand as a witness of the things of which you shall both hear and see, and also that you may declare repentance unto this generation.",
-                    "score": 0.7781783170289308
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 11,
-                    "text": "And he gave unto me a commandment that I should baptize in the name of the Father, and of the Son, which is full of grace and truth, and of the Holy Ghost, which beareth record of the Father and the Son.",
-                    "score": 0.7773536493269642
+                    "volume_book_index": 1,
+                    "chapter": 55,
+                    "verse": 2,
+                    "text": "And then thou shalt be ordained by the hand of my servant Joseph Smith, Jun., to be an elder unto this church, to preach repentance and remission of sins by way of baptism in the name of Jesus Christ, the Son of the living God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9007889746679354
                 }
             ]
         },
@@ -268,82 +318,112 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 32,
                     "text": "And, behold, you are they who are ordained of me to ordain priests and teachers; to declare my gospel, according to the power of the Holy Ghost which is in you, and according to the callings and gifts of God unto men;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8899148523570837
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 60,
                     "text": "Every elder, priest, teacher, or deacon is to be ordained according to the gifts and callings of God unto him; and he is to be ordained by the power of the Holy Ghost, which is in the one who ordains him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8754681414822041
                 },
                 {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 6,
+                    "verse": 9,
+                    "text": "And their meetings were conducted by the church after the manner of the workings of the Spirit, and by the power of the Holy Ghost; for as the power of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to supplicate, or to sing, even so it was done.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8249848522028967
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 13,
+                    "verse": 8,
+                    "text": "Now they were ordained after this manner--being called with a holy calling, and ordained with a holy ordinance, and taking upon them the high priesthood of the holy order, which calling, and ordinance, and high priesthood, is without beginning or end--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000767189906789
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 18,
+                    "verse": 32,
+                    "text": "And, behold, you are they who are ordained of me to ordain priests and teachers; to declare my gospel, according to the power of the Holy Ghost which is in you, and according to the callings and gifts of God unto men;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9397774970664236
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
-                    "verse": 27,
-                    "text": "As well as those who should come after, who should believe in the gifts and callings of God by the Holy Ghost, which beareth record of the Father and of the Son;",
-                    "score": 0.7967331013310195
+                    "verse": 60,
+                    "text": "Every elder, priest, teacher, or deacon is to be ordained according to the gifts and callings of God unto him; and he is to be ordained by the power of the Holy Ghost, which is in the one who ordains him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9138830304145877
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 23,
-                    "text": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
-                    "score": 0.7891770872465337
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 13,
+                    "verse": 8,
+                    "text": "Now they were ordained after this manner--being called with a holy calling, and ordained with a holy ordinance, and taking upon them the high priesthood of the holy order, which calling, and ordinance, and high priesthood, is without beginning or end--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9095948826783755
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 63,
-                    "text": "Wherefore, from deacon to teacher, and from teacher to priest, and from priest to elder, severally as they are appointed, according to the covenants and commandments of the church.",
-                    "score": 0.7879365292448747
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 1,
+                    "text": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9063962474814116
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 48,
-                    "text": "And he may also ordain other priests, teachers, and deacons.",
-                    "score": 0.7865158695324486
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 6,
+                    "verse": 9,
+                    "text": "And their meetings were conducted by the church after the manner of the workings of the Spirit, and by the power of the Holy Ghost; for as the power of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to supplicate, or to sing, even so it was done.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9054859224251478
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 39,
-                    "text": "And to ordain other elders, priests, teachers, and deacons;",
-                    "score": 0.7816935118100672
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 8,
+                    "verse": 32,
+                    "text": "And it came to pass that they went forth and began to preach and to prophesy unto the people, according to the spirit and power which the Lord had given them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9046409726142948
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 10,
-                    "text": "High priests after the order of the Melchizedek Priesthood have a right to officiate in their own standing, under the direction of the presidency, in administering spiritual things, and also in the office of an elder, priest (of the Levitical order), teacher, deacon, and member.",
-                    "score": 0.7781743494510602
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 64,
-                    "text": "Each priest, teacher, or deacon, who is ordained by a priest, may take a certificate from him at the time, which certificate, when presented to an elder, shall entitle him to a license, which shall authorize him to perform the duties of his calling, or he may receive it from a conference.",
-                    "score": 0.7755053560982651
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 46,
-                    "verse": 27,
-                    "text": "And unto the bishop of the church, and unto such as God shall appoint and ordain to watch over the church and to be elders unto the church, are to have it given unto them to discern all those gifts lest there shall be any among you professing and yet be not of God.",
-                    "score": 0.7723752937933829
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 23,
+                    "verse": 17,
+                    "text": "And it came to pass that none received authority to preach or to teach except it were by him from God. Therefore he consecrated all their priests and all their teachers; and none were consecrated except they were just men.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902677584013651
                 }
             ]
         }

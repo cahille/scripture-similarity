@@ -10,82 +10,22 @@
                 {
                     "volume": "Old Testament",
                     "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 2,
                     "verse": 11,
                     "text": "So I came to Jerusalem, and was there three days.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8303275783399725
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezra",
+                    "volume_book_index": 15,
                     "chapter": 8,
                     "verse": 32,
                     "text": "And we came to Jerusalem, and abode there three days.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8034646533013133
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jonah",
-                    "chapter": 3,
-                    "verse": 3,
-                    "text": "So Jonah arose, and went unto Nineveh, according to the word of the Lord. Now Nineveh was an exceeding great city of three days' journey.",
-                    "score": 0.7483346967743211
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 30,
-                    "verse": 36,
-                    "text": "And he set three days' journey betwixt himself and Jacob: and Jacob fed the rest of Laban's flocks.",
-                    "score": 0.7424378424135165
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "And the children of Israel journeyed, and came unto their cities on the third day. Now their cities were Gibeon, and Chephirah, and Beeroth, and Kirjath-jearim.",
-                    "score": 0.7380809570194058
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 10,
-                    "verse": 5,
-                    "text": "And he said unto them, Come again unto me after three days. And the people departed.",
-                    "score": 0.7338028295262943
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 36,
-                    "verse": 2,
-                    "text": "Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem.",
-                    "score": 0.7300866132099124
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 29,
-                    "verse": 27,
-                    "text": "And the time that he reigned over Israel was forty years; seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.",
-                    "score": 0.729693397886932
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "It came even to pass on the third day, that, behold, a man came out of the camp from Saul with his clothes rent, and earth upon his head: and so it was, when he came to David, that he fell to the earth, and did obeisance.",
-                    "score": 0.7291479305199469
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 19,
-                    "verse": 10,
-                    "text": "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.",
-                    "score": 0.7283006392626594
                 }
             ]
         },
@@ -94,256 +34,55 @@
             "text": "Then the high priest and the chief of the Jews informed him against Paul, and besought him,",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 29,
-                    "text": "Now when the high priest and the chief judge saw the hardness of his heart, yea, when they saw that he would revile even against God, they would not make any reply to his words; but they caused that he should be bound; and they delivered him up into the hands of the officers, and sent him to the land of Zarahemla, that he might be brought before Alma, and the chief judge who was governor over all the land.",
-                    "score": 0.7565383014204288
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 15,
+                    "text": "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8141210163092135
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 23,
-                    "text": "Now the high priest's name was Giddonah. And Korihor said unto him: Because I do not teach the foolish traditions of your fathers, and because I do not teach this people to bind themselves down under the foolish ordinances and performances which are laid down by ancient priests, to usurp power and authority over them, to keep them in ignorance, that they may not lift up their heads, but be brought down according to thy words.",
-                    "score": 0.7488505542660158
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 45,
-                    "verse": 23,
-                    "text": "And now it came to pass that after Helaman and his brethren had appointed priests and teachers over the churches that there arose a dissension among them, and they would not give heed to the words of Helaman and his brethren;",
-                    "score": 0.7433469045245501
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 22,
-                    "text": "And it came to pass that the high priest said unto him: Why do ye go about perverting the ways of the Lord? Why do ye teach this people that there shall be no Christ, to interrupt their rejoicings? Why do ye speak against all the prophecies of the holy prophets?",
-                    "score": 0.7429503798255511
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 6,
-                    "text": "Thus they were led away by Amalickiah to dissensions, notwithstanding the preaching of Helaman and his brethren, yea, notwithstanding their exceedingly great care over the church, for they were high priests over the church.",
-                    "score": 0.7420205013139552
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 1,
-                    "verse": 7,
-                    "text": "And it came to pass as he was going, to preach to those who believed on his word, he met a man who belonged to the church of God, yea, even one of their teachers; and he began to contend with him sharply, that he might lead away the people of the church; but the man withstood him, admonishing him with the words of God.",
-                    "score": 0.7410971569645772
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 7,
-                    "text": "And it came to pass that they were brought before the priests, and delivered up unto the priests by the teachers; and the priests brought them before Alma, who was the high priest.",
-                    "score": 0.7399687988549869
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 21,
-                    "verse": 7,
-                    "text": "Now a certain man of the servants of Saul was there that day, detained before the Lord; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul.",
-                    "score": 0.7395962371576429
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 24,
-                    "verse": 19,
-                    "text": "Yet he sent prophets to them, to bring them again unto the Lord; and they testified against them: but they would not give ear.",
-                    "score": 0.7379691133544974
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 21,
-                    "verse": 10,
-                    "text": "And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;",
-                    "score": 0.7311320045605157
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 22,
+                    "verse": 30,
+                    "text": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036018371980445
                 }
             ]
         },
         {
             "verse": 3,
             "text": "And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 5,
-                    "verse": 7,
-                    "text": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, Am I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me.",
-                    "score": 0.7714827265187818
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Micah",
-                    "chapter": 1,
-                    "verse": 12,
-                    "text": "For the inhabitant of Maroth waited carefully for good: but evil came down from the Lord unto the gate of Jerusalem.",
-                    "score": 0.7675779527302456
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 2,
-                    "verse": 7,
-                    "text": "And it came to pass that he met Kishkumen, and he gave unto him a sign; therefore Kishkumen made known unto him the object of his desire, desiring that he would conduct him to the judgment-seat that he might murder Helaman.",
-                    "score": 0.7658146869036623
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Esther",
-                    "chapter": 8,
-                    "verse": 5,
-                    "text": "And said, If it please the king, and if I have found favour in his sight, and the thing seem right before the king, and I be pleasing in his eyes, let it be written to reverse the letters devised by Haman the son of Hammedatha the Agagite, which he wrote to destroy the Jews which are in all the king's provinces:",
-                    "score": 0.7646625247101301
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 6,
-                    "verse": 33,
-                    "text": "And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the Lord; what should I wait for the Lord any longer?",
-                    "score": 0.7641052487350383
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 15,
-                    "verse": 4,
-                    "text": "And it came to pass that he wrote an epistle unto Shiz, desiring him that he would spare the people, and he would give up the kingdom for the sake of the lives of the people.",
-                    "score": 0.7637287425107071
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 21,
-                    "verse": 2,
-                    "text": "Son of man, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel,",
-                    "score": 0.7633593118345231
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 20,
-                    "verse": 21,
-                    "text": "Now when the king saw that Ammon could slay him, he began to plead with Ammon that he would spare his life.",
-                    "score": 0.7633252553253727
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--Matthew",
-                    "chapter": 1,
-                    "verse": 51,
-                    "text": "But if that evil servant shall say in his heart: My lord delayeth his coming,",
-                    "score": 0.7608591691352014
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Esther",
-                    "chapter": 5,
-                    "verse": 8,
-                    "text": "If I have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said.",
-                    "score": 0.7597494282676698
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 4,
             "text": "But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 20,
-                    "verse": 6,
-                    "text": "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.",
-                    "score": 0.7216465147001371
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 10,
-                    "verse": 22,
-                    "text": "Therefore they inquired of the Lord further, if the man should yet come thither. And the Lord answered, Behold, he hath hid himself among the stuff.",
-                    "score": 0.7119040061177417
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 28,
-                    "verse": 10,
-                    "text": "Thou shalt not leave this place until after the conference; and my servant Joseph shall be appointed to preside over the conference by the voice of it, and what he saith to thee thou shalt tell.",
-                    "score": 0.7118508894255717
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 29,
-                    "verse": 4,
-                    "text": "And the princes of the Philistines were wroth with him; and the princes of the Philistines said unto him, Make this fellow return, that he may go again to his place which thou hast appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself unto his master? should it not be with the heads of these men?",
-                    "score": 0.7116453109966725
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.",
-                    "score": 0.710757098869881
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 60,
-                    "text": "And for this cause these commandments were given; they were commanded to be kept from the world in the day that they were given, but now are to go forth unto all flesh--",
-                    "score": 0.7078874227695543
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 25,
-                    "verse": 41,
-                    "text": "And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.",
-                    "score": 0.7033735084253676
+                    "verse": 12,
+                    "text": "Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Caesar? unto Caesar shalt thou go.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8171255904129373
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 56,
-                    "verse": 10,
-                    "text": "Otherwise he shall receive the money which he has paid, and shall leave the place, and shall be cut off out of my church, saith the Lord God of hosts;",
-                    "score": 0.7031925152317174
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
                     "verse": 9,
-                    "text": "Wherefore, I, Lehi, have obtained a promise, that inasmuch as those whom the Lord God shall bring out of the land of Jerusalem shall keep his commandments, they shall prosper upon the face of this land; and they shall be kept from all other nations, that they may possess this land unto themselves. And if it so be that they shall keep his commandments they shall be blessed upon the face of this land, and there shall be none to molest them, nor to take away the land of their inheritance; and they shall dwell safely forever.",
-                    "score": 0.7029856968876531
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 2,
-                    "text": "And while they were gone for bread and wine, he commanded the multitude that they should sit themselves down upon the earth.",
-                    "score": 0.7022960825308492
+                    "text": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010142472679074
                 }
             ]
         },
@@ -352,428 +91,226 @@
             "text": "Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 14,
+                    "text": "Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined him before you, have found no fault in this man touching those things whereof ye accuse him:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8259851398354067
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 27,
                     "verse": 7,
                     "text": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.823699693627763
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 12,
                     "verse": 11,
                     "text": "And blessed are ye when men shall revile you and persecute, and shall say all manner of evil against you falsely, for my sake;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8203938106365427
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 5,
+                    "verse": 11,
+                    "text": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8197783233194058
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 26,
                     "verse": 3,
                     "text": "If so be they will hearken, and turn every man from his evil way, that I may repent me of the evil, which I purpose to do unto them because of the evil of their doings.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8187507312847416
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 23,
+                    "verse": 35,
+                    "text": "I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod's judgment hall.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170320309461252
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 17,
                     "verse": 8,
                     "text": "Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8137070230708401
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Samuel",
+                    "volume_book_index": 9,
                     "chapter": 2,
                     "verse": 23,
                     "text": "And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8064952900601766
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 1,
                     "verse": 13,
                     "text": "Yea, and moreover I say unto you, that if this highly favored people of the Lord should fall into transgression, and become a wicked and an adulterous people, that the Lord will deliver them up, that thereby they become weak like unto their brethren; and he will no more preserve them by his matchless and marvelous power, as he has hitherto preserved our fathers.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8043537214097191
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 26,
                     "verse": 29,
                     "text": "Therefore I say unto you, Go; and whosoever transgresseth against me, him shall ye judge according to the sins which he has committed; and if he confess his sins before thee and me, and repenteth in the sincerity of his heart, him shall ye forgive, and I will forgive him also.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8034932863276373
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 2,
                     "verse": 5,
                     "text": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8033403948521788
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 19,
                     "verse": 19,
                     "text": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8025920593575283
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 10,
                     "verse": 6,
                     "text": "I will send him against an hypocritical nation, and against the people of my wrath will I give him a charge, to take the spoil, and to take the prey, and to tread them down like the mire of the streets.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8015862208022286
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 20,
+                    "verse": 6,
+                    "text": "I will send him against a hypocritical nation, and against the people of my wrath will I give him a charge to take the spoil, and to take the prey, and to tread them down like the mire of the streets.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015739356969563
                 }
             ]
         },
         {
             "verse": 6,
             "text": "And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 23,
-                    "text": "And it came to pass after they had thus suffered for many days, (and it was on the twelfth day, in the tenth month, in the tenth year of the reign of the judges over the people of Nephi) that the chief judge over the land of Ammonihah and many of their teachers and their lawyers went in unto the prison where Alma and Amulek were bound with cords.",
-                    "score": 0.7586685784838657
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 10,
-                    "verse": 16,
-                    "text": "And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.",
-                    "score": 0.7566597195398429
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And thou shalt go down before me to Gilgal; and, behold, I will come down unto thee, to offer burnt offerings, and to sacrifice sacrifices of peace offerings: seven days shalt thou tarry, till I come to thee, and shew thee what thou shalt do.",
-                    "score": 0.7552573221384952
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ruth",
-                    "chapter": 4,
-                    "verse": 2,
-                    "text": "And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.",
-                    "score": 0.7541641450006895
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 10,
-                    "text": "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
-                    "score": 0.754079097149416
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 6,
-                    "verse": 12,
-                    "text": "And he shall consecrate unto the Lord the days of his separation, and shall bring a lamb of the first year for a trespass offering: but the days that were before shall be lost, because his separation was defiled.",
-                    "score": 0.7540505062560182
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 1,
-                    "verse": 12,
-                    "text": "Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.",
-                    "score": 0.7526266898206183
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 13,
-                    "verse": 6,
-                    "text": "And it came to pass after many days, that the Lord said unto me, Arise, go to Euphrates, and take the girdle from thence, which I commanded thee to hide there.",
-                    "score": 0.7514455978144723
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 42,
-                    "verse": 7,
-                    "text": "And it came to pass after ten days, that the word of the Lord came unto Jeremiah.",
-                    "score": 0.7511062613904405
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 8,
-                    "verse": 23,
-                    "text": "Thus saith the Lord of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you.",
-                    "score": 0.7499589410371846
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 7,
             "text": "And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 3,
-                    "verse": 8,
-                    "text": "Wherefore at that time certain Chaldeans came near, and accused the Jews.",
-                    "score": 0.7716411690032743
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Obadiah",
-                    "chapter": 1,
-                    "verse": 11,
-                    "text": "In the day that thou stoodest on the other side, in the day that the strangers carried away captive his forces, and foreigners entered into his gates, and cast lots upon Jerusalem, even thou wast as one of them.",
-                    "score": 0.762702521907992
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 17,
-                    "verse": 8,
-                    "text": "And he stood and cried unto the armies of Israel, and said unto them, Why are ye come out to set your battle in array? am not I a Philistine, and ye servants to Saul? choose you a man for you, and let him come down to me.",
-                    "score": 0.7563385245434626
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 27,
-                    "text": "And he spake unto me many times concerning the elders of the Jews, as I went forth unto my brethren, who were without the walls.",
-                    "score": 0.7560500643279069
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 4,
-                    "verse": 12,
-                    "text": "Be it known unto the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations.",
-                    "score": 0.7559602976541491
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 13,
-                    "verse": 39,
-                    "text": "And after it had come forth unto them I beheld other books, which came forth by the power of the Lamb, from the Gentiles unto them, unto the convincing of the Gentiles and the remnant of the seed of my brethren, and also the Jews who were scattered upon all the face of the earth, that the records of the prophets and of the twelve apostles of the Lamb are true.",
-                    "score": 0.7553251588065882
+                    "verse": 45,
+                    "text": "But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8115438588325231
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 8,
-                    "verse": 32,
-                    "text": "And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.",
-                    "score": 0.7523030292880304
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 4,
-                    "verse": 8,
-                    "text": "And conspired all of them together to come and to fight against Jerusalem, and to hinder it.",
-                    "score": 0.7498338164671426
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 52,
-                    "verse": 3,
-                    "text": "For through the anger of the Lord it came to pass in Jerusalem and Judah, till he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.",
-                    "score": 0.7475533762082093
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 24,
-                    "verse": 19,
-                    "text": "Yet he sent prophets to them, to bring them again unto the Lord; and they testified against them: but they would not give ear.",
-                    "score": 0.7468957907074101
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 13,
+                    "verse": 45,
+                    "text": "But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.913626573708069
                 }
             ]
         },
         {
             "verse": 8,
             "text": "While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 16,
-                    "verse": 15,
-                    "text": "And Moses was very wroth, and said unto the Lord, Respect not thou their offering: I have not taken one ass from them, neither have I hurt one of them.",
-                    "score": 0.7369441327433599
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 15,
-                    "verse": 3,
-                    "text": "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour.",
-                    "score": 0.7367138030478669
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 51,
-                    "text": "The proud have had me greatly in derision: yet have I not declined from thy law.",
-                    "score": 0.7327362820796572
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 43,
-                    "verse": 23,
-                    "text": "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.",
-                    "score": 0.7303677267482046
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 18,
-                    "verse": 18,
-                    "text": "And he answered, I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of the Lord, and thou hast followed Baalim.",
-                    "score": 0.7283418619955292
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 22,
-                    "verse": 16,
-                    "text": "And said, By myself have I sworn, saith the Lord, for because thou hast done this thing, and hast not withheld thy son, thine only son:",
-                    "score": 0.7281424285543596
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 34,
-                    "verse": 31,
-                    "text": "Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:",
-                    "score": 0.7276301661329754
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 35,
-                    "text": "Once have I sworn by my holiness that I will not lie unto David.",
-                    "score": 0.7265439409597073
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 36,
-                    "text": "Yea, all his iniquities and abominations, and all the wars, and contentions, and bloodshed, and the stealing, and the plundering, and the committing of whoredoms, and all manner of iniquities which cannot be enumerated--telling them that these things ought not to be, that they were expressly repugnant to the commandments of God.",
-                    "score": 0.7233736016770013
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 27,
-                    "text": "Thou shalt not speak evil of thy neighbor, nor do him any harm.",
-                    "score": 0.7232001801910518
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 9,
             "text": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 44,
-                    "verse": 28,
-                    "text": "That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid.",
-                    "score": 0.7624893822282544
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 7,
-                    "verse": 13,
-                    "text": "I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.",
-                    "score": 0.7618560998925727
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 2,
-                    "verse": 5,
-                    "text": "And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers' sepulchres, that I may build it.",
-                    "score": 0.7618011704608953
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 9,
-                    "verse": 12,
-                    "text": "And they answered them, and said, He is; behold, he is before you: make haste now, for he came to day to the city; for there is a sacrifice of the people to day in the high place:",
-                    "score": 0.7612767877098973
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 9,
-                    "text": "But behold, here is one thing in which we may have great joy. For behold, in the twenty and sixth year, I, Helaman, did march at the head of these two thousand young men to the city of Judea, to assist Antipus, whom ye had appointed a leader over the people of that part of the land.",
-                    "score": 0.7609874254930024
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 51,
-                    "verse": 19,
-                    "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
-                    "score": 0.7609470249087147
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 28,
-                    "verse": 32,
-                    "text": "Yea even among the Gentiles shall there be a great and marvelous work wrought by them, before that judgment day.",
-                    "score": 0.7608709543431742
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 9,
-                    "verse": 1,
-                    "text": "Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,",
-                    "score": 0.7604817485208014
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 2,
-                    "verse": 29,
-                    "text": "Wherefore kick ye at my sacrifice and at mine offering, which I have commanded in my habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?",
-                    "score": 0.7589654928900873
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 41,
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 24,
                     "verse": 27,
-                    "text": "The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings.",
-                    "score": 0.7570116381462204
+                    "text": "But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8125539408081419
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 10,
+                    "text": "Then said Paul, I stand at Caesar's judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.807536563886308
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 12,
+                    "text": "Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Caesar? unto Caesar shalt thou go.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8032420391589341
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 4,
+                    "text": "But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010142472679074
                 }
             ]
         },
@@ -782,256 +319,45 @@
             "text": "Then said Paul, I stand at Caesar's judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the Lord the Judge be judge this day between the children of Israel and the children of Ammon.",
-                    "score": 0.7741510056121381
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 18,
-                    "text": "And now, my brethren, seeing that ye know the light by which ye may judge, which light is the light of Christ, see that ye do not judge wrongfully; for with that same judgment which ye judge ye shall also be judged.",
-                    "score": 0.7733906690784812
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 66,
-                    "text": "Teach me good judgment and knowledge: for I have believed thy commandments.",
-                    "score": 0.7725291170724163
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 27,
-                    "verse": 27,
-                    "text": "And know ye that ye shall be judges of this people, according to the judgment which I shall give unto you, which shall be just. Therefore, what manner of men ought ye to be? Verily I say unto you, even as I am.",
-                    "score": 0.7677832152988935
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 75,
-                    "verse": 2,
-                    "text": "When I shall receive the congregation I will judge uprightly.",
-                    "score": 0.7669304807375236
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 18,
-                    "verse": 30,
-                    "text": "Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord God. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin.",
-                    "score": 0.7668147593194371
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 9,
-                    "verse": 4,
-                    "text": "For thou hast maintained my right and my cause; thou satest in the throne judging right.",
-                    "score": 0.764264382057707
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 42,
-                    "verse": 1,
-                    "text": "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.",
-                    "score": 0.7626065163080142
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 10,
-                    "verse": 20,
-                    "text": "Therefore remember, O man, for all thy doings thou shalt be brought into judgment.",
-                    "score": 0.758733160389237
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 7,
-                    "text": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
-                    "score": 0.7585060681553141
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 9,
+                    "text": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.807536563886308
                 }
             ]
         },
         {
             "verse": 11,
             "text": "For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 116,
-                    "text": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
-                    "score": 0.7894754948609302
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "And I will do in thee that which I have not done, and whereunto I will not do any more the like, because of all thine abominations.",
-                    "score": 0.7761495854721724
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 27,
-                    "verse": 29,
-                    "text": "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death.",
-                    "score": 0.7754995583380612
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 29,
-                    "verse": 4,
-                    "text": "I ought not to harrow up in my desires the firm decree of a just God, for I know that he granteth unto men according to their desire, whether it be unto death or unto life; yea, I know that he allotteth unto men, yea, decreeth unto them decrees which are unalterable, according to their wills, whether they be unto salvation or unto destruction.",
-                    "score": 0.769893466575568
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee.",
-                    "score": 0.7623571997959689
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 17,
-                    "verse": 6,
-                    "text": "At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; but at the mouth of one witness he shall not be put to death.",
-                    "score": 0.7622097439844687
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 10,
-                    "verse": 2,
-                    "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
-                    "score": 0.7617930547766512
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 5,
-                    "verse": 29,
-                    "text": "And if this be the case, I command you, my servant Joseph, that you shall say unto him, that he shall do no more, nor trouble me any more concerning this matter.",
-                    "score": 0.7593280744354622
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 11,
-                    "text": "And now, for this cause have I suffered that ye should be preserved, that I might inquire of you, or else I should have caused that my guards should have put you to death. Ye are permitted to speak.",
-                    "score": 0.7592967498261196
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 13,
-                    "verse": 30,
-                    "text": "And may the Lord grant unto you repentance, that ye may not bring down his wrath upon you, that ye may not be bound down by the chains of hell, that ye may not suffer the second death.",
-                    "score": 0.7577833883174266
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
             "text": "Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Caesar? unto Caesar shalt thou go.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 1,
-                    "verse": 17,
-                    "text": "Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.",
-                    "score": 0.7607678781221622
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 4,
+                    "text": "But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8171255904129373
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 2,
-                    "verse": 10,
-                    "text": "And he said, Thou hast asked a hard thing: nevertheless, if thou see me when I am taken from thee, it shall be so unto thee; but if not, it shall not be so.",
-                    "score": 0.7539782585096813
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 19,
-                    "text": "And because thou hast inquired of me concerning the transgressor, thou art blessed.",
-                    "score": 0.7532760537435047
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 10,
-                    "text": "And he said unto me: What desirest thou?",
-                    "score": 0.7386893421673119
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 6,
-                    "verse": 14,
-                    "text": "Verily, verily, I say unto thee, blessed art thou for what thou hast done; for thou hast inquired of me, and behold, as often as thou hast inquired thou hast received instruction of my Spirit. If it had not been so, thou wouldst not have come to the place where thou art at this time.",
-                    "score": 0.7367109825133018
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 6,
-                    "verse": 3,
-                    "text": "And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.",
-                    "score": 0.7358203719620485
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 15,
-                    "verse": 8,
-                    "text": "And I said unto them: Have ye inquired of the Lord?",
-                    "score": 0.7356929827340478
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 8,
-                    "verse": 5,
-                    "text": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;",
-                    "score": 0.7339005880623687
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 46,
-                    "verse": 28,
-                    "text": "And it shall come to pass that he that asketh in Spirit shall receive in Spirit;",
-                    "score": 0.7303546230178858
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 1,
-                    "verse": 16,
-                    "text": "And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.",
-                    "score": 0.7299938294367396
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 9,
+                    "text": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8032420391589341
                 }
             ]
         },
@@ -1040,84 +366,34 @@
             "text": "And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Esther",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,",
-                    "score": 0.7197073671768475
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 9,
-                    "text": "But behold, here is one thing in which we may have great joy. For behold, in the twenty and sixth year, I, Helaman, did march at the head of these two thousand young men to the city of Judea, to assist Antipus, whom ye had appointed a leader over the people of that part of the land.",
-                    "score": 0.7116107202515947
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 28,
-                    "verse": 5,
-                    "text": "In that day shall the Lord of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,",
-                    "score": 0.6987833461286462
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
                     "verse": 23,
-                    "text": "And it came to pass after they had fasted and prayed for the space of two days and two nights, the limbs of Alma received their strength, and he stood up and began to speak unto them, bidding them to be of good comfort:",
-                    "score": 0.6928969479654616
+                    "text": "And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus' commandment Paul was brought forth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8253899113848782
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 30,
-                    "text": "Therefore there was a law given them, yea, a law of performances and of ordinances, a law which they were to observe strictly from day to day, to keep them in remembrance of God and their duty towards him.",
-                    "score": 0.6927512255788676
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 23,
+                    "text": "And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus' commandment Paul was brought forth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9177272446182586
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "And they prophesied unto Com many things; and he was blessed in all the remainder of his days.",
-                    "score": 0.6921643038339417
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 19,
-                    "verse": 10,
-                    "text": "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him.",
-                    "score": 0.6910139555681721
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 12,
-                    "verse": 40,
-                    "text": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:",
-                    "score": 0.6894236216660903
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 12,
-                    "verse": 43,
-                    "text": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
-                    "score": 0.6892896269955586
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 9,
-                    "verse": 10,
-                    "text": "And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as it is this day.",
-                    "score": 0.6878264922771133
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 14,
+                    "text": "And when they had been there many days, Festus declared Paul's cause unto the king, saying, There is a certain man left in bonds by Felix:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9030424240878198
                 }
             ]
         },
@@ -1126,84 +402,24 @@
             "text": "And when they had been there many days, Festus declared Paul's cause unto the king, saying, There is a certain man left in bonds by Felix:",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 106,
-                    "verse": 45,
-                    "text": "And he remembered for them his covenant, and repented according to the multitude of his mercies.",
-                    "score": 0.7330598354510872
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 24,
+                    "verse": 27,
+                    "text": "But after two years Porcius Festus came into Felix' room: and Felix, willing to shew the Jews a pleasure, left Paul bound.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.906960666179657
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 9,
-                    "verse": 9,
-                    "text": "For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.",
-                    "score": 0.7302353772656671
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 10,
-                    "verse": 17,
-                    "text": "And it came to pass that Corom did that which was good in the sight of the Lord all his days; and he begat many sons and daughters; and after he had seen many days he did pass away, even like unto the rest of the earth; and Kish reigned in his stead.",
-                    "score": 0.7283775692313269
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 1,
-                    "verse": 18,
-                    "text": "Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar.",
-                    "score": 0.7273717706696848
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "And they prophesied unto Com many things; and he was blessed in all the remainder of his days.",
-                    "score": 0.726237974776249
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 57,
-                    "text": "And for this cause, that men might be made partakers of the glories which were to be revealed, the Lord sent forth the fulness of his gospel, his everlasting covenant, reasoning in plainness and simplicity--",
-                    "score": 0.7258588535362671
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 44,
-                    "verse": 9,
-                    "text": "With whomsoever of thy servants it be found, both let him die, and we also will be my lord's bondmen.",
-                    "score": 0.724615261669568
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 63,
-                    "verse": 9,
-                    "text": "In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.",
-                    "score": 0.7240066292443232
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 31,
-                    "text": "For behold I say unto you, the sins of many people have been caused by the iniquities of their kings; therefore their iniquities are answered upon the heads of their kings.",
-                    "score": 0.7235581446188685
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 28,
-                    "text": "And now, because he said this, they did put him to death; and many more things did they do which brought down the wrath of God upon them. Therefore, who wondereth that they are in bondage, and that they are smitten with sore afflictions?",
-                    "score": 0.7228791655646929
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 13,
+                    "text": "And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9030424240878198
                 }
             ]
         },
@@ -1212,258 +428,26 @@
             "text": "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 19,
-                    "verse": 8,
-                    "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the Lord, and for controversies, when they returned to Jerusalem.",
-                    "score": 0.7998991032805742
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 17,
-                    "verse": 9,
-                    "text": "And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and inquire; and they shall shew thee the sentence of judgment:",
-                    "score": 0.7926680740376032
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 7,
-                    "verse": 13,
-                    "text": "I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.",
-                    "score": 0.7725897190167015
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 3,
-                    "verse": 17,
-                    "text": "For he knew that Jerusalem must be destroyed, because of the wickedness of the people.",
-                    "score": 0.7718144116842263
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 27,
-                    "text": "And he spake unto me many times concerning the elders of the Jews, as I went forth unto my brethren, who were without the walls.",
-                    "score": 0.7711798278928008
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 16,
-                    "verse": 36,
-                    "text": "And thus they did murmur against my father, and also against me; and they were desirous to return again to Jerusalem.",
-                    "score": 0.7707708227653527
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 28,
-                    "verse": 14,
-                    "text": "Wherefore hear the word of the Lord, ye scornful men, that rule this people which is in Jerusalem.",
-                    "score": 0.7699851028974398
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 14,
-                    "verse": 1,
-                    "text": "Then came certain of the elders of Israel unto me, and sat before me.",
-                    "score": 0.7690836768086196
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 32,
-                    "verse": 32,
-                    "text": "Because of all the evil of the children of Israel and of the children of Judah, which they have done to provoke me to anger, they, their kings, their princes, their priests, and their prophets, and the men of Judah, and the inhabitants of Jerusalem.",
-                    "score": 0.7686507094840972
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--Matthew",
-                    "chapter": 1,
-                    "verse": 21,
-                    "text": "Behold, these things I have spoken unto you concerning the Jews; and again, after the tribulation of those days which shall come upon Jerusalem, if any man shall say unto you, Lo, here is Christ, or there, believe him not;",
-                    "score": 0.766960077709074
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 2,
+                    "text": "Then the high priest and the chief of the Jews informed him against Paul, and besought him,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8141210163092135
                 }
             ]
         },
         {
             "verse": 16,
             "text": "To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 35,
-                    "verse": 30,
-                    "text": "Whoso killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person to cause him to die.",
-                    "score": 0.7736331299466497
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 17,
-                    "verse": 27,
-                    "text": "And the people answered him after this manner, saying, So shall it be done to the man that killeth him.",
-                    "score": 0.7581284976251055
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 9,
-                    "verse": 15,
-                    "text": "Whom, though I were righteous, yet would I not answer, but I would make supplication to my judge.",
-                    "score": 0.7575852402545262
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 17,
-                    "verse": 6,
-                    "text": "At the mouth of two witnesses, or three witnesses, shall he that is worthy of death be put to death; but at the mouth of one witness he shall not be put to death.",
-                    "score": 0.7435853368132869
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 19,
-                    "verse": 9,
-                    "text": "A false witness shall not be unpunished, and he that speaketh lies shall perish.",
-                    "score": 0.7422817450128111
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 2,
-                    "verse": 3,
-                    "text": "Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you.",
-                    "score": 0.7414426398758174
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 24,
-                    "text": "And now behold I say unto you, it is not expedient that such abominations should come upon you.",
-                    "score": 0.7406220790580372
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 12,
-                    "verse": 27,
-                    "text": "But behold, it was not so; but it was appointed unto men that they must die; and after death, they must come to judgment, even that same judgment of which we have spoken, which is the end.",
-                    "score": 0.7398421425177704
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 135,
-                    "verse": 4,
-                    "text": "When Joseph went to Carthage to deliver himself up to the pretended requirements of the law, two or three days previous to his assassination, he said: \"I am going like a lamb to the slaughter; but I am calm as a summer's morning; I have a conscience void of offense towards God, and towards all men. I shall die innocent, and it shall yet be said of me--he was murdered in cold blood.\"--The same morning, after Hyrum had made ready to go--shall it be said to the slaughter? yes, for so it was--he read the following paragraph, near the close of the twelfth chapter of Ether, in the Book of Mormon, and turned down the leaf upon it:",
-                    "score": 0.7395090680767042
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 19,
-                    "text": "And it came to pass that the judge stood before them, and said: Why do ye not answer the words of this people? Know ye not that I have power to deliver you up unto the flames? And he commanded them to speak; but they answered nothing.",
-                    "score": 0.7389320754367714
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 17,
             "text": "Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
-                    "verse": 2,
-                    "text": "And even I could not have come now at this time were it not that the judgment-seat hath been given to another, to reign in my stead; and the Lord in much mercy hath granted that I should come unto you.",
-                    "score": 0.7909299930418635
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
-                    "verse": 20,
-                    "text": "Let no man think he is ruler; but let God rule him that judgeth, according to the counsel of his own will, or, in other words, him that counseleth or sitteth upon the judgment seat.",
-                    "score": 0.7718837896760375
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 33,
-                    "text": "But it came to pass that the Lord did not suffer them that they should take me at that time and cast me into prison.",
-                    "score": 0.7695699595366712
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 117,
-                    "verse": 2,
-                    "text": "Let them awake, and arise, and come forth, and not tarry, for I, the Lord, command it.",
-                    "score": 0.768795731943434
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 110,
-                    "verse": 1,
-                    "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
-                    "score": 0.7639987981789077
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 9,
-                    "verse": 5,
-                    "text": "And when he came, behold, the captains of the host were sitting; and he said, I have an errand to thee, O captain. And Jehu said, Unto which of all us? And he said, To thee, O captain.",
-                    "score": 0.7595582399041376
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 7,
-                    "verse": 6,
-                    "text": "And he bringeth to pass the resurrection of the dead, whereby man must be raised to stand before his judgment-seat.",
-                    "score": 0.7587337834738974
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 4,
-                    "verse": 17,
-                    "text": "Now this man's name was Nephihah, and he was appointed chief judge; and he sat in the judgment-seat to judge and to govern the people.",
-                    "score": 0.7581752699268538
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 50,
-                    "verse": 12,
-                    "text": "And his sons did unto him according as he commanded them:",
-                    "score": 0.756486847948247
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 33,
-                    "verse": 21,
-                    "text": "And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel.",
-                    "score": 0.753533872827258
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 18,
@@ -1472,858 +456,90 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 35,
                     "verse": 11,
                     "text": "False witnesses did rise up; they laid to my charge things that I knew not.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8076769649793984
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 7,
-                    "text": "And they stood forth to lay their hands on me; but behold, they did not. And I stood with boldness to declare unto them, yea, I did boldly testify unto them, saying:",
-                    "score": 0.7458069645385541
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 1,
-                    "verse": 30,
-                    "text": "They would none of my counsel: they despised all my reproof.",
-                    "score": 0.7457390443086357
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 19,
-                    "verse": 16,
-                    "text": "If a false witness rise up against any man to testify against him that which is wrong;",
-                    "score": 0.7438561808887779
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 109,
-                    "verse": 3,
-                    "text": "They compassed me about also with words of hatred; and fought against me without a cause.",
-                    "score": 0.7421120293228732
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 16,
-                    "text": "And it came to pass that I utterly refused to go up against mine enemies; and I did even as the Lord had commanded me; and I did stand as an idle witness to manifest unto the world the things which I saw and heard, according to the manifestations of the Spirit which had testified of things to come.",
-                    "score": 0.73819813365446
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 38,
-                    "verse": 14,
-                    "text": "Thus I was as a man that heareth not, and in whose mouth are no reproofs.",
-                    "score": 0.7334162675501801
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 41,
-                    "verse": 28,
-                    "text": "For I beheld, and there was no man; even among them, and there was no counsellor, that, when I asked of them, could answer a word.",
-                    "score": 0.7307627253310014
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 23,
-                    "verse": 1,
-                    "text": "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.",
-                    "score": 0.7289455783799053
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 3,
-                    "verse": 61,
-                    "text": "Thou hast heard their reproach, O Lord, and all their imaginations against me;",
-                    "score": 0.725523256910907
                 }
             ]
         },
         {
             "verse": 19,
             "text": "But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 2,
-                    "text": "And they were also conversing about this Jesus Christ, of whom the sign had been given concerning his death.",
-                    "score": 0.7637794437153825
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 138,
-                    "verse": 10,
-                    "text": "\"For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.\" (1 Peter 4:6.)",
-                    "score": 0.7546532084981956
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 24,
-                    "text": "However, it was nevertheless a fact that I had beheld a vision. I have thought since, that I felt much like Paul, when he made his defense before King Agrippa, and related the account of the vision he had when he saw a light, and heard a voice; but still there were but few who believed him; some said he was dishonest, others said he was mad; and he was ridiculed and reviled. But all this did not destroy the reality of his vision. He had seen a vision, he knew he had, and all the persecution under heaven could not make it otherwise; and though they should persecute him unto death, yet he knew, and would know to his latest breath, that he had both seen a light and heard a voice speaking unto him, and all the world could not make him think or believe otherwise.",
-                    "score": 0.7519163065333299
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 2,
-                    "text": "They did not believe what had been said concerning the resurrection of the dead, neither did they believe concerning the coming of Christ.",
-                    "score": 0.7504840787662101
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 128,
-                    "verse": 16,
-                    "text": "And now, in relation to the baptism for the dead, I will give you another quotation of Paul, 1 Corinthians 15:29: Else what shall they do which are baptized for the dead, if the dead rise not at all? Why are they then baptized for the dead?",
-                    "score": 0.7503309006569779
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 45,
-                    "verse": 19,
-                    "text": "Behold, this we know, that he was a righteous man; and the saying went abroad in the church that he was taken up by the Spirit, or buried by the hand of the Lord, even as Moses. But behold, the scriptures saith the Lord took Moses unto himself; and we suppose that he has also received Alma in the spirit, unto himself; therefore, for this cause we know nothing concerning his death and burial.",
-                    "score": 0.7469666355424586
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 45,
-                    "verse": 3,
-                    "text": "And Joseph said unto his brethren, I am Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.",
-                    "score": 0.742407878430508
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 5,
-                    "verse": 1,
-                    "text": "And now behold, there was not a living soul among all the people of the Nephites who did doubt in the least the words of all the holy prophets who had spoken; for they knew that it must needs be that they must be fulfilled.",
-                    "score": 0.7423371205802523
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 12,
-                    "verse": 20,
-                    "text": "But there was one Antionah, who was a chief ruler among them, came forth and said unto him: What is this that thou hast said, that man should rise from the dead and be changed from this mortal to an immortal state, that the soul can never die?",
-                    "score": 0.7394117058041115
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 12,
-                    "verse": 7,
-                    "text": "For it was by faith that Christ showed himself unto our fathers, after he had risen from the dead; and he showed not himself unto them until after they had faith in him; wherefore, it must needs be that some had faith in him, for he showed himself not unto the world.",
-                    "score": 0.7393127432253495
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 20,
             "text": "And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 19,
-                    "text": "And they began to question him, that they might cross him, that thereby they might have wherewith to accuse him; but he answered them boldly, and withstood all their questions, yea, to their astonishment; for he did withstand them in all their questions, and did confound them in all their words.",
-                    "score": 0.7598624966294022
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Enos",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "And while I was thus struggling in the spirit, behold, the voice of the Lord came into my mind again, saying: I will visit thy brethren according to their diligence in keeping my commandments. I have given unto them this land, and it is a holy land; and I curse it not save it be for the cause of iniquity; wherefore, I will visit thy brethren according as I have said; and their transgressions will I bring down with sorrow upon their own heads.",
-                    "score": 0.757049299688446
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what is the breadth thereof, and what is the length thereof.",
-                    "score": 0.755535924294896
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 16,
-                    "text": "And it came to pass that they began to question Amulek, that thereby they might make him cross his words, or contradict the words which he should speak.",
-                    "score": 0.7485342172090527
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "And it came to pass after this, that David inquired of the Lord, saying, Shall I go up into any of the cities of Judah? And the Lord said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.",
-                    "score": 0.7474782333503286
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 3,
-                    "verse": 10,
-                    "text": "And it came to pass that when we had gone up to the land of Jerusalem, I and my brethren did consult one with another.",
-                    "score": 0.7470591022513368
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "So I came to Jerusalem, and was there three days.",
-                    "score": 0.7458587729447932
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 5,
-                    "verse": 1,
-                    "text": "Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be any that executeth judgment, that seeketh the truth; and I will pardon it.",
-                    "score": 0.744310957331914
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 18,
-                    "text": "And it came to pass that they said unto the king: Bring him hither that we may question him; and the king commanded that he should be brought before them.",
-                    "score": 0.7407893427009409
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 2,
-                    "verse": 10,
-                    "text": "And he said, Thou hast asked a hard thing: nevertheless, if thou see me when I am taken from thee, it shall be so unto thee; but if not, it shall not be so.",
-                    "score": 0.7385338719910195
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 21,
             "text": "But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Caesar.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 43,
-                    "verse": 14,
-                    "text": "And if ye do it not he shall remain unto them that have received him, that I may reserve unto myself a pure people before me.",
-                    "score": 0.7571542952187028
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 11,
-                    "text": "And now, for this cause have I suffered that ye should be preserved, that I might inquire of you, or else I should have caused that my guards should have put you to death. Ye are permitted to speak.",
-                    "score": 0.7547546594443248
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 28,
-                    "verse": 10,
-                    "text": "Thou shalt not leave this place until after the conference; and my servant Joseph shall be appointed to preside over the conference by the voice of it, and what he saith to thee thou shalt tell.",
-                    "score": 0.7513525021931055
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 112,
-                    "text": "This let him do if he will have an interest; and let him hearken unto the counsel of my servant Joseph, and labor with his own hands that he may obtain the confidence of men.",
-                    "score": 0.7498441636974369
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 116,
-                    "verse": 2,
-                    "text": "Because he hath inclined his ear unto me, therefore will I call upon him as long as I live.",
-                    "score": 0.7414965381640396
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 39,
-                    "text": "Let my servant Titus Billings, who has the care thereof, dispose of the land, that he may be prepared in the coming spring to take his journey up unto the land of Zion, with those that dwell upon the face thereof, excepting those whom I shall reserve unto myself, that shall not go until I shall command them.",
-                    "score": 0.7405167489838334
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "For the fulness of mine intent is that I may persuade men to come unto the God of Abraham, and the God of Isaac, and the God of Jacob, and be saved.",
-                    "score": 0.7397342556458406
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 47,
-                    "verse": 1,
-                    "text": "Behold, it is expedient in me that my servant John should write and keep a regular history, and assist you, my servant Joseph, in transcribing all things which shall be given you, until he is called to further duties.",
-                    "score": 0.7380798206382309
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 5,
-                    "verse": 23,
-                    "text": "And now, again, I speak unto you, my servant Joseph, concerning the man that desires the witness--",
-                    "score": 0.736401208373016
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 32,
-                    "text": "And it came to pass that I spake with him, that if he would hearken unto my words, as the Lord liveth, and as I live, even so that if he would hearken unto our words, we would spare his life.",
-                    "score": 0.734384733348193
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 22,
             "text": "Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 3,
-                    "verse": 10,
-                    "text": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.",
-                    "score": 0.7661441103340331
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 32,
-                    "verse": 1,
-                    "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
-                    "score": 0.7528409306002848
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 85,
-                    "verse": 10,
-                    "text": "These things I say not of myself; therefore, as the Lord speaketh, he will also fulfil.",
-                    "score": 0.7526807155021581
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 17,
-                    "verse": 6,
-                    "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
-                    "score": 0.7526256950792886
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 40,
-                    "verse": 4,
-                    "text": "And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew them unto thee art thou brought hither: declare all that thou seest to the house of Israel.",
-                    "score": 0.7499397937376909
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 54,
-                    "text": "And now, my brethren, I would speak unto you more; but on the morrow I will declare unto you the remainder of my words. Amen.",
-                    "score": 0.7499347622710921
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 140,
-                    "verse": 6,
-                    "text": "I said unto the Lord, Thou art my God: hear the voice of my supplications, O Lord.",
-                    "score": 0.7496416158733604
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 28,
-                    "verse": 7,
-                    "text": "Nevertheless hear thou now this word that I speak in thine ears, and in the ears of all the people;",
-                    "score": 0.7484612977887762
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 19,
-                    "verse": 16,
-                    "text": "Lord, bow down thine ear, and hear: open, Lord, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.",
-                    "score": 0.7467666790488469
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 23,
-                    "verse": 5,
-                    "text": "I would know the words which he would answer me, and understand what he would say unto me.",
-                    "score": 0.7458763938164574
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 23,
             "text": "And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus' commandment Paul was brought forth.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 9,
-                    "text": "But behold, here is one thing in which we may have great joy. For behold, in the twenty and sixth year, I, Helaman, did march at the head of these two thousand young men to the city of Judea, to assist Antipus, whom ye had appointed a leader over the people of that part of the land.",
-                    "score": 0.7436576159289614
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 13,
+                    "text": "And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8253899113848782
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 16,
-                    "verse": 12,
-                    "text": "And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the Lord said, Arise, anoint him: for this is he.",
-                    "score": 0.730174627825712
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 25,
+                    "verse": 13,
+                    "text": "And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9177272446182586
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 4,
-                    "verse": 3,
-                    "text": "And it came to pass that after they had spoken these words the Spirit of the Lord came upon them, and they were filled with joy, having received a remission of their sins, and having peace of conscience, because of the exceeding faith which they had in Jesus Christ who should come, according to the words which king Benjamin had spoken unto them.",
-                    "score": 0.727907695486109
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 22,
-                    "verse": 24,
-                    "text": "Now there was a multitude gathered together because of the commandment of the queen, and there began to be great murmurings among them because of Aaron and his brethren.",
-                    "score": 0.7277068483327396
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 9,
-                    "verse": 13,
-                    "text": "And it came to pass that the judges desired that they should be brought; and they were brought, and behold they were the five who were sent; and behold the judges inquired of them to know concerning the matter, and they told them all that they had done, saying:",
-                    "score": 0.7262413399887651
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 31,
-                    "verse": 48,
-                    "text": "And the officers which were over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:",
-                    "score": 0.724269564301738
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 16,
-                    "text": "And it came to pass that as Ammon was going forth into the land, that he and his brethren met Alma, over in the place of which has been spoken; and behold, this was a joyful meeting.",
-                    "score": 0.7234473221268495
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 2,
-                    "verse": 13,
-                    "text": "And thus they were prepared to meet the Amlicites at the time of their coming. And there were appointed captains, and higher captains, and chief captains, according to their numbers.",
-                    "score": 0.7232788824028347
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 9,
-                    "verse": 10,
-                    "text": "Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God was.",
-                    "score": 0.719694064247907
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 19,
-                    "verse": 11,
-                    "text": "And when they were by Jebus, the day was far spent; and the servant said unto his master, Come, I pray thee, and let us turn in into this city of the Jebusites, and lodge in it.",
-                    "score": 0.7189761671778906
+                    "verse": 30,
+                    "text": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9067491452022117
                 }
             ]
         },
         {
             "verse": 24,
             "text": "And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 23,
-                    "verse": 2,
-                    "text": "For surely he spake as touching all things concerning my people which are of the house of Israel; therefore it must needs be that he must speak also to the Gentiles.",
-                    "score": 0.7619926269144182
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 20,
-                    "verse": 20,
-                    "text": "And behold, they come with their numerous hosts; and except the king doth pacify them towards us we must perish.",
-                    "score": 0.7503871229207183
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.7481154310102063
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Esther",
-                    "chapter": 8,
-                    "verse": 11,
-                    "text": "Wherein the king granted the Jews which were in every city to gather themselves together, and to stand for their life, to destroy, to slay, and to cause to perish, all the power of the people and province that would assault them, both little ones and women, and to take the spoil of them for a prey,",
-                    "score": 0.7469751687005539
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Esther",
-                    "chapter": 9,
-                    "verse": 2,
-                    "text": "The Jews gathered themselves together in their cities throughout all the provinces of the king Ahasuerus, to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people.",
-                    "score": 0.7467361093305882
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 21,
-                    "verse": 12,
-                    "text": "Cry and howl, son of man: for it shall be upon my people, it shall be upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon thy thigh.",
-                    "score": 0.7460608088045018
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
-                    "verse": 13,
-                    "text": "And he read, saying: Wo, wo, unto Jerusalem, for I have seen thine abominations! Yea, and many things did my father read concerning Jerusalem--that it should be destroyed, and the inhabitants thereof; many should perish by the sword, and many should be carried away captive into Babylon.",
-                    "score": 0.7436674449797473
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 17,
-                    "verse": 10,
-                    "text": "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.",
-                    "score": 0.7427458367572664
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 16,
-                    "verse": 30,
-                    "text": "And Samson said, Let me die with the Philistines. And he bowed himself with all his might; and the house fell upon the lords, and upon all the people that were therein. So the dead which he slew at his death were more than they which he slew in his life.",
-                    "score": 0.7426722937041798
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 34,
-                    "verse": 30,
-                    "text": "And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I being few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.",
-                    "score": 0.741448923547085
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 25,
             "text": "But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 17,
-                    "verse": 11,
-                    "text": "An evil man seeketh only rebellion: therefore a cruel messenger shall be sent against him.",
-                    "score": 0.7176947085700173
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)",
-                    "score": 0.7101677598868025
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 16,
-                    "text": "They sought evil in their hearts, and I, the Lord, withheld my Spirit. They condemned for evil that thing in which there was no evil; nevertheless I have forgiven my servant Isaac Morley.",
-                    "score": 0.7068403999036138
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 60,
-                    "text": "Let no one, therefore, set on my servant Joseph; for I will justify him; for he shall do the sacrifice which I require at his hands for his transgressions, saith the Lord your God.",
-                    "score": 0.7022533707330134
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 7,
-                    "verse": 16,
-                    "text": "Yea, how could you have given way to the enticing of him who is seeking to hurl away your souls down to everlasting misery and endless wo?",
-                    "score": 0.7019663805901446
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 31,
-                    "verse": 11,
-                    "text": "I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness.",
-                    "score": 0.6999603974118416
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 55,
-                    "verse": 2,
-                    "text": "And he said: Behold, I will not exchange prisoners with Ammoron save he will withdraw his purpose, as I have stated in my epistle; for I will not grant unto him that he shall have any more power than what he hath got.",
-                    "score": 0.6977100528735019
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 16,
-                    "verse": 16,
-                    "text": "And it came to pass, when she pressed him daily with her words, and urged him, so that his soul was vexed unto death;",
-                    "score": 0.6966397634997609
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 17,
-                    "text": "And now they were determined to conquer in this place or die; therefore you may well suppose that this little force which I brought with me, yea, those sons of mine, gave them great hopes and much joy.",
-                    "score": 0.6951983555596511
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "So I stood upon him, and slew him, because I was sure that he could not live after that he was fallen: and I took the crown that was upon his head, and the bracelet that was on his arm, and have brought them hither unto my lord.",
-                    "score": 0.6924305085563677
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 26,
             "text": "Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 1,
-                    "verse": 4,
-                    "text": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.",
-                    "score": 0.7909133072630005
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 31,
-                    "verse": 2,
-                    "text": "Wherefore, the things which I have written sufficeth me, save it be a few words which I must speak concerning the doctrine of Christ; wherefore, I shall speak unto you plainly, according to the plainness of my prophesying.",
-                    "score": 0.790443553434193
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 56,
-                    "text": "Wherefore his writing is not acceptable unto the Lord, and he shall make another; and if the Lord receive it not, behold he standeth no longer in the office to which I have appointed him.",
-                    "score": 0.780627535834433
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 10,
-                    "text": "Wherefore, because that ye have a Bible ye need not suppose that it contains all my words; neither need ye suppose that I have not caused more to be written.",
-                    "score": 0.7780156963464454
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 25,
-                    "verse": 3,
-                    "text": "Wherefore, I write unto my people, unto all those that shall receive hereafter these things which I write, that they may know the judgments of God, that they come upon all nations, according to the word which he hath spoken.",
-                    "score": 0.777413347749656
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 18,
-                    "verse": 30,
-                    "text": "And you have that which is written before you; wherefore, you must perform it according to the words which are written.",
-                    "score": 0.7772174898751466
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 8,
-                    "verse": 5,
-                    "text": "Behold, my father hath made this record, and he hath written the intent thereof. And behold, I would write it also if I had room upon the plates, but I have not; and ore I have none, for I am alone. My father hath been slain in battle, and all my kinsfolk, and I have not friends nor whither to go; and how long the Lord will suffer that I may live I know not.",
-                    "score": 0.7771630566183914
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 25,
-                    "verse": 8,
-                    "text": "Wherefore, they are of worth unto the children of men, and he that supposeth that they are not, unto them will I speak particularly, and confine the words unto mine own people; for I know that they shall be of great worth unto them in the last days; for in that day shall they understand them; wherefore, for their good have I written them.",
-                    "score": 0.7741043356671253
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 25,
-                    "verse": 6,
-                    "text": "And thou shalt go with him at the time of his going, and be unto him for a scribe, while there is no one to be a scribe for him, that I may send my servant, Oliver Cowdery, whithersoever I will.",
-                    "score": 0.7710984507862135
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 45,
-                    "verse": 9,
-                    "text": "But behold, I have somewhat to prophesy unto thee; but what I prophesy unto thee ye shall not make known; yea, what I prophesy unto thee shall not be made known, even until the prophecy is fulfilled; therefore write the words which I shall say.",
-                    "score": 0.7698398645158065
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 27,
             "text": "For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 31,
-                    "verse": 11,
-                    "text": "For this is an heinous crime; yea, it is an iniquity to be punished by the judges.",
-                    "score": 0.7463503467791931
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 4,
-                    "verse": 17,
-                    "text": "Perhaps thou shalt say: The man has brought upon himself his misery; therefore I will stay my hand, and will not give unto him of my food, nor impart unto him of my substance that he may not suffer, for his punishments are just--",
-                    "score": 0.7233613692499528
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 54,
-                    "verse": 11,
-                    "text": "But behold, it supposeth me that I talk to you concerning these things in vain; or it supposeth me that thou art a child of hell; therefore I will close my epistle by telling you that I will not exchange prisoners, save it be on conditions that ye will deliver up a man and his wife and his children, for one prisoner; if this be the case that ye will do it, I will exchange.",
-                    "score": 0.7225499759282182
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 35,
-                    "verse": 31,
-                    "text": "Moreover ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death.",
-                    "score": 0.7217120708919776
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 39,
-                    "verse": 7,
-                    "text": "And now, my son, I would to God that ye had not been guilty of so great a crime. I would not dwell upon your crimes, to harrow up your soul, if it were not for your good.",
-                    "score": 0.720331710009817
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 33,
-                    "text": "But it came to pass that the Lord did not suffer them that they should take me at that time and cast me into prison.",
-                    "score": 0.7191171576685091
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 33,
-                    "verse": 13,
-                    "text": "Why dost thou strive against him? for he giveth not account of any of his matters.",
-                    "score": 0.7181482159319593
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 5,
-                    "verse": 8,
-                    "text": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.",
-                    "score": 0.7179460046517377
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 6,
-                    "text": "There are those who have sought occasion against him without cause;",
-                    "score": 0.7174509170168348
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 102,
-                    "verse": 20,
-                    "text": "To hear the groaning of the prisoner; to loose those that are appointed to death;",
-                    "score": 0.716132938695979
-                }
-            ]
+            "similars": []
         }
     ]
 }

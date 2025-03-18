@@ -8,84 +8,54 @@
             "text": "Then Jonah prayed unto the Lord his God out of the fish's belly,",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 21,
-                    "verse": 10,
-                    "text": "Jesus saith unto them, Bring of the fish which ye have now caught.",
-                    "score": 0.7898947156394988
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "Now the Lord had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8488805394910492
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 7,
-                    "verse": 38,
-                    "text": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.",
-                    "score": 0.7451045423799515
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 12,
-                    "text": "And I looked and beheld a man among the Gentiles, who was separated from the seed of my brethren by the many waters; and I beheld the Spirit of God, that it came down and wrought upon the man; and he went forth upon the many waters, even unto the seed of my brethren, who were in the promised land.",
-                    "score": 0.7328891768335378
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 21,
-                    "verse": 13,
-                    "text": "Jesus then cometh, and taketh bread, and giveth them, and fish likewise.",
-                    "score": 0.7279157629630743
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 64,
-                    "text": "And it came to pass, when the Lord had spoken with Adam, our father, that Adam cried unto the Lord, and he was caught away by the Spirit of the Lord, and was carried down into the water, and was laid under the water, and was brought forth out of the water.",
-                    "score": 0.7271941485396597
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
                     "chapter": 2,
-                    "verse": 28,
-                    "text": "And I, God, blessed them, and said unto them: Be fruitful, and multiply, and replenish the earth, and subdue it, and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
-                    "score": 0.7257574481905353
+                    "verse": 10,
+                    "text": "And the Lord spake unto the fish, and it vomited out Jonah upon the dry land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8382034724518014
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
                     "chapter": 1,
-                    "verse": 5,
-                    "text": "Wherefore it came to pass that my father, Lehi, as he went forth prayed unto the Lord, yea, even with all his heart, in behalf of his people.",
-                    "score": 0.7255971454764633
+                    "verse": 1,
+                    "text": "Now the word of the Lord came unto Jonah the son of Amittai, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80936656848465
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 2,
+                    "verse": 10,
+                    "text": "And the Lord spake unto the fish, and it vomited out Jonah upon the dry land.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9289991409478784
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
                     "chapter": 1,
-                    "verse": 25,
-                    "text": "And calling upon the name of God, he beheld his glory again, for it was upon him; and he heard a voice, saying: Blessed art thou, Moses, for I, the Almighty, have chosen thee, and thou shalt be made stronger than many waters; for they shall obey thy command as if thou wert God.",
-                    "score": 0.7240495538630365
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "And he spake unto them concerning their rebellions upon the waters, and the mercies of God in sparing their lives, that they were not swallowed up in the sea.",
-                    "score": 0.7240259418592198
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 3,
-                    "verse": 16,
-                    "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
-                    "score": 0.7234166937134524
+                    "verse": 17,
+                    "text": "Now the Lord had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.922817138517424
                 }
             ]
         },
@@ -94,84 +64,504 @@
             "text": "And said, I cried by reason of mine affliction unto the Lord, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 120,
+                    "verse": 1,
+                    "text": "In my distress I cried unto the Lord, and he heard me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8965014518002308
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 7,
+                    "text": "In my distress I called upon the Lord, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8573000725819295
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 6,
+                    "text": "In my distress I called upon the Lord, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8561317690593832
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "I cried unto the Lord with my voice, and he heard me out of his holy hill. Selah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8495788292227997
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 77,
+                    "verse": 1,
+                    "text": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.840708815621963
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 33,
                     "verse": 11,
                     "text": "And thou didst hear me because of mine afflictions and my sincerity; and it is because of thy Son that thou hast been thus merciful unto me, therefore I will cry unto thee in all mine afflictions, for in thee is my joy; for thou hast turned thy judgments away from me, because of thy Son.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8405858196946332
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 5,
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 142,
+                    "verse": 1,
+                    "text": "I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8386970149719458
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 30,
+                    "verse": 8,
+                    "text": "I cried to thee, O Lord; and unto the Lord I made supplication.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8359069005938481
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 31,
+                    "verse": 22,
+                    "text": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8293172469463568
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 26,
                     "verse": 7,
-                    "text": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not.",
-                    "score": 0.8258625684612909
+                    "text": "And when we cried unto the Lord God of our fathers, the Lord heard our voice, and looked on our affliction, and our labour, and our oppression:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8286985105615255
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 10,
+                    "text": "I believed, therefore have I spoken: I was greatly afflicted:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8284295388543051
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 7,
+                    "text": "And cried with a loud voice, and said, What have I to do with thee, Jesus, thou Son of the most high God? I adjure thee by God, that thou torment me not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8258625684612909
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 130,
+                    "verse": 1,
+                    "text": "Out of the depths have I cried unto thee, O Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8197632607728612
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 9,
+                    "verse": 19,
+                    "text": "For I was afraid of the anger and hot displeasure, wherewith the Lord was wroth against you to destroy you. But the Lord hearkened unto me at that time also.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8175860001379281
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 3,
+                    "verse": 26,
+                    "text": "But the Lord was wroth with me for your sakes, and would not hear me: and the Lord said unto me, Let it suffice thee; speak no more unto me of this matter.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8141917278506036
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "Blessed be the Lord, because he hath heard the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128993016823535
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 20,
+                    "verse": 8,
+                    "text": "For since I spake, I cried out, I cried violence and spoil; because the word of the Lord was made a reproach unto me, and a derision, daily.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8115352302432157
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 1,
+                    "text": "I love the Lord, because he hath heard my voice and my supplications.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8112948070824458
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 26,
                     "text": "And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8053743637211581
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 140,
+                    "verse": 6,
+                    "text": "I said unto the Lord, Thou art my God: hear the voice of my supplications, O Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041538997649601
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 142,
+                    "verse": 5,
+                    "text": "I cried unto thee, O Lord: I said, Thou art my refuge and my portion in the land of the living.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036932671975094
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 16,
                     "verse": 25,
                     "text": "And it came to pass that the voice of the Lord came unto my father; and he was truly chastened because of his murmuring against the Lord, insomuch that he was brought down into the depths of sorrow.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8030413462069661
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 30,
+                    "verse": 2,
+                    "text": "O Lord my God, I cried unto thee, and thou hast healed me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802910572439268
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 5,
                     "verse": 35,
                     "text": "And the Lord said: What hast thou done? The voice of thy brother's blood cries unto me from the ground.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024736803877425
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 27,
                     "text": "And he heard a voice from heaven, saying: Enoch, my son, prophesy unto this people, and say unto them--Repent, for thus saith the Lord: I am angry with this people, and my fierce anger is kindled against them; for their hearts have waxed hard, and their ears are dull of hearing, and their eyes cannot see afar off;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8019003747392633
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 7,
+                    "text": "Hear, O Lord, when I cry with my voice: have mercy also upon me, and answer me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801540770589761
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 6,
+                    "verse": 8,
+                    "text": "Depart from me, all ye workers of iniquity; for the Lord hath heard the voice of my weeping.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014608349973458
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 77,
+                    "verse": 1,
+                    "text": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9346989114672474
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "I cried unto the Lord with my voice, and he heard me out of his holy hill. Selah.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9345332423130874
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 120,
+                    "verse": 1,
+                    "text": "In my distress I cried unto the Lord, and he heard me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9324355367056663
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 7,
+                    "text": "In my distress I called upon the Lord, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9322226168711291
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 6,
+                    "text": "In my distress I called upon the Lord, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9260549677512124
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 142,
+                    "verse": 1,
+                    "text": "I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.92551755905154
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 33,
+                    "verse": 5,
+                    "text": "Yea, O God, and thou wast merciful unto me when I did cry unto thee in my field; when I did cry unto thee in my prayer, and thou didst hear me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9175973261118932
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 40,
+                    "verse": 1,
+                    "text": "I waited patiently for the Lord; and he inclined unto me, and heard my cry.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.913526567413631
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 30,
+                    "verse": 2,
+                    "text": "O Lord my God, I cried unto thee, and thou hast healed me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9133393220103337
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 140,
+                    "verse": 6,
+                    "text": "I said unto the Lord, Thou art my God: hear the voice of my supplications, O Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9120557465453617
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 30,
+                    "verse": 8,
+                    "text": "I cried to thee, O Lord; and unto the Lord I made supplication.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9113672971725723
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 31,
+                    "verse": 22,
+                    "text": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.910569017495586
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 142,
+                    "verse": 5,
+                    "text": "I cried unto thee, O Lord: I said, Thou art my refuge and my portion in the land of the living.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9102696287310631
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 66,
+                    "verse": 19,
+                    "text": "But verily God hath heard me; he hath attended to the voice of my prayer.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9074335915008566
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 33,
+                    "verse": 11,
+                    "text": "And thou didst hear me because of mine afflictions and my sincerity; and it is because of thy Son that thou hast been thus merciful unto me, therefore I will cry unto thee in all mine afflictions, for in thee is my joy; for thou hast turned thy judgments away from me, because of thy Son.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9069962723264045
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 33,
+                    "verse": 9,
+                    "text": "Yea, O God, thou hast been merciful unto me, and heard my cries in the midst of thy congregations.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9056296292323055
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 130,
+                    "verse": 1,
+                    "text": "Out of the depths have I cried unto thee, O Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905622612759762
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 1,
+                    "text": "I love the Lord, because he hath heard my voice and my supplications.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9046757987721342
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 1,
                     "verse": 12,
                     "text": "And it came to pass that he cried mightily unto the Lord all that day; and behold, the voice of the Lord came unto him, saying:",
-                    "score": 0.7988874859864858
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9039588627839911
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "Blessed be the Lord, because he hath heard the voice of my supplications.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9035341682156826
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 141,
+                    "verse": 1,
+                    "text": "Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9034167797391972
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 26,
+                    "verse": 7,
+                    "text": "And when we cried unto the Lord God of our fathers, the Lord heard our voice, and looked on our affliction, and our labour, and our oppression:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018715082483729
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 26,
-                    "text": "And he lifted up his voice to heaven, and cried, saying: O, how long, O Lord, wilt thou suffer that thy servants shall dwell here below in the flesh, to behold such gross wickedness among the children of men?",
-                    "score": 0.7969218937926308
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 33,
-                    "verse": 5,
-                    "text": "Yea, O God, and thou wast merciful unto me when I did cry unto thee in my field; when I did cry unto thee in my prayer, and thou didst hear me.",
-                    "score": 0.7947848274242364
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 33,
-                    "verse": 10,
-                    "text": "Yea, and thou hast also heard me when I have been cast out and have been despised by mine enemies; yea, thou didst hear my cries, and wast angry with mine enemies, and thou didst visit them in thine anger with speedy destruction.",
-                    "score": 0.7947474405800743
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 25,
+                    "text": "And it came to pass that the voice of the Lord came unto my father; and he was truly chastened because of his murmuring against the Lord, insomuch that he was brought down into the depths of sorrow.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9016827041856352
                 }
             ]
         },
@@ -180,600 +570,597 @@
             "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 42,
+                    "verse": 7,
+                    "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8576203916303051
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 2,
                     "verse": 24,
                     "text": "For behold, ye shall be as a whale in the midst of the sea; for the mountain waves shall dash upon you. Nevertheless, I will bring you up again out of the depths of the sea; for the winds have gone forth out of my mouth, and also the rains and the floods have I sent forth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8281971317822737
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 2,
+                    "verse": 5,
+                    "text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8174313804231094
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 15,
+                    "verse": 10,
+                    "text": "Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128844396754085
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 2,
                     "verse": 25,
                     "text": "And behold, I prepare you against these things; for ye cannot cross this great deep save I prepare you against the waves of the sea, and the winds which have gone forth, and the floods which shall come. Therefore what will ye that I should prepare for you that ye may have light when ye are swallowed up in the depths of the sea?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8115143559916806
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 20,
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 107,
+                    "verse": 25,
+                    "text": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074994958935556
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 48,
                     "verse": 18,
-                    "text": "O that thou hadst hearkened to my commandments--then had thy peace been as a river, and thy righteousness as the waves of the sea.",
+                    "text": "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8069917519847265
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
-                    "chapter": 18,
-                    "verse": 15,
-                    "text": "And it came to pass that we were about to be swallowed up in the depths of the sea. And after we had been driven back upon the waters for the space of four days, my brethren began to see that the judgments of God were upon them, and that they must perish save that they should repent of their iniquities; wherefore, they came unto me, and loosed the bands which were upon my wrists, and behold they had swollen exceedingly; and also mine ankles were much swollen, and great was the soreness thereof.",
-                    "score": 0.7991923877175925
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 18,
+                    "text": "O that thou hadst hearkened to my commandments--then had thy peace been as a river, and thy righteousness as the waves of the sea.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8069917519847265
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 48,
-                    "text": "And now it came to pass that when I had spoken these words they were angry with me, and were desirous to throw me into the depths of the sea; and as they came forth to lay their hands upon me I spake unto them, saying: In the name of the Almighty God, I command you that ye touch me not, for I am filled with the power of God, even unto the consuming of my flesh; and whoso shall lay his hands upon me shall wither even as a dried reed; and he shall be as naught before the power of God, for God shall smite him.",
-                    "score": 0.7990574295301366
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 69,
+                    "verse": 2,
+                    "text": "I sink in deep mire, where there is no standing: I am come into deep waters, where the floods overflow me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017792919921569
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 20,
-                    "text": "My God hath been my support; he hath led me through mine afflictions in the wilderness; and he hath preserved me upon the waters of the great deep.",
-                    "score": 0.7945149717614222
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 42,
+                    "verse": 7,
+                    "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.93206113171942
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 2,
+                    "verse": 5,
+                    "text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9116552691151446
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
-                    "chapter": 6,
-                    "verse": 5,
-                    "text": "And it came to pass that the Lord God caused that there should be a furious wind blow upon the face of the waters, towards the promised land; and thus they were tossed upon the waves of the sea before the wind.",
-                    "score": 0.7903655886377512
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 122,
-                    "verse": 7,
-                    "text": "And if thou shouldst be cast into the pit, or into the hands of murderers, and the sentence of death passed upon thee; if thou be cast into the deep; if the billowing surge conspire against thee; if fierce winds become thine enemy; if the heavens gather blackness, and all the elements combine to hedge up the way; and above all, if the very jaws of hell shall gape open the mouth wide after thee, know thou, my son, that all these things shall give thee experience, and shall be for thy good.",
-                    "score": 0.7886484556509427
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
+                    "volume_book_index": 14,
                     "chapter": 2,
-                    "verse": 7,
-                    "text": "For I am the Lord thy God; I dwell in heaven; the earth is my footstool; I stretch my hand over the sea, and it obeys my voice; I cause the wind and the fire to be my chariot; I say to the mountains--Depart hence--and behold, they are taken away by a whirlwind, in an instant, suddenly.",
-                    "score": 0.7810387538233349
+                    "verse": 24,
+                    "text": "For behold, ye shall be as a whale in the midst of the sea; for the mountain waves shall dash upon you. Nevertheless, I will bring you up again out of the depths of the sea; for the winds have gone forth out of my mouth, and also the rains and the floods have I sent forth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9050145745277469
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 61,
-                    "verse": 14,
-                    "text": "Behold, I, the Lord, in the beginning blessed the waters; but in the last days, by the mouth of my servant John, I cursed the waters.",
-                    "score": 0.7799734794910462
+                    "volume": "Old Testament",
+                    "book": "Habakkuk",
+                    "volume_book_index": 35,
+                    "chapter": 3,
+                    "verse": 15,
+                    "text": "Thou didst walk through the sea with thine horses, through the heap of great waters.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.903767812701203
                 }
             ]
         },
         {
             "verse": 4,
             "text": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 7,
-                    "text": "But behold, verily, verily, I say unto you that mine eyes are upon you. I am in your midst and ye cannot see me;",
-                    "score": 0.7908975333305134
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 12,
-                    "text": "And it came to pass that he said unto me: Look! And I looked as if to look upon him, and I saw him not; for he had gone from before my presence.",
-                    "score": 0.7837184424569656
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Enos",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "And while I was thus struggling in the spirit, behold, the voice of the Lord came into my mind again, saying: I will visit thy brethren according to their diligence in keeping my commandments. I have given unto them this land, and it is a holy land; and I curse it not save it be for the cause of iniquity; wherefore, I will visit thy brethren according as I have said; and their transgressions will I bring down with sorrow upon their own heads.",
-                    "score": 0.7757356113865196
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 22,
-                    "verse": 17,
-                    "text": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;",
-                    "score": 0.774693405294673
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 11,
-                    "text": "But now mine own eyes have beheld God; but not my natural, but my spiritual eyes, for my natural eyes could not have beheld; for I should have withered and died in his presence; but his glory was upon me; and I beheld his face, for I was transfigured before him.",
-                    "score": 0.767300065978709
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 32,
-                    "verse": 9,
-                    "text": "Behold thy brother hath said, What shall we do?--for we are cast out of our synagogues, that we cannot worship our God.",
-                    "score": 0.7613528560622473
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 14,
-                    "text": "For behold, I could not look upon God, except his glory should come upon me, and I were transfigured before him. But I can look upon thee in the natural man. Is it not so, surely?",
-                    "score": 0.7609291562407
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 20,
-                    "text": "And this temple which ye now see shall be thrown down that there shall not be left one stone upon another.",
-                    "score": 0.7581292593681641
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 32,
-                    "verse": 5,
-                    "text": "For behold, again I say unto you that if ye will enter in by the way, and receive the Holy Ghost, it will show unto you all things what ye should do.",
-                    "score": 0.7578190216430654
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 49,
-                    "text": "The first thing that I can recollect was a voice speaking unto me, calling me by name. I looked up, and beheld the same messenger standing over my head, surrounded by light as before. He then again related unto me all that he had related to me the previous night, and commanded me to go to my father and tell him of the vision and commandments which I had received.",
-                    "score": 0.756858768087663
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 5,
             "text": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 8,
-                    "verse": 20,
-                    "text": "And I also beheld a strait and narrow path, which came along by the rod of iron, even to the tree by which I stood; and it also led by the head of the fountain, unto a large and spacious field, as if it had been a world.",
-                    "score": 0.7448535755687989
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Corinthians",
-                    "chapter": 11,
-                    "verse": 25,
-                    "text": "Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;",
-                    "score": 0.7405911607565103
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
                     "chapter": 2,
-                    "verse": 2,
-                    "text": "And the earth was without form, and void; and I caused darkness to come up upon the face of the deep; and my Spirit moved upon the face of the water; for I am God.",
-                    "score": 0.7400206121362807
+                    "verse": 3,
+                    "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8174313804231094
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
                     "chapter": 2,
-                    "verse": 6,
-                    "text": "And again, I, God, said: Let there be a firmament in the midst of the water, and it was so, even as I spake; and I said: Let it divide the waters from the waters; and it was done;",
-                    "score": 0.7351530117394773
+                    "verse": 3,
+                    "text": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9116552691151446
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 20,
-                    "text": "My God hath been my support; he hath led me through mine afflictions in the wilderness; and he hath preserved me upon the waters of the great deep.",
-                    "score": 0.7317557944032447
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 29,
-                    "text": "My soul hath been redeemed from the gall of bitterness and bonds of iniquity. I was in the darkest abyss; but now I behold the marvelous light of God. My soul was racked with eternal torment; but I am snatched, and my soul is pained no more.",
-                    "score": 0.7289986670701923
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 127,
-                    "verse": 2,
-                    "text": "And as for the perils which I am called to pass through, they seem but a small thing to me, as the envy and wrath of man have been my common lot all the days of my life; and for what cause it seems mysterious, unless I was ordained from before the foundation of the world for some good end, or bad, as you may choose to call it. Judge ye for yourselves. God knoweth all these things, whether it be good or bad. But nevertheless, deep water is what I am wont to swim in. It all has become a second nature to me; and I feel, like Paul, to glory in tribulation; for to this day has the God of my fathers delivered me out of them all, and will deliver me from henceforth; for behold, and lo, I shall triumph over all my enemies, for the Lord God hath spoken it.",
-                    "score": 0.7244387483990484
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 18,
-                    "verse": 15,
-                    "text": "And it came to pass that we were about to be swallowed up in the depths of the sea. And after we had been driven back upon the waters for the space of four days, my brethren began to see that the judgments of God were upon them, and that they must perish save that they should repent of their iniquities; wherefore, they came unto me, and loosed the bands which were upon my wrists, and behold they had swollen exceedingly; and also mine ankles were much swollen, and great was the soreness thereof.",
-                    "score": 0.7235683443030549
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 8,
-                    "verse": 13,
-                    "text": "And as I cast my eyes round about, that perhaps I might discover my family also, I beheld a river of water; and it ran along, and it was near the tree of which I was partaking the fruit.",
-                    "score": 0.72270353092558
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 10,
-                    "verse": 22,
-                    "text": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.",
-                    "score": 0.7198966323427104
+                    "verse": 4,
+                    "text": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9034897896787341
                 }
             ]
         },
         {
             "verse": 6,
             "text": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 17,
-                    "text": "And I have made the earth rich, and behold it is my footstool, wherefore, again I will stand upon it.",
-                    "score": 0.7684490399899113
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 7,
-                    "text": "For I am the Lord thy God; I dwell in heaven; the earth is my footstool; I stretch my hand over the sea, and it obeys my voice; I cause the wind and the fire to be my chariot; I say to the mountains--Depart hence--and behold, they are taken away by a whirlwind, in an instant, suddenly.",
-                    "score": 0.7653316166170574
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 127,
-                    "verse": 2,
-                    "text": "And as for the perils which I am called to pass through, they seem but a small thing to me, as the envy and wrath of man have been my common lot all the days of my life; and for what cause it seems mysterious, unless I was ordained from before the foundation of the world for some good end, or bad, as you may choose to call it. Judge ye for yourselves. God knoweth all these things, whether it be good or bad. But nevertheless, deep water is what I am wont to swim in. It all has become a second nature to me; and I feel, like Paul, to glory in tribulation; for to this day has the God of my fathers delivered me out of them all, and will deliver me from henceforth; for behold, and lo, I shall triumph over all my enemies, for the Lord God hath spoken it.",
-                    "score": 0.7614727700521366
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 14,
-                    "verse": 11,
-                    "text": "And it came to pass that I looked and beheld the whore of all the earth, and she sat upon many waters; and she had dominion over all the earth, among all nations, kindreds, tongues, and people.",
-                    "score": 0.7577340386193988
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "And I, the Lord God, said unto the woman: What is this thing which thou hast done? And the woman said: The serpent beguiled me, and I did eat.",
-                    "score": 0.7547177107647242
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 17,
-                    "verse": 4,
-                    "text": "I have glorified thee on the earth: I have finished the work which thou gavest me to do.",
-                    "score": 0.7545642332454312
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 8,
-                    "verse": 29,
-                    "text": "And God looked upon the earth, and, behold, it was corrupt, for all flesh had corrupted its way upon the earth.",
-                    "score": 0.7487561441370317
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 48,
-                    "text": "And it came to pass that Enoch looked upon the earth; and he heard a voice from the bowels thereof, saying: Wo, wo is me, the mother of men; I am pained, I am weary, because of the wickedness of my children. When shall I rest, and be cleansed from the filthiness which is gone forth out of me? When will my Creator sanctify me, that I may rest, and righteousness for a season abide upon my face?",
-                    "score": 0.7473340042736341
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 20,
-                    "text": "My God hath been my support; he hath led me through mine afflictions in the wilderness; and he hath preserved me upon the waters of the great deep.",
-                    "score": 0.7453110264613597
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 101,
-                    "text": "The earth hath travailed and brought forth her strength;And truth is established in her bowels;And the heavens have smiled upon her;And she is clothed with the glory of her God;For he stands in the midst of his people.",
-                    "score": 0.7442611676429017
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 7,
             "text": "When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 69,
+                    "verse": 10,
+                    "text": "When I wept, and chastened my soul with fasting, that was to my reproach.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8139116331274712
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 7,
+                    "text": "In my distress I called upon the Lord, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8130973516507676
+                },
+                {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 22,
                     "verse": 17,
                     "text": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8111309719334769
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Enos",
-                    "chapter": 1,
-                    "verse": 4,
-                    "text": "And my soul hungered; and I kneeled down before my Maker, and I cried unto him in mighty prayer and supplication for mine own soul; and all the day long did I cry unto him; yea, and when the night came I did still raise my voice high that it reached the heavens.",
-                    "score": 0.7967455491923074
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 6,
+                    "text": "In my distress I called upon the Lord, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035503197759258
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 15,
-                    "text": "After I had retired to the place where I had previously designed to go, having looked around me, and finding myself alone, I kneeled down and began to offer up the desires of my heart to God. I had scarcely done so, when immediately I was seized upon by some power which entirely overcame me, and had such an astonishing influence over me as to bind my tongue so that I could not speak. Thick darkness gathered around me, and it seemed to me for a time as if I were doomed to sudden destruction.",
-                    "score": 0.7859440351573138
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 103,
+                    "verse": 1,
+                    "text": "Bless the Lord, O my soul: and all that is within me, bless his holy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018610310654157
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Enos",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "And while I was thus struggling in the spirit, behold, the voice of the Lord came into my mind again, saying: I will visit thy brethren according to their diligence in keeping my commandments. I have given unto them this land, and it is a holy land; and I curse it not save it be for the cause of iniquity; wherefore, I will visit thy brethren according as I have said; and their transgressions will I bring down with sorrow upon their own heads.",
-                    "score": 0.7799489019945421
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 42,
+                    "verse": 6,
+                    "text": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004650423478264
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
-                    "verse": 19,
-                    "text": "And now, behold, when I thought this, I could remember my pains no more; yea, I was harrowed up by the memory of my sins no more.",
-                    "score": 0.7791011892935924
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 6,
+                    "text": "In my distress I called upon the Lord, and cried unto my God: he heard my voice out of his temple, and my cry came before him, even into his ears.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9061771202962795
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 7,
+                    "text": "In my distress I called upon the Lord, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905884044310325
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 142,
                     "verse": 5,
-                    "text": "Wherefore it came to pass that my father, Lehi, as he went forth prayed unto the Lord, yea, even with all his heart, in behalf of his people.",
-                    "score": 0.7788027087890017
+                    "text": "I cried unto thee, O Lord: I said, Thou art my refuge and my portion in the land of the living.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9015848753947232
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 29,
-                    "verse": 10,
-                    "text": "And behold, when I see many of my brethren truly penitent, and coming to the Lord their God, then is my soul filled with joy; then do I remember what the Lord has done for me, yea, even that he hath heard my prayer; yea, then do I remember his merciful arm which he extended towards me.",
-                    "score": 0.7787669434884875
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 7,
-                    "verse": 8,
-                    "text": "But behold, the Lord God poured in his Spirit into my soul, insomuch that I did confound him in all his words.",
-                    "score": 0.7778379382613048
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 19,
-                    "text": "And it came to pass that the Lord spake unto me, saying: Blessed art thou, Nephi, because of thy faith, for thou hast sought me diligently, with lowliness of heart.",
-                    "score": 0.7729259291990147
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 16,
-                    "text": "And I desire that ye should remember to observe the statutes and the judgments of the Lord; behold, this hath been the anxiety of my soul from the beginning.",
-                    "score": 0.7728793187212574
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 81,
+                    "text": "My soul fainteth for thy salvation: but I hope in thy word.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901165225997706
                 }
             ]
         },
         {
             "verse": 8,
             "text": "They that observe lying vanities forsake their own mercy.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 82,
-                    "text": "Therefore, they are left without excuse, and their sins are upon their own heads.",
-                    "score": 0.7734473690296376
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 3,
-                    "verse": 25,
-                    "text": "And if they be evil they are consigned to an awful view of their own guilt and abominations, which doth cause them to shrink from the presence of the Lord into a state of misery and endless torment, from whence they can no more return; therefore they have drunk damnation to their own souls.",
-                    "score": 0.7720861016660121
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 11,
-                    "verse": 31,
-                    "text": "Even so have these also now not believed, that through your mercy they also may obtain mercy.",
-                    "score": 0.7609400617506101
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 13,
-                    "verse": 9,
-                    "text": "The show of their countenance doth witness against them, and doth declare their sin to be even as Sodom, and they cannot hide it. Wo unto their souls, for they have rewarded evil unto themselves!",
-                    "score": 0.7600895363462897
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Thessalonians",
-                    "chapter": 2,
-                    "verse": 10,
-                    "text": "And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.",
-                    "score": 0.7587327754504348
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 78,
-                    "verse": 10,
-                    "text": "Otherwise Satan seeketh to turn their hearts away from the truth, that they become blinded and understand not the things which are prepared for them.",
-                    "score": 0.7563505648830147
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 123,
-                    "verse": 12,
-                    "text": "For there are many yet on the earth among all sects, parties, and denominations, who are blinded by the subtle craftiness of men, whereby they lie in wait to deceive, and who are only kept from the truth because they know not where to find it--",
-                    "score": 0.7529521135147796
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 15,
-                    "text": "But those who harden their hearts in unbelief, and reject it, it shall turn to their own condemnation--",
-                    "score": 0.7527343528910765
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 4,
-                    "verse": 8,
-                    "text": "For they saw and beheld with great sorrow that the people of the church began to be lifted up in the pride of their eyes, and to set their hearts upon riches and upon the vain things of the world, that they began to be scornful, one towards another, and they began to persecute those that did not believe according to their own will and pleasure.",
-                    "score": 0.7514523191264678
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 1,
-                    "verse": 24,
-                    "text": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:",
-                    "score": 0.746104807583044
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 9,
             "text": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 17,
+                    "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8827100542087855
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 14,
+                    "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8438428138782317
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 54,
+                    "verse": 6,
+                    "text": "I will freely sacrifice unto thee: I will praise thy name, O Lord; for it is good.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8417796995922049
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 22,
+                    "verse": 29,
+                    "text": "And when ye will offer a sacrifice of thanksgiving unto the Lord, offer it at your own will.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8249670938468796
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 50,
+                    "text": "Therefore I will give thanks unto thee, O Lord, among the heathen, and I will sing praises unto thy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8159343398442052
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 18,
+                    "text": "I will pay my vows unto the Lord now in the presence of all his people,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152715046813915
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 14,
+                    "text": "I will pay my vows unto the Lord now in the presence of all his people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152715046813915
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 56,
+                    "verse": 12,
+                    "text": "Thy vows are upon me, O God: I will render praises unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140874799673121
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 4,
                     "verse": 35,
                     "text": "Yea, I know that God will give liberally to him that asketh. Yea, my God will give me, if I ask not amiss; therefore I will lift up my voice unto thee; yea, I will cry unto thee, my God, the rock of my righteousness. Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8137918059301136
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 49,
+                    "text": "Therefore will I give thanks unto thee, O Lord, among the heathen, and sing praises unto thy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8103711850774385
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 13,
+                    "verse": 6,
+                    "text": "I will sing unto the Lord, because he hath dealt bountifully with me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8101169025537358
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 6,
+                    "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067223432632218
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 19,
+                    "verse": 5,
+                    "text": "And if ye offer a sacrifice of peace offerings unto the Lord, ye shall offer it at your own will.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063423518927754
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 17,
+                    "text": "Deal bountifully with thy servant, that I may live, and keep thy word.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060281814981792
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 66,
+                    "verse": 13,
+                    "text": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053854068926503
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 112,
                     "verse": 22,
                     "text": "Inasmuch as they shall humble themselves before me, and abide in my word, and hearken to the voice of my Spirit.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8045334093281791
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 68,
                     "verse": 5,
                     "text": "Behold, this is the promise of the Lord unto you, O ye my servants.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8025029100333185
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 93,
                     "verse": 1,
                     "text": "Verily, thus saith the Lord: It shall come to pass that every soul who forsaketh his sins and cometh unto me, and calleth on my name, and obeyeth my voice, and keepeth my commandments, shall see my face and know that I am;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024836971953432
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 5,
                     "text": "Behold, I, the Lord, utter my voice, and it shall be obeyed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8019686440662392
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 104,
+                    "verse": 33,
+                    "text": "I will sing unto the Lord as long as I live: I will sing praise to my God while I have my being.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014130198885382
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 10,
                     "verse": 17,
                     "text": "For I will fulfil my promises which I have made unto the children of men, that I will do unto them while they are in the flesh--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8003105892698158
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 39,
-                    "verse": 10,
-                    "text": "But, behold, the days of thy deliverance are come, if thou wilt hearken to my voice, which saith unto thee: Arise and be baptized, and wash away your sins, calling on my name, and you shall receive my Spirit, and a blessing so great as you never have known.",
-                    "score": 0.7950330030427002
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 166,
+                    "text": "Lord, I have hoped for thy salvation, and done thy commandments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002966717548435
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 26,
-                    "text": "And now, my beloved brethren, I would that ye should come unto Christ, who is the Holy One of Israel, and partake of his salvation, and the power of his redemption. Yea, come unto him, and offer your whole souls as an offering unto him, and continue in fasting and praying, and endure to the end; and as the Lord liveth ye will be saved.",
-                    "score": 0.7936721457869885
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Philippians",
-                    "chapter": 2,
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
                     "verse": 17,
-                    "text": "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.",
-                    "score": 0.7892155867580694
+                    "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9241735384360843
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 8,
-                    "text": "Thus saith the Lord: In an acceptable time have I heard thee, O isles of the sea, and in a day of salvation have I helped thee; and I will preserve thee, and give thee my servant for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;",
-                    "score": 0.7876861724772493
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 54,
+                    "verse": 6,
+                    "text": "I will freely sacrifice unto thee: I will praise thy name, O Lord; for it is good.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9138491903813287
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 14,
+                    "text": "Offer unto God thanksgiving; and pay thy vows unto the most High:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9084723755468795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 66,
+                    "verse": 13,
+                    "text": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902563404731351
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 14,
+                    "text": "I will pay my vows unto the Lord now in the presence of all his people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024775508019452
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 18,
+                    "text": "I will pay my vows unto the Lord now in the presence of all his people,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024775508019452
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 49,
+                    "text": "Therefore will I give thanks unto thee, O Lord, among the heathen, and sing praises unto thy name.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902462363243103
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 50,
+                    "text": "Therefore I will give thanks unto thee, O Lord, among the heathen, and I will sing praises unto thy name.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9013196708345085
                 }
             ]
         },
@@ -782,84 +1169,64 @@
             "text": "And the Lord spake unto the fish, and it vomited out Jonah upon the dry land.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 68,
-                    "text": "Behold, at my rebuke I dry up the sea. I make the rivers a wilderness; their fish stink, and die for thirst.",
-                    "score": 0.7707726828931609
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 2,
+                    "verse": 1,
+                    "text": "Then Jonah prayed unto the Lord his God out of the fish's belly,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8382034724518014
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 8,
-                    "verse": 4,
-                    "text": "And there came forth a great famine into the land, and the Lord cursed the earth with a sore curse, and many of the inhabitants thereof died.",
-                    "score": 0.7653882410593099
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
                     "chapter": 1,
-                    "verse": 2,
-                    "text": "And he spake unto them concerning their rebellions upon the waters, and the mercies of God in sparing their lives, that they were not swallowed up in the sea.",
-                    "score": 0.7637290291783863
+                    "verse": 17,
+                    "text": "Now the Lord had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8206676749035259
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 5,
-                    "verse": 13,
-                    "text": "And forthwith Jesus gave them leave. And the unclean spirits went out, and entered into the swine: and the herd ran violently down a steep place into the sea, (they were about two thousand;) and were choked in the sea.",
-                    "score": 0.7579948172929898
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 2,
+                    "verse": 1,
+                    "text": "Then Jonah prayed unto the Lord his God out of the fish's belly,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9289991409478784
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
-                    "score": 0.7576252789817327
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 3,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto Jonah the second time, saying,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9086019938351058
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 16,
-                    "text": "And the angel spake unto me, saying: Behold the fountain of filthy water which thy father saw; yea, even the river of which he spake; and the depths thereof are the depths of hell.",
-                    "score": 0.7569824829621252
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "Now the Lord had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041995349049435
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 21,
-                    "verse": 10,
-                    "text": "Jesus saith unto them, Bring of the fish which ye have now caught.",
-                    "score": 0.7562296499229044
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 41,
-                    "text": "And it came to pass that the Lord spake unto Enoch, and told Enoch all the doings of the children of men; wherefore Enoch knew, and looked upon their wickedness, and their misery, and wept and stretched forth his arms, and his heart swelled wide as eternity; and his bowels yearned; and all eternity shook.",
-                    "score": 0.7531235933904397
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 10,
-                    "text": "Art thou not he who hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?",
-                    "score": 0.7531089649945383
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 12,
-                    "verse": 16,
-                    "text": "And behold, also, if he say unto the waters of the great deep--Be thou dried up--it is done.",
-                    "score": 0.7527926434150708
+                    "volume": "Old Testament",
+                    "book": "Jonah",
+                    "volume_book_index": 32,
+                    "chapter": 1,
+                    "verse": 1,
+                    "text": "Now the word of the Lord came unto Jonah the son of Amittai, saying,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018619539573202
                 }
             ]
         }

@@ -8,256 +8,175 @@
             "text": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 33,
+                    "verse": 7,
+                    "text": "So thou, O son of man, I have set thee a watchman unto the house of Israel; therefore thou shalt hear the word at my mouth, and warn them from me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8223577491387534
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 5,
                     "verse": 2,
                     "text": "Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8198886317562464
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 10,
+                    "verse": 1,
+                    "text": "Hear ye the word which the Lord speaketh unto you, O house of Israel:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8182900905518151
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 3,
+                    "verse": 17,
+                    "text": "Son of man, I have made thee a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170334316858773
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 19,
-                    "verse": 24,
-                    "text": "Wherefore I spake unto them, saying: Hear ye the words of the prophet, ye who are a remnant of the house of Israel, a branch who have been broken off; hear ye the words of the prophet, which were written unto all the house of Israel, and liken them unto yourselves, that ye may have hope as well as your brethren from whom ye have been broken off; for after this manner has the prophet written.",
-                    "score": 0.7992537620812549
+                    "verse": 3,
+                    "text": "And say, Hear ye the word of the Lord, O kings of Judah, and inhabitants of Jerusalem; Thus saith the Lord of hosts, the God of Israel; Behold, I will bring evil upon this place, the which whosoever heareth, his ears shall tingle.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8132633087292089
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 1,
+                    "verse": 6,
+                    "text": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073479891667352
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 5,
+                    "verse": 1,
+                    "text": "Hear ye this word which I take up against you, even a lamentation, O house of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8066470911640181
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 21,
-                    "verse": 1,
-                    "text": "And again: Hearken, O ye house of Israel, all ye that are broken off and are driven out because of the wickedness of the pastors of my people; yea, all ye that are broken off, that are scattered abroad, who are of my people, O house of Israel. Listen, O isles, unto me, and hearken ye people from far; the Lord hath called me from the womb; from the bowels of my mother hath he made mention of my name.",
-                    "score": 0.7973907694268119
+                    "verse": 11,
+                    "text": "And touching the house of the king of Judah, say, Hear ye the word of the Lord;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042547208147424
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 72,
-                    "verse": 1,
-                    "text": "Hearken, and listen to the voice of the Lord, O ye who have assembled yourselves together, who are the high priests of my church, to whom the kingdom and power have been given.",
-                    "score": 0.7970531772909114
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 21,
+                    "verse": 12,
+                    "text": "Therefore thus saith the Lord God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005033660850052
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 10,
                     "verse": 1,
-                    "text": "Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you.",
-                    "score": 0.7903693047477948
+                    "text": "Hear ye the word which the Lord speaketh unto you, O house of Israel:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9080954790115356
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 25,
-                    "verse": 4,
-                    "text": "Wherefore, hearken, O my people, which are of the house of Israel, and give ear unto my words; for because the words of Isaiah are not plain unto you, nevertheless they are plain unto all those that are filled with the spirit of prophecy. But I give unto you a prophecy, according to the spirit which is in me; wherefore I shall prophesy according to the plainness which hath been with me from the time that I came out from Jerusalem with my father; for behold, my soul delighteth in plainness unto my people, that they may learn.",
-                    "score": 0.7881136696135332
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 7,
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 5,
                     "verse": 2,
-                    "text": "Know ye that ye are of the house of Israel.",
-                    "score": 0.7849095947217613
+                    "text": "Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9065678063969513
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 13,
-                    "verse": 14,
-                    "text": "The Lord will enter into judgment with the ancients of his people and the princes thereof; for ye have eaten up the vineyard and the spoil of the poor in your houses.",
-                    "score": 0.7847149865935832
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 4,
-                    "verse": 14,
-                    "text": "Come unto me, O ye house of Israel, and it shall be made manifest unto you how great things the Father hath laid up for you, from the foundation of the world; and it hath not come unto you, because of unbelief.",
-                    "score": 0.7831931384757614
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.7808087646647075
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 5,
+                    "verse": 1,
+                    "text": "Hear ye this word which I take up against you, even a lamentation, O house of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9034465012880281
                 }
             ]
         },
         {
             "verse": 2,
             "text": "And the revolters are profound to make slaughter, though I have been a rebuker of them all.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 61,
-                    "verse": 3,
-                    "text": "But behold, there are those who do joy in your afflictions, yea, insomuch that they have risen up in rebellion against me, and also those of my people who are freemen, yea, and those who have risen up are exceedingly numerous.",
-                    "score": 0.7723280049993028
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 3,
-                    "verse": 19,
-                    "text": "As many as I love, I rebuke and chasten: be zealous therefore, and repent.",
-                    "score": 0.760112350883654
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 51,
-                    "text": "And I have trampled them in my fury, and I did tread upon them in mine anger, and their blood have I sprinkled upon my garments, and stained all my raiment; for this was the day of vengeance which was in my heart.",
-                    "score": 0.7550969176800496
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 76,
-                    "text": "But, verily I say unto all those to whom the kingdom has been given--from you it must be preached unto them, that they shall repent of their former evil works; for they are to be upbraided for their evil hearts of unbelief, and your brethren in Zion for their rebellion against you at the time I sent you.",
-                    "score": 0.7531840983548816
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Timothy",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "Them that sin rebuke before all, that others also may fear.",
-                    "score": 0.7507942257541218
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 13,
-                    "text": "And thrice have I delivered them out of the hands of their enemies, and they have repented not of their sins.",
-                    "score": 0.7500837180510033
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 9,
-                    "verse": 12,
-                    "text": "And many great destructions have I caused to come upon this land, and upon this people, because of their wickedness and their abominations.",
-                    "score": 0.7499058613279669
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 24,
-                    "text": "And if it so be that they rebel against me, they shall be a scourge unto thy seed, to stir them up in the ways of remembrance.",
-                    "score": 0.7495359736603574
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 1,
-                    "verse": 16,
-                    "text": "And I did endeavor to preach unto this people, but my mouth was shut, and I was forbidden that I should preach unto them; for behold they had wilfully rebelled against their God; and the beloved disciples were taken away out of the land, because of their iniquity.",
-                    "score": 0.7488244614315487
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 76,
-                    "text": "And again I say unto you, those who have been scattered by their enemies, it is my will that they should continue to importune for redress, and redemption, by the hands of those who are placed as rulers and are in authority over you--",
-                    "score": 0.7430649411204121
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 3,
             "text": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 6,
+                    "verse": 10,
+                    "text": "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8515381715648065
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 10,
                     "verse": 16,
                     "text": "Wherefore, he that fighteth against Zion, both Jew and Gentile, both bond and free, both male and female, shall perish; for they are they who are the whore of all the earth; for they who are not for me are against me, saith our God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8000796574585458
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 9,
-                    "verse": 7,
-                    "text": "Yea, and the city of Onihah and the inhabitants thereof, and the city of Mocum and the inhabitants thereof, and the city of Jerusalem and the inhabitants thereof; and waters have I caused to come up in the stead thereof, to hide their wickedness and abominations from before my face, that the blood of the prophets and the saints shall not come up any more unto me against them.",
-                    "score": 0.7681509423525273
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 6,
+                    "verse": 10,
+                    "text": "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.810106588313573
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 23,
-                    "text": "But the word of God burdens me because of your grosser crimes. For behold, thus saith the Lord: This people begin to wax in iniquity; they understand not the scriptures, for they seek to excuse themselves in committing whoredoms, because of the things which were written concerning David, and Solomon his son.",
-                    "score": 0.7661106538925334
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 36,
-                    "text": "For, verily I say that the rebellious are not of the blood of Ephraim, wherefore they shall be plucked out.",
-                    "score": 0.7640719770134591
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 39,
-                    "text": "Behold thou hast driven me out this day from the face of the Lord, and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that he that findeth me will slay me, because of mine iniquities, for these things are not hid from the Lord.",
-                    "score": 0.7590234043470908
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 3,
-                    "text": "And said unto me: Thou art my servant, O Israel, in whom I will be glorified.",
-                    "score": 0.7586252027747998
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 30,
-                    "verse": 2,
-                    "text": "Turn, all ye Gentiles, from your wicked ways; and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations, and your idolatries, and of your murders, and your priestcrafts, and your envyings, and your strifes, and from all your wickedness and abominations, and come unto me, and be baptized in my name, that ye may receive a remission of your sins, and be filled with the Holy Ghost, that ye may be numbered with my people who are of the house of Israel.",
-                    "score": 0.7529770656287841
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 31,
-                    "text": "For behold, I, the Lord, have seen the sorrow, and heard the mourning of the daughters of my people in the land of Jerusalem, yea, and in all the lands of my people, because of the wickedness and abominations of their husbands.",
-                    "score": 0.7527611801128282
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 21,
-                    "verse": 13,
-                    "text": "The envy of Ephraim also shall depart, and the adversaries of Judah shall be cut off; Ephraim shall not envy Judah, and Judah shall not vex Ephraim.",
-                    "score": 0.7518645766095056
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 33,
-                    "text": "For they shall not lead away captive the daughters of my people because of their tenderness, save I shall visit them with a sore curse, even unto destruction; for they shall not commit whoredoms, like unto them of old, saith the Lord of Hosts.",
-                    "score": 0.7503788978726521
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 6,
+                    "verse": 10,
+                    "text": "I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9160665992637437
                 }
             ]
         },
@@ -268,82 +187,12 @@
                 {
                     "volume": "New Testament",
                     "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 10,
                     "verse": 3,
                     "text": "For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8121915773073339
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 19,
-                    "verse": 13,
-                    "text": "For the people turneth not unto him that smiteth them, neither do they seek the Lord of Hosts.",
-                    "score": 0.7954804193655138
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 50,
-                    "text": "And by this you may know they are under the bondage of sin, because they come not unto me.",
-                    "score": 0.7923663463440724
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 28,
-                    "text": "Yea, they durst not make use of that which is their own lest they should offend their priests, who do yoke them according to their desires, and have brought them to believe, by their traditions and their dreams and their whims and their visions and their pretended mysteries, that they should, if they did not do according to their words, offend some unknown being, who they say is God--a being who never has been seen or known, who never was nor ever will be.",
-                    "score": 0.7840119306049123
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 16,
-                    "verse": 12,
-                    "text": "Having gone according to their own carnal wills and desires; having never called upon the Lord while the arms of mercy were extended towards them; for the arms of mercy were extended towards them, and they would not; they being warned of their iniquities and yet they would not depart from them; and they were commanded to repent and yet they would not repent.",
-                    "score": 0.7819503491399772
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "For there is no respect of persons with God.",
-                    "score": 0.7814669518779725
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 4,
-                    "text": "And they would not be baptized; neither would they join the church. And they were a separate people as to their faith, and remained so ever after, even in their carnal and sinful state; for they would not call upon the Lord their God.",
-                    "score": 0.7763387351967511
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 23,
-                    "text": "And it shall come to pass that except this people repent and turn unto the Lord their God, they shall be brought into bondage; and none shall deliver them, except it be the Lord the Almighty God.",
-                    "score": 0.7759434383889328
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 33,
-                    "text": "For they shall not lead away captive the daughters of my people because of their tenderness, save I shall visit them with a sore curse, even unto destruction; for they shall not commit whoredoms, like unto them of old, saith the Lord of Hosts.",
-                    "score": 0.7738900879438211
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 15,
-                    "verse": 22,
-                    "text": "If I had not come and spoken unto them, they had not had sin: but now they have no cloak for their sin.",
-                    "score": 0.7735379042840766
                 }
             ]
         },
@@ -352,84 +201,234 @@
             "text": "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Thus saith the Lord, After this manner will I mar the pride of Judah, and the great pride of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8212042256922982
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 32,
                     "text": "And there shall they fall down and be crowned with glory, even in Zion, by the hands of the servants of the Lord, even the children of Ephraim.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8211859906872627
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 9,
+                    "verse": 9,
+                    "text": "And all the people shall know, even Ephraim and the inhabitant of Samaria, that say in the pride and stoutness of heart,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8207147409932218
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 30,
+                    "verse": 6,
+                    "text": "Thus saith the Lord; They also that uphold Egypt shall fall; and the pride of her power shall come down: from the tower of Syene shall they fall in it by the sword, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8198219890217453
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 19,
                     "verse": 9,
                     "text": "And all the people shall know, even Ephraim and the inhabitants of Samaria, that say in the pride and stoutness of heart:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8191003874673014
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 49,
+                    "verse": 8,
+                    "text": "Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8186286876384691
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 47,
                     "text": "Then shall the arm of the Lord fall upon the nations.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8142358106582366
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 20,
+                    "verse": 4,
+                    "text": "For thus saith the Lord, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134935931878436
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 20,
                     "text": "And it shall come to pass, saith the Father, that the sword of my justice shall hang over them at that day; and except they repent it shall fall upon them, saith the Father, yea, even upon all the nations of the Gentiles.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8108252899618484
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 11,
+                    "verse": 10,
+                    "text": "Ye shall fall by the sword; I will judge you in the border of Israel; and ye shall know that I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809034130494494
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 8,
+                    "verse": 33,
+                    "text": "When thy people Israel be smitten down before the enemy, because they have sinned against thee, and shall turn again to thee, and confess thy name, and pray, and make supplication unto thee in this house:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062534412265548
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 19,
                     "verse": 21,
                     "text": "Manasseh, Ephraim; and Ephraim, Manasseh; they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8054183568738915
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 21,
                     "verse": 13,
                     "text": "The envy of Ephraim also shall depart, and the adversaries of Judah shall be cut off; Ephraim shall not envy Judah, and Judah shall not vex Ephraim.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8041381830364273
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 9,
+                    "verse": 21,
+                    "text": "Manasseh, Ephraim; and Ephraim, Manasseh: and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.804083506220935
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 24,
+                    "verse": 18,
+                    "text": "And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039092509727532
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 11,
+                    "verse": 13,
+                    "text": "The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037593288550295
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 7,
+                    "verse": 10,
+                    "text": "And the pride of Israel testifieth to his face: and they do not return to the Lord their God, nor seek him for all this.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028916416914668
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 24,
+                    "verse": 21,
+                    "text": "Speak unto the house of Israel, Thus saith the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802379202011491
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 19,
+                    "verse": 7,
+                    "text": "And I will make void the counsel of Judah and Jerusalem in this place; and I will cause them to fall by the sword before their enemies, and by the hands of them that seek their lives: and their carcases will I give to be meat for the fowls of the heaven, and for the beasts of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023698022308076
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 22,
                     "verse": 14,
                     "text": "And every nation which shall war against thee, O house of Israel, shall be turned one against another, and they shall fall into the pit which they digged to ensnare the people of the Lord. And all that fight against Zion shall be destroyed, and that great whore, who hath perverted the right ways of the Lord, yea, that great and abominable church, shall tumble to the dust and great shall be the fall of it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021324332900177
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 21,
                     "verse": 24,
                     "text": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016623630461135
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 60,
                     "verse": 14,
-                    "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
-                    "score": 0.7998664614382783
+                    "text": "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the Lord, The Zion of the Holy One of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011817879587557
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 1,
-                    "text": "But, behold, in the last days, or in the days of the Gentiles--yea, behold all the nations of the Gentiles and also the Jews, both those who shall come upon this land and those who shall be upon other lands, yea, even upon all the lands of the earth, behold, they will be drunken with iniquity and all manner of abominations--",
-                    "score": 0.7923878019696907
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 28,
+                    "verse": 3,
+                    "text": "The crown of pride, the drunkards of Ephraim, shall be trodden under feet:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010887733521977
                 }
             ]
         },
@@ -438,256 +437,325 @@
             "text": "They shall go with their flocks and with their herds to seek the Lord; but they shall not find him; he hath withdrawn himself from them.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 8,
+                    "verse": 12,
+                    "text": "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8334119379455331
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 5,
                     "text": "And they shall go forth and none shall stay them, for I the Lord have commanded them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.830765937482332
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Lamentations",
+                    "volume_book_index": 25,
+                    "chapter": 4,
+                    "verse": 15,
+                    "text": "They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8268252372989405
                 },
                 {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 9,
                     "verse": 6,
                     "text": "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8264625575049747
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 24,
+                    "verse": 2,
+                    "text": "And Moses alone shall come near the Lord: but they shall not come nigh; neither shall the people go up with him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8191467013878295
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 14,
+                    "verse": 10,
+                    "text": "Thus saith the Lord unto this people, Thus have they loved to wander, they have not refrained their feet, therefore the Lord doth not accept them; he will now remember their iniquity, and visit their sins.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8171139761745372
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 21,
                     "verse": 29,
                     "text": "And they shall go out from all nations; and they shall not go out in haste, nor go by flight, for I will go before them, saith the Father, and I will be their rearward.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169238273119579
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 12,
                     "text": "How think ye? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8167433327397625
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 7,
                     "verse": 35,
                     "text": "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8141150524441245
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 23,
                     "verse": 14,
                     "text": "And it shall be as the chased roe, and as a sheep that no man taketh up; and they shall every man turn to his own people, and flee every one into his own land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.814048646135231
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 13,
+                    "verse": 14,
+                    "text": "And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134569673822525
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 17,
                     "verse": 33,
                     "text": "And those men again stood to scatter their flocks; but Ammon said unto his brethren: Encircle the flocks round about that they flee not; and I go and contend with these men who do scatter our flocks.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8105292253451196
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 24,
+                    "text": "So he sent his brethren away, and they departed: and he said unto them, See that ye fall not out by the way.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8098355875742174
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 34,
+                    "verse": 12,
+                    "text": "As a shepherd seeketh out his flock in the day that he is among his sheep that are scattered; so will I seek out my sheep, and will deliver them out of all places where they have been scattered in the cloudy and dark day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809766821712581
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 10,
+                    "verse": 21,
+                    "text": "For the pastors are become brutish, and have not sought the Lord: therefore they shall not prosper, and all their flocks shall be scattered.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8097278555091216
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 10,
+                    "verse": 24,
+                    "text": "And Pharaoh called unto Moses, and said, Go ye, serve the Lord; only let your flocks and your herds be stayed: let your little ones also go with you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8096446744574577
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 27,
+                    "verse": 17,
+                    "text": "Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the Lord be not as sheep which have no shepherd.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8094043740949857
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 25,
+                    "verse": 35,
+                    "text": "And the shepherds shall have no way to flee, nor the principal of the flock to escape.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809333193742677
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082220088860715
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 17,
                     "verse": 27,
                     "text": "That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8074507216797072
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 32,
+                    "text": "Also take your flocks and your herds, as ye have said, and be gone; and bless me also.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049426890369964
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 7,
                     "verse": 34,
                     "text": "Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8041269182644156
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 11,
                     "verse": 56,
                     "text": "Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8039432321040243
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 17,
+                    "verse": 31,
+                    "text": "And it came to pass that he flattered them by his words, saying: My brethren, be of good cheer and let us go in search of the flocks, and we will gather them together and bring them back unto the place of water; and thus we will preserve the flocks unto the king and he will not slay us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028378931325788
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 34,
+                    "verse": 10,
+                    "text": "Thus saith the Lord God; Behold, I am against the shepherds; and I will require my flock at their hand, and cause them to cease from feeding the flock; neither shall the shepherds feed themselves any more; for I will deliver my flock from their mouth, that they may not be meat for them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013305691893009
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 49,
+                    "verse": 20,
+                    "text": "Therefore hear the counsel of the Lord, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their habitations desolate with them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012935260874204
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 37,
+                    "verse": 16,
+                    "text": "And he said, I seek my brethren: tell me, I pray thee, where they feed their flocks.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800425688174016
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 34,
+                    "verse": 3,
+                    "text": "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003613922092557
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 8,
+                    "verse": 12,
+                    "text": "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the Lord, and shall not find it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9083662629127502
                 }
             ]
         },
         {
             "verse": 7,
             "text": "They have dealt treacherously against the Lord: for they have begotten strange children: now shall a month devour them with their portions.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 25,
-                    "text": "But thus saith the Lord, even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered; for I will contend with him that contendeth with thee, and I will save thy children.",
-                    "score": 0.7935261161688674
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 11,
-                    "verse": 15,
-                    "text": "Yea, O Lord, and thou seest that they have repented, because of the famine and the pestilence and destruction which has come unto them.",
-                    "score": 0.7873878887120768
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 68,
-                    "verse": 31,
-                    "text": "Now, I, the Lord, am not well pleased with the inhabitants of Zion, for there are idlers among them; and their children are also growing up in wickedness; they also seek not earnestly the riches of eternity, but their eyes are full of greediness.",
-                    "score": 0.7868575736584473
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 4,
-                    "verse": 5,
-                    "text": "But, behold, the judgments of God will overtake the wicked; and it is by the wicked that the wicked are punished; for it is the wicked that stir up the hearts of the children of men unto bloodshed.",
-                    "score": 0.7866607495510088
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 14,
-                    "text": "And when they had sworn by all that had been forbidden them by our Lord and Savior Jesus Christ, that they would go up unto their enemies to battle, and avenge themselves of the blood of their brethren, behold the voice of the Lord came unto me, saying:",
-                    "score": 0.784359504911009
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 2,
-                    "verse": 14,
-                    "text": "Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:",
-                    "score": 0.7835771508466031
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 5,
-                    "verse": 25,
-                    "text": "And the Lord God said unto me: They shall be a scourge unto thy seed, to stir them up in remembrance of me; and inasmuch as they will not remember me, and hearken unto my words, they shall scourge them even unto destruction.",
-                    "score": 0.7835161098926761
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 28,
-                    "text": "And they shall be a scourge unto the people of this land. Nevertheless, when they shall have received the fulness of my gospel, then if they shall harden their hearts against me I will return their iniquities upon their own heads, saith the Father.",
-                    "score": 0.7834712905197672
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 17,
-                    "text": "Thy children shall make haste against thy destroyers; and they that made thee waste shall go forth of thee.",
-                    "score": 0.7794688942188451
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 27,
-                    "text": "And all this have they done that they might pervert the right ways of the Lord, that they might blind the eyes and harden the hearts of the children of men.",
-                    "score": 0.7780674567922786
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 8,
             "text": "Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Beth-aven, after thee, O Benjamin.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 22,
-                    "verse": 6,
-                    "text": "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.",
-                    "score": 0.7611010779787429
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 6,
+                    "verse": 1,
+                    "text": "O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Beth-haccerem: for evil appeareth out of the north, and great destruction.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148781208081214
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 65,
-                    "verse": 3,
-                    "text": "Yea, a voice crying--Prepare ye the way of the Lord, prepare ye the supper of the Lamb, make ready for the Bridegroom.",
-                    "score": 0.7570387604074736
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 37,
-                    "text": "And speak freely to all; yea, preach, exhort, declare the truth, even with a loud voice, with a sound of rejoicing, crying--Hosanna, hosanna, blessed be the name of the Lord God!",
-                    "score": 0.7566302430297552
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 34,
-                    "verse": 20,
-                    "text": "Cry unto him when ye are in your fields, yea, over all your flocks.",
-                    "score": 0.7501740872274221
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 39,
-                    "verse": 19,
-                    "text": "Wherefore, go forth, crying with a loud voice, saying: The kingdom of heaven is at hand; crying: Hosanna! blessed be the name of the Most High God.",
-                    "score": 0.7467791465374902
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 15,
-                    "verse": 30,
-                    "text": "Break forth into joy, sing together, ye waste places of Jerusalem; for the Lord hath comforted his people, he hath redeemed Jerusalem.",
-                    "score": 0.7466948362525409
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 19,
-                    "text": "Break forth into joy, sing together, ye waste places of Jerusalem; for the Lord hath comforted his people, he hath redeemed Jerusalem.",
-                    "score": 0.7466948362525409
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 23,
-                    "text": "Break forth into joy; sing together ye waste places of Jerusalem; for the Lord hath comforted his people, he hath redeemed Jerusalem;",
-                    "score": 0.7466948362525409
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 31,
-                    "text": "Howl, O gate; cry, O city; thou, whole Palestina, art dissolved; for there shall come from the north a smoke, and none shall be alone in his appointed times.",
-                    "score": 0.7448977096234136
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 41,
-                    "text": "And then shall a cry go forth: Depart ye, depart ye, go ye out from thence, touch not that which is unclean; go ye out of the midst of her; be ye clean that bear the vessels of the Lord.",
-                    "score": 0.7421086697289461
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 4,
+                    "verse": 5,
+                    "text": "Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8129728489804104
                 }
             ]
         },
@@ -696,84 +764,24 @@
             "text": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 24,
-                    "text": "And this I have told you concerning Jerusalem; and when that day shall come, shall a remnant be scattered among all nations;",
-                    "score": 0.7855442725120219
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 5,
-                    "text": "And since they have been led away, these things have been prophesied concerning them, and also concerning all those who shall hereafter be scattered and be confounded, because of the Holy One of Israel; for against him will they harden their hearts; wherefore, they shall be scattered among all nations and shall be hated of all men.",
-                    "score": 0.7838050730390449
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 20,
-                    "text": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them, but shall stay upon the Lord, the Holy One of Israel, in truth.",
-                    "score": 0.7817786291904957
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 32,
-                    "text": "And in the days of your poverty ye shall cry unto the Lord; and in vain shall ye cry, for your desolation is already come upon you, and your destruction is made sure; and then shall ye weep and howl in that day, saith the Lord of Hosts. And then shall ye lament, and say:",
-                    "score": 0.774496655613358
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 5,
-                    "verse": 11,
-                    "text": "For I know that such will sorrow for the calamity of the house of Israel; yea, they will sorrow for the destruction of this people; they will sorrow that this people had not repented that they might have been clasped in the arms of Jesus.",
-                    "score": 0.7737657024949495
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 25,
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 35,
                     "verse": 15,
-                    "text": "Wherefore, the Jews shall be scattered among all nations; yea, and also Babylon shall be destroyed; wherefore, the Jews shall be scattered by other nations.",
-                    "score": 0.772660934811339
+                    "text": "As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8144829972343043
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 67,
-                    "text": "And may all the scattered remnants of Israel, who have been driven to the ends of the earth, come to a knowledge of the truth, believe in the Messiah, and be redeemed from oppression, and rejoice before thee.",
-                    "score": 0.7722808555178916
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 32,
                     "verse": 15,
-                    "text": "But if they will not turn unto me, and hearken unto my voice, I will suffer them, yea, I will suffer my people, O house of Israel, that they shall go through among them, and shall tread them down, and they shall be as salt that hath lost its savor, which is thenceforth good for nothing but to be cast out, and to be trodden under foot of my people, O house of Israel.",
-                    "score": 0.7721627697707568
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 8,
-                    "verse": 12,
-                    "text": "And I say unto thee again: Knowest thou of any one that can translate? For I am desirous that these records should be translated into our language; for, perhaps, they will give us a knowledge of a remnant of the people who have been destroyed, from whence these records came; or, perhaps, they will give us a knowledge of this very people who have been destroyed; and I am desirous to know the cause of their destruction.",
-                    "score": 0.7712602697257417
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 9,
-                    "text": "Behold, the day of the Lord cometh, cruel both with wrath and fierce anger, to lay the land desolate; and he shall destroy the sinners thereof out of it.",
-                    "score": 0.770988979988708
+                    "text": "When I shall make the land of Egypt desolate, and the country shall be destitute of that whereof it was full, when I shall smite all them that dwell therein, then shall they know that I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030495796780389
                 }
             ]
         },
@@ -782,172 +790,251 @@
             "text": "The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 49,
+                    "verse": 7,
+                    "text": "Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.827129764112732
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 12,
+                    "verse": 14,
+                    "text": "Thus saith the Lord against all mine evil neighbours, that touch the inheritance which I have caused my people Israel to inherit; Behold, I will pluck them out of their land, and pluck out the house of Judah from among them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8253694949526434
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Habakkuk",
+                    "volume_book_index": 35,
+                    "chapter": 1,
+                    "verse": 10,
+                    "text": "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8175875847926665
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 32,
+                    "verse": 32,
+                    "text": "Because of all the evil of the children of Israel and of the children of Judah, which they have done to provoke me to anger, they, their kings, their princes, their priests, and their prophets, and the men of Judah, and the inhabitants of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8175053754747463
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 49,
+                    "verse": 38,
+                    "text": "And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.810897543104879
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 45,
+                    "verse": 9,
+                    "text": "Thus saith the Lord God; Let it suffice you, O princes of Israel: remove violence and spoil, and execute judgment and justice, take away your exactions from my people, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8091816453300235
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 49,
+                    "verse": 37,
+                    "text": "For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, saith the Lord; and I will send the sword after them, till I have consumed them:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809176800622185
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 36,
+                    "verse": 31,
+                    "text": "And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, all the evil that I have pronounced against them; but they hearkened not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8091495001234907
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 104,
                     "verse": 5,
                     "text": "For I, the Lord, have decreed in my heart, that inasmuch as any man belonging to the order shall be found a transgressor, or, in other words, shall break the covenant with which ye are bound, he shall be cursed in his life, and shall be trodden down by whom I will;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8089253162338945
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 11,
+                    "verse": 8,
+                    "text": "And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.807605453371201
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 16,
+                    "verse": 2,
+                    "text": "Forasmuch as I exalted thee out of the dust, and made thee prince over my people Israel; and thou hast walked in the way of Jeroboam, and hast made my people Israel to sin, to provoke me to anger with their sins;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8059622779279835
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 29,
+                    "verse": 22,
+                    "text": "And of them shall be taken up a curse by all the captivity of Judah which are in Babylon, saying, The Lord make thee like Zedekiah and like Ahab, whom the king of Babylon roasted in the fire;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045841331771207
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 13,
+                    "verse": 11,
+                    "text": "I gave thee a king in mine anger, and took him away in my wrath.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045457780704612
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 24,
+                    "verse": 17,
+                    "text": "Now after the death of Jehoiada came the princes of Judah, and made obeisance to the king. Then the king hearkened unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042236665063158
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 14,
+                    "verse": 10,
+                    "text": "Therefore, behold, I will bring evil upon the house of Jeroboam, and will cut off from Jeroboam him that pisseth against the wall, and him that is shut up and left in Israel, and will take away the remnant of the house of Jeroboam, as a man taketh away dung, till it be all gone.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.804091132576498
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 20,
+                    "verse": 4,
+                    "text": "For thus saith the Lord, Behold, I will make thee a terror to thyself, and to all thy friends: and they shall fall by the sword of their enemies, and thine eyes shall behold it: and I will give all Judah into the hand of the king of Babylon, and he shall carry them captive into Babylon, and shall slay them with the sword.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040240309444902
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 15,
+                    "verse": 4,
+                    "text": "And I will cause them to be removed into all kingdoms of the earth, because of Manasseh the son of Hezekiah king of Judah, for that which he did in Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039371296514679
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 34,
+                    "verse": 21,
+                    "text": "And Zedekiah king of Judah and his princes will I give into the hand of their enemies, and into the hand of them that seek their life, and into the hand of the king of Babylon's army, which are gone up from you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8038295926020084
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 32,
+                    "verse": 30,
+                    "text": "For the children of Israel and the children of Judah have only done evil before me from their youth: for the children of Israel have only provoked me to anger with the work of their hands, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016255351492746
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 31,
+                    "verse": 4,
+                    "text": "And the Lord shall do unto them as he did to Sihon and to Og, kings of the Amorites, and unto the land of them, whom he destroyed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016206864738163
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 61,
                     "verse": 5,
                     "text": "For I, the Lord, have decreed in mine anger many destructions upon the waters; yea, and especially upon these waters.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016003441098833
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 22,
-                    "text": "For I will rise up against them, saith the Lord of Hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the Lord.",
-                    "score": 0.7891238535509907
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 23,
+                    "verse": 25,
+                    "text": "And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009010847164909
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 24,
-                    "text": "And inasmuch as mine enemies come against you to drive you from my goodly land, which I have consecrated to be the land of Zion, even from your own lands after these testimonies, which ye have brought before me against them, ye shall curse them;",
-                    "score": 0.7866453507891112
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 22,
+                    "verse": 6,
+                    "text": "Behold, the princes of Israel, every one were in thee to their power to shed blood.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004971509345908
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.7823130284329357
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 11,
-                    "verse": 11,
-                    "text": "Now, O Lord, because of this their humility wilt thou turn away thine anger, and let thine anger be appeased in the destruction of those wicked men whom thou hast already destroyed.",
-                    "score": 0.7821663400626612
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 2,
-                    "text": "Being driven and smitten by the hands of mine enemies, on whom I will pour out my wrath without measure in mine own time.",
-                    "score": 0.7817593052436423
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 10,
-                    "text": "Yea, I will visit them in my fierce anger, and there shall be those of the fourth generation who shall live, of your enemies, to behold your utter destruction; and this shall surely come except ye repent, saith the Lord; and those of the fourth generation shall visit your destruction.",
-                    "score": 0.7799101994343092
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 54,
-                    "verse": 9,
-                    "text": "And now behold, we are prepared to receive you; yea, and except you withdraw your purposes, behold, ye will pull down the wrath of that God whom you have rejected upon you, even to your utter destruction.",
-                    "score": 0.7792196974900074
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 38,
-                    "text": "And he leadeth away the righteous into precious lands, and the wicked he destroyeth, and curseth the land unto them for their sakes.",
-                    "score": 0.7786415703712466
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 21,
+                    "verse": 31,
+                    "text": "And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, and skilful to destroy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003657862954432
                 }
             ]
         },
         {
             "verse": 11,
             "text": "Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 2,
-                    "text": "For behold, he did not keep the commandments of God, but he did walk after the desires of his own heart. And he had many wives and concubines. And he did cause his people to commit sin, and do that which was abominable in the sight of the Lord. Yea, and they did commit whoredoms and all manner of wickedness.",
-                    "score": 0.7690250915830419
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 11,
-                    "verse": 54,
-                    "text": "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.",
-                    "score": 0.763886762417411
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 21,
-                    "verse": 13,
-                    "text": "The envy of Ephraim also shall depart, and the adversaries of Judah shall be cut off; Ephraim shall not envy Judah, and Judah shall not vex Ephraim.",
-                    "score": 0.7536199580561331
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 36,
-                    "text": "For, verily I say that the rebellious are not of the blood of Ephraim, wherefore they shall be plucked out.",
-                    "score": 0.7515417076614169
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "He that saith he abideth in him ought himself also so to walk, even as he walked.",
-                    "score": 0.7498517772832157
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 John",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.",
-                    "score": 0.7486424935919828
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 22,
-                    "verse": 11,
-                    "text": "He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.",
-                    "score": 0.7455543498313275
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 37,
-                    "text": "I say unto you, that the man that doeth this, the same cometh out in open rebellion against God; therefore he listeth to obey the evil spirit, and becometh an enemy to all righteousness; therefore, the Lord has no place in him, for he dwelleth not in unholy temples.",
-                    "score": 0.7445493359377369
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 32,
-                    "text": "Nevertheless, he that repents and does the commandments of the Lord shall be forgiven;",
-                    "score": 0.7443863275324867
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 3,
-                    "verse": 20,
-                    "text": "Nevertheless Helaman did fill the judgment-seat with justice and equity; yea, he did observe to keep the statutes, and the judgments, and the commandments of God; and he did do that which was right in the sight of God continually; and he did walk after the ways of his father, insomuch that he did prosper in the land.",
-                    "score": 0.7430571516346044
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
@@ -956,254 +1043,163 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 7,
                     "verse": 9,
                     "text": "For the Lord God will help me. And all they who shall condemn me, behold, all they shall wax old as a garment, and the moth shall eat them up.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8280653904519281
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 9,
+                    "text": "Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8219200276848939
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 8,
+                    "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8164391653994275
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 8,
                     "verse": 8,
                     "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool. But my righteousness shall be forever, and my salvation from generation to generation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8133976540971394
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
-                    "score": 0.7895071080963934
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 8,
-                    "verse": 8,
-                    "text": "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:",
-                    "score": 0.7813942929821902
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 15,
-                    "text": "But if they will not turn unto me, and hearken unto my voice, I will suffer them, yea, I will suffer my people, O house of Israel, that they shall go through among them, and shall tread them down, and they shall be as salt that hath lost its savor, which is thenceforth good for nothing but to be cast out, and to be trodden under foot of my people, O house of Israel.",
-                    "score": 0.7779743272270531
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 30,
-                    "verse": 2,
-                    "text": "Turn, all ye Gentiles, from your wicked ways; and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations, and your idolatries, and of your murders, and your priestcrafts, and your envyings, and your strifes, and from all your wickedness and abominations, and come unto me, and be baptized in my name, that ye may receive a remission of your sins, and be filled with the Holy Ghost, that ye may be numbered with my people who are of the house of Israel.",
-                    "score": 0.7717026049620744
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
-                    "verse": 5,
-                    "text": "O house of Jacob, come ye and let us walk in the light of the Lord; yea, come, for ye have all gone astray, every one to his wicked ways.",
-                    "score": 0.7717007620567651
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 10,
-                    "verse": 6,
-                    "text": "O ye house of Israel whom I have spared, how oft will I gather you as a hen gathereth her chickens under her wings, if ye will repent and return unto me with full purpose of heart.",
-                    "score": 0.7710064477005023
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 5,
                     "verse": 14,
-                    "text": "And every nation which shall war against thee, O house of Israel, shall be turned one against another, and they shall fall into the pit which they digged to ensnare the people of the Lord. And all that fight against Zion shall be destroyed, and that great whore, who hath perverted the right ways of the Lord, yea, that great and abominable church, shall tumble to the dust and great shall be the fall of it.",
-                    "score": 0.7695841125594788
+                    "text": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8080330486190308
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 98,
-                    "verse": 17,
-                    "text": "And again, the hearts of the Jews unto the prophets, and the prophets unto the Jews; lest I come and smite the whole earth with a curse, and all flesh be consumed before me.",
-                    "score": 0.7695508430331713
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 7,
+                    "verse": 30,
+                    "text": "For the children of Judah have done evil in my sight, saith the Lord: they have set their abominations in the house which is called by my name, to pollute it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056198730209551
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 5,
+                    "verse": 14,
+                    "text": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9027296958726841
                 }
             ]
         },
         {
             "verse": 13,
             "text": "When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 17,
-                    "verse": 16,
-                    "text": "And I brought him to thy disciples, and they could not cure him.",
-                    "score": 0.7583712929927139
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 15,
-                    "verse": 8,
-                    "text": "And Alma said: If thou believest in the redemption of Christ thou canst be healed.",
-                    "score": 0.752630970613185
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 33,
-                    "verse": 21,
-                    "text": "O my brethren, if ye could be healed by merely casting about your eyes that ye might be healed, would ye not behold quickly, or would ye rather harden your hearts in unbelief, and be slothful, that ye would not cast about your eyes, that ye might perish?",
-                    "score": 0.7421066337781522
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 5,
-                    "text": "Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying:",
-                    "score": 0.7413594501901586
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 12,
-                    "verse": 40,
-                    "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.",
-                    "score": 0.739485188883646
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 19,
-                    "verse": 21,
-                    "text": "Manasseh, Ephraim; and Ephraim, Manasseh; they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.",
-                    "score": 0.7320205961946685
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
-                    "score": 0.7285268260275221
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 5,
-                    "verse": 13,
-                    "text": "And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in that place.",
-                    "score": 0.7283274022569595
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 14,
-                    "text": "And since man had fallen he could not merit anything of himself; but the sufferings and death of Christ atone for their sins, through faith and repentance, and so forth; and that he breaketh the bands of death, that the grave shall have no victory, and that the sting of death should be swallowed up in the hopes of glory; and Aaron did expound all these things unto the king.",
-                    "score": 0.7279024845005924
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 16,
-                    "verse": 11,
-                    "text": "And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.",
-                    "score": 0.7264979662784264
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 14,
             "text": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 49,
+                    "verse": 9,
+                    "text": "Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8300307979963473
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 16,
                     "text": "Then shall ye, who are a remnant of the house of Jacob, go forth among them; and ye shall be in the midst of them who shall be many; and ye shall be among them as a lion among the beasts of the forest, and as a young lion among the flocks of sheep, who, if he goeth through both treadeth down and teareth in pieces, and none can deliver.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8276816332006893
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 21,
                     "verse": 12,
                     "text": "And my people who are a remnant of Jacob shall be among the Gentiles, yea, in the midst of them as a lion among the beasts of the forest, as a young lion among the flocks of sheep, who, if he go through both treadeth down and teareth in pieces, and none can deliver.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8149841737863331
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mormon",
+                    "volume_book_index": 13,
                     "chapter": 5,
                     "verse": 24,
                     "text": "Therefore, repent ye, and humble yourselves before him, lest he shall come out in justice against you--lest a remnant of the seed of Jacob shall go forth among you as a lion, and tear you in pieces, and there is none to deliver.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8139793362259692
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
                     "chapter": 1,
-                    "verse": 26,
-                    "text": "And lo, I am with thee, even unto the end of thy days; for thou shalt deliver my people from bondage, even Israel my chosen.",
-                    "score": 0.7844725495834306
+                    "verse": 7,
+                    "text": "But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8110397471137678
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
-                    "score": 0.7839933273887033
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 5,
+                    "verse": 12,
+                    "text": "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8080330486190308
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 14,
-                    "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
-                    "score": 0.7807405581366369
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 44,
+                    "text": "Behold, he shall come up like a lion from the swelling of Jordan unto the habitation of the strong: but I will make them suddenly run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005106124699639
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 25,
-                    "text": "But thus saith the Lord, even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered; for I will contend with him that contendeth with thee, and I will save thy children.",
-                    "score": 0.7795336339755432
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 20,
-                    "text": "For it shall come to pass, saith the Father, that at that day whosoever will not repent and come unto my Beloved Son, them will I cut off from among my people, O house of Israel;",
-                    "score": 0.777399273430101
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 19,
-                    "verse": 26,
-                    "text": "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.",
-                    "score": 0.7773765496884717
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 21,
-                    "verse": 13,
-                    "text": "The envy of Ephraim also shall depart, and the adversaries of Judah shall be cut off; Ephraim shall not envy Judah, and Judah shall not vex Ephraim.",
-                    "score": 0.7752816408894563
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 5,
+                    "verse": 12,
+                    "text": "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9027296958726841
                 }
             ]
         },
@@ -1212,84 +1208,14 @@
             "text": "I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 39,
-                    "text": "And that which I have chosen hath pled before my face. Wherefore, he suffereth for their sins; inasmuch as they will repent in the day that my Chosen shall return unto me, and until that day they shall be in torment;",
-                    "score": 0.7885859663982242
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 4,
-                    "verse": 5,
-                    "text": "And in this place again, If they shall enter into my rest.",
-                    "score": 0.7720421659341488
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 2,
-                    "text": "I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions;",
-                    "score": 0.7714112554413586
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 8,
-                    "text": "And that I may visit them in the day of visitation, when I shall unveil the face of my covering, to appoint the portion of the oppressor among hypocrites, where there is gnashing of teeth, if they reject my servants and my testimony which I have revealed unto them.",
-                    "score": 0.7707735082622993
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 71,
-                    "verse": 7,
-                    "text": "Wherefore, confound your enemies; call upon them to meet you both in public and in private; and inasmuch as ye are faithful their shame shall be made manifest.",
-                    "score": 0.7631577076742434
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 83,
-                    "text": "He that seeketh me early shall find me, and shall not be forsaken.",
-                    "score": 0.7629107243645421
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 20,
-                    "verse": 43,
-                    "text": "Till I make thine enemies thy footstool.",
-                    "score": 0.7588625182377868
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 31,
-                    "verse": 6,
-                    "text": "Behold, verily I say unto you, go from them only for a little time, and declare my word, and I will prepare a place for them.",
-                    "score": 0.7574747571241562
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 54,
-                    "verse": 10,
-                    "text": "And again, be patient in tribulation until I come; and, behold, I come quickly, and my reward is with me, and they who have sought me early shall find rest to their souls. Even so. Amen.",
-                    "score": 0.7570862291823978
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 30,
-                    "text": "Yea, and as often as my people repent will I forgive them their trespasses against me.",
-                    "score": 0.7566656278711154
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 1,
+                    "verse": 28,
+                    "text": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024111032486026
                 }
             ]
         }

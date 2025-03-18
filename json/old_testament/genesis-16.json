@@ -8,84 +8,54 @@
             "text": "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 34,
-                    "text": "God commanded Abraham, and Sarah gave Hagar to Abraham to wife. And why did she do it? Because this was the law; and from Hagar sprang many people. This, therefore, was fulfilling, among other things, the promises.",
-                    "score": 0.7209577498169395
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 18,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
                     "verse": 3,
-                    "text": "And I went unto the prophetess; and she conceived and bare a son. Then said the Lord to me: Call his name, Maher-shalal-hash-baz.",
-                    "score": 0.7129533827383461
+                    "text": "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8203193559547286
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "And it came to pass that I, Abraham, took Sarai to wife, and Nahor, my brother, took Milcah to wife, who was the daughter of Haran.",
-                    "score": 0.7093621906204036
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 12,
+                    "text": "Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062654054603798
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 3,
+                    "text": "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8203642857291883
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 3,
+                    "text": "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.931124520696787
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 11,
-                    "verse": 24,
-                    "text": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;",
-                    "score": 0.7059105842311397
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 51,
-                    "text": "Verily, I say unto you: A commandment I give unto mine handmaid, Emma Smith, your wife, whom I have given unto you, that she stay herself and partake not of that which I commanded you to offer unto her; for I did it, saith the Lord, to prove you all, as I did Abraham, and that I might require an offering at your hand, by covenant and sacrifice.",
-                    "score": 0.7039370763973121
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 16,
-                    "text": "And Adam and Eve, his wife, ceased not to call upon God. And Adam knew Eve his wife, and she conceived and bare Cain, and said: I have gotten a man from the Lord; wherefore he may not reject his words. But behold, Cain hearkened not, saying: Who is the Lord that I should know him?",
-                    "score": 0.702980964218809
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 20,
                     "verse": 30,
-                    "text": "And the second took her to wife, and he died childless.",
-                    "score": 0.7023693584647027
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 65,
-                    "text": "Therefore, it shall be lawful in me, if she receive not this law, for him to receive all things whatsoever I, the Lord his God, will give unto him, because she did not believe and administer unto him according to my word; and she then becomes the transgressor; and he is exempt from the law of Sarah, who administered unto Abraham according to the law when I commanded Abraham to take Hagar to wife.",
-                    "score": 0.7004608163733802
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Galatians",
-                    "chapter": 4,
-                    "verse": 22,
-                    "text": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
-                    "score": 0.6980423096110833
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 20,
-                    "verse": 29,
-                    "text": "There were therefore seven brethren: and the first took a wife, and died without children.",
-                    "score": 0.6977374292444596
+                    "text": "But Sarai was barren; she had no child.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020127174839182
                 }
             ]
         },
@@ -94,84 +64,104 @@
             "text": "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 30,
+                    "verse": 3,
+                    "text": "And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8515396101094393
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 5,
+                    "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8374309688856257
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8238622007423884
+                },
+                {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 25,
                     "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8095991196612932
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 26,
+                    "verse": 19,
+                    "text": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the Lord have stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the Lord; for they have driven me out this day from abiding in the inheritance of the Lord, saying, Go, serve other gods.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8031915087889341
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 5,
+                    "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9226284623146057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.920927162225675
+                },
+                {
                     "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 4,
-                    "verse": 22,
-                    "text": "Unto the woman, I, the Lord God, said: I will greatly multiply thy sorrow and thy conception. In sorrow thou shalt bring forth children, and thy desire shall be to thy husband, and he shall rule over thee.",
-                    "score": 0.789514547077263
+                    "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 2,
+                    "verse": 25,
+                    "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9137821844946052
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 90,
-                    "verse": 37,
-                    "text": "For she shall not be removed out of her place. I, the Lord, have spoken it. Amen.",
-                    "score": 0.7842710293450992
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 12,
+                    "text": "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9077035188674927
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 15,
-                    "text": "And it came to pass that after Aaron had expounded these things unto him, the king said: What shall I do that I may have this eternal life of which thou hast spoken? Yea, what shall I do that I may be born of God, having this wicked spirit rooted out of my breast, and receive his Spirit, that I may be filled with joy, that I may not be cast off at the last day? Behold, said he, I will give up all that I possess, yea, I will forsake my kingdom, that I may receive this great joy.",
-                    "score": 0.7805152253963507
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 30,
                     "verse": 3,
-                    "text": "And now, O king, if thou wilt spare our lives, we will be thy servants. And the king said unto them: Arise, for I will grant unto you your lives, and I will not suffer that ye shall be my servants; but I will insist that ye shall administer unto me; for I have been somewhat troubled in mind because of the generosity and the greatness of the words of thy brother Ammon; and I desire to know the cause why he has not come up out of Middoni with thee.",
-                    "score": 0.7770750437051783
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 3,
-                    "verse": 23,
-                    "text": "And now I have spoken the words which the Lord God hath commanded me.",
-                    "score": 0.7766567036714151
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 19,
-                    "verse": 23,
-                    "text": "And now Father, I pray unto thee for them, and also for all those who shall believe on their words, that they may believe in me, that I may be in them as thou, Father, art in me, that we may be one.",
-                    "score": 0.7762089384069406
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 1,
-                    "text": "Verily, thus saith the Lord unto you my servant Joseph, that inasmuch as you have inquired of my hand to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines--",
-                    "score": 0.7756121518322019
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 56,
-                    "text": "And again, verily I say, let mine handmaid forgive my servant Joseph his trespasses; and then shall she be forgiven her trespasses, wherein she has trespassed against me; and I, the Lord thy God, will bless her, and multiply her, and make her heart to rejoice.",
-                    "score": 0.774946255648851
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 51,
-                    "text": "Verily, I say unto you: A commandment I give unto mine handmaid, Emma Smith, your wife, whom I have given unto you, that she stay herself and partake not of that which I commanded you to offer unto her; for I did it, saith the Lord, to prove you all, as I did Abraham, and that I might require an offering at your hand, by covenant and sacrifice.",
-                    "score": 0.773632495140649
+                    "text": "And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9004155934104693
                 }
             ]
         },
@@ -180,84 +170,84 @@
             "text": "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 34,
-                    "text": "God commanded Abraham, and Sarah gave Hagar to Abraham to wife. And why did she do it? Because this was the law; and from Hagar sprang many people. This, therefore, was fulfilling, among other things, the promises.",
-                    "score": 0.7860498044642049
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 1,
+                    "text": "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8203193559547286
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8115415151787797
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 29,
+                    "text": "And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053708118362288
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 31,
+                    "text": "And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053131091062746
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 1,
+                    "text": "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8203642857291883
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 1,
+                    "text": "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.931124520696787
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother's son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
-                    "score": 0.758844872636948
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 2,
                     "text": "And it came to pass that I, Abraham, took Sarai to wife, and Nahor, my brother, took Milcah to wife, who was the daughter of Haran.",
-                    "score": 0.7572676803973877
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9078526606735395
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 4,
-                    "text": "Therefore I left the land of Ur, of the Chaldees, to go into the land of Canaan; and I took Lot, my brother's son, and his wife, and Sarai my wife; and also my father followed after me, unto the land which we denominated Haran.",
-                    "score": 0.7435009804617078
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 19,
-                    "verse": 11,
-                    "text": "And it came to pass that she watched over the bed of her husband, from that time even until that time on the morrow which Ammon had appointed that he should rise.",
-                    "score": 0.7411790490186232
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 22,
-                    "text": "And it came to pass when I was come near to enter into Egypt, the Lord said unto me: Behold, Sarai, thy wife, is a very fair woman to look upon;",
-                    "score": 0.7372252710020957
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 11,
-                    "text": "And now Omer was a friend to Akish; wherefore, when Jared had sent for Akish, the daughter of Jared danced before him that she pleased him, insomuch that he desired her to wife. And it came to pass that he said unto Jared: Give her unto me to wife.",
-                    "score": 0.7300219308548717
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 15,
-                    "verse": 18,
-                    "text": "Now as I said, Alma having seen all these things, therefore he took Amulek and came over to the land of Zarahemla, and took him to his own house, and did administer unto him in his tribulations, and strengthened him in the Lord.",
-                    "score": 0.7249764871993265
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 24,
-                    "text": "And it came to pass that his wife died, being an hundred and two years old. And it came to pass that Coriantum took to wife, in his old age, a young maid, and begat sons and daughters; wherefore he lived until he was an hundred and forty and two years old.",
-                    "score": 0.7135278462816782
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 17,
-                    "text": "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,",
-                    "score": 0.7127385455844856
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028398990631168
                 }
             ]
         },
@@ -266,84 +256,14 @@
             "text": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 7,
-                    "verse": 39,
-                    "text": "Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner.",
-                    "score": 0.7609524008212695
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.",
-                    "score": 0.7474044459139783
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 10,
-                    "verse": 11,
-                    "text": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.",
-                    "score": 0.7426034862755049
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 5,
-                    "verse": 28,
-                    "text": "But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.",
-                    "score": 0.7398885085086793
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 3,
-                    "verse": 9,
-                    "text": "And it came to pass that whosoever did mingle his seed with that of the Lamanites did bring the same curse upon his seed.",
-                    "score": 0.7395363710423599
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 34,
-                    "text": "God commanded Abraham, and Sarah gave Hagar to Abraham to wife. And why did she do it? Because this was the law; and from Hagar sprang many people. This, therefore, was fulfilling, among other things, the promises.",
-                    "score": 0.7372544758981951
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 12,
-                    "verse": 28,
-                    "text": "But I say unto you, that whosoever looketh on a woman, to lust after her, hath committed adultery already in his heart.",
-                    "score": 0.7362183495431106
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 16,
-                    "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.7359110675662018
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 31,
-                    "text": "For behold, I, the Lord, have seen the sorrow, and heard the mourning of the daughters of my people in the land of Jerusalem, yea, and in all the lands of my people, because of the wickedness and abominations of their husbands.",
-                    "score": 0.7358680009786343
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 65,
-                    "text": "Therefore, it shall be lawful in me, if she receive not this law, for him to receive all things whatsoever I, the Lord his God, will give unto him, because she did not believe and administer unto him according to my word; and she then becomes the transgressor; and he is exempt from the law of Sarah, who administered unto Abraham according to the law when I commanded Abraham to take Hagar to wife.",
-                    "score": 0.7355124396431446
+                    "verse": 5,
+                    "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8212364910158567
                 }
             ]
         },
@@ -352,84 +272,74 @@
             "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 56,
-                    "text": "And again, verily I say, let mine handmaid forgive my servant Joseph his trespasses; and then shall she be forgiven her trespasses, wherein she has trespassed against me; and I, the Lord thy God, will bless her, and multiply her, and make her heart to rejoice.",
-                    "score": 0.7994712934878434
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 54,
-                    "text": "And I command mine handmaid, Emma Smith, to abide and cleave unto my servant Joseph, and to none else. But if she will not abide this commandment she shall be destroyed, saith the Lord; for I am the Lord thy God, and will destroy her if she abide not in my law.",
-                    "score": 0.7938118028663992
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 31,
-                    "text": "For behold, I, the Lord, have seen the sorrow, and heard the mourning of the daughters of my people in the land of Jerusalem, yea, and in all the lands of my people, because of the wickedness and abominations of their husbands.",
-                    "score": 0.7937142474027604
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.",
-                    "score": 0.7893305646879244
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 52,
-                    "text": "And let mine handmaid, Emma Smith, receive all those that have been given unto my servant Joseph, and who are virtuous and pure before me; and those who are not pure, and have said they were pure, shall be destroyed, saith the Lord God.",
-                    "score": 0.7843147600234865
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 20,
-                    "verse": 13,
-                    "text": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.",
-                    "score": 0.7822255796517674
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 16,
-                    "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.7809445923164932
+                    "verse": 6,
+                    "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8405342185803513
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 19,
-                    "verse": 22,
-                    "text": "And he saith unto him, Out of thine own mouth will I judge thee, thou wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:",
-                    "score": 0.7793994736230393
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 2,
+                    "text": "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8374309688856257
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 51,
-                    "text": "Verily, I say unto you: A commandment I give unto mine handmaid, Emma Smith, your wife, whom I have given unto you, that she stay herself and partake not of that which I commanded you to offer unto her; for I did it, saith the Lord, to prove you all, as I did Abraham, and that I might require an offering at your hand, by covenant and sacrifice.",
-                    "score": 0.7778816257042425
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 4,
+                    "text": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8212364910158567
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 1,
-                    "text": "Verily, thus saith the Lord unto you my servant Joseph, that inasmuch as you have inquired of my hand to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines--",
-                    "score": 0.7776935572193265
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 30,
+                    "verse": 3,
+                    "text": "And she said, Behold my maid Bilhah, go in unto her; and she shall bear upon my knees, that I may also have children by her.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8135308646154844
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8070761801921187
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 2,
+                    "text": "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9226284623146057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9192348670503434
                 }
             ]
         },
@@ -438,256 +348,115 @@
             "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 56,
-                    "text": "And again, verily I say, let mine handmaid forgive my servant Joseph his trespasses; and then shall she be forgiven her trespasses, wherein she has trespassed against me; and I, the Lord thy God, will bless her, and multiply her, and make her heart to rejoice.",
-                    "score": 0.7881150902575018
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "And he said, Hagar, Sarai's maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8529882199136091
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 9,
-                    "verse": 25,
-                    "text": "But when the people were put forth, he went in, and took her by the hand, and the maid arose.",
-                    "score": 0.7802575559371244
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 5,
+                    "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8405342185803513
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 1,
-                    "verse": 38,
-                    "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
-                    "score": 0.7774055629952419
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 2,
+                    "text": "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8238622007423884
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 51,
-                    "text": "Verily, I say unto you: A commandment I give unto mine handmaid, Emma Smith, your wife, whom I have given unto you, that she stay herself and partake not of that which I commanded you to offer unto her; for I did it, saith the Lord, to prove you all, as I did Abraham, and that I might require an offering at your hand, by covenant and sacrifice.",
-                    "score": 0.7755576811813073
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 5,
+                    "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8070761801921187
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 54,
-                    "text": "And I command mine handmaid, Emma Smith, to abide and cleave unto my servant Joseph, and to none else. But if she will not abide this commandment she shall be destroyed, saith the Lord; for I am the Lord thy God, and will destroy her if she abide not in my law.",
-                    "score": 0.7716095499521881
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 2,
+                    "text": "And Sarai said unto Abram, Behold now, the Lord hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.920927162225675
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
-                    "score": 0.7697717746851953
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 5,
+                    "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the Lord judge between me and thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9192348670503434
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 7,
-                    "verse": 44,
-                    "text": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head.",
-                    "score": 0.767176931753397
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "And he said, Hagar, Sarai's maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9089062376180649
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 12,
-                    "text": "Now, after the Lord had withdrawn from speaking to me, and withdrawn his face from me, I said in my heart: Thy servant has sought thee earnestly; now I have found thee;",
-                    "score": 0.767083985044263
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 34,
-                    "text": "And it came to pass that Amalickiah took the same servant that slew the king, and all them who were with him, and went in unto the queen, unto the place where she sat; and they all testified unto her that the king was slain by his own servants; and they said also: They have fled; does not this testify against them? And thus they satisfied the queen concerning the death of the king.",
-                    "score": 0.7640833350396894
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 5,
-                    "verse": 41,
-                    "text": "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.",
-                    "score": 0.7637088815069687
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 11,
+                    "text": "And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9039553346607304
                 }
             ]
         },
         {
             "verse": 7,
             "text": "And the angel of the Lord found her by a fountain of water in the wilderness, by the fountain in the way to Shur.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 16,
-                    "text": "And the angel spake unto me, saying: Behold the fountain of filthy water which thy father saw; yea, even the river of which he spake; and the depths thereof are the depths of hell.",
-                    "score": 0.7784984734445695
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 7,
-                    "text": "There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.",
-                    "score": 0.7625682587020006
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 16,
-                    "text": "And they journeyed in the wilderness, and were brought by the hand of the Lord across the great waters, into the land where Mosiah discovered them; and they had dwelt there from that time forth.",
-                    "score": 0.7623854348093978
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 16,
-                    "verse": 5,
-                    "text": "And I heard the angel of the waters say, Thou art righteous, O Lord, which art, and wast, and shalt be, because thou hast judged thus.",
-                    "score": 0.7534333451916767
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 5,
-                    "text": "Now, there was in Mormon a fountain of pure water, and Alma resorted thither, there being near the water a thicket of small trees, where he did hide himself in the daytime from the searches of the king.",
-                    "score": 0.7458429288681308
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 8,
-                    "verse": 10,
-                    "text": "And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;",
-                    "score": 0.7446553473648425
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 22,
-                    "verse": 1,
-                    "text": "And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.",
-                    "score": 0.7443184495809677
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 16,
-                    "verse": 4,
-                    "text": "And the third angel poured out his vial upon the rivers and fountains of waters; and they became blood.",
-                    "score": 0.743671122865539
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 13,
-                    "text": "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:",
-                    "score": 0.7403459569159108
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 3,
-                    "verse": 10,
-                    "text": "And I, the Lord God, caused a river to go out of Eden to water the garden; and from thence it was parted, and became into four heads.",
-                    "score": 0.7375146693398407
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 8,
             "text": "And he said, Hagar, Sarai's maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 39,
-                    "text": "Behold thou hast driven me out this day from the face of the Lord, and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that he that findeth me will slay me, because of mine iniquities, for these things are not hid from the Lord.",
-                    "score": 0.768421629125946
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8529882199136091
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 12,
-                    "text": "Now, after the Lord had withdrawn from speaking to me, and withdrawn his face from me, I said in my heart: Thy servant has sought thee earnestly; now I have found thee;",
-                    "score": 0.7614406748945669
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 13,
-                    "verse": 28,
-                    "text": "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?",
-                    "score": 0.7602570127494434
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 33,
-                    "text": "O Lord, wilt thou encircle me around in the robe of thy righteousness! O Lord, wilt thou make a way for mine escape before mine enemies! Wilt thou make my path straight before me! Wilt thou not place a stumbling block in my way--but that thou wouldst clear my way before me, and hedge not up my way, but the ways of mine enemy.",
-                    "score": 0.7548659205051553
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 5,
-                    "verse": 31,
-                    "text": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:",
-                    "score": 0.7544019268156681
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
-                    "score": 0.7527632816270826
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother's son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
-                    "score": 0.7513211297262353
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 7,
-                    "verse": 44,
-                    "text": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head.",
-                    "score": 0.751040907357876
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 8,
-                    "verse": 54,
-                    "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise.",
-                    "score": 0.750626173101625
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 57,
-                    "text": "And again, I say, let not my servant Joseph put his property out of his hands, lest an enemy come and destroy him; for Satan seeketh to destroy; for I am the Lord thy God, and he is my servant; and behold, and lo, I am with him, as I was with Abraham, thy father, even unto his exaltation and glory.",
-                    "score": 0.7496556697792173
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9089062376180649
                 }
             ]
         },
@@ -698,82 +467,92 @@
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 28,
                     "text": "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8149560873054058
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 38,
                     "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8143831176582232
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 10,
                     "verse": 8,
                     "text": "And it came to pass that I obeyed the voice of the angel, and returned towards my house. And as I was going thither I found the man whom the angel said unto me: Thou shalt receive into thy house--and behold it was this same man who has been speaking unto you concerning the things of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8081599478647622
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 13,
                     "text": "Thou didst send thine angel to deliver me from the gods of Elkenah, and I will do well to hearken unto thy voice, therefore let thy servant rise up and depart in peace.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8054595821192709
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 132,
                     "verse": 56,
                     "text": "And again, verily I say, let mine handmaid forgive my servant Joseph his trespasses; and then shall she be forgiven her trespasses, wherein she has trespassed against me; and I, the Lord thy God, will bless her, and multiply her, and make her heart to rejoice.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.805145685743511
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ruth",
+                    "volume_book_index": 8,
+                    "chapter": 1,
+                    "verse": 15,
+                    "text": "And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050828730290062
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 22,
+                    "verse": 34,
+                    "text": "And Balaam said unto the angel of the Lord, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803723308643008
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 6,
                     "verse": 9,
                     "text": "Nevertheless, the Lord has shown unto me that they should return again. And he also has shown unto me that the Lord God, the Holy One of Israel, should manifest himself unto them in the flesh; and after he should manifest himself they should scourge him and crucify him, according to the words of the angel who spake it unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8030965975886601
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 20,
-                    "text": "The Lord thy God sent his angel to deliver thee from the hands of the priest of Elkenah.",
-                    "score": 0.7905543284604779
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
+                    "volume": "Old Testament",
+                    "book": "Ruth",
+                    "volume_book_index": 8,
                     "chapter": 1,
-                    "verse": 19,
-                    "text": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.",
-                    "score": 0.7899601897059603
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 1,
-                    "verse": 35,
-                    "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
-                    "score": 0.7877264717348441
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 12,
-                    "text": "Now, after the Lord had withdrawn from speaking to me, and withdrawn his face from me, I said in my heart: Thy servant has sought thee earnestly; now I have found thee;",
-                    "score": 0.7873598877206858
+                    "verse": 10,
+                    "text": "And they said unto her, Surely we will return with thee unto thy people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008599467084063
                 }
             ]
         },
@@ -784,82 +563,212 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 14,
                     "text": "And the angel said unto me: Behold thy seed, and also the seed of thy brethren.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8377947643655935
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 48,
+                    "verse": 4,
+                    "text": "And said unto me, Behold, I will make thee fruitful, and multiply thee, and I will make of thee a multitude of people; and will give this land to thy seed after thee for an everlasting possession.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8337738868056854
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 17,
+                    "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8278204451137607
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 3,
                     "verse": 14,
                     "text": "And it was in the night time when the Lord spake these words unto me: I will multiply thee, and thy seed after thee, like unto these; and if thou canst count the number of sands, so shall be the number of thy seeds.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8271877789662682
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 4,
+                    "text": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8256042317013209
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 1,
                     "text": "And it came to pass that the angel said unto me: Look, and behold thy seed, and also the seed of thy brethren. And I looked and beheld the land of promise; and I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8240170514297821
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 4,
                     "verse": 22,
                     "text": "Unto the woman, I, the Lord God, said: I will greatly multiply thy sorrow and thy conception. In sorrow thou shalt bring forth children, and thy desire shall be to thy husband, and he shall rule over thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8183452573139608
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 132,
                     "verse": 55,
                     "text": "But if she will not abide this commandment, then shall my servant Joseph do all things for her, even as he hath said; and I will bless him and multiply him and give unto him an hundred-fold in this world, of fathers and mothers, brothers and sisters, houses and lands, wives and children, and crowns of eternal lives in the eternal worlds.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8150522166838422
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 33,
+                    "verse": 22,
+                    "text": "As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8149586218582903
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 32,
+                    "verse": 12,
+                    "text": "And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8147454217825204
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8116926911120417
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 90,
                     "text": "And if he will do this I will bless him with a multiplicity of blessings, that he shall not be forsaken, nor his seed be found begging bread.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8113441660493914
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 104,
                     "verse": 33,
                     "text": "And, inasmuch as they are faithful, I will multiply blessings upon them and their seed after them, even a multiplicity of blessings.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8097044016321711
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 104,
                     "verse": 25,
                     "text": "And inasmuch as he is faithful, I will multiply blessings upon him and his seed after him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8083306131286526
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 104,
                     "verse": 42,
                     "text": "And inasmuch as he is faithful in keeping my commandments, which I have given unto him, I will multiply blessings upon him and his seed after him, even a multiplicity of blessings.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8069291597173334
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 8,
                     "text": "And the angel spake unto me, saying: Behold the twelve disciples of the Lamb, who are chosen to minister unto thy seed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8012101368841399
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 14,
+                    "verse": 22,
+                    "text": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008988320210582
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 13,
+                    "verse": 3,
+                    "text": "And the angel of the Lord appeared unto the woman, and said unto her, Behold now, thou art barren, and bearest not: but thou shalt conceive, and bear a son.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9115580758258645
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 3,
+                    "verse": 14,
+                    "text": "And it was in the night time when the Lord spake these words unto me: I will multiply thee, and thy seed after thee, like unto these; and if thou canst count the number of sands, so shall be the number of thy seeds.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9091479236395421
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 32,
+                    "verse": 12,
+                    "text": "And thou saidst, I will surely do thee good, and make thy seed as the sand of the sea, which cannot be numbered for multitude.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9044887537373598
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 14,
+                    "text": "And the angel said unto me: Behold thy seed, and also the seed of thy brethren.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012477574501487
                 }
             ]
         },
@@ -868,84 +777,64 @@
             "text": "And the angel of the Lord said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the Lord hath heard thy affliction.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 13,
+                    "verse": 3,
+                    "text": "And the angel of the Lord appeared unto the woman, and said unto her, Behold now, thou art barren, and bearest not: but thou shalt conceive, and bear a son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8324104050146884
+                },
+                {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 13,
                     "text": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8148798517279211
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 35,
                     "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8038219519255636
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 29,
+                    "verse": 32,
+                    "text": "And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the Lord hath looked upon my affliction; now therefore my husband will love me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008858088938751
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 33,
                     "verse": 11,
                     "text": "And thou didst hear me because of mine afflictions and my sincerity; and it is because of thy Son that thou hast been thus merciful unto me, therefore I will cry unto thee in all mine afflictions, for in thee is my joy; for thou hast turned thy judgments away from me, because of thy Son.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8007405565032046
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?",
-                    "score": 0.7966597711085712
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 1,
-                    "verse": 23,
-                    "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.",
-                    "score": 0.7937895698848495
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 14,
-                    "text": "And the angel said unto me: Behold thy seed, and also the seed of thy brethren.",
-                    "score": 0.7917964424442975
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 14,
-                    "text": "And again, the angel said: Behold, the Lord hath heard the prayers of his people, and also the prayers of his servant, Alma, who is thy father; for he has prayed with much faith concerning thee that thou mightest be brought to the knowledge of the truth; therefore, for this purpose have I come to convince thee of the power and authority of God, that the prayers of his servants might be answered according to their faith.",
-                    "score": 0.7917572408713384
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 13,
-                    "verse": 34,
-                    "text": "And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel--and this remnant of whom I speak is the seed of thy father--wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb--I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.",
-                    "score": 0.7885355930117848
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 21,
-                    "text": "And the angel said unto me: Behold the Lamb of God, yea, even the Son of the Eternal Father! Knowest thou the meaning of the tree which thy father saw?",
-                    "score": 0.787983500115223
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 27,
-                    "text": "And he heard a voice from heaven, saying: Enoch, my son, prophesy unto this people, and say unto them--Repent, for thus saith the Lord: I am angry with this people, and my fierce anger is kindled against them; for their hearts have waxed hard, and their ears are dull of hearing, and their eyes cannot see afar off;",
-                    "score": 0.786984554699495
+                    "verse": 3,
+                    "text": "And the angel of the Lord appeared unto the woman, and said unto her, Behold now, thou art barren, and bearest not: but thou shalt conceive, and bear a son.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9125337015948015
                 }
             ]
         },
@@ -954,84 +843,34 @@
             "text": "And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Daniel",
+                    "volume_book_index": 27,
+                    "chapter": 11,
+                    "verse": 16,
+                    "text": "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117108798225693
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 13,
+                    "text": "The Lord shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8044739828850125
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 17,
                     "verse": 17,
                     "text": "Yea, and ye shall be smitten on every hand, and shall be driven and scattered to and fro, even as a wild flock is driven by wild and ferocious beasts.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8018530340392338
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 14,
-                    "text": "And it shall be as the chased roe, and as a sheep that no man taketh up; and they shall every man turn to his own people, and flee every one into his own land.",
-                    "score": 0.7842077754450907
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 19,
-                    "verse": 20,
-                    "text": "And he shall snatch on the right hand and be hungry; and he shall eat on the left hand and they shall not be satisfied; they shall eat every man the flesh of his own arm--",
-                    "score": 0.7808467413668438
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 7,
-                    "verse": 24,
-                    "text": "Brethren, let every man, wherein he is called, therein abide with God.",
-                    "score": 0.7773883618740173
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "But Gidgiddoni saith unto them: The Lord forbid; for if we should go up against them the Lord would deliver us into their hands; therefore we will prepare ourselves in the center of our lands, and we will gather all our armies together, and we will not go against them, but we will wait till they shall come against us; therefore as the Lord liveth, if we do this he will deliver them into our hands.",
-                    "score": 0.7773212977612827
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 7,
-                    "text": "Therefore shall all hands be faint, every man's heart shall melt;",
-                    "score": 0.7751904681604024
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 15,
-                    "verse": 25,
-                    "text": "For he must reign, till he hath put all enemies under his feet.",
-                    "score": 0.7740425664522892
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 54,
-                    "verse": 12,
-                    "text": "And behold, if ye do not this, I will come against you with my armies; yea, even I will arm my women and my children, and I will come against you, and I will follow you even into your own land, which is the land of our first inheritance; yea, and it shall be blood for blood, yea, life for life; and I will give you battle even until you are destroyed from off the face of the earth.",
-                    "score": 0.7735874219956445
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 68,
-                    "text": "And it shall come to pass among the wicked, that every man that will not take his sword against his neighbor must needs flee unto Zion for safety.",
-                    "score": 0.7733538256016904
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 25,
-                    "text": "And the Lord, even the Savior, shall stand in the midst of his people, and shall reign over all flesh.",
-                    "score": 0.772165544300389
                 }
             ]
         },
@@ -1040,256 +879,185 @@
             "text": "And she called the name of the Lord that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 39,
+                    "verse": 17,
+                    "text": "And she spake unto him according to these words, saying, The Hebrew servant, which thou hast brought unto us, came in unto me to mock me:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8190210487377774
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 2,
+                    "verse": 17,
+                    "text": "That the Lord spake unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151927416734083
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And the Lord spake unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8137403504004157
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "And said, I beseech thee, O Lord God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074787523501296
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And she said unto her husband, Behold now, I perceive that this is an holy man of God, which passeth by us continually.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050790825293942
+                },
+                {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 12,
                     "verse": 45,
                     "text": "And he that seeth me seeth him that sent me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8035655415369511
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 19,
-                    "text": "And it came to pass that I beheld that she was carried away in the Spirit; and after she had been carried away in the Spirit for the space of a time the angel spake unto me, saying: Look!",
-                    "score": 0.7992618095886074
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 5,
-                    "verse": 2,
-                    "text": "And now, behold, this shall you say unto him--he who spake unto you, said unto you: I, the Lord, am God, and have given these things unto you, my servant Joseph Smith, Jun., and have commanded you that you should stand as a witness of these things;",
-                    "score": 0.7948065816115879
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 15,
-                    "verse": 25,
-                    "text": "Then came she and worshipped him, saying, Lord, help me.",
-                    "score": 0.7941189715284385
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 18,
-                    "verse": 5,
-                    "text": "The Lord spake also unto me again, saying:",
-                    "score": 0.7898909636572419
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 14,
-                    "verse": 18,
-                    "text": "And it came to pass that the angel spake unto me, saying: Look!",
-                    "score": 0.7898899166254473
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 56,
-                    "text": "And again, verily I say, let mine handmaid forgive my servant Joseph his trespasses; and then shall she be forgiven her trespasses, wherein she has trespassed against me; and I, the Lord thy God, will bless her, and multiply her, and make her heart to rejoice.",
-                    "score": 0.7886293601880001
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men.",
-                    "score": 0.788122186521235
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
                     "chapter": 7,
-                    "verse": 13,
-                    "text": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not.",
-                    "score": 0.7873368424074386
+                    "verse": 10,
+                    "text": "Then she that is mine enemy shall see it, and shame shall cover her which said unto me, Where is the Lord thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025226962158658
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 1,
-                    "text": "And it came to pass that the angel spake unto me, saying: Look! And I looked and beheld many nations and kingdoms.",
-                    "score": 0.7870202876023495
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 4,
+                    "text": "Then called I upon the name of the Lord; O Lord, I beseech thee, deliver my soul.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009325745828354
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ruth",
+                    "volume_book_index": 8,
+                    "chapter": 2,
+                    "verse": 13,
+                    "text": "Then she said, Let me find favour in thy sight, my lord; for that thou hast comforted me, and for that thou hast spoken friendly unto thine handmaid, though I be not like unto one of thine handmaidens.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005947518747053
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 34,
+                    "verse": 23,
+                    "text": "And she answered them, Thus saith the Lord God of Israel, Tell ye the man that sent you to me,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9003590582945208
                 }
             ]
         },
         {
             "verse": 14,
             "text": "Wherefore the well was called Beer-lahai-roi; behold, it is between Kadesh and Bered.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "Now the land south was called Lehi, and the land north was called Mulek, which was after the son of Zedekiah; for the Lord did bring Mulek into the land north, and Lehi into the land south.",
-                    "score": 0.7024287215325816
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "Wherefore, he came to the hill Ephraim, and he did molten out of the hill, and made swords out of steel for those whom he had drawn away with him; and after he had armed them with swords he returned to the city Nehor, and gave battle unto his brother Corihor, by which means he obtained the kingdom and restored it unto his father Kib.",
-                    "score": 0.6957824440309717
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "Now the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.",
-                    "score": 0.6856771035258339
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 3,
-                    "verse": 4,
-                    "text": "Wherefore, the Lord hath commanded me that thou and thy brothers should go unto the house of Laban, and seek the records, and bring them down hither into the wilderness.",
-                    "score": 0.6845984981205002
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "And it came to pass that when Alma could pursue the Amlicites no longer he caused that his people should pitch their tents in the valley of Gideon, the valley being called after that Gideon who was slain by the hand of Nehor with the sword; and in this valley the Nephites did pitch their tents for the night.",
-                    "score": 0.6837555408760785
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 12,
-                    "text": "Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?",
-                    "score": 0.6837079445890856
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 27,
-                    "verse": 8,
-                    "text": "Wherefore that field was called, The field of blood, unto this day.",
-                    "score": 0.6835010553834172
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 14,
-                    "verse": 28,
-                    "text": "And they pitched their tents in the valley of Corihor; and Coriantumr pitched his tents in the valley of Shurr. Now the valley of Shurr was near the hill Comnor; wherefore, Coriantumr did gather his armies together upon the hill Comnor, and did sound a trumpet unto the armies of Shiz to invite them forth to battle.",
-                    "score": 0.6832422511645937
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 21,
-                    "text": "Now the place was called by them Rameumptom, which, being interpreted, is the holy stand.",
-                    "score": 0.6831438992922019
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 13,
-                    "text": "Wherefore, Omer was restored again to the land of his inheritance.",
-                    "score": 0.6828794201263664
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 15,
             "text": "And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 18,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
                     "verse": 3,
-                    "text": "And I went unto the prophetess; and she conceived and bare a son. Then said the Lord to me: Call his name, Maher-shalal-hash-baz.",
-                    "score": 0.7626853498726279
+                    "text": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8468264551637815
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "And Ethem was the son of Ahah.",
-                    "score": 0.7496093604975756
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 16,
+                    "text": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8207706328901259
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 14,
-                    "text": "And Jared had four sons; and they were called Jacom, and Gilgah, and Mahah, and Orihah.",
-                    "score": 0.7490502715852153
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 12,
+                    "text": "Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8193290031358126
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 2,
-                    "verse": 23,
-                    "text": "Whosoever denieth the Son, the same hath not the Father: [but] he that acknowledgeth the Son hath the Father also.",
-                    "score": 0.7470832477852264
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 37,
+                    "text": "And the firstborn bare a son, and called his name Moab: the same is the father of the Moabites unto this day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.816978348487783
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "And Ahah was the son of Seth.",
-                    "score": 0.746195137861182
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 13,
+                    "text": "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012605709310093
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 19,
-                    "text": "And Ammon went to the land of Ishmael, the land being called after the sons of Ishmael, who also became Lamanites.",
-                    "score": 0.7459313897613691
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 3,
+                    "text": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9215895942663245
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 3,
-                    "verse": 32,
-                    "text": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,",
-                    "score": 0.7450167208686453
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 3,
-                    "verse": 33,
-                    "text": "Which was the son of Aminadab, which was the son of Aram, which was the son of Esrom, which was the son of Phares, which was the son of Juda,",
-                    "score": 0.7442499647578055
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 3,
-                    "verse": 29,
-                    "text": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,",
-                    "score": 0.7419325560704199
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 3,
-                    "verse": 34,
-                    "text": "Which was the son of Jacob, which was the son of Isaac, which was the son of Abraham, which was the son of Thara, which was the son of Nachor,",
-                    "score": 0.7416569086253333
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 12,
+                    "text": "Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9163073474626765
                 }
             ]
         },
@@ -1298,84 +1066,14 @@
             "text": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 14,
-                    "text": "And Jared had four sons; and they were called Jacom, and Gilgah, and Mahah, and Orihah.",
-                    "score": 0.7067410998638497
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 23,
-                    "text": "And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.",
-                    "score": 0.7019225978538021
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 8,
-                    "verse": 12,
-                    "text": "And Noah was four hundred and fifty years old, and begat Japheth; and forty-two years afterward he begat Shem of her who was the mother of Japheth, and when he was five hundred years old he begat Ham.",
-                    "score": 0.6968096630256223
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 1,
-                    "verse": 36,
-                    "text": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren.",
-                    "score": 0.6945708114458846
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 20,
-                    "text": "And Mahalaleel lived sixty-five years, and begat Jared; and Mahalaleel lived, after he begat Jared, eight hundred and thirty years, and begat sons and daughters. And all the days of Mahalaleel were eight hundred and ninety-five years, and he died.",
-                    "score": 0.6904797599221627
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "And Ethem was the son of Ahah.",
-                    "score": 0.6898503507047969
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "And Mosiah began to reign in his father's stead. And he began to reign in the thirtieth year of his age, making in the whole, about four hundred and seventy-six years from the time that Lehi left Jerusalem.",
-                    "score": 0.6860395737462627
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 48,
-                    "verse": 18,
-                    "text": "Behold, he was a man like unto Ammon, the son of Mosiah, yea, and even the other sons of Mosiah, yea, and also Alma and his sons, for they were all men of God.",
-                    "score": 0.6857285003429823
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 20,
-                    "text": "And accordingly the people were gathered together. Now the number of the sons and the daughters of the brother of Jared were twenty and two souls; and the number of sons and daughters of Jared were twelve, he having four sons.",
-                    "score": 0.6843774245082122
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "And now, the Lamanites had a king, and his name was Aaron; and he came against us with an army of forty and four thousand. And behold, I withstood him with forty and two thousand. And it came to pass that I beat him with my army that he fled before me. And behold, all this was done, and three hundred and thirty years had passed away.",
-                    "score": 0.6817125675135737
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 15,
+                    "text": "And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8207706328901259
                 }
             ]
         }

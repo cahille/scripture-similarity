@@ -8,84 +8,34 @@
             "text": "In those days came John the Baptist, preaching in the wilderness of Judaea,",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 1,
-                    "verse": 13,
-                    "text": "And it came to pass that he did according as the Lord had commanded him. And they departed out of the land into the wilderness, as many as would hearken unto the voice of the Lord; and they were led by many preachings and prophesyings. And they were admonished continually by the word of God; and they were led by the power of his arm, through the wilderness until they came down into the land which is called the land of Zarahemla.",
-                    "score": 0.7476390463876279
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 1,
-                    "verse": 19,
-                    "text": "And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the Lord our God commanded us; and we came to Kadesh-barnea.",
-                    "score": 0.7426908782947309
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "And eastward he inhabited unto the entering in of the wilderness from the river Euphrates: because their cattle were multiplied in the land of Gilead.",
-                    "score": 0.74145120168244
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 3,
                     "verse": 4,
-                    "text": "Wherefore, the Lord hath commanded me that thou and thy brothers should go unto the house of Laban, and seek the records, and bring them down hither into the wilderness.",
-                    "score": 0.7398068717885601
+                    "text": "John did baptize in the wilderness, and preach the baptism of repentance for the remission of sins.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9214622056920097
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "And when Balaam saw that it pleased the Lord to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.",
-                    "score": 0.7376981423449824
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 13,
+                    "verse": 24,
+                    "text": "When John had first preached before his coming the baptism of repentance to all the people of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022670926014981
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 19,
-                    "verse": 18,
-                    "text": "And it came to pass that Gideon sent men into the wilderness secretly, to search for the king and those that were with him. And it came to pass that they met the people in the wilderness, all save the king and his priests.",
-                    "score": 0.7366625954731841
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 10,
-                    "verse": 12,
-                    "text": "They were a wild, and ferocious, and a blood-thirsty people, believing in the tradition of their fathers, which is this--Believing that they were driven out of the land of Jerusalem because of the iniquities of their fathers, and that they were wronged in the wilderness by their brethren, and they were also wronged while crossing the sea;",
-                    "score": 0.7363275329062999
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 20,
-                    "text": "And thou art like unto our father, led away by the foolish imaginations of his heart; yea, he hath led us out of the land of Jerusalem, and we have wandered in the wilderness for these many years; and our women have toiled, being big with child; and they have borne children in the wilderness and suffered all things, save it were death; and it would have been better that they had died before they came out of Jerusalem than to have suffered these afflictions.",
-                    "score": 0.7363273538676576
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 15,
-                    "verse": 61,
-                    "text": "In the wilderness, Beth-arabah, Middin, and Secacah,",
-                    "score": 0.7343111983004983
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of En-gedi.",
-                    "score": 0.7329537386638234
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 9,
+                    "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012813685797013
                 }
             ]
         },
@@ -94,84 +44,324 @@
             "text": "And saying, Repent ye: for the kingdom of heaven is at hand.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 10,
                     "verse": 7,
-                    "text": "And ye shall go forth baptizing with water, saying: Repent ye, repent ye, for the kingdom of heaven is at hand.",
-                    "score": 0.8785107336056277
+                    "text": "And as ye go, preach, saying, The kingdom of heaven is at hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9066284621293431
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 17,
+                    "text": "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8901980848591585
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 42,
+                    "verse": 7,
+                    "text": "And ye shall go forth baptizing with water, saying: Repent ye, repent ye, for the kingdom of heaven is at hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8785107336056277
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 15,
+                    "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8697089771526956
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 33,
                     "verse": 10,
                     "text": "Yea, open your mouths and they shall be filled, saying: Repent, repent, and prepare ye the way of the Lord, and make his paths straight; for the kingdom of heaven is at hand;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8479526917466245
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 7,
                     "verse": 9,
                     "text": "But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying--Repent ye, and prepare the way of the Lord, and walk in his paths, which are straight; for behold, the kingdom of heaven is at hand, and the Son of God cometh upon the face of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8471164995731316
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 50,
                     "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8385100286800108
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 10,
                     "verse": 20,
                     "text": "And now I say unto you that well doth the Lord judge of your iniquities; well doth he cry unto this people, by the voice of his angels: Repent ye, repent, for the kingdom of heaven is at hand.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.834832470877003
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 51,
                     "text": "And also the Spirit saith unto me, yea, crieth unto me with a mighty voice, saying: Go forth and say unto this people--Repent, for except ye repent ye can in nowise inherit the kingdom of heaven.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8338385702696651
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 9,
                     "verse": 25,
                     "text": "And now for this cause, that ye may not be destroyed, the Lord has sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people, saying: Repent ye, for the kingdom of heaven is nigh at hand;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8212254703225288
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 32,
                     "text": "Yea, even wo unto all ye workers of iniquity; repent, repent, for the Lord God hath spoken it!",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.811318842712392
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 15,
+                    "volume_book_index": 1,
+                    "chapter": 16,
                     "verse": 6,
                     "text": "And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8103406633710938
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 15,
+                    "verse": 6,
+                    "text": "And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8103406633710938
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 5,
+                    "verse": 5,
+                    "text": "And if it so be that they repent and come unto the Father in the name of Jesus, they shall be received into the kingdom of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046549780561496
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 10,
+                    "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026784121823822
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Helaman",
+                    "volume_book_index": 10,
+                    "chapter": 5,
+                    "verse": 32,
+                    "text": "And behold the voice came again, saying: Repent ye, repent ye, for the kingdom of heaven is at hand; and seek no more to destroy my servants. And it came to pass that the earth shook again, and the walls trembled.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023237959889431
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 42,
+                    "verse": 7,
+                    "text": "And ye shall go forth baptizing with water, saying: Repent ye, repent ye, for the kingdom of heaven is at hand.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8243129358105233
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 7,
+                    "text": "And as ye go, preach, saying, The kingdom of heaven is at hand.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.803573060248678
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 42,
+                    "verse": 7,
+                    "text": "And ye shall go forth baptizing with water, saying: Repent ye, repent ye, for the kingdom of heaven is at hand.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9493626639057003
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 17,
+                    "text": "From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9471356931763129
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 15,
+                    "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9467554751926162
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 7,
+                    "text": "And as ye go, preach, saying, The kingdom of heaven is at hand.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.940497531772275
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 20,
+                    "text": "And now I say unto you that well doth the Lord judge of your iniquities; well doth he cry unto this people, by the voice of his angels: Repent ye, repent, for the kingdom of heaven is at hand.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.93192709303772
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 33,
+                    "verse": 10,
+                    "text": "Yea, open your mouths and they shall be filled, saying: Repent, repent, and prepare ye the way of the Lord, and make his paths straight; for the kingdom of heaven is at hand;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9284185171127319
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying--Repent ye, and prepare the way of the Lord, and walk in his paths, which are straight; for behold, the kingdom of heaven is at hand, and the Son of God cometh upon the face of the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9231465504678176
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 51,
+                    "text": "And also the Spirit saith unto me, yea, crieth unto me with a mighty voice, saying: Go forth and say unto this people--Repent, for except ye repent ye can in nowise inherit the kingdom of heaven.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9157187292408202
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 9,
+                    "verse": 25,
+                    "text": "And now for this cause, that ye may not be destroyed, the Lord has sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people, saying: Repent ye, for the kingdom of heaven is nigh at hand;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9101198858094164
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 50,
+                    "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9049494209855465
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 16,
                     "verse": 6,
                     "text": "And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father. Amen.",
-                    "score": 0.8103406633710938
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9025962621747338
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 15,
+                    "verse": 6,
+                    "text": "And now, behold, I say unto you, that the thing which will be of the most worth unto you will be to declare repentance unto this people, that you may bring souls unto me, that you may rest with them in the kingdom of my Father. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9025962621747338
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 21,
+                    "verse": 31,
+                    "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901005852342356
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Helaman",
+                    "volume_book_index": 10,
+                    "chapter": 5,
+                    "verse": 32,
+                    "text": "And behold the voice came again, saying: Repent ye, repent ye, for the kingdom of heaven is at hand; and seek no more to destroy my servants. And it came to pass that the earth shook again, and the walls trembled.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002853244798211
                 }
             ]
         },
@@ -180,84 +370,234 @@
             "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9664755535824004
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 3,
+                    "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9401168664063387
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 23,
+                    "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9329958295352208
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 8,
                     "text": "Yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord, and make his paths straight; for there standeth one among you whom ye know not; and he is mightier than I, whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8636578376263225
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 40,
                     "verse": 3,
                     "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8396539174369292
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 88,
                     "verse": 66,
                     "text": "Behold, that which you hear is as the voice of one crying in the wilderness--in the wilderness, because you cannot see him--my voice, because my voice is Spirit; my Spirit is truth; truth abideth and hath no end; and if it be in you it shall abound.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8337610955351115
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 7,
                     "verse": 9,
                     "text": "But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying--Repent ye, and prepare the way of the Lord, and walk in his paths, which are straight; for behold, the kingdom of heaven is at hand, and the Son of God cometh upon the face of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8250359506440443
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 17,
                     "text": "For behold, the Lord God hath sent forth the angel crying through the midst of heaven, saying: Prepare ye the way of the Lord, and make his paths straight, for the hour of his coming is nigh--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8221150764847811
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 65,
                     "verse": 1,
                     "text": "Hearken, and lo, a voice as of one sent down from on high, who is mighty and powerful, whose going forth is unto the ends of the earth, yea, whose voice is unto men--Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8203092683938068
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 65,
                     "verse": 3,
                     "text": "Yea, a voice crying--Prepare ye the way of the Lord, prepare ye the supper of the Lamb, make ready for the Bridegroom.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8056723419840819
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9114854388543718
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 3,
+                    "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8401057624879948
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 23,
+                    "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8118889331817627
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 40,
+                    "verse": 3,
+                    "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8001600026988995
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9770253341748869
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 3,
+                    "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9555078904004489
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 40,
+                    "verse": 3,
+                    "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9502243488626008
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 23,
+                    "text": "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9454769654640676
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 65,
+                    "verse": 1,
+                    "text": "Hearken, and lo, a voice as of one sent down from on high, who is mighty and powerful, whose going forth is unto the ends of the earth, yea, whose voice is unto men--Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9095361069536247
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 17,
+                    "text": "For behold, the Lord God hath sent forth the angel crying through the midst of heaven, saying: Prepare ye the way of the Lord, and make his paths straight, for the hour of his coming is nigh--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.908700780504817
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 10,
-                    "verse": 13,
-                    "text": "Wherefore, he said it must needs be that we should be led with one accord into the land of promise, unto the fulfilling of the word of the Lord, that we should be scattered upon all the face of the earth.",
-                    "score": 0.7898577447956507
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "Go and cry in the ears of Jerusalem, saying, Thus saith the Lord; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land that was not sown.",
-                    "score": 0.7895323841258719
+                    "verse": 7,
+                    "text": "And he spake also concerning a prophet who should come before the Messiah, to prepare the way of the Lord--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041017351090276
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 14,
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 8,
+                    "text": "Yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord, and make his paths straight; for there standeth one among you whom ye know not; and he is mightier than I, whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018937524747244
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 7,
                     "verse": 9,
-                    "text": "And behold, thus hath the Lord commanded me, by his angel, that I should come and tell this thing unto you; yea, he hath commanded that I should prophesy these things unto you; yea, he hath said unto me: Cry unto this people, repent and prepare the way of the Lord.",
-                    "score": 0.7863149023135261
+                    "text": "But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying--Repent ye, and prepare the way of the Lord, and walk in his paths, which are straight; for behold, the kingdom of heaven is at hand, and the Son of God cometh upon the face of the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9004568694932836
                 }
             ]
         },
@@ -266,84 +606,34 @@
             "text": "And the same John had his raiment of camel's hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 21,
-                    "text": "Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:",
-                    "score": 0.7624669168293855
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 12,
-                    "text": "The leaves thereof were fair, and the fruit thereof much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.",
-                    "score": 0.7587235871680368
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 4,
-                    "verse": 11,
-                    "text": "And the skin of the bullock, and all his flesh, with his head, and with his legs, and his inwards, and his dung,",
-                    "score": 0.7581006640327513
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 12,
-                    "verse": 16,
-                    "text": "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.",
-                    "score": 0.7576242310216728
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 35,
-                    "verse": 23,
-                    "text": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats' hair, and red skins of rams, and badgers' skins, brought them.",
-                    "score": 0.7550948630013664
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 9,
-                    "verse": 3,
-                    "text": "Behold, the hand of the Lord is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.",
-                    "score": 0.7530259662223645
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 32,
-                    "verse": 14,
-                    "text": "Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.",
-                    "score": 0.7497435849001532
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 1,
-                    "verse": 3,
-                    "text": "His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.",
-                    "score": 0.7471592509584944
+                    "verse": 6,
+                    "text": "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9454685518785707
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 33,
-                    "text": "The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles' feathers, and his nails like birds' claws.",
-                    "score": 0.7450163460902705
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 6,
+                    "text": "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9272763089702314
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 27,
-                    "verse": 31,
-                    "text": "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son's venison, that thy soul may bless me.",
-                    "score": 0.7419760487000625
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 6,
+                    "text": "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9683875460393716
                 }
             ]
         },
@@ -352,84 +642,84 @@
             "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 11,
-                    "verse": 4,
-                    "text": "And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.",
-                    "score": 0.7905272990155766
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8257700511206404
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 17,
-                    "verse": 24,
-                    "text": "Then David came to Mahanaim. And Absalom passed over Jordan, he and all the men of Israel with him.",
-                    "score": 0.7808654763810237
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 12,
-                    "verse": 4,
-                    "text": "And he took the fenced cities which pertained to Judah, and came to Jerusalem.",
-                    "score": 0.780719397647667
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "So I came to Jerusalem, and was there three days.",
-                    "score": 0.7767852206896819
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 21,
-                    "verse": 4,
-                    "text": "Nevertheless the king's word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem.",
-                    "score": 0.7723464876505889
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 29,
-                    "verse": 30,
-                    "text": "With all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries.",
-                    "score": 0.7706149734700014
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 23,
-                    "verse": 2,
-                    "text": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem.",
-                    "score": 0.7704688716691598
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 9,
-                    "verse": 1,
-                    "text": "Hear, O Israel: Thou art to pass over Jordan this day, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,",
-                    "score": 0.7669036533436353
+                    "verse": 28,
+                    "text": "And he was with them coming in and going out at Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8153738157813875
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 16,
-                    "verse": 7,
-                    "text": "And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.",
-                    "score": 0.7662613755231393
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8107131514408791
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 2,
-                    "verse": 29,
-                    "text": "And Abner and his men walked all that night through the plain, and passed over Jordan, and went through all Bithron, and they came to Mahanaim.",
-                    "score": 0.7624542113432108
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 4,
+                    "verse": 3,
+                    "text": "He left Judaea, and departed again into Galilee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800860592680992
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9131667121450117
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 13,
+                    "verse": 22,
+                    "text": "And he went through the cities and villages, teaching, and journeying toward Jerusalem.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9068594360179314
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 25,
+                    "text": "And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018627405166882
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 17,
+                    "verse": 11,
+                    "text": "And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9013409253738104
                 }
             ]
         },
@@ -438,84 +728,64 @@
             "text": "And were baptized of him in Jordan, confessing their sins.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 35,
-                    "text": "And whosoever repented of their sins and did confess them, them he did number among the people of the church;",
-                    "score": 0.7865471887341041
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 27,
-                    "text": "And behold, he cometh to redeem those who will be baptized unto repentance, through faith on his name.",
-                    "score": 0.7840664769434921
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 6,
-                    "verse": 2,
-                    "text": "And it came to pass that whosoever did not belong to the church who repented of their sins were baptized unto repentance, and were received into the church.",
-                    "score": 0.78055405059922
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 19,
-                    "verse": 12,
-                    "text": "And he came up out of the water and began to baptize. And he baptized all those whom Jesus had chosen.",
-                    "score": 0.7799968512424067
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 23,
-                    "text": "Verily I say unto you, that whoso repenteth of his sins through your words, and desireth to be baptized in my name, on this wise shall ye baptize them--Behold, ye shall go down and stand in the water, and in my name shall ye baptize them.",
-                    "score": 0.7696421630226404
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 10,
-                    "verse": 10,
-                    "text": "And after he had baptized the Messiah with water, he should behold and bear record that he had baptized the Lamb of God, who should take away the sins of the world.",
-                    "score": 0.7659869439338067
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 62,
-                    "verse": 45,
-                    "text": "Therefore, Helaman and his brethren went forth, and did declare the word of God with much power unto the convincing of many people of their wickedness, which did cause them to repent of their sins and to be baptized unto the Lord their God.",
-                    "score": 0.7653889477643814
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 31,
-                    "verse": 11,
-                    "text": "And the Father said: Repent ye, repent ye, and be baptized in the name of my Beloved Son.",
-                    "score": 0.7632207799142096
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 53,
-                    "text": "And our father Adam spake unto the Lord, and said: Why is it that men must repent and be baptized in water? And the Lord said unto Adam: Behold I have forgiven thee thy transgression in the Garden of Eden.",
-                    "score": 0.7613847296122174
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 16,
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
                     "verse": 5,
-                    "text": "Telling them of things which must shortly come, that they might know and remember at the time of their coming that they had been made known unto them beforehand, to the intent that they might believe; therefore as many as believed on the words of Samuel went forth unto him to be baptized, for they came repenting and confessing their sins.",
-                    "score": 0.7595564539217826
+                    "text": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8912552313329327
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 3,
+                    "text": "And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8551194690419875
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8180913021611453
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8219487389417772
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9466803638148676
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 3,
+                    "text": "And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.906825644998408
                 }
             ]
         },
@@ -524,84 +794,44 @@
             "text": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 20,
-                    "text": "And it came to pass that there was a man among them whose name was Abinadi; and he went forth among them, and began to prophesy, saying: Behold, thus saith the Lord, and thus hath he commanded me, saying, Go forth, and say unto this people, thus saith the Lord--Wo be unto this people, for I have seen their abominations, and their wickedness, and their whoredoms; and except they repent I will visit them in mine anger.",
-                    "score": 0.7739296381327524
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 15,
-                    "verse": 14,
-                    "text": "And it came to pass that they were many; for they did flock in from all the region round about Sidom, and were baptized.",
-                    "score": 0.7738573175515928
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 44,
-                    "verse": 15,
-                    "text": "Now there were many, when they heard these words and saw the scalp which was upon the sword, that were struck with fear; and many came forth and threw down their weapons of war at the feet of Moroni, and entered into a covenant of peace. And as many as entered into a covenant they suffered to depart into the wilderness.",
-                    "score": 0.7730429691688584
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 14,
-                    "text": "And it came to pass that I beheld many multitudes of the Gentiles upon the land of promise; and I beheld the wrath of God, that it was upon the seed of my brethren; and they were scattered before the Gentiles and were smitten.",
-                    "score": 0.7721769019396073
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 3,
-                    "verse": 2,
-                    "text": "And it came to pass that the Lord did say unto me: Cry unto this people--Repent ye, and come unto me, and be ye baptized, and build up again my church, and ye shall be spared.",
-                    "score": 0.7700316422984596
+                    "verse": 7,
+                    "text": "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9476711018121187
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 60,
-                    "verse": 10,
-                    "text": "And now, my beloved brethren--for ye ought to be beloved; yea, and ye ought to have stirred yourselves more diligently for the welfare and the freedom of this people; but behold, ye have neglected them insomuch that the blood of thousands shall come upon your heads for vengeance; yea, for known unto God were all their cries, and all their sufferings--",
-                    "score": 0.7695357962459797
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006669829270379
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 37,
-                    "verse": 10,
-                    "text": "And who knoweth but what they will be the means of bringing many thousands of them, yea, and also many thousands of our stiffnecked brethren, the Nephites, who are now hardening their hearts in sin and iniquities, to the knowledge of their Redeemer?",
-                    "score": 0.7679812932932137
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 7,
+                    "text": "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8896579742431704
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 23,
-                    "text": "Wo unto all those that discomfort my people, and drive, and murder, and testify against them, saith the Lord of Hosts; a generation of vipers shall not escape the damnation of hell.",
-                    "score": 0.7671971333727953
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 24,
-                    "text": "And after he had said these words, he said unto me: Look! And I looked, and I beheld the Son of God going forth among the children of men; and I saw many fall down at his feet and worship him.",
-                    "score": 0.7669898477932814
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 46,
-                    "verse": 16,
-                    "text": "He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword.",
-                    "score": 0.7666821519815523
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 7,
+                    "text": "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9671265175082246
                 }
             ]
         },
@@ -612,82 +842,82 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 13,
                     "verse": 13,
                     "text": "And now, my brethren, I would that ye should humble yourselves before God, and bring forth fruit meet for repentance, that ye may also enter into that rest.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8576778520115861
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8366159740619573
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 3,
                     "verse": 10,
                     "text": "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8276385039618571
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 13,
                     "verse": 10,
                     "text": "Say unto the righteous that it is well with them; for they shall eat the fruit of their doings.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8275349514468144
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 8,
                     "verse": 25,
                     "text": "And the first fruits of repentance is baptism; and baptism cometh by faith unto the fulfilling the commandments; and the fulfilling the commandments bringeth remission of sins;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8245462990904943
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 62,
-                    "text": "I speak by way of command unto you that belong to the church; and unto those who do not belong to the church I speak by way of invitation, saying: Come and be baptized unto repentance, that ye also may be partakers of the fruit of the tree of life.",
-                    "score": 0.7992182491248695
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 4,
+                    "verse": 36,
+                    "text": "And he that reapeth receiveth wages, and gathereth fruit unto life eternal: that both he that soweth and he that reapeth may rejoice together.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8099634627177386
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
-                    "chapter": 5,
-                    "verse": 34,
-                    "text": "Yea, he saith: Come unto me and ye shall partake of the fruit of the tree of life; yea, ye shall eat and drink of the bread and the waters of life freely;",
-                    "score": 0.7964106946285247
+                    "volume_book_index": 9,
+                    "chapter": 13,
+                    "verse": 13,
+                    "text": "And now, my brethren, I would that ye should humble yourselves before God, and bring forth fruit meet for repentance, that ye may also enter into that rest.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9046626899834929
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 34,
                     "verse": 30,
                     "text": "And now, my brethren, I would that, after ye have received so many witnesses, seeing that the holy scriptures testify of these things, ye come forth and bring fruit unto repentance.",
-                    "score": 0.796058016348858
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 58,
-                    "text": "That they may bring forth fruit meet for their Father's kingdom; otherwise there remaineth a scourge and judgment to be poured out upon the children of Zion.",
-                    "score": 0.795799243036919
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 100,
-                    "text": "Nevertheless, I do not say they shall not dwell thereon; for inasmuch as they bring forth fruit and works meet for my kingdom they shall dwell thereon.",
-                    "score": 0.792032633643395
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 3,
-                    "verse": 11,
-                    "text": "But a seer will I raise up out of the fruit of thy loins; and unto him will I give power to bring forth my word unto the seed of thy loins--and not to the bringing forth my word only, saith the Lord, but to the convincing them of my word, which shall have already gone forth among them.",
-                    "score": 0.7916934372812389
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9031143726774692
                 }
             ]
         },
@@ -696,84 +926,54 @@
             "text": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.911655470280327
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 29,
                     "verse": 13,
                     "text": "That he may establish thee to day for a people unto himself, and that he may be unto thee a God, as he hath said unto thee, and as he hath sworn unto thy fathers, to Abraham, to Isaac, and to Jacob.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8096270068662772
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 4,
-                    "verse": 21,
-                    "text": "And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?",
-                    "score": 0.7996922856071205
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 8,
+                    "verse": 39,
+                    "text": "They answered and said unto him, Abraham is our father. Jesus saith unto them, If ye were Abraham's children, ye would do the works of Abraham.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8092151330713906
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 21,
-                    "verse": 12,
-                    "text": "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.",
-                    "score": 0.7885476186974371
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8634282770668117
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 17,
-                    "verse": 9,
-                    "text": "And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.",
-                    "score": 0.7831640347243564
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 31,
-                    "verse": 7,
-                    "text": "Know ye not that he was holy? But notwithstanding he being holy, he showeth unto the children of men that, according to the flesh he humbleth himself before the Father, and witnesseth unto the Father that he would be obedient unto him in keeping his commandments.",
-                    "score": 0.7829068233211101
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 31,
-                    "verse": 16,
-                    "text": "For all the riches which God hath taken from our father, that is ours, and our children's: now then, whatsoever God hath said unto thee, do.",
-                    "score": 0.7820721311225458
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 32,
-                    "verse": 13,
-                    "text": "Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever.",
-                    "score": 0.7793111579630193
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 29,
-                    "verse": 18,
-                    "text": "O Lord God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:",
-                    "score": 0.778904964608
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 51,
-                    "verse": 2,
-                    "text": "Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him.",
-                    "score": 0.778782804546921
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 58,
-                    "text": "And as I said unto Abraham concerning the kindreds of the earth, even so I say unto my servant Joseph: In thee and in thy seed shall the kindred of the earth be blessed.",
-                    "score": 0.7767417170293373
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9589563012123176
                 }
             ]
         },
@@ -782,84 +982,244 @@
             "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 9,
+                    "text": "And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9980088574550025
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 97,
                     "verse": 7,
                     "text": "The ax is laid at the root of the trees; and every tree that bringeth not forth good fruit shall be hewn down and cast into the fire. I, the Lord, have spoken it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9305686307494925
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 14,
                     "verse": 19,
                     "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9130286913860771
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 19,
+                    "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9130286913860771
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 52,
                     "text": "And again I say unto you, the Spirit saith: Behold, the ax is laid at the root of the tree; therefore every tree that bringeth not forth good fruit shall be hewn down and cast into the fire, yea, a fire which cannot be consumed, even an unquenchable fire. Behold, and remember, the Holy One hath spoken it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8793903020248631
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 5,
                     "verse": 37,
                     "text": "But behold, the wild branches have grown and have overrun the roots thereof; and because that the wild branches have overcome the roots thereof it hath brought forth much evil fruit; and because that it hath brought forth so much evil fruit thou beholdest that it beginneth to perish; and it will soon become ripened, that it may be cast into the fire, except we should do something for it to preserve it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8421824824721025
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 5,
                     "verse": 45,
                     "text": "And thou beheldest that a part thereof brought forth good fruit, and a part thereof brought forth wild fruit; and because I plucked not the branches thereof and cast them into the fire, behold, they have overcome the good branch that it hath withered away.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8317876185444127
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 5,
                     "verse": 26,
                     "text": "And it came to pass that the Lord of the vineyard said unto the servant: Pluck off the branches that have not brought forth good fruit, and cast them into the fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8209961235452561
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 5,
                     "verse": 42,
                     "text": "Behold, I knew that all the fruit of the vineyard, save it were these, had become corrupted. And now these which have once brought forth good fruit have also become corrupted; and now all the trees of my vineyard are good for nothing save it be to be hewn down and cast into the fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8167154446057283
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 5,
                     "verse": 46,
                     "text": "And now, behold, notwithstanding all the care which we have taken of my vineyard, the trees thereof have become corrupted, that they bring forth no good fruit; and these I had hoped to preserve, to have laid up fruit thereof against the season, unto mine own self. But, behold, they have become like unto the wild olive tree, and they are of no worth but to be hewn down and cast into the fire; and it grieveth me that I should lose them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.815376829747557
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 5,
                     "verse": 32,
                     "text": "But behold, this time it hath brought forth much fruit, and there is none of it which is good. And behold, there are all kinds of bad fruit; and it profiteth me nothing, notwithstanding all our labor; and now it grieveth me that I should lose this tree.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8121804893049812
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 14,
                     "verse": 17,
                     "text": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8111746649833231
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8111746649833231
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 5,
+                    "verse": 18,
+                    "text": "And he said unto the servant: Behold, the branches of the wild tree have taken hold of the moisture of the root thereof, that the root thereof hath brought forth much strength; and because of the much strength of the root thereof the wild branches have brought forth tame fruit. Now, if we had not grafted in these branches, the tree thereof would have perished. And now, behold, I shall lay up much fruit, which the tree thereof hath brought forth; and the fruit thereof I shall lay up against the season, unto mine own self.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025646424013986
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 9,
+                    "text": "And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.996388852596283
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 97,
+                    "verse": 7,
+                    "text": "The ax is laid at the root of the trees; and every tree that bringeth not forth good fruit shall be hewn down and cast into the fire. I, the Lord, have spoken it.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8677515050098752
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 14,
+                    "verse": 19,
+                    "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8603956782582013
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 19,
+                    "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8603956782582013
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 52,
+                    "text": "And again I say unto you, the Spirit saith: Behold, the ax is laid at the root of the tree; therefore every tree that bringeth not forth good fruit shall be hewn down and cast into the fire, yea, a fire which cannot be consumed, even an unquenchable fire. Behold, and remember, the Holy One hath spoken it.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8210064800093384
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 9,
+                    "text": "And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9984362718647172
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 97,
+                    "verse": 7,
+                    "text": "The ax is laid at the root of the trees; and every tree that bringeth not forth good fruit shall be hewn down and cast into the fire. I, the Lord, have spoken it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9599392366336934
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 19,
+                    "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9562373783446938
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 14,
+                    "verse": 19,
+                    "text": "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9562373783446938
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 52,
+                    "text": "And again I say unto you, the Spirit saith: Behold, the ax is laid at the root of the tree; therefore every tree that bringeth not forth good fruit shall be hewn down and cast into the fire, yea, a fire which cannot be consumed, even an unquenchable fire. Behold, and remember, the Holy One hath spoken it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9358124022148524
                 }
             ]
         },
@@ -868,84 +1228,354 @@
             "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9309621859847995
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 8,
+                    "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8888721015574014
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 11,
                     "verse": 23,
                     "text": "Verily I say unto you, that whoso repenteth of his sins through your words, and desireth to be baptized in my name, on this wise shall ye baptize them--Behold, ye shall go down and stand in the water, and in my name shall ye baptize them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8591405991648848
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 33,
-                    "verse": 11,
-                    "text": "Yea, repent and be baptized, every one of you, for a remission of your sins; yea, be baptized even by water, and then cometh the baptism of fire and of the Holy Ghost.",
-                    "score": 0.8398264101528513
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 33,
+                    "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8434765268555136
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 33,
+                    "verse": 11,
+                    "text": "Yea, repent and be baptized, every one of you, for a remission of your sins; yea, be baptized even by water, and then cometh the baptism of fire and of the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8398264101528513
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 26,
+                    "text": "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8374518196954562
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 35,
                     "verse": 5,
                     "text": "Thou didst baptize by water unto repentance, but they received not the Holy Ghost;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8373819611772465
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 35,
                     "verse": 6,
                     "text": "But now I give unto thee a commandment, that thou shalt baptize by water, and they shall receive the Holy Ghost by the laying on of the hands, even as the apostles of old.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8373301906229996
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 8,
                     "verse": 24,
                     "text": "Believe and repent of your sins and be baptized in the name of Jesus Christ, the Son of God, even as our fathers, and ye shall receive the Holy Ghost, that ye may have all things made manifest; and if ye do not this, the floods will come in upon you; nevertheless they hearkened not.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.829313141241257
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 39,
                     "verse": 6,
                     "text": "And this is my gospel--repentance and baptism by water, and then cometh the baptism of fire and the Holy Ghost, even the Comforter, which showeth all things, and teacheth the peaceable things of the kingdom.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.826687629125466
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 31,
                     "verse": 14,
                     "text": "But, behold, my beloved brethren, thus came the voice of the Son unto me, saying: After ye have repented of your sins, and witnessed unto the Father that ye are willing to keep my commandments, by the baptism of water, and have received the baptism of fire and of the Holy Ghost, and can speak with a new tongue, yea, even with the tongue of angels, and after this should deny me, it would have been better for you that ye had not known me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8263702448115008
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 9,
                     "verse": 20,
                     "text": "And ye shall offer for a sacrifice unto me a broken heart and a contrite spirit. And whoso cometh unto me with a broken heart and a contrite spirit, him will I baptize with fire and with the Holy Ghost, even as the Lamanites, because of their faith in me at the time of their conversion, were baptized with fire and with the Holy Ghost, and they knew it not.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.825765178226173
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 7,
                     "text": "And ye shall go forth baptizing with water, saying: Repent ye, repent ye, for the kingdom of heaven is at hand.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8252327579016244
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 31,
                     "verse": 13,
                     "text": "Wherefore, my beloved brethren, I know that if ye shall follow the Son, with full purpose of heart, acting no hypocrisy and no deception before God, but with real intent, repenting of your sins, witnessing unto the Father that ye are willing to take upon you the name of Christ, by baptism--yea, by following your Lord and your Savior down into the water, according to his word, behold, then shall ye receive the Holy Ghost; yea, then cometh the baptism of fire and of the Holy Ghost; and then can ye speak with the tongue of angels, and shout praises unto the Holy One of Israel.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8228726523871625
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 73,
+                    "text": "The person who is called of God and has authority from Jesus Christ to baptize, shall go down into the water with the person who has presented himself or herself for baptism, and shall say, calling him or her by name: Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8147476914477455
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 74,
+                    "text": "Verily, verily, I say unto you, they who believe not on your words, and are not baptized in water in my name, for the remission of their sins, that they may receive the Holy Ghost, shall be damned, and shall not come into my Father's kingdom where my Father and I am.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8107909548919761
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8098332134090807
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 23,
+                    "text": "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8098267161835168
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 11,
+                    "text": "And he gave unto me a commandment that I should baptize in the name of the Father, and of the Son, which is full of grace and truth, and of the Holy Ghost, which beareth record of the Father and the Son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095400392234279
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 64,
+                    "text": "Therefore, as I said unto mine apostles I say unto you again, that every soul who believeth on your words, and is baptized by water for the remission of sins, shall receive the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033420408077101
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 25,
+                    "text": "Having authority given me of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802968780863139
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 16,
+                    "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026872564068985
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 39,
+                    "verse": 23,
+                    "text": "And again, it shall come to pass that on as many as ye shall baptize with water, ye shall lay your hands, and they shall receive the gift of the Holy Ghost, and shall be looking forth for the signs of my coming, and shall know me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000975199132461
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 124,
+                    "verse": 33,
+                    "text": "For verily I say unto you, that after you have had sufficient time to build a house to me, wherein the ordinance of baptizing for the dead belongeth, and for which the same was instituted from before the foundation of the world, your baptisms for your dead cannot be acceptable unto me;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800080382460157
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8675041794776979
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 8,
+                    "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8078423853014493
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9445825401567857
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 8,
+                    "text": "I indeed have baptized you with water: but he shall baptize you with the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9328148164793318
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 33,
+                    "text": "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9107736136373618
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 33,
+                    "verse": 11,
+                    "text": "Yea, repent and be baptized, every one of you, for a remission of your sins; yea, be baptized even by water, and then cometh the baptism of fire and of the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9090546748768573
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 23,
+                    "text": "Verily I say unto you, that whoso repenteth of his sins through your words, and desireth to be baptized in my name, on this wise shall ye baptize them--Behold, ye shall go down and stand in the water, and in my name shall ye baptize them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9038412399008251
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 16,
+                    "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9031025113524904
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 31,
+                    "verse": 13,
+                    "text": "Wherefore, my beloved brethren, I know that if ye shall follow the Son, with full purpose of heart, acting no hypocrisy and no deception before God, but with real intent, repenting of your sins, witnessing unto the Father that ye are willing to take upon you the name of Christ, by baptism--yea, by following your Lord and your Savior down into the water, according to his word, behold, then shall ye receive the Holy Ghost; yea, then cometh the baptism of fire and of the Holy Ghost; and then can ye speak with the tongue of angels, and shout praises unto the Holy One of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9023624542191827
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 31,
+                    "verse": 14,
+                    "text": "But, behold, my beloved brethren, thus came the voice of the Son unto me, saying: After ye have repented of your sins, and witnessed unto the Father that ye are willing to keep my commandments, by the baptism of water, and have received the baptism of fire and of the Holy Ghost, and can speak with a new tongue, yea, even with the tongue of angels, and after this should deny me, it would have been better for you that ye had not known me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012395202375528
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 39,
+                    "verse": 6,
+                    "text": "And this is my gospel--repentance and baptism by water, and then cometh the baptism of fire and the Holy Ghost, even the Comforter, which showeth all things, and teacheth the peaceable things of the kingdom.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9007983089445262
                 }
             ]
         },
@@ -954,84 +1584,34 @@
             "text": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 33,
-                    "verse": 11,
-                    "text": "Ye shall conceive chaff, ye shall bring forth stubble: your breath, as fire, shall devour you.",
-                    "score": 0.7577982505813229
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Malachi",
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 3,
-                    "verse": 2,
-                    "text": "But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner's fire, and like fullers' soap:",
-                    "score": 0.7535877662993724
+                    "verse": 17,
+                    "text": "Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9900333531023636
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 24,
-                    "verse": 2,
-                    "text": "But who may abide the day of his coming, and who shall stand when he appeareth? For he is like a refiner's fire, and like fuller's soap.",
-                    "score": 0.7511132752113682
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 17,
+                    "text": "Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9846435776140455
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 97,
-                    "verse": 3,
-                    "text": "A fire goeth before him, and burneth up his enemies round about.",
-                    "score": 0.7498573272845597
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 31,
-                    "verse": 12,
-                    "text": "For it is a fire that consumeth to destruction, and would root out all mine increase.",
-                    "score": 0.7472043278146326
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 28,
-                    "verse": 22,
-                    "text": "The Lord shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish.",
-                    "score": 0.7469026104113128
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 15,
-                    "verse": 24,
-                    "text": "Therefore, as the fire devoureth the stubble, and the flame consumeth the chaff, their root shall be rottenness, and their blossoms shall go up as dust; because they have cast away the law of the Lord of Hosts, and despised the word of the Holy One of Israel.",
-                    "score": 0.7461230583064495
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 22,
-                    "verse": 21,
-                    "text": "Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof.",
-                    "score": 0.745161817155448
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 9,
-                    "verse": 3,
-                    "text": "Understand therefore this day, that the Lord thy God is he which goeth over before thee; as a consuming fire he shall destroy them, and he shall bring them down before thy face: so shalt thou drive them out, and destroy them quickly, as the Lord hath said unto thee.",
-                    "score": 0.7436950937221003
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 16,
-                    "verse": 12,
-                    "text": "And he shall take a censer full of burning coals of fire from off the altar before the Lord, and his hands full of sweet incense beaten small, and bring it within the veil:",
-                    "score": 0.7436013888936069
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 17,
+                    "text": "Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9967188233230412
                 }
             ]
         },
@@ -1040,84 +1620,94 @@
             "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 7,
-                    "verse": 8,
-                    "text": "Therefore repent, and be baptized in the name of Jesus, and lay hold upon the gospel of Christ, which shall be set before you, not only in this record but also in the record which shall come unto the Gentiles from the Jews, which record shall come from the Gentiles unto you.",
-                    "score": 0.7917748156952069
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 23,
-                    "text": "Verily I say unto you, that whoso repenteth of his sins through your words, and desireth to be baptized in my name, on this wise shall ye baptize them--Behold, ye shall go down and stand in the water, and in my name shall ye baptize them.",
-                    "score": 0.7871438908592944
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 73,
-                    "text": "The person who is called of God and has authority from Jesus Christ to baptize, shall go down into the water with the person who has presented himself or herself for baptism, and shall say, calling him or her by name: Having been commissioned of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
-                    "score": 0.786745579432394
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 5,
-                    "verse": 5,
-                    "text": "And if it so be that they repent and come unto the Father in the name of Jesus, they shall be received into the kingdom of God.",
-                    "score": 0.781008652803302
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 31,
-                    "verse": 13,
-                    "text": "Wherefore, my beloved brethren, I know that if ye shall follow the Son, with full purpose of heart, acting no hypocrisy and no deception before God, but with real intent, repenting of your sins, witnessing unto the Father that ye are willing to take upon you the name of Christ, by baptism--yea, by following your Lord and your Savior down into the water, according to his word, behold, then shall ye receive the Holy Ghost; yea, then cometh the baptism of fire and of the Holy Ghost; and then can ye speak with the tongue of angels, and shout praises unto the Holy One of Israel.",
-                    "score": 0.7787871740494728
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 10,
-                    "verse": 10,
-                    "text": "And after he had baptized the Messiah with water, he should behold and bear record that he had baptized the Lamb of God, who should take away the sins of the world.",
-                    "score": 0.7779991285228376
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 10,
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
                     "verse": 9,
-                    "text": "And my father said he should baptize in Bethabara, beyond Jordan; and he also said he should baptize with water; even that he should baptize the Messiah with water.",
-                    "score": 0.777133563531465
+                    "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8262691688198032
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 31,
-                    "verse": 12,
-                    "text": "And also, the voice of the Son came unto me, saying: He that is baptized in my name, to him will the Father give the Holy Ghost, like unto me; wherefore, follow me, and do the things which ye have seen me do.",
-                    "score": 0.7754526437379073
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 3,
                     "verse": 14,
-                    "text": "Now I say unto you that ye must repent, and be born again; for the Spirit saith if ye are not born again ye cannot inherit the kingdom of heaven; therefore come and be baptized unto repentance, that ye may be washed from your sins, that ye may have faith on the Lamb of God, who taketh away the sins of the world, who is mighty to save and to cleanse from all unrighteousness.",
-                    "score": 0.7750937733397166
+                    "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.821098446456041
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 34,
-                    "text": "And he hath said: Repent all ye ends of the earth, and come unto me, and be baptized in my name, and have faith in me, that ye may be saved.",
-                    "score": 0.7742669275091285
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 19,
+                    "verse": 3,
+                    "text": "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152942743701145
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 3,
+                    "verse": 26,
+                    "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010893927499065
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 9,
+                    "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8112537006282164
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 9,
+                    "text": "And it came to pass in those days, that Jesus came from Nazareth of Galilee, and was baptized of John in Jordan.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9399138724855277
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9058443577839247
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 3,
+                    "verse": 26,
+                    "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020225522491337
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 10,
+                    "verse": 40,
+                    "text": "And went away again beyond Jordan into the place where John at first baptized; and there he abode.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901073282893106
                 }
             ]
         },
@@ -1126,84 +1716,234 @@
             "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 19,
+                    "verse": 3,
+                    "text": "And he said unto them, Unto what then were ye baptized? And they said, Unto John's baptism.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8342914926690236
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 11,
                     "verse": 23,
                     "text": "Verily I say unto you, that whoso repenteth of his sins through your words, and desireth to be baptized in my name, on this wise shall ye baptize them--Behold, ye shall go down and stand in the water, and in my name shall ye baptize them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8296935895123754
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.821098446456041
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 7,
                     "verse": 14,
                     "text": "Now I say unto you that ye must repent, and be born again; for the Spirit saith if ye are not born again ye cannot inherit the kingdom of heaven; therefore come and be baptized unto repentance, that ye may be washed from your sins, that ye may have faith on the Lamb of God, who taketh away the sins of the world, who is mighty to save and to cleanse from all unrighteousness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8199102357926944
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 18,
                     "verse": 10,
                     "text": "Now I say unto you, if this be the desire of your hearts, what have you against being baptized in the name of the Lord, as a witness before him that ye have entered into a covenant with him, that ye will serve him and keep his commandments, that he may pour out his Spirit more abundantly upon you?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8198811295302793
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "For John truly baptized with water; but ye shall be baptized with the Holy Ghost not many days hence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8184837368444569
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8180811969421716
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 8,
+                    "verse": 36,
+                    "text": "And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8147918777160263
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 31,
                     "verse": 12,
                     "text": "And also, the voice of the Son came unto me, saying: He that is baptized in my name, to him will the Father give the Holy Ghost, like unto me; wherefore, follow me, and do the things which ye have seen me do.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8105883323436368
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 16,
+                    "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8103938465414621
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8103657572891223
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 23,
+                    "text": "And he saith unto them, Ye shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095501092242283
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 12,
+                    "verse": 50,
+                    "text": "But I have a baptism to be baptized with; and how am I straitened till it be accomplished!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085846072511436
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 11,
                     "verse": 38,
                     "text": "And again I say unto you, ye must repent, and be baptized in my name, and become as a little child, or ye can in nowise inherit the kingdom of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8077893849191409
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 41,
                     "text": "And you must preach unto the world, saying: You must repent and be baptized, in the name of Jesus Christ;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.807529194341172
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 7,
                     "text": "Wherefore, as thou hast been baptized by the hands of my servant Joseph Smith, Jun., according to that which I have commanded him, he hath fulfilled the thing which I commanded him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8073490731692028
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 11,
                     "verse": 37,
                     "text": "And again I say unto you, ye must repent, and become as a little child, and be baptized in my name, or ye can in nowise receive these things.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8059414664407898
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 7,
                     "verse": 34,
                     "text": "And he hath said: Repent all ye ends of the earth, and come unto me, and be baptized in my name, and have faith in me, that ye may be saved.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.804630502535454
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 12,
+                    "text": "Then came also publicans to be baptized, and said unto him, Master, what shall we do?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046036007180537
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 31,
                     "verse": 11,
                     "text": "And the Father said: Repent ye, repent ye, and be baptized in the name of my Beloved Son.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8038450530760514
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 4,
+                    "text": "And for this cause the Lord said unto Peter: If I will that he tarry till I come, what is that to thee? For he desired of me that he might bring souls unto me, but thou desiredst that thou mightest speedily come unto me in my kingdom.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025146896457581
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 22,
+                    "text": "Beginning from the baptism of John, unto that same day that he was taken up from us, must one be ordained to be a witness with us of his resurrection.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017991372627096
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 31,
+                    "verse": 5,
+                    "text": "And now, if the Lamb of God, he being holy, should have need to be baptized by water, to fulfil all righteousness, O then, how much more need have we, being unholy, to be baptized, yea, even by water!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017540479229874
                 }
             ]
         },
@@ -1212,84 +1952,74 @@
             "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 13,
+                    "verse": 2,
+                    "text": "And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8126995827991801
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "1 Peter",
+                    "volume_book_index": 21,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811693001927386
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 11,
                     "text": "For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8094396287784591
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 138,
-                    "verse": 7,
-                    "text": "\"For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 8,
+                    "verse": 29,
+                    "text": "And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047721497532666
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "1 Peter",
+                    "volume_book_index": 21,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8013760863959807
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
-                    "verse": 11,
-                    "text": "And he shall go forth, suffering pains and afflictions and temptations of every kind; and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people.",
-                    "score": 0.79584718434211
-                },
-                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 100,
-                    "verse": 4,
-                    "text": "Therefore, I, the Lord, have suffered you to come unto this place; for thus it was expedient in me for the salvation of souls.",
-                    "score": 0.7926339701799759
+                    "volume_book_index": 1,
+                    "chapter": 138,
+                    "verse": 7,
+                    "text": "\"For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013760863959807
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 18,
-                    "text": "And he said: Surely God shall not suffer that we, who are despised because we take upon us the name of Christ, shall be trodden down and destroyed, until we bring it upon us by our own transgressions.",
-                    "score": 0.7861882469914571
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 48,
-                    "text": "And he said unto them: Because that Adam fell, we are; and by his fall came death; and we are made partakers of misery and woe.",
-                    "score": 0.7852379396001893
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 30,
-                    "verse": 15,
-                    "text": "Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee.",
-                    "score": 0.7849844364181907
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 14,
-                    "verse": 22,
-                    "text": "But his flesh upon him shall have pain, and his soul within him shall mourn.",
-                    "score": 0.7807692933546407
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 15,
-                    "verse": 5,
-                    "text": "And thus the flesh becoming subject to the Spirit, or the Son to the Father, being one God, suffereth temptation, and yieldeth not to the temptation, but suffereth himself to be mocked, and scourged, and cast out, and disowned by his people.",
-                    "score": 0.7782316956571199
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 1,
-                    "verse": 41,
-                    "text": "Then ye answered and said unto me, We have sinned against the Lord, we will go up and fight, according to all that the Lord our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.",
-                    "score": 0.7772501169620999
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 17,
+                    "verse": 17,
+                    "text": "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013157566392736
                 }
             ]
         },
@@ -1298,84 +2028,214 @@
             "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 10,
+                    "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9163349418046614
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 31,
                     "verse": 8,
                     "text": "Wherefore, after he was baptized with water the Holy Ghost descended upon him in the form of a dove.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8427845981494256
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 9,
+                    "verse": 18,
+                    "text": "And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8402621582004253
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 19,
                     "verse": 12,
                     "text": "And he came up out of the water and began to baptize. And he baptized all those whom Jesus had chosen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8297985064461751
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 6,
                     "text": "And I saw the heavens open, and the Lamb of God descending out of heaven; and he came down and showed himself unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8268938919752156
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 65,
                     "text": "And thus he was baptized, and the Spirit of God descended upon him, and thus he was born of the Spirit, and became quickened in the inner man.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8266705518006627
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 9,
+                    "verse": 20,
+                    "text": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8252552344308104
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 21,
+                    "text": "Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134934867000457
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 51,
+                    "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073723457248061
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 19,
                     "verse": 13,
                     "text": "And it came to pass when they were all baptized and had come up out of the water, the Holy Ghost did fall upon them, and they were filled with the Holy Ghost and with fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8042288092300365
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 66,
                     "text": "And he heard a voice out of heaven, saying: Thou art baptized with fire, and with the Holy Ghost. This is the record of the Father, and the Son, from henceforth and forever;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8015678176006769
                 },
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010437922087376
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 10,
+                    "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8407013010142742
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 10,
+                    "text": "And straightway coming up out of the water, he saw the heavens opened, and the Spirit like a dove descending upon him:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9601111078362183
+                },
+                {
                     "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 5,
-                    "verse": 45,
-                    "text": "And behold, the Holy Spirit of God did come down from heaven, and did enter into their hearts, and they were filled as if with fire, and they could speak forth marvelous words.",
-                    "score": 0.7968857769530755
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 31,
+                    "verse": 8,
+                    "text": "Wherefore, after he was baptized with water the Holy Ghost descended upon him in the form of a dove.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9232165355240233
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 11,
                     "verse": 27,
                     "text": "And I looked and beheld the Redeemer of the world, of whom my father had spoken; and I also beheld the prophet who should prepare the way before him. And the Lamb of God went forth and was baptized of him; and after he was baptized, I beheld the heavens open, and the Holy Ghost come down out of heaven and abide upon him in the form of a dove.",
-                    "score": 0.7938955959618107
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9161392523423914
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 93,
-                    "verse": 15,
-                    "text": "And I, John, bear record, and lo, the heavens were opened, and the Holy Ghost descended upon him in the form of a dove, and sat upon him, and there came a voice out of heaven saying: This is my beloved Son.",
-                    "score": 0.7916791405696441
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 21,
+                    "text": "Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9104707948355742
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9102517370214829
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 6,
+                    "text": "And I saw the heavens open, and the Lamb of God descending out of heaven; and he came down and showed himself unto them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9033771253717106
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 7,
+                    "verse": 55,
+                    "text": "But he, being full of the Holy Ghost, looked up steadfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9031390643708143
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 1,
-                    "verse": 73,
-                    "text": "Immediately on our coming up out of the water after we had been baptized, we experienced great and glorious blessings from our Heavenly Father. No sooner had I baptized Oliver Cowdery, than the Holy Ghost fell upon him, and he stood up and prophesied many things which should shortly come to pass. And again, so soon as I had been baptized by him, I also had the spirit of prophecy, when, standing up, I prophesied concerning the rise of this Church, and many other things connected with the Church, and this generation of the children of men. We were filled with the Holy Ghost, and rejoiced in the God of our salvation.",
-                    "score": 0.7905776670129087
+                    "verse": 32,
+                    "text": "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024063559538333
                 }
             ]
         },
@@ -1384,84 +2244,254 @@
             "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9496480809381972
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Peter",
+                    "volume_book_index": 22,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9062785043501659
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 11,
                     "verse": 7,
                     "text": "Behold my Beloved Son, in whom I am well pleased, in whom I have glorified my name--hear ye him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8900154505446922
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 17,
+                    "verse": 5,
+                    "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8460814922826647
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 9,
+                    "verse": 35,
+                    "text": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.842735649926822
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8377815484869393
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Proverbs",
+                    "volume_book_index": 20,
                     "chapter": 23,
                     "verse": 15,
                     "text": "My son, if thine heart be wise, my heart shall rejoice, even mine.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8205482399183766
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 36,
                     "verse": 25,
                     "text": "Yea, and now behold, O my son, the Lord doth give me exceedingly great joy in the fruit of my labors;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8185033794530358
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 6,
+                    "text": "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8091765103141826
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 93,
                     "verse": 15,
                     "text": "And I, John, bear record, and lo, the heavens were opened, and the Holy Ghost descended upon him in the form of a dove, and sat upon him, and there came a voice out of heaven saying: This is my beloved Son.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8084154934760218
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 8,
                     "verse": 2,
                     "text": "My beloved son, Moroni, I rejoice exceedingly that your Lord Jesus Christ hath been mindful of you, and hath called you to his ministry, and to his holy work.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8005118057614173
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 27,
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
                     "verse": 11,
-                    "text": "My son, be wise, and make my heart glad, that I may answer him that reproacheth me.",
-                    "score": 0.7992809222132343
+                    "text": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9348964172725247
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 17,
+                    "verse": 5,
+                    "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.838178127137759
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Peter",
+                    "volume_book_index": 22,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8360755140646388
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 38,
-                    "verse": 3,
-                    "text": "I say unto you, my son, that I have had great joy in thee already, because of thy faithfulness and thy diligence, and thy patience and thy long-suffering among the people of the Zoramites.",
-                    "score": 0.7987916326540434
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 7,
+                    "text": "Behold my Beloved Son, in whom I am well pleased, in whom I have glorified my name--hear ye him.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8052235593992082
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 4,
-                    "verse": 10,
-                    "text": "Hear, O my son, and receive my sayings; and the years of thy life shall be many.",
-                    "score": 0.7982602057669771
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 9,
-                    "verse": 1,
-                    "text": "My beloved son, I write unto you again that ye may know that I am yet alive; but I write somewhat of that which is grievous.",
-                    "score": 0.7892108412428819
+                    "verse": 35,
+                    "text": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8039283390130649
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 116,
-                    "verse": 1,
-                    "text": "I love the Lord, because he hath heard my voice and my supplications.",
-                    "score": 0.7861111683583203
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "And there came a voice from heaven, saying, Thou art my beloved Son, in whom I am well pleased.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9765202624119297
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 9,
+                    "verse": 35,
+                    "text": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9483078029706546
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Peter",
+                    "volume_book_index": 22,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9482497983872237
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 17,
+                    "verse": 5,
+                    "text": "While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear ye him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9402841187201096
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 9,
+                    "verse": 7,
+                    "text": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9342715622672667
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9312153808648822
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 7,
+                    "text": "Behold my Beloved Son, in whom I am well pleased, in whom I have glorified my name--hear ye him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9287627127059587
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 93,
+                    "verse": 15,
+                    "text": "And I, John, bear record, and lo, the heavens were opened, and the Holy Ghost descended upon him in the form of a dove, and sat upon him, and there came a voice out of heaven saying: This is my beloved Son.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.912036880022962
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 2,
+                    "text": "But, behold, my Beloved Son, which was my Beloved and Chosen from the beginning, said unto me--Father, thy will be done, and the glory be thine forever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9112963359223678
                 }
             ]
         }

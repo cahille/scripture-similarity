@@ -1,6 +1,7 @@
 SET statement_timeout = 0;
 SET lock_timeout = 0;
 SET idle_in_transaction_session_timeout = 0;
+SET transaction_timeout = 0;
 SET client_encoding = 'UTF8';
 SET standard_conforming_strings = on;
 SELECT pg_catalog.set_config('search_path', '', false);
@@ -43,6 +44,7 @@ CREATE TABLE public.schema_migrations (
 CREATE TABLE public.similar_verse (
     base_verse_id integer NOT NULL,
     similar_verse_id integer NOT NULL,
+    embedding_model character varying(100) NOT NULL,
     score double precision NOT NULL
 );
 
@@ -55,11 +57,14 @@ CREATE TABLE public.verse (
     id integer NOT NULL,
     volume character varying(100) NOT NULL,
     book character varying(100) NOT NULL,
+    volume_book_index integer NOT NULL,
     chapter integer NOT NULL,
     verse integer NOT NULL,
     text text NOT NULL,
     clean_text text NOT NULL,
-    embedding public.vector(768) NOT NULL
+    hugging_face_bge_embedding public.vector(768) NOT NULL,
+    openai_ada_002_embedding public.vector(1536) NOT NULL,
+    openai_3_small_embedding public.vector(1536) NOT NULL
 );
 
 
@@ -99,11 +104,11 @@ ALTER TABLE ONLY public.schema_migrations
 
 
 --
--- Name: similar_verse similar_verse_base_verse_id_similar_verse_id_key; Type: CONSTRAINT; Schema: public; Owner: -
+-- Name: similar_verse similar_verse_base_verse_id_similar_verse_id_embedding_mode_key; Type: CONSTRAINT; Schema: public; Owner: -
 --
 
 ALTER TABLE ONLY public.similar_verse
-    ADD CONSTRAINT similar_verse_base_verse_id_similar_verse_id_key UNIQUE (base_verse_id, similar_verse_id);
+    ADD CONSTRAINT similar_verse_base_verse_id_similar_verse_id_embedding_mode_key UNIQUE (base_verse_id, similar_verse_id, embedding_model);
 
 
 --
@@ -120,6 +125,27 @@ ALTER TABLE ONLY public.verse
 
 ALTER TABLE ONLY public.verse
     ADD CONSTRAINT verse_volume_book_chapter_verse_key UNIQUE (volume, book, chapter, verse);
+
+
+--
+-- Name: idx_hugging_face_bge_embedding; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_hugging_face_bge_embedding ON public.verse USING hnsw (hugging_face_bge_embedding public.vector_cosine_ops);
+
+
+--
+-- Name: idx_openai_3_small_embedding; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_openai_3_small_embedding ON public.verse USING hnsw (openai_3_small_embedding public.vector_cosine_ops);
+
+
+--
+-- Name: idx_openai_ada_002_embedding; Type: INDEX; Schema: public; Owner: -
+--
+
+CREATE INDEX idx_openai_ada_002_embedding ON public.verse USING hnsw (openai_ada_002_embedding public.vector_cosine_ops);
 
 
 --
@@ -148,5 +174,4 @@ ALTER TABLE ONLY public.similar_verse
 --
 
 INSERT INTO public.schema_migrations (version) VALUES
-    ('20241023035438'),
-    ('20241107062954');
+    ('20250113040213');

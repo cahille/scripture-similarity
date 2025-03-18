@@ -8,256 +8,135 @@
             "text": "And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 37,
-                    "verse": 30,
-                    "text": "For behold, they murdered all the prophets of the Lord who came among them to declare unto them concerning their iniquities; and the blood of those whom they murdered did cry unto the Lord their God for vengeance upon those who were their murderers; and thus the judgments of God did come upon these workers of darkness and secret combinations.",
-                    "score": 0.7533313582075086
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the Lord, which he spake to Elijah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056512845677213
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 136,
-                    "verse": 36,
-                    "text": "For they killed the prophets, and them that were sent unto them; and they have shed innocent blood, which crieth from the ground against them.",
-                    "score": 0.7487037932925572
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 9,
+                    "verse": 7,
+                    "text": "And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezebel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024946388243558
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the Lord, which he spake to Elijah.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9131756166147059
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 10,
+                    "verse": 11,
+                    "text": "So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9023079159626924
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 18,
-                    "verse": 24,
-                    "text": "And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth.",
-                    "score": 0.7471730386897406
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Words of Mormon",
-                    "chapter": 1,
-                    "verse": 18,
-                    "text": "Wherefore, with the help of these, king Benjamin, by laboring with all the might of his body and the faculty of his whole soul, and also the prophets, did once more establish peace in the land.",
-                    "score": 0.7400042571333844
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 19,
-                    "verse": 4,
-                    "text": "And now there was a man among them whose name was Gideon, and he being a strong man and an enemy to the king, therefore he drew his sword, and swore in his wrath that he would slay the king.",
-                    "score": 0.7390335077286321
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "And when the Jews heard these things they were angry with him; yea, even as with the prophets of old, whom they had cast out, and stoned, and slain; and they also sought his life, that they might take it away. But behold, I, Nephi, will show unto you that the tender mercies of the Lord are over all those whom he hath chosen, because of their faith, to make them mighty even unto the power of deliverance.",
-                    "score": 0.7371826501114583
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 19,
-                    "verse": 15,
-                    "text": "And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.",
-                    "score": 0.736481590163441
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 44,
-                    "verse": 8,
-                    "text": "And now it came to pass that when Zerahemnah had heard these sayings he came forth and delivered up his sword and his cimeter, and his bow into the hands of Moroni, and said unto him: Behold, here are our weapons of war; we will deliver them up unto you, but we will not suffer ourselves to take an oath unto you, which we know that we shall break, and also our children; but take our weapons of war, and suffer that we may depart into the wilderness; otherwise we will retain our swords, and we will perish or conquer.",
-                    "score": 0.7364812086382182
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 19,
-                    "text": "And it came to pass that his servants ran and told the queen all that had happened unto the king. And she came in unto the king; and when she saw him lay as if he were dead, and also Aaron and his brethren standing as though they had been the cause of his fall, she was angry with them, and commanded that her servants, or the servants of the king, should take them and slay them.",
-                    "score": 0.7363396407085906
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "And it had come to pass, yea, all things, every whit, according to the words of the prophets.",
-                    "score": 0.7330490699621396
+                    "verse": 16,
+                    "text": "So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9010071518438224
                 }
             ]
         },
         {
             "verse": 2,
             "text": "Then Jezebel sent a messenger unto Elijah, saying, So let the gods do to me, and more also, if I make not thy life as the life of one of them by to morrow about this time.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.",
-                    "score": 0.7824234398653304
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 25,
-                    "verse": 5,
-                    "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord;",
-                    "score": 0.7765043780743004
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 33,
-                    "text": "He called me by name, and said unto me that he was a messenger sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do; and that my name should be had for good and evil among all nations, kindreds, and tongues, or that it should be both good and evil spoken of among all people.",
-                    "score": 0.7746646373300833
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 13,
-                    "text": "Thou didst send thine angel to deliver me from the gods of Elkenah, and I will do well to hearken unto thy voice, therefore let thy servant rise up and depart in peace.",
-                    "score": 0.7636642898423508
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 52,
-                    "text": "And let mine handmaid, Emma Smith, receive all those that have been given unto my servant Joseph, and who are virtuous and pure before me; and those who are not pure, and have said they were pure, shall be destroyed, saith the Lord God.",
-                    "score": 0.7616149659443977
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 6,
-                    "verse": 25,
-                    "text": "And, behold, I grant unto you a gift, if you desire of me, to translate, even as my servant Joseph.",
-                    "score": 0.7603230023782781
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 53,
-                    "text": "For I am the Lord thy God, and ye shall obey my voice; and I give unto my servant Joseph that he shall be made ruler over many things; for he hath been faithful over a few things, and from henceforth I will strengthen him.",
-                    "score": 0.7583163094918725
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 40,
-                    "text": "Let my servant Orson Hyde journey with my servant Orson Pratt, whithersoever my servant Joseph Smith, Jun., shall counsel them, in obtaining the fulfilment of these commandments which I have given unto you, and leave the residue in my hands. Even so. Amen.",
-                    "score": 0.7573037499505537
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 5,
-                    "verse": 19,
-                    "text": "And behold, the words of the Lord had been fulfilled unto my brethren, which he spake concerning them, that I should be their ruler and their teacher. Wherefore, I had been their ruler and their teacher, according to the commandments of the Lord, until the time they sought to take away my life.",
-                    "score": 0.7570621312995476
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Philippians",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.",
-                    "score": 0.7563964831339496
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 3,
             "text": "And when he saw that, he arose, and went for his life, and came to Beer-sheba, which belongeth to Judah, and left his servant there.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "And when he was departed thence, he went into their synagogue:",
-                    "score": 0.7957124704467983
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 23,
+                    "text": "And he went up from thence to Beer-sheba.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8443323320057583
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 9,
-                    "verse": 7,
-                    "text": "And he arose, and departed to his house.",
-                    "score": 0.7842390075761967
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 14,
-                    "verse": 20,
-                    "text": "Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.",
-                    "score": 0.7774221929670017
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 51,
-                    "text": "And as he was now going down, his servants met him, and told him, saying, Thy son liveth.",
-                    "score": 0.7724809211935905
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 46,
                     "verse": 1,
-                    "text": "And he went out from thence, and came into his own country; and his disciples follow him.",
-                    "score": 0.7674585458790266
+                    "text": "And Israel took his journey with all that he had, and came to Beer-sheba, and offered sacrifices unto the God of his father Isaac.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8294419374128864
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 12,
-                    "text": "And I looked and beheld a man among the Gentiles, who was separated from the seed of my brethren by the many waters; and I beheld the Spirit of God, that it came down and wrought upon the man; and he went forth upon the many waters, even unto the seed of my brethren, who were in the promised land.",
-                    "score": 0.7670153124126511
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 28,
+                    "verse": 10,
+                    "text": "And Jacob went out from Beer-sheba, and went toward Haran.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8221928408265097
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 6,
-                    "verse": 25,
-                    "text": "And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?",
-                    "score": 0.7635516464194482
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 19,
+                    "text": "So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8133586775413003
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 22,
-                    "text": "And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.",
-                    "score": 0.7605461633073561
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the Lord God of their fathers.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803528264954415
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 26,
-                    "text": "And it came to pass that Enoch journeyed in the land, among the people; and as he journeyed, the Spirit of God descended out of heaven, and abode upon him.",
-                    "score": 0.7600600109941859
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 23,
+                    "text": "And he went up from thence to Beer-sheba.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9090130925178787
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 12,
-                    "verse": 17,
-                    "text": "But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.",
-                    "score": 0.7596210244797802
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 9,
+                    "verse": 21,
+                    "text": "And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9015903414244063
                 }
             ]
         },
@@ -268,82 +147,32 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 16,
                     "verse": 9,
                     "text": "And it came to pass that the voice of the Lord spake unto my father by night, and commanded him that on the morrow he should take his journey into the wilderness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8072054525471507
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 8,
                     "text": "Yea, even he should go forth and cry in the wilderness: Prepare ye the way of the Lord, and make his paths straight; for there standeth one among you whom ye know not; and he is mightier than I, whose shoe's latchet I am not worthy to unloose. And much spake my father concerning this thing.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8046092301928834
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 17,
                     "verse": 44,
                     "text": "Wherefore, the Lord commanded my father that he should depart into the wilderness; and the Jews also sought to take away his life; yea, and ye also have sought to take away his life; wherefore, ye are murderers in your hearts and ye are like unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8009282669316692
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 5,
-                    "verse": 16,
-                    "text": "And he withdrew himself into the wilderness, and prayed.",
-                    "score": 0.7931818088948415
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 2,
-                    "text": "And it came to pass that the Lord commanded my father, even in a dream, that he should take his family and depart into the wilderness.",
-                    "score": 0.7791288863535164
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 34,
-                    "text": "And I also spake unto him, saying: Surely the Lord hath commanded us to do this thing; and shall we not be diligent in keeping the commandments of the Lord? Therefore, if thou wilt go down into the wilderness to my father thou shalt have place with us.",
-                    "score": 0.7690895479588064
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 9,
-                    "verse": 6,
-                    "text": "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.",
-                    "score": 0.7665997623377182
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 16,
-                    "verse": 35,
-                    "text": "And it came to pass that the daughters of Ishmael did mourn exceedingly, because of the loss of their father, and because of their afflictions in the wilderness; and they did murmur against my father, because he had brought them out of the land of Jerusalem, saying: Our father is dead; yea, and we have wandered much in the wilderness, and we have suffered much affliction, hunger, thirst, and fatigue; and after all these sufferings we must perish in the wilderness with hunger.",
-                    "score": 0.7634560624768446
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 3,
-                    "verse": 18,
-                    "text": "And I, the Lord God, said unto mine Only Begotten, that it was not good that the man should be alone; wherefore, I will make an help meet for him.",
-                    "score": 0.7559142127564874
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and said unto him: Blessed art thou Lehi, because of the things which thou hast done; and because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.",
-                    "score": 0.7532454930486339
                 }
             ]
         },
@@ -352,256 +181,45 @@
             "text": "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 21,
-                    "text": "And the angel said unto me: Behold the Lamb of God, yea, even the Son of the Eternal Father! Knowest thou the meaning of the tree which thy father saw?",
-                    "score": 0.7931352318116979
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 22,
-                    "verse": 43,
-                    "text": "And there appeared an angel unto him from heaven, strengthening him.",
-                    "score": 0.7877408927529265
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 14,
-                    "text": "And the angel said unto me: Behold thy seed, and also the seed of thy brethren.",
-                    "score": 0.7782325638423709
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 4,
-                    "verse": 28,
-                    "text": "And I, the Lord God, said unto mine Only Begotten: Behold, the man is become as one of us to know good and evil; and now lest he put forth his hand and partake also of the tree of life, and eat and live forever,",
-                    "score": 0.7686529460787438
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
                     "verse": 7,
-                    "text": "As I was journeying to see a very near kindred, behold an angel of the Lord appeared unto me and said: Amulek, return to thine own house, for thou shalt feed a prophet of the Lord; yea, a holy man, who is a chosen man of God; for he has fasted many days because of the sins of this people, and he is an hungered, and thou shalt receive him into thy house and feed him, and he shall bless thee and thy house; and the blessing of the Lord shall rest upon thee and thy house.",
-                    "score": 0.7669239156615962
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 3,
-                    "verse": 2,
-                    "text": "And the things which I shall tell you are made known unto me by an angel from God. And he said unto me: Awake; and I awoke, and behold he stood before me.",
-                    "score": 0.764813012755366
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 4,
-                    "verse": 11,
-                    "text": "Then the devil leaveth him, and, behold, angels came and ministered unto him.",
-                    "score": 0.7645526426662862
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 14,
-                    "text": "And it came to pass that I saw the heavens open; and an angel came down and stood before me; and he said unto me: Nephi, what beholdest thou?",
-                    "score": 0.7631854004841878
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 5,
-                    "verse": 18,
-                    "text": "And he said unto the servant: Behold, the branches of the wild tree have taken hold of the moisture of the root thereof, that the root thereof hath brought forth much strength; and because of the much strength of the root thereof the wild branches have brought forth tame fruit. Now, if we had not grafted in these branches, the tree thereof would have perished. And now, behold, I shall lay up much fruit, which the tree thereof hath brought forth; and the fruit thereof I shall lay up against the season, unto mine own self.",
-                    "score": 0.7630791048693888
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
-                    "verse": 8,
-                    "text": "But behold, the voice said unto me: Arise. And I arose and stood up, and beheld the angel.",
-                    "score": 0.7625547632234408
+                    "text": "And the angel of the Lord came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9110803167080718
                 }
             ]
         },
         {
             "verse": 6,
             "text": "And he looked, and, behold, there was a cake baken on the coals, and a cruse of water at his head. And he did eat and drink, and laid him down again.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 10,
-                    "verse": 10,
-                    "text": "And he became very hungry, and would have eaten: but while they made ready, he fell into a trance,",
-                    "score": 0.7626472921784573
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 12,
-                    "verse": 20,
-                    "text": "Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.",
-                    "score": 0.7399860774167313
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 17,
-                    "verse": 22,
-                    "text": "And when he had done this he wept again;",
-                    "score": 0.7391485554438199
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 20,
-                    "verse": 11,
-                    "text": "When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed.",
-                    "score": 0.7319230732584513
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 11,
-                    "verse": 37,
-                    "text": "And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.",
-                    "score": 0.7238587291167308
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 17,
-                    "text": "Now the joy of Ammon was so great even that he was full; yea, he was swallowed up in the joy of his God, even to the exhausting of his strength; and he fell again to the earth.",
-                    "score": 0.7204663364246138
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 14,
-                    "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
-                    "score": 0.7178445476436863
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "James",
-                    "chapter": 5,
-                    "verse": 18,
-                    "text": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.",
-                    "score": 0.7122685891092467
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 3,
-                    "text": "And it came to pass that he brake bread again and blessed it, and gave to the disciples to eat.",
-                    "score": 0.7116706001851988
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 27,
-                    "verse": 35,
-                    "text": "And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken it, he began to eat.",
-                    "score": 0.711019001297782
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 7,
             "text": "And the angel of the Lord came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.",
-                    "score": 0.7964658700601969
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 15,
+                    "text": "And the angel of the Lord called unto Abraham out of heaven the second time,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8247244895994138
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 9,
-                    "text": "Nevertheless, the Lord has shown unto me that they should return again. And he also has shown unto me that the Lord God, the Holy One of Israel, should manifest himself unto them in the flesh; and after he should manifest himself they should scourge him and crucify him, according to the words of the angel who spake it unto me.",
-                    "score": 0.7897790731150212
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 7,
-                    "text": "As I was journeying to see a very near kindred, behold an angel of the Lord appeared unto me and said: Amulek, return to thine own house, for thou shalt feed a prophet of the Lord; yea, a holy man, who is a chosen man of God; for he has fasted many days because of the sins of this people, and he is an hungered, and thou shalt receive him into thy house and feed him, and he shall bless thee and thy house; and the blessing of the Lord shall rest upon thee and thy house.",
-                    "score": 0.7874063104572503
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 10,
-                    "verse": 14,
-                    "text": "And again, to another, the beholding of angels and ministering spirits;",
-                    "score": 0.7827387362341606
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And the voice which I heard from heaven spake unto me again, and said, Go and take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.",
-                    "score": 0.7755538054560928
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 30,
-                    "text": "And it came to pass that the angel spake unto me again, saying: Look! And I looked, and I beheld the heavens open again, and I saw angels descending upon the children of men; and they did minister unto them.",
-                    "score": 0.7728066993069882
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 8,
-                    "verse": 55,
-                    "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
-                    "score": 0.7714168760713767
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "James",
-                    "chapter": 5,
-                    "verse": 18,
-                    "text": "And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.",
-                    "score": 0.7708162170316528
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 32,
-                    "text": "And it came to pass that the angel spake unto me again, saying: Look! And I looked and beheld the Lamb of God, that he was taken by the people; yea, the Son of the everlasting God was judged of the world; and I saw and bear record.",
-                    "score": 0.7707660487740304
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 21,
-                    "verse": 16,
-                    "text": "He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.",
-                    "score": 0.7706622585501457
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 5,
+                    "text": "And as he lay and slept under a juniper tree, behold, then an angel touched him, and said unto him, Arise and eat.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9110803167080718
                 }
             ]
         },
@@ -610,84 +228,124 @@
             "text": "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 10,
+                    "verse": 10,
+                    "text": "And I stayed in the mount, according to the first time, forty days and forty nights; and the Lord hearkened unto me at that time also, and the Lord would not destroy thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.838912704949167
+                },
+                {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 4,
                     "verse": 2,
                     "text": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8372771232762755
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 34,
+                    "verse": 28,
+                    "text": "And he was there with the Lord forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8245135002306113
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 9,
+                    "verse": 18,
+                    "text": "And I fell down before the Lord, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which ye sinned, in doing wickedly in the sight of the Lord, to provoke him to anger.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8226640338328425
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 24,
+                    "verse": 18,
+                    "text": "And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8217214186308813
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 9,
+                    "verse": 9,
+                    "text": "When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which the Lord made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8147054544457208
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "And it came to pass at the end of forty days and forty nights, that the Lord gave me the two tables of stone, even the tables of the covenant.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106919044429451
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 13,
                     "text": "And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8097912496459515
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 34,
+                    "verse": 28,
+                    "text": "And he was there with the Lord forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9125519111566927
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 24,
+                    "verse": 18,
+                    "text": "And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9111529800527403
+                },
+                {
                     "volume": "New Testament",
-                    "book": "Luke",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 4,
                     "verse": 2,
-                    "text": "Being forty days tempted of the devil. And in those days he did eat nothing: and when they were ended, he afterward hungered.",
-                    "score": 0.7955312237770171
+                    "text": "And when he had fasted forty days and forty nights, he was afterward an hungred.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9098115832175212
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:",
-                    "score": 0.7943373362465305
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 13,
-                    "verse": 5,
-                    "text": "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.",
-                    "score": 0.77094251719734
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 9,
-                    "verse": 19,
-                    "text": "And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.",
-                    "score": 0.767960246574897
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 8,
-                    "verse": 55,
-                    "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
-                    "score": 0.764303117947455
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 6,
-                    "verse": 56,
-                    "text": "He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him.",
-                    "score": 0.7640347103794258
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 7,
-                    "verse": 15,
-                    "text": "And it came to pass that when I, Jacob, had spoken these words, the power of the Lord came upon him, insomuch that he fell to the earth. And it came to pass that he was nourished for the space of many days.",
-                    "score": 0.7622292927526741
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 34,
-                    "text": "Yea, he saith: Come unto me and ye shall partake of the fruit of the tree of life; yea, ye shall eat and drink of the bread and the waters of life freely;",
-                    "score": 0.7618841574359161
+                    "verse": 9,
+                    "text": "When I was gone up into the mount to receive the tables of stone, even the tables of the covenant which the Lord made with you, then I abode in the mount forty days and forty nights, I neither did eat bread nor drink water:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9061308782902867
                 }
             ]
         },
@@ -696,84 +354,224 @@
             "text": "And he came thither unto a cave, and lodged there; and, behold, the word of the Lord came to him, and he said unto him, What doest thou here, Elijah?",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "And it came to pass as he prayed unto the Lord, there came a pillar of fire and dwelt upon a rock before him; and he saw and heard much; and because of the things which he saw and heard he did quake and tremble exceedingly.",
-                    "score": 0.7923220935618075
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 16,
-                    "verse": 32,
-                    "text": "And they spake unto him the word of the Lord, and to all that were in his house.",
-                    "score": 0.7893913186450641
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 7,
-                    "text": "And it came to pass that after I, Nephi, had been in the land of Bountiful for the space of many days, the voice of the Lord came unto me, saying: Arise, and get thee into the mountain. And it came to pass that I arose and went up into the mountain, and cried unto the Lord.",
-                    "score": 0.7867770639311821
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 3,
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
                     "verse": 13,
-                    "text": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.",
-                    "score": 0.7813992098931939
+                    "text": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, there came a voice unto him, and said, What doest thou here, Elijah?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8714237609320125
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 1,
-                    "text": "Hearken unto me, ye that follow after righteousness. Look unto the rock from whence ye are hewn, and to the hole of the pit from whence ye are digged.",
-                    "score": 0.7708225572996662
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 3,
-                    "text": "And it came to pass that he was obedient unto the word of the Lord, wherefore he did as the Lord commanded him.",
-                    "score": 0.7705019234470748
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 38,
-                    "text": "And they came forth to hear him, upon the high places, saying unto the tent-keepers: Tarry ye here and keep the tents, while we go yonder to behold the seer, for he prophesieth, and there is a strange thing in the land; a wild man hath come among us.",
-                    "score": 0.7670227495455326
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "Wherefore, I must tell you the truth according to the plainness of the word of God. For behold, as I inquired of the Lord, thus came the word unto me, saying: Jacob, get thou up into the temple on the morrow, and declare the word which I shall give thee unto this people.",
-                    "score": 0.766758977499657
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 11,
-                    "verse": 34,
-                    "text": "And said, Where have ye laid him? They said unto him, Lord, come and see.",
-                    "score": 0.7647299832525527
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 21,
                     "verse": 17,
-                    "text": "And it came to pass that thus he did go forth in the Spirit, from multitude to multitude, declaring the word of God, even until he had declared it unto them all, or sent it forth among all the people.",
-                    "score": 0.7631611699805014
+                    "text": "And the word of the Lord came to Elijah the Tishbite, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.846833005600476
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 21,
+                    "verse": 28,
+                    "text": "And the word of the Lord came to Elijah the Tishbite, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.846833005600476
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 17,
+                    "verse": 8,
+                    "text": "And the word of the Lord came unto him, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8369888792259029
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 17,
+                    "verse": 2,
+                    "text": "And the word of the Lord came unto him, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8369888792259029
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 6,
+                    "verse": 9,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 21,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 22,
+                    "verse": 17,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 22,
+                    "verse": 23,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 34,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 38,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 6,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 12,
+                    "verse": 21,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 13,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 14,
+                    "verse": 2,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 15,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 17,
+                    "verse": 1,
+                    "text": "And the word of the Lord came unto me, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018266979632904
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 13,
+                    "text": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, there came a voice unto him, and said, What doest thou here, Elijah?",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8285191859580057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 13,
+                    "text": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, there came a voice unto him, and said, What doest thou here, Elijah?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9447015739532675
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 21,
+                    "verse": 17,
+                    "text": "And the word of the Lord came to Elijah the Tishbite, saying,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9087520674619796
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 21,
+                    "verse": 28,
+                    "text": "And the word of the Lord came to Elijah the Tishbite, saying,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9087472883240394
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 8,
+                    "text": "And he answered him, I am: go, tell thy lord, Behold, Elijah is here.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905698803237055
                 }
             ]
         },
@@ -782,84 +580,164 @@
             "text": "And he said, I have been very jealous for the Lord God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 14,
+                    "text": "And he said, I have been very jealous for the Lord God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9969863356833394
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "So the angel that communed with me said unto me, Cry thou, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.833376865776091
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 23,
+                    "verse": 25,
+                    "text": "And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8311369203798213
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 5,
+                    "text": "Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8285642536752701
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 8,
+                    "verse": 2,
+                    "text": "Thus saith the Lord of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8272376066539796
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 6,
+                    "verse": 15,
+                    "text": "(For the Lord thy God is a jealous God among you) lest the anger of the Lord thy God be kindled against thee, and destroy thee from off the face of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8225473323631882
+                },
+                {
                     "volume": "New Testament",
                     "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 11,
                     "verse": 3,
                     "text": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8103432657157484
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 13,
-                    "text": "And again: Thou shalt not bow down thyself unto them, nor serve them; for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children, unto the third and fourth generations of them that hate me;",
-                    "score": 0.799044352250197
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 39,
+                    "verse": 25,
+                    "text": "Therefore thus saith the Lord God; Now will I bring again the captivity of Jacob, and have mercy upon the whole house of Israel, and will be jealous for my holy name;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064419825225178
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 24,
-                    "text": "And inasmuch as mine enemies come against you to drive you from my goodly land, which I have consecrated to be the land of Zion, even from your own lands after these testimonies, which ye have brought before me against them, ye shall curse them;",
-                    "score": 0.7920865275481905
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
                     "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.7912952679772713
+                    "text": "Thou shalt not bow down thyself unto them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056497697712854
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and said unto him: Blessed art thou Lehi, because of the things which thou hast done; and because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.",
-                    "score": 0.7905227600314189
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 20,
+                    "verse": 5,
+                    "text": "Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035556199226191
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 8,
-                    "text": "And now I, Jacob, would speak somewhat concerning these words. For behold, the Lord has shown me that those who were at Jerusalem, from whence we came, have been slain and carried away captive.",
-                    "score": 0.7858570610164971
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 49,
+                    "verse": 37,
+                    "text": "For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, saith the Lord; and I will send the sword after them, till I have consumed them:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021945869735605
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 104,
-                    "verse": 4,
-                    "text": "Therefore, inasmuch as some of my servants have not kept the commandment, but have broken the covenant through covetousness, and with feigned words, I have cursed them with a very sore and grievous curse.",
-                    "score": 0.7852419434261569
+                    "volume": "Old Testament",
+                    "book": "Nahum",
+                    "volume_book_index": 34,
+                    "chapter": 1,
+                    "verse": 2,
+                    "text": "God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011398272024537
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 6,
+                    "text": "Prophesy therefore concerning the land of Israel, and say unto the mountains, and to the hills, to the rivers, and to the valleys, Thus saith the Lord God; Behold, I have spoken in my jealousy and in my fury, because ye have borne the shame of the heathen:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005672281695194
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 14,
+                    "text": "And he said, I have been very jealous for the Lord God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.989740489690364
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 14,
+                    "text": "And he said, I have been very jealous for the Lord God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9987064005486488
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 11,
-                    "verse": 22,
-                    "text": "And it shall come to pass that they shall know that I am the Lord their God, and am a jealous God, visiting the iniquities of my people.",
-                    "score": 0.7829716647170616
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 31,
-                    "text": "For behold, I, the Lord, have seen the sorrow, and heard the mourning of the daughters of my people in the land of Jerusalem, yea, and in all the lands of my people, because of the wickedness and abominations of their husbands.",
-                    "score": 0.7811398011517384
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 96,
-                    "text": "For I, the Almighty, have laid my hands upon the nations, to scourge them for their wickedness.",
-                    "score": 0.7807116962746894
+                    "verse": 3,
+                    "text": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9145982367279247
                 }
             ]
         },
@@ -870,82 +748,42 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 6,
                     "text": "And it came to pass as he prayed unto the Lord, there came a pillar of fire and dwelt upon a rock before him; and he saw and heard much; and because of the things which he saw and heard he did quake and tremble exceedingly.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8141854673395833
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 33,
+                    "verse": 21,
+                    "text": "And the Lord said, Behold, there is a place by me, and thou shalt stand upon a rock:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8135773239939963
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 48,
                     "text": "And then shall the Lord set his foot upon this mount, and it shall cleave in twain, and the earth shall tremble, and reel to and fro, and the heavens also shall shake.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8113354442125067
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 7,
-                    "text": "For I am the Lord thy God; I dwell in heaven; the earth is my footstool; I stretch my hand over the sea, and it obeys my voice; I cause the wind and the fire to be my chariot; I say to the mountains--Depart hence--and behold, they are taken away by a whirlwind, in an instant, suddenly.",
-                    "score": 0.7952186121194721
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 34,
-                    "text": "Behold my Spirit is upon you, wherefore all thy words will I justify; and the mountains shall flee before you, and the rivers shall turn from their course; and thou shalt abide in me, and I in you; therefore walk with me.",
-                    "score": 0.7862057513355781
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 19,
-                    "verse": 28,
-                    "text": "And when he had thus spoken, he went before, ascending up to Jerusalem.",
-                    "score": 0.7830509409049559
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
                     "chapter": 1,
-                    "verse": 1,
-                    "text": "The words of God, which he spake unto Moses at a time when Moses was caught up into an exceedingly high mountain,",
-                    "score": 0.7826515174676993
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 23,
-                    "text": "Wherefore, be not deceived, but continue in steadfastness, looking forth for the heavens to be shaken, and the earth to tremble and to reel to and fro as a drunken man, and for the valleys to be exalted, and for the mountains to be made low, and for the rough places to become smooth--and all this when the angel shall sound his trumpet.",
-                    "score": 0.782284595090502
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 2,
-                    "text": "And from that time forth Enoch began to prophesy, saying unto the people, that: As I was journeying, and stood upon the place Mahujah, and cried unto the Lord, there came a voice out of heaven, saying--Turn ye, and get ye upon the mount Simeon.",
-                    "score": 0.7716482160492812
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 44,
-                    "text": "Wherefore, I am in your midst, and I am the good shepherd, and the stone of Israel. He that buildeth upon this rock shall never fall.",
-                    "score": 0.7695981887375697
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 11,
-                    "text": "And as I said unto you, as they were going about rebelling against God, behold, the angel of the Lord appeared unto them; and he descended as it were in a cloud; and he spake as it were with a voice of thunder, which caused the earth to shake upon which they stood;",
-                    "score": 0.7688579399595262
+                    "verse": 3,
+                    "text": "For, behold, the Lord cometh forth out of his place, and will come down, and tread upon the high places of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.804428757367855
                 }
             ]
         },
@@ -954,84 +792,14 @@
             "text": "And after the earthquake a fire; but the Lord was not in the fire: and after the fire a still small voice.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 45,
-                    "text": "Ye are swift to do iniquity but slow to remember the Lord your God. Ye have seen an angel, and he spake unto you; yea, ye have heard his voice from time to time; and he hath spoken unto you in a still small voice, but ye were past feeling, that ye could not feel his words; wherefore, he has spoken unto you like unto the voice of thunder, which did cause the earth to shake as if it were to divide asunder.",
-                    "score": 0.7818809272597474
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 5,
-                    "verse": 31,
-                    "text": "And notwithstanding the mildness of the voice, behold the earth shook exceedingly, and the walls of the prison trembled again, as if it were about to tumble to the earth; and behold the cloud of darkness, which had overshadowed them, did not disperse--",
-                    "score": 0.7740302515778108
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 16,
-                    "verse": 18,
-                    "text": "And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great.",
-                    "score": 0.7683507555435658
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "And it came to pass as he prayed unto the Lord, there came a pillar of fire and dwelt upon a rock before him; and he saw and heard much; and because of the things which he saw and heard he did quake and tremble exceedingly.",
-                    "score": 0.765802861541266
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 15,
-                    "text": "And they that believe not in him shall be destroyed, both by fire, and by tempest, and by earthquakes, and by bloodsheds, and by pestilence, and by famine. And they shall know that the Lord is God, the Holy One of Israel.",
-                    "score": 0.761162223643643
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 12,
-                    "verse": 18,
-                    "text": "For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,",
-                    "score": 0.7609184089751475
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 5,
-                    "verse": 23,
-                    "text": "And it came to pass that Nephi and Lehi were encircled about as if by fire, even insomuch that they durst not lay their hands upon them for fear lest they should be burned. Nevertheless, Nephi and Lehi were not burned; and they were as standing in the midst of fire and were not burned.",
-                    "score": 0.7587703967204882
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 4,
                     "verse": 12,
-                    "text": "For the Lord had not hitherto suffered that we should make much fire, as we journeyed in the wilderness; for he said: I will make thy food become sweet, that ye cook it not;",
-                    "score": 0.7570887562690793
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 18,
-                    "text": "And now Alma and those that were with him fell again to the earth, for great was their astonishment; for with their own eyes they had beheld an angel of the Lord; and his voice was as thunder, which shook the earth; and they knew that there was nothing save the power of God that could shake the earth and cause it to tremble as though it would part asunder.",
-                    "score": 0.7570771099630335
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "Yea, behold at his voice do the hills and the mountains tremble and quake.",
-                    "score": 0.7561972076403686
+                    "text": "And the Lord spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8224691966837309
                 }
             ]
         },
@@ -1040,84 +808,34 @@
             "text": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, there came a voice unto him, and said, What doest thou here, Elijah?",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 7,
-                    "text": "And it came to pass that after I, Nephi, had been in the land of Bountiful for the space of many days, the voice of the Lord came unto me, saying: Arise, and get thee into the mountain. And it came to pass that I arose and went up into the mountain, and cried unto the Lord.",
-                    "score": 0.7804810811411881
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 9,
+                    "text": "And he came thither unto a cave, and lodged there; and, behold, the word of the Lord came to him, and he said unto him, What doest thou here, Elijah?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8714237609320125
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 14,
-                    "text": "And it came to pass that after he had poured out his whole soul to God, the voice of the Lord came to him, saying:",
-                    "score": 0.779702068990449
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 9,
+                    "text": "And he came thither unto a cave, and lodged there; and, behold, the word of the Lord came to him, and he said unto him, What doest thou here, Elijah?",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8285191859580057
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 12,
-                    "text": "And it came to pass that he cried mightily unto the Lord all that day; and behold, the voice of the Lord came unto him, saying:",
-                    "score": 0.7787523096742968
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 9,
-                    "verse": 37,
-                    "text": "And it came to pass that they went and did, even according as Nephi had said unto them. And behold, the words which he had said were true; for according to the words he did deny; and also according to the words he did confess.",
-                    "score": 0.7682729118141567
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 31,
-                    "text": "When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him,",
-                    "score": 0.7678437495764151
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 11,
-                    "text": "And I said unto him: To know the interpretation thereof--for I spake unto him as a man speaketh; for I beheld that he was in the form of a man; yet nevertheless, I knew that it was the Spirit of the Lord; and he spake unto me as a man speaketh with another.",
-                    "score": 0.7668161348992361
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 7,
-                    "verse": 13,
-                    "text": "And it came to pass that he opened his mouth and said unto them: Behold, why have ye gathered yourselves together? That I may tell you of your iniquities?",
-                    "score": 0.7636318209557106
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And it came to pass that I obeyed the voice of the angel, and returned towards my house. And as I was going thither I found the man whom the angel said unto me: Thou shalt receive into thy house--and behold it was this same man who has been speaking unto you concerning the things of God.",
-                    "score": 0.7632959137189259
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "And it came to pass as he prayed unto the Lord, there came a pillar of fire and dwelt upon a rock before him; and he saw and heard much; and because of the things which he saw and heard he did quake and tremble exceedingly.",
-                    "score": 0.762432042761729
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.",
-                    "score": 0.762195653533331
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 9,
+                    "text": "And he came thither unto a cave, and lodged there; and, behold, the word of the Lord came to him, and he said unto him, What doest thou here, Elijah?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9447015739532675
                 }
             ]
         },
@@ -1126,84 +844,144 @@
             "text": "And he said, I have been very jealous for the Lord God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 10,
+                    "text": "And he said, I have been very jealous for the Lord God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9969863356833394
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "So the angel that communed with me said unto me, Cry thou, saying, Thus saith the Lord of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8360913265231255
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 8,
+                    "verse": 2,
+                    "text": "Thus saith the Lord of hosts; I was jealous for Zion with great jealousy, and I was jealous for her with great fury.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.835135020782384
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 5,
+                    "text": "Therefore thus saith the Lord God; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all their heart, with despiteful minds, to cast it out for a prey.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8257515813414404
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 23,
+                    "verse": 25,
+                    "text": "And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8249000423158325
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 6,
+                    "verse": 15,
+                    "text": "(For the Lord thy God is a jealous God among you) lest the anger of the Lord thy God be kindled against thee, and destroy thee from off the face of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8188327748620471
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 9,
+                    "text": "Thou shalt not bow down thyself unto them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050228705797317
+                },
+                {
                     "volume": "New Testament",
                     "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 11,
                     "verse": 3,
                     "text": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8040510228369244
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 13,
-                    "text": "And again: Thou shalt not bow down thyself unto them, nor serve them; for I the Lord thy God am a jealous God, visiting the iniquities of the fathers upon the children, unto the third and fourth generations of them that hate me;",
-                    "score": 0.7985058440440111
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 20,
+                    "verse": 5,
+                    "text": "Thou shalt not bow down thyself to them, nor serve them: for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033558002538381
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 39,
+                    "verse": 25,
+                    "text": "Therefore thus saith the Lord God; Now will I bring again the captivity of Jacob, and have mercy upon the whole house of Israel, and will be jealous for my holy name;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8031420174410145
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 1,
                     "verse": 24,
-                    "text": "And inasmuch as mine enemies come against you to drive you from my goodly land, which I have consecrated to be the land of Zion, even from your own lands after these testimonies, which ye have brought before me against them, ye shall curse them;",
-                    "score": 0.7924871470483438
+                    "text": "Therefore saith the Lord, the Lord of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001101739801849
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.7911380508071295
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 10,
+                    "text": "And he said, I have been very jealous for the Lord God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.989740489690364
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 104,
-                    "verse": 4,
-                    "text": "Therefore, inasmuch as some of my servants have not kept the commandment, but have broken the covenant through covetousness, and with feigned words, I have cursed them with a very sore and grievous curse.",
-                    "score": 0.7827704466471848
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 10,
+                    "text": "And he said, I have been very jealous for the Lord God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9987064005486488
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and said unto him: Blessed art thou Lehi, because of the things which thou hast done; and because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.",
-                    "score": 0.7817086861263878
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 31,
-                    "text": "For behold, I, the Lord, have seen the sorrow, and heard the mourning of the daughters of my people in the land of Jerusalem, yea, and in all the lands of my people, because of the wickedness and abominations of their husbands.",
-                    "score": 0.7816006104461527
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 8,
-                    "text": "And now I, Jacob, would speak somewhat concerning these words. For behold, the Lord has shown me that those who were at Jerusalem, from whence we came, have been slain and carried away captive.",
-                    "score": 0.7814331644505922
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 10,
-                    "verse": 12,
-                    "text": "Yea, even my father spake much concerning the Gentiles, and also concerning the house of Israel, that they should be compared like unto an olive tree, whose branches should be broken off and should be scattered upon all the face of the earth.",
-                    "score": 0.7801010340295343
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
+                    "volume": "New Testament",
+                    "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 11,
-                    "verse": 22,
-                    "text": "And it shall come to pass that they shall know that I am the Lord their God, and am a jealous God, visiting the iniquities of my people.",
-                    "score": 0.7799318513083247
+                    "verse": 3,
+                    "text": "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9114403234195324
                 }
             ]
         },
@@ -1212,84 +990,74 @@
             "text": "And the Lord said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael to be king over Syria:",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 22,
+                    "text": "And the prophet came to the king of Israel, and said unto him, Go, strengthen thyself, and mark, and see what thou doest: for at the return of the year the king of Syria will come up against thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8273632476405487
+                },
+                {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 22,
                     "verse": 10,
                     "text": "And I said, What shall I do, Lord? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.808534121605875
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Daniel",
+                    "volume_book_index": 27,
+                    "chapter": 11,
+                    "verse": 28,
+                    "text": "Then shall he return into his land with great riches; and his heart shall be against the holy covenant; and he shall do exploits, and return to his own land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803598783365251
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 8,
+                    "verse": 13,
+                    "text": "And Hazael said, But what, is thy servant a dog, that he should do this great thing? And Elisha answered, The Lord hath shewed me that thou shalt be king over Syria.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027004639498345
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 7,
                     "verse": 3,
                     "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8002791278461802
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 15,
-                    "text": "And it came to pass that Ammon said unto them: Behold, I and my brethren will go forth into the land of Zarahemla, and ye shall remain here until we return; and we will try the hearts of our brethren, whether they will that ye shall come into their land.",
-                    "score": 0.7950467377990496
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 136,
-                    "verse": 1,
-                    "text": "The Word and Will of the Lord concerning the Camp of Israel in their journeyings to the West:",
-                    "score": 0.7900260377828688
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 60,
-                    "verse": 1,
-                    "text": "Behold, thus saith the Lord unto the elders of his church, who are to return speedily to the land from whence they came: Behold, it pleaseth me, that you have come up hither;",
-                    "score": 0.7831933613132083
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 7,
-                    "verse": 2,
-                    "text": "And it came to pass that the Lord commanded him that I, Nephi, and my brethren, should again return unto the land of Jerusalem, and bring down Ishmael and his family into the wilderness.",
-                    "score": 0.7821111727771346
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
                     "chapter": 8,
-                    "verse": 11,
-                    "text": "Therefore, the redeemed of the Lord shall return, and come with singing unto Zion; and everlasting joy and holiness shall be upon their heads; and they shall obtain gladness and joy; sorrow and mourning shall flee away.",
-                    "score": 0.7745857464340457
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
-                    "verse": 3,
-                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
-                    "score": 0.7736686677261122
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
                     "verse": 13,
-                    "text": "And it came to pass that he did according as the Lord had commanded him. And they departed out of the land into the wilderness, as many as would hearken unto the voice of the Lord; and they were led by many preachings and prophesyings. And they were admonished continually by the word of God; and they were led by the power of his arm, through the wilderness until they came down into the land which is called the land of Zarahemla.",
-                    "score": 0.7697810315066356
+                    "text": "And Hazael said, But what, is thy servant a dog, that he should do this great thing? And Elisha answered, The Lord hath shewed me that thou shalt be king over Syria.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9054087287674819
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 7,
-                    "verse": 15,
-                    "text": "Now behold, I say unto you that if ye will return unto Jerusalem ye shall also perish with them. And now, if ye have choice, go up to the land, and remember the words which I speak unto you, that if ye go ye will also perish; for thus the Spirit of the Lord constraineth me that I should speak.",
-                    "score": 0.7695683437260085
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 8,
+                    "verse": 9,
+                    "text": "So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels' burden, and came and stood before him, and said, Thy son Ben-hadad king of Syria hath sent me to thee, saying, Shall I recover of this disease?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028247748054232
                 }
             ]
         },
@@ -1298,84 +1066,44 @@
             "text": "And Jehu the son of Nimshi shalt thou anoint to be king over Israel: and Elisha the son of Shaphat of Abel-meholah shalt thou anoint to be prophet in thy room.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 5,
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 9,
                     "verse": 2,
-                    "text": "Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.",
-                    "score": 0.790124253468162
+                    "text": "And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083812020392559
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 25,
-                    "text": "And behold, ye are the children of the prophets; and ye are of the house of Israel; and ye are of the covenant which the Father made with your fathers, saying unto Abraham: And in thy seed shall all the kindreds of the earth be blessed.",
-                    "score": 0.7817753407220499
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 59,
-                    "text": "Therefore, let my servant Joseph and his seed after him have place in that house, from generation to generation, forever and ever, saith the Lord.",
-                    "score": 0.7747929276936089
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 32,
-                    "text": "And the sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion in the Lord's house, whose sons are ye; and also many whom I have called and sent forth to build up my church.",
-                    "score": 0.7705336019558605
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Timothy",
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 6,
-                    "verse": 15,
-                    "text": "Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;",
-                    "score": 0.7696379006361841
+                    "verse": 10,
+                    "text": "The Lord therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the Lord promised, and have built the house for the name of the Lord God of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065245951894732
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
-                    "score": 0.7648488367227831
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 22,
+                    "verse": 10,
+                    "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046059958411323
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 1,
-                    "verse": 49,
-                    "text": "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
-                    "score": 0.7643950522858369
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 14,
-                    "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
-                    "score": 0.7640245456890382
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 11,
-                    "text": "For thus spake the prophet: The Lord God surely shall visit all the house of Israel at that day, some with his voice, because of their righteousness, unto their great joy and salvation, and others with the thunderings and the lightnings of his power, by tempest, by fire, and by smoke, and vapor of darkness, and by the opening of the earth, and by mountains which shall be carried up.",
-                    "score": 0.7622913135404551
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 10,
-                    "verse": 41,
-                    "text": "He that receiveth a prophet in the name of a prophet shall receive a prophet's reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man's reward.",
-                    "score": 0.7619096616554045
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 6,
+                    "verse": 12,
+                    "text": "And one of his servants said, None, my lord, O king: but Elisha, the prophet that is in Israel, telleth the king of Israel the words that thou speakest in thy bedchamber.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034066647218874
                 }
             ]
         },
@@ -1386,82 +1114,82 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 20,
                     "text": "And it shall come to pass, saith the Father, that the sword of my justice shall hang over them at that day; and except they repent it shall fall upon them, saith the Father, yea, even upon all the nations of the Gentiles.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8145366834987364
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 12,
+                    "text": "And it shall come to pass, as soon as I am gone from thee, that the Spirit of the Lord shall carry thee whither I know not; and so when I come and tell Ahab, and he cannot find thee, he shall slay me: but I thy servant fear the Lord from my youth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8100093519085297
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 30,
+                    "verse": 8,
+                    "text": "For it shall come to pass in that day, saith the Lord of hosts, that I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074156458569309
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 68,
                     "text": "And it shall come to pass among the wicked, that every man that will not take his sword against his neighbor must needs flee unto Zion for safety.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8067753651734023
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 20,
+                    "verse": 18,
+                    "text": "And Edom said unto him, Thou shalt not pass by me, lest I come out against thee with the sword.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055867563668114
                 },
                 {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 13,
                     "verse": 10,
                     "text": "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8054600928398342
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 20,
-                    "text": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them, but shall stay upon the Lord, the Holy One of Israel, in truth.",
-                    "score": 0.7950620180766372
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 27,
+                    "verse": 40,
+                    "text": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040372984911429
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 20,
-                    "text": "For it shall come to pass, saith the Father, that at that day whosoever will not repent and come unto my Beloved Son, them will I cut off from among my people, O house of Israel;",
-                    "score": 0.7944630844285231
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 12,
-                    "text": "And it came to pass that the Spirit said unto me again: Slay him, for the Lord hath delivered him into thy hands;",
-                    "score": 0.7903569930757467
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 27,
-                    "text": "And it shall come to pass in that day that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.",
-                    "score": 0.7896950437650538
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 3,
-                    "text": "And it shall come to pass in that day that the Lord shall give thee rest, from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve.",
-                    "score": 0.7839015221464607
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 44,
-                    "verse": 8,
-                    "text": "And now it came to pass that when Zerahemnah had heard these sayings he came forth and delivered up his sword and his cimeter, and his bow into the hands of Moroni, and said unto him: Behold, here are our weapons of war; we will deliver them up unto you, but we will not suffer ourselves to take an oath unto you, which we know that we shall break, and also our children; but take our weapons of war, and suffer that we may depart into the wilderness; otherwise we will retain our swords, and we will perish or conquer.",
-                    "score": 0.7823255738947107
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 79,
-                    "text": "And it shall come to pass, that if any persons among you shall kill they shall be delivered up and dealt with according to the laws of the land; for remember that he hath no forgiveness; and it shall be proved according to the laws of the land.",
-                    "score": 0.7814510217952032
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 15,
+                    "verse": 2,
+                    "text": "And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the Lord; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002669918816646
                 }
             ]
         },
@@ -1472,82 +1200,22 @@
                 {
                     "volume": "New Testament",
                     "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 11,
                     "verse": 4,
                     "text": "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8454392382110212
                 },
                 {
                     "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 18,
-                    "verse": 22,
-                    "text": "Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.",
-                    "score": 0.76343173093833
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 136,
-                    "verse": 37,
-                    "text": "Therefore, marvel not at these things, for ye are not yet pure; ye can not yet bear my glory; but ye shall behold it if ye are faithful in keeping all my words that I have given you, from the days of Adam to Abraham, from Abraham to Moses, from Moses to Jesus and his apostles, and from Jesus and his apostles to Joseph Smith, whom I did call upon by mine angels, my ministering servants, and by mine own voice out of the heavens, to bring forth my work;",
-                    "score": 0.752525751801173
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 7,
-                    "text": "Know ye not that there are more nations than one? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and I bring forth my word unto the children of men, yea, even upon all the nations of the earth?",
-                    "score": 0.7506215772864844
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 4,
-                    "verse": 17,
-                    "text": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,",
-                    "score": 0.7481097591452992
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 12,
-                    "text": "And again, verily, verily, I say unto you, and it hath gone forth in a firm decree, by the will of the Father, that mine apostles, the Twelve which were with me in my ministry at Jerusalem, shall stand at my right hand at the day of my coming in a pillar of fire, being clothed with robes of righteousness, with crowns upon their heads, in glory even as I am, to judge the whole house of Israel, even as many as have loved me and kept my commandments, and none else.",
-                    "score": 0.7450151262710125
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 17,
+                    "book": "Romans",
+                    "volume_book_index": 6,
+                    "chapter": 11,
                     "verse": 4,
-                    "text": "But now I go unto the Father, and also to show myself unto the lost tribes of Israel, for they are not lost unto the Father, for he knoweth whither he hath taken them.",
-                    "score": 0.7445338290169031
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 60,
-                    "verse": 14,
-                    "text": "And after thou hast come up unto the land of Zion, and hast proclaimed my word, thou shalt speedily return, proclaiming my word among the congregations of the wicked, not in haste, neither in wrath nor with strife.",
-                    "score": 0.7433904628603203
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 32,
-                    "text": "Now Alma said unto him: Thou knowest that we do not glut ourselves upon the labors of this people; for behold I have labored even from the commencement of the reign of the judges until now, with mine own hands for my support, notwithstanding my many travels round about the land to declare the word of God unto my people.",
-                    "score": 0.7426423641121853
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 20,
-                    "verse": 27,
-                    "text": "For I have not shunned to declare unto you all the counsel of God.",
-                    "score": 0.7423896845544314
+                    "text": "But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9181129433974096
                 }
             ]
         },
@@ -1556,84 +1224,14 @@
             "text": "So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 18,
-                    "verse": 12,
-                    "text": "And it came to pass that when Ammon had made ready the horses and the chariots for the king and his servants, he went in unto the king, and he saw that the countenance of the king was changed; therefore he was about to return out of his presence.",
-                    "score": 0.7524426167318831
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 2,
-                    "text": "For it came to pass after the Lord had prepared the stones which the brother of Jared had carried up into the mount, the brother of Jared came down out of the mount, and he did put forth the stones into the vessels which were prepared, one in each end thereof; and behold, they did give light unto the vessels.",
-                    "score": 0.7513771031398776
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 3,
-                    "verse": 29,
-                    "text": "And it came to pass as they smote us with a rod, behold, an angel of the Lord came and stood before them, and he spake unto them, saying: Why do ye smite your younger brother with a rod? Know ye not that the Lord hath chosen him to be a ruler over you, and this because of your iniquities? Behold ye shall go up to Jerusalem again, and the Lord will deliver Laban into your hands.",
-                    "score": 0.7482273054953839
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "And it came to pass that he had two sons. He gave unto the eldest the name of Nephi, and unto the youngest, the name of Lehi. And they began to grow up unto the Lord.",
-                    "score": 0.7473245894541427
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
-                    "score": 0.7462489163923505
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
                     "chapter": 2,
-                    "verse": 15,
-                    "text": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother's son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
-                    "score": 0.7453894032940138
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 1,
-                    "verse": 42,
-                    "text": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
-                    "score": 0.7449778556138582
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 1,
-                    "text": "And it came to pass that the brother of Jared, (now the number of the vessels which had been prepared was eight) went forth unto the mount, which they called the mount Shelem, because of its exceeding height, and did molten out of a rock sixteen small stones; and they were white and clear, even as transparent glass; and he did carry them in his hands upon the top of the mount, and cried again unto the Lord, saying:",
-                    "score": 0.7448787872029329
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 26,
-                    "text": "And it came to pass that Enoch journeyed in the land, among the people; and as he journeyed, the Spirit of God descended out of heaven, and abode upon him.",
-                    "score": 0.7441875105108399
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 25,
-                    "text": "That I will bring the Assyrian in my land, and upon my mountains tread him under foot; then shall his yoke depart from off them, and his burden depart from off their shoulders.",
-                    "score": 0.7423646851570214
+                    "verse": 14,
+                    "text": "And he took the mantle of Elijah that fell from him, and smote the waters, and said, Where is the Lord God of Elijah? and when he also had smitten the waters, they parted hither and thither: and Elisha went over.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8378755373024307
                 }
             ]
         },
@@ -1642,84 +1240,14 @@
             "text": "And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said unto him, Go back again: for what have I done to thee?",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 16,
-                    "text": "Now I say unto thee: Go, and remember the captivity of thy fathers in the land of Helam, and in the land of Nephi; and remember how great things he has done for them; for they were in bondage, and he has delivered them. And now I say unto thee, Alma, go thy way, and seek to destroy the church no more, that their prayers may be answered, and this even if thou wilt of thyself be cast off.",
-                    "score": 0.7835915061107493
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 10,
-                    "verse": 17,
-                    "text": "And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?",
-                    "score": 0.7803335870797126
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 9,
-                    "verse": 59,
-                    "text": "And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father.",
-                    "score": 0.775899314752073
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 44,
-                    "text": "Wherefore, the Lord commanded my father that he should depart into the wilderness; and the Jews also sought to take away his life; yea, and ye also have sought to take away his life; wherefore, ye are murderers in your hearts and ye are like unto them.",
-                    "score": 0.7740989653938354
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 4,
-                    "text": "Therefore I left the land of Ur, of the Chaldees, to go into the land of Canaan; and I took Lot, my brother's son, and his wife, and Sarai my wife; and also my father followed after me, unto the land which we denominated Haran.",
-                    "score": 0.7687157549961472
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 3,
-                    "text": "Now the Lord had said unto me: Abraham, get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will show thee.",
-                    "score": 0.767875254570588
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And it came to pass that the voice of the Lord spake unto my father by night, and commanded him that on the morrow he should take his journey into the wilderness.",
-                    "score": 0.7661941903245294
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 7,
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
                     "verse": 21,
-                    "text": "And it came to pass that I did frankly forgive them all that they had done, and I did exhort them that they would pray unto the Lord their God for forgiveness. And it came to pass that they did so. And after they had done praying unto the Lord we did again travel on our journey towards the tent of our father.",
-                    "score": 0.7648508945529087
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 31,
-                    "verse": 12,
-                    "text": "And also, the voice of the Son came unto me, saying: He that is baptized in my name, to him will the Father give the Holy Ghost, like unto me; wherefore, follow me, and do the things which ye have seen me do.",
-                    "score": 0.7629163733269201
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 14,
-                    "verse": 28,
-                    "text": "Ye have heard how I said unto you, I go away, and come again unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.",
-                    "score": 0.7627744726702255
+                    "text": "And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8366689664543425
                 }
             ]
         },
@@ -1728,84 +1256,44 @@
             "text": "And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 20,
+                    "text": "And he left the oxen, and ran after Elijah, and said, Let me, I pray thee, kiss my father and my mother, and then I will follow thee. And he said unto him, Go back again: for what have I done to thee?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8366689664543425
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 11,
+                    "verse": 7,
+                    "text": "And he took a yoke of oxen, and hewed them in pieces, and sent them throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the Lord fell on the people, and they came out with one consent.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8149553408577414
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 17,
                     "verse": 39,
                     "text": "And when he had driven them afar off, he returned and they watered their flocks and returned them to the pasture of the king, and then went in unto the king, bearing the arms which had been smitten off by the sword of Ammon, of those who sought to slay him; and they were carried in unto the king for a testimony of the things which they had done.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8133687860447465
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 31,
-                    "text": "And he spake unto me again, saying: Look! And I looked, and I beheld the Lamb of God going forth among the children of men. And I beheld multitudes of people who were sick, and who were afflicted with all manner of diseases, and with devils and unclean spirits; and the angel spake and showed all these things unto me. And they were healed by the power of the Lamb of God; and the devils and the unclean spirits were cast out.",
-                    "score": 0.7748068713533248
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 11,
-                    "verse": 37,
-                    "text": "And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.",
-                    "score": 0.7706883359809347
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 2,
-                    "verse": 16,
-                    "text": "And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?",
-                    "score": 0.7699456936625876
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "And the people, when they knew it, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing.",
-                    "score": 0.769747760416343
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?",
-                    "score": 0.7693521368482585
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 37,
-                    "text": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
-                    "score": 0.7651430676123377
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 8,
-                    "verse": 55,
-                    "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat.",
-                    "score": 0.7644379847991645
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 24,
-                    "verse": 30,
-                    "text": "And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them.",
-                    "score": 0.7640431723611165
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
                     "chapter": 14,
-                    "verse": 14,
-                    "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
-                    "score": 0.7633334822180312
+                    "verse": 34,
+                    "text": "And Saul said, Disperse yourselves among the people, and say unto them, Bring me hither every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the Lord in eating with the blood. And all the people brought every man his ox with him that night, and slew them there.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803551124151805
                 }
             ]
         }

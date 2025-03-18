@@ -8,84 +8,24 @@
             "text": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 21,
-                    "text": "And I, Abraham, journeyed, going on still towards the south; and there was a continuation of a famine in the land; and I, Abraham, concluded to go down into Egypt, to sojourn there, for the famine became very grievous.",
-                    "score": 0.7917399601670547
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
-                    "score": 0.7804421212575712
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 43,
-                    "text": "Now after two days he departed thence, and went into Galilee.",
-                    "score": 0.7536985113723812
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 18,
-                    "text": "Now it came to pass that after Alma had received his message from the angel of the Lord he returned speedily to the land of Ammonihah. And he entered the city by another way, yea, by the way which is on the south of the city of Ammonihah.",
-                    "score": 0.7536203032573149
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 11,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
                     "verse": 9,
-                    "text": "By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:",
-                    "score": 0.7483816235310561
+                    "text": "And Abram journeyed, going on still toward the south.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9153887184759693
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 1,
-                    "text": "And now it came to pass that as Alma was journeying from the land of Gideon southward, away to the land of Manti, behold, to his astonishment, he met with the sons of Mosiah journeying towards the land of Zarahemla.",
-                    "score": 0.7475624121580976
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "And I, Abraham, arose from the place of the altar which I had built unto the Lord, and removed from thence unto a mountain on the east of Bethel, and pitched my tent there, Bethel on the west, and Hai on the east; and there I built another altar unto the Lord, and called again upon the name of the Lord.",
-                    "score": 0.7459506150066112
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 6,
-                    "text": "So that when he had finished his work at Melek he departed thence, and traveled three days' journey on the north of the land of Melek; and he came to a city which was called Ammonihah.",
-                    "score": 0.7437545447497624
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "Now the land south was called Lehi, and the land north was called Mulek, which was after the son of Zedekiah; for the Lord did bring Mulek into the land north, and Lehi into the land south.",
-                    "score": 0.7361242665060717
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 5,
-                    "text": "Then cometh he to a city of Samaria, which is called Sychar, near to the parcel of ground that Jacob gave to his son Joseph.",
-                    "score": 0.7357887114835914
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 17,
+                    "text": "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9031889592392686
                 }
             ]
         },
@@ -96,426 +36,103 @@
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 2,
                     "text": "And it came to pass that I, Abraham, took Sarai to wife, and Nahor, my brother, took Milcah to wife, who was the daughter of Haran.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8290384572804158
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 9,
+                    "text": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8145654383043985
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 14,
+                    "text": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8089676237800332
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 9,
+                    "text": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife: and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9227121930203849
+                },
+                {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And it came to pass that I, Abraham, took Sarai to wife, and Nahor, my brother, took Milcah to wife, who was the daughter of Haran.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9197053635208237
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 25,
                     "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
-                    "score": 0.7926512612749331
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother's son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
-                    "score": 0.7878791584561232
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 34,
-                    "text": "God commanded Abraham, and Sarah gave Hagar to Abraham to wife. And why did she do it? Because this was the law; and from Hagar sprang many people. This, therefore, was fulfilling, among other things, the promises.",
-                    "score": 0.7795586102957165
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 4,
-                    "text": "Therefore I left the land of Ur, of the Chaldees, to go into the land of Canaan; and I took Lot, my brother's son, and his wife, and Sarai my wife; and also my father followed after me, unto the land which we denominated Haran.",
-                    "score": 0.7790014232736062
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 11,
-                    "text": "And now Omer was a friend to Akish; wherefore, when Jared had sent for Akish, the daughter of Jared danced before him that she pleased him, insomuch that he desired her to wife. And it came to pass that he said unto Jared: Give her unto me to wife.",
-                    "score": 0.7645199093642135
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "But I, Abraham, and Lot, my brother's son, prayed unto the Lord, and the Lord appeared unto me, and said unto me: Arise, and take Lot with thee; for I have purposed to take thee away out of Haran, and to make of thee a minister to bear my name in a strange land which I will give unto thy seed after thee for an everlasting possession, when they hearken to my voice.",
-                    "score": 0.7593117583198367
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 16,
-                    "verse": 7,
-                    "text": "And it came to pass that I, Nephi, took one of the daughters of Ishmael to wife; and also, my brethren took of the daughters of Ishmael to wife; and also Zoram took the eldest daughter of Ishmael to wife.",
-                    "score": 0.7567304210659916
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 65,
-                    "text": "Therefore, it shall be lawful in me, if she receive not this law, for him to receive all things whatsoever I, the Lord his God, will give unto him, because she did not believe and administer unto him according to my word; and she then becomes the transgressor; and he is exempt from the law of Sarah, who administered unto Abraham according to the law when I commanded Abraham to take Hagar to wife.",
-                    "score": 0.7506736365124864
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 10,
-                    "text": "And now, therefore, let my father send for Akish, the son of Kimnor; and behold, I am fair, and I will dance before him, and I will please him, that he will desire me to wife; wherefore if he shall desire of thee that ye shall give unto him me to wife, then shall ye say: I will give her if ye will bring unto me the head of my father, the king.",
-                    "score": 0.7466830851373012
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9154017890870074
                 }
             ]
         },
         {
             "verse": 3,
             "text": "But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.",
-                    "score": 0.791449454567546
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 2,
-                    "verse": 19,
-                    "text": "But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,",
-                    "score": 0.7841396507648828
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 1,
-                    "verse": 24,
-                    "text": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:",
-                    "score": 0.7717307897155268
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and said unto him: Blessed art thou Lehi, because of the things which thou hast done; and because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.",
-                    "score": 0.7647840930549186
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 3,
-                    "verse": 2,
-                    "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.",
-                    "score": 0.7638326614215789
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 5,
-                    "verse": 39,
-                    "text": "And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth.",
-                    "score": 0.7604347669978645
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Timothy",
-                    "chapter": 5,
-                    "verse": 5,
-                    "text": "Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day.",
-                    "score": 0.7600123521924833
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 3,
-                    "verse": 22,
-                    "text": "And the rib which I, the Lord God, had taken from man, made I a woman, and brought her unto the man.",
-                    "score": 0.7570308508407257
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord? behold, the feet of them which have buried thy husband are at the door, and shall carry thee out.",
-                    "score": 0.7570222727823177
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 12,
-                    "verse": 20,
-                    "text": "But God said unto him, Thou fool, this night thy soul shall be required of thee: then whose shall those things be, which thou hast provided?",
-                    "score": 0.7530941702742465
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 4,
             "text": "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 10,
-                    "verse": 11,
-                    "text": "And he did do justice unto the people, but not unto himself because of his many whoredoms; wherefore he was cut off from the presence of the Lord.",
-                    "score": 0.7583323567815634
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 138,
-                    "verse": 20,
-                    "text": "But unto the wicked he did not go, and among the ungodly and the unrepentant who had defiled themselves while in the flesh, his voice was not raised;",
-                    "score": 0.7527857842044133
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 7,
-                    "text": "For behold, it is not counted unto him for righteousness.",
-                    "score": 0.7485544023666167
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 11,
-                    "verse": 19,
-                    "text": "And behold, Lehi, his brother, was not a whit behind him as to things pertaining to righteousness.",
-                    "score": 0.7418854226506653
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 20,
-                    "text": "Thou shalt not be joined with them in burial, because thou hast destroyed thy land and slain thy people; the seed of evil-doers shall never be renowned.",
-                    "score": 0.7417994074856724
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 9,
-                    "verse": 19,
-                    "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?",
-                    "score": 0.7394010347704542
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 13,
-                    "text": "Behold the Lord slayeth the wicked to bring forth his righteous purposes. It is better that one man should perish than that a nation should dwindle and perish in unbelief.",
-                    "score": 0.7393700061294106
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 11,
-                    "verse": 36,
-                    "text": "Now Amulek saith again unto him: Behold thou hast lied, for thou sayest that I spake as though I had authority to command God because I said he shall not save his people in their sins.",
-                    "score": 0.7363218887007734
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 20,
-                    "verse": 14,
-                    "text": "But Limhi said unto them: Ye shall not slay him, but bring him hither that I may see him. And they brought him. And Limhi said unto him: What cause have ye to come up to war against my people? Behold, my people have not broken the oath that I made unto you; therefore, why should ye break the oath which ye made unto my people?",
-                    "score": 0.7349791069091554
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 21,
-                    "verse": 33,
-                    "text": "And it came to pass that king Limhi and many of his people were desirous to be baptized; but there was none in the land that had authority from God. And Ammon declined doing this thing, considering himself an unworthy servant.",
-                    "score": 0.7333273513282628
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 5,
             "text": "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 39,
-                    "verse": 1,
-                    "text": "And now, my son, I have somewhat more to say unto thee than what I said unto thy brother; for behold, have ye not observed the steadiness of thy brother, his faithfulness, and his diligence in keeping the commandments of God? Behold, has he not set a good example for thee?",
-                    "score": 0.781840349750464
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 7,
-                    "verse": 12,
-                    "text": "But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.",
-                    "score": 0.7722631032200109
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 3,
-                    "verse": 35,
-                    "text": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother.",
-                    "score": 0.769826018658495
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Thessalonians",
-                    "chapter": 3,
-                    "verse": 15,
-                    "text": "Yet count him not as an enemy, but admonish him as a brother.",
-                    "score": 0.7620566125947019
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Philemon",
-                    "chapter": 1,
-                    "verse": 16,
-                    "text": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?",
-                    "score": 0.7562837472741265
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 20,
-                    "verse": 17,
-                    "text": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.",
-                    "score": 0.755832877262893
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 4,
-                    "verse": 21,
-                    "text": "And this commandment have we from him, That he who loveth God love his brother also.",
-                    "score": 0.7552958999460648
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 34,
-                    "text": "And the Lord said unto Cain: Where is Abel, thy brother? And he said: I know not. Am I my brother's keeper?",
-                    "score": 0.7542556929041956
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 18,
-                    "verse": 17,
-                    "text": "Then saith the damsel that kept the door unto Peter, Art not thou also one of this man's disciples? He saith, I am not.",
-                    "score": 0.7533905157275678
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 12,
-                    "verse": 48,
-                    "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?",
-                    "score": 0.7503455685792159
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 6,
             "text": "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 13,
+                    "verse": 3,
+                    "text": "Thou shalt not hearken unto the words of that prophet, or that dreamer of dreams: for the Lord your God proveth you, to know whether ye love the Lord your God with all your heart and with all your soul.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8090532132177541
+                },
+                {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 7,
                     "verse": 1,
                     "text": "Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8030220502431236
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 16,
-                    "text": "And verily I say unto you, as I have said before, he that looketh on a woman to lust after her, or if any shall commit adultery in their hearts, they shall not have the Spirit, but shall deny the faith and shall fear.",
-                    "score": 0.7888837216525426
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 5,
-                    "verse": 1,
-                    "text": "And now I, Moroni, have written the words which were commanded me, according to my memory; and I have told you the things which I have sealed up; therefore touch them not in order that ye may translate; for that thing is forbidden you, except by and by it shall be wisdom in God.",
-                    "score": 0.7834592677455319
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.",
-                    "score": 0.7822099832805554
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 27,
-                    "verse": 19,
-                    "text": "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.",
-                    "score": 0.7811625554682162
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "For behold, it came to pass that the Lord spake unto my father, yea, even in a dream, and said unto him: Blessed art thou Lehi, because of the things which thou hast done; and because thou hast been faithful and declared unto this people the things which I commanded thee, behold, they seek to take away thy life.",
-                    "score": 0.7734206366919962
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 15,
-                    "verse": 10,
-                    "text": "Behold, I said unto them: How is it that ye do not keep the commandments of the Lord? How is it that ye will perish, because of the hardness of your hearts?",
-                    "score": 0.770761966914402
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And I trust, according to the Spirit of God which is in me, that I shall also have joy over you; nevertheless I do not desire that my joy over you should come by the cause of so much afflictions and sorrow which I have had for the brethren at Zarahemla, for behold, my joy cometh over them after wading through much affliction and sorrow.",
-                    "score": 0.7697395262367224
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 11,
-                    "verse": 25,
-                    "text": "And now thou hast lied before God unto me. Thou saidst unto me--Behold these six onties, which are of great worth, I will give unto thee--when thou hadst it in thy heart to retain them from me; and it was only thy desire that I should deny the true and living God, that thou mightest have cause to destroy me. And now behold, for this great evil thou shalt have thy reward.",
-                    "score": 0.76927762355149
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 23,
-                    "text": "And he that looketh upon a woman to lust after her shall deny the faith, and shall not have the Spirit; and if he repents not he shall be cast out.",
-                    "score": 0.7689349682084254
                 }
             ]
         },
@@ -526,82 +143,42 @@
                 {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 7,
                     "verse": 16,
                     "text": "For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8163636869037768
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 3,
+                    "verse": 1,
+                    "text": "They say, If a man put away his wife, and she go from him, and become another man's, shall he return unto her again? shall not that land be greatly polluted? but thou hast played the harlot with many lovers; yet return again to me, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134637777914293
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 10,
                     "verse": 11,
                     "text": "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8034665686480928
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 12,
                     "verse": 32,
                     "text": "Verily, verily, I say unto you, that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.801714315428536
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 26,
-                    "text": "Verily, verily, I say unto you, if a man marry a wife according to my word, and they are sealed by the Holy Spirit of promise, according to mine appointment, and he or she shall commit any sin or transgression of the new and everlasting covenant whatever, and all manner of blasphemies, and if they commit no murder wherein they shed innocent blood, yet they shall come forth in the first resurrection, and enter into their exaltation; but they shall be destroyed in the flesh, and shall be delivered unto the buffetings of Satan unto the day of redemption, saith the Lord God.",
-                    "score": 0.7999683015697306
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 19,
-                    "verse": 9,
-                    "text": "And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.",
-                    "score": 0.7920497889434898
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 64,
-                    "text": "And again, verily, verily, I say unto you, if any man have a wife, who holds the keys of this power, and he teaches unto her the law of my priesthood, as pertaining to these things, then shall she believe and administer unto him, or she shall be destroyed, saith the Lord your God; for I will destroy her; for I will magnify my name upon all those who receive and abide in my law.",
-                    "score": 0.7879154139251753
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 22,
-                    "text": "Thou shalt love thy wife with all thy heart, and shalt cleave unto her and none else.",
-                    "score": 0.787560232253792
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 5,
-                    "verse": 32,
-                    "text": "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.",
-                    "score": 0.7871169606062991
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 17,
-                    "text": "Wherefore, he will preserve the righteous by his power, even if it so be that the fulness of his wrath must come, and the righteous be preserved, even unto the destruction of their enemies by fire. Wherefore, the righteous need not fear; for thus saith the prophet, they shall be saved, even if it so be as by fire.",
-                    "score": 0.7870746986138328
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "The woman saith unto him, Sir, I perceive that thou art a prophet.",
-                    "score": 0.7858652275564759
                 }
             ]
         },
@@ -610,84 +187,24 @@
             "text": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 17,
-                    "verse": 6,
-                    "text": "And when the disciples heard it, they fell on their face, and were sore afraid.",
-                    "score": 0.7748423299453777
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 9,
+                    "verse": 47,
+                    "text": "And it was told Abimelech, that all the men of the tower of Shechem were gathered together.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9090805162095473
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 19,
-                    "verse": 15,
-                    "text": "Now, when the servants of the king had seen that they had fallen, they also began to cry unto God, for the fear of the Lord had come upon them also, for it was they who had stood before the king and testified unto him concerning the great power of Ammon.",
-                    "score": 0.7623350279505928
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 25,
-                    "text": "Now the servants of the king fled; and the servants of Amalickiah raised a cry, saying:",
-                    "score": 0.7486147716007624
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 21,
-                    "verse": 38,
-                    "text": "And all the people came early in the morning to him in the temple, for to hear him.",
-                    "score": 0.7473985687628778
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.",
-                    "score": 0.7472075047847628
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 4,
-                    "verse": 9,
-                    "text": "And it came to pass that when the armies of Giddianhi saw this they began to shout with a loud voice, because of their joy, for they had supposed that the Nephites had fallen with fear because of the terror of their armies.",
-                    "score": 0.7437552176830121
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 8,
-                    "verse": 31,
-                    "text": "And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.",
-                    "score": 0.7431963992373251
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 23,
-                    "text": "Now this was done in the presence of the queen and many of the servants. And when they saw it they greatly marveled, and began to fear. And the king stood forth, and began to minister unto them. And he did minister unto them, insomuch that his whole household were converted unto the Lord.",
-                    "score": 0.7431744988208452
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 29,
-                    "text": "Now they wept because of the fear of being slain. Now when Ammon saw this his heart was swollen within him with joy; for, said he, I will show forth my power unto these my fellow-servants, or the power which is in me, in restoring these flocks unto the king, that I may win the hearts of these my fellow-servants, that I may lead them to believe in my words.",
-                    "score": 0.7429818902035941
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 14,
-                    "text": "And it came to pass that Lehonti came down with his men and surrounded the men of Amalickiah, so that before they awoke at the dawn of day they were surrounded by the armies of Lehonti.",
-                    "score": 0.742682352594172
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 9,
+                    "verse": 42,
+                    "text": "And it came to pass on the morrow, that the people went out into the field; and they told Abimelech.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022429701992373
                 }
             ]
         },
@@ -696,84 +213,124 @@
             "text": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 10,
+                    "text": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9074975504856395
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 10,
+                    "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8294373464020431
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 23,
+                    "verse": 11,
+                    "text": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8119615954914216
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 32,
+                    "verse": 21,
+                    "text": "And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081273755543888
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 2,
                     "verse": 34,
                     "text": "And now behold, my brethren, ye know that these commandments were given to our father, Lehi; wherefore, ye have known them before; and ye have come unto great condemnation; for ye have done these things which ye ought not to have done.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8079670088729287
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 21,
+                    "verse": 8,
+                    "text": "And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053358262421845
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 7,
+                    "verse": 20,
+                    "text": "And Achan answered Joshua, and said, Indeed I have sinned against the Lord God of Israel, and thus and thus have I done:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051203783319618
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 132,
                     "verse": 35,
                     "text": "Was Abraham, therefore, under condemnation? Verily I say unto you, Nay; for I, the Lord, commanded it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8037674961781421
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 6,
+                    "text": "And Abraham said unto him, Beware thou that thou bring not my son thither again.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034526112526023
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 12,
                     "verse": 13,
                     "text": "And now, O king, what great evil hast thou done, or what great sins have thy people committed, that we should be condemned of God or judged of this man?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8020902564308987
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 4,
-                    "verse": 1,
-                    "text": "And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten, is the same which was from the beginning, and he came before me, saying--Behold, here am I, send me, I will be thy son, and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.",
-                    "score": 0.7849755788361692
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 10,
+                    "text": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9239834547042847
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 59,
-                    "text": "And Enoch beheld the Son of Man ascend up unto the Father; and he called unto the Lord, saying: Wilt thou not come again upon the earth? Forasmuch as thou art God, and I know thee, and thou hast sworn unto me, and commanded me that I should ask in the name of thine Only Begotten; thou hast made me, and given unto me a right to thy throne, and not of myself, but through thine own grace; wherefore, I ask thee if thou wilt not come again on the earth.",
-                    "score": 0.7837155754280608
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "Now when king Noah had heard of the words which Abinadi had spoken unto the people, he was also wroth; and he said: Who is Abinadi, that I and my people should be judged of him, or who is the Lord, that shall bring upon my people such great affliction?",
-                    "score": 0.7836284689791451
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 5,
-                    "verse": 28,
-                    "text": "And now, except he humble himself and acknowledge unto me the things that he has done which are wrong, and covenant with me that he will keep my commandments, and exercise faith in me, behold, I say unto him, he shall have no such views, for I will grant unto him no views of the things of which I have spoken.",
-                    "score": 0.7834700574757283
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 16,
-                    "text": "Cursed are all those that shall lift up the heel against mine anointed, saith the Lord, and cry they have sinned when they have not sinned before me, saith the Lord, but have done that which was meet in mine eyes, and which I commanded them.",
-                    "score": 0.7812254784143993
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And the brother of Jared repented of the evil which he had done, and did call upon the name of the Lord for his brethren who were with him. And the Lord said unto him: I will forgive thee and thy brethren of their sins; but thou shalt not sin any more, for ye shall remember that my Spirit will not always strive with man; wherefore, if ye will sin until ye are fully ripe ye shall be cut off from the presence of the Lord. And these are my thoughts upon the land which I shall give you for your inheritance; for it shall be a land choice above all other lands.",
-                    "score": 0.7798096359050845
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
-                    "verse": 5,
-                    "text": "And now, because thou hast done this with such unwearyingness, behold, I will bless thee forever; and I will make thee mighty in word and in deed, in faith and in works; yea, even that all things shall be done unto thee according to thy word, for thou shalt not ask that which is contrary to my will.",
-                    "score": 0.7786804174027266
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 10,
+                    "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9184377193450928
                 }
             ]
         },
@@ -782,84 +339,124 @@
             "text": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
-                    "verse": 5,
-                    "text": "And now, because thou hast done this with such unwearyingness, behold, I will bless thee forever; and I will make thee mighty in word and in deed, in faith and in works; yea, even that all things shall be done unto thee according to thy word, for thou shalt not ask that which is contrary to my will.",
-                    "score": 0.7947967911976218
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 9,
+                    "text": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9074975504856395
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 34,
-                    "text": "And now behold, my brethren, ye know that these commandments were given to our father, Lehi; wherefore, ye have known them before; and ye have come unto great condemnation; for ye have done these things which ye ought not to have done.",
-                    "score": 0.7852636810508663
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 26,
+                    "text": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8500060709128011
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 35,
-                    "text": "Was Abraham, therefore, under condemnation? Verily I say unto you, Nay; for I, the Lord, commanded it.",
-                    "score": 0.7847013726910175
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 10,
+                    "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8305168221082482
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
-                    "verse": 4,
-                    "text": "Blessed art thou, Nephi, for those things which thou hast done; for I have beheld how thou hast with unwearyingness declared the word, which I have given unto thee, unto this people. And thou hast not feared them, and hast not sought thine own life, but hast sought my will, and to keep my commandments.",
-                    "score": 0.782507626013717
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 29,
+                    "text": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170866117616715
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 6,
-                    "verse": 14,
-                    "text": "Verily, verily, I say unto thee, blessed art thou for what thou hast done; for thou hast inquired of me, and behold, as often as thou hast inquired thou hast received instruction of my Spirit. If it had not been so, thou wouldst not have come to the place where thou art at this time.",
-                    "score": 0.7814107063946416
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 6,
+                    "text": "And Abraham said unto him, Beware thou that thou bring not my son thither again.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046270423843679
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 8,
-                    "verse": 57,
-                    "text": "Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?",
-                    "score": 0.7780565883212196
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 16,
+                    "text": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803265994432219
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 37,
-                    "text": "Now Abinadi said unto them, Have ye done all this? I say unto you, Nay, ye have not. And have ye taught this people that they should do all these things? I say unto you, Nay, ye have not.",
-                    "score": 0.7751085881420189
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 23,
+                    "verse": 11,
+                    "text": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025867187860082
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 11,
-                    "verse": 36,
-                    "text": "Now Amulek saith again unto him: Behold thou hast lied, for thou sayest that I spake as though I had authority to command God because I said he shall not save his people in their sins.",
-                    "score": 0.7744228960083016
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 22,
+                    "text": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8019904494022725
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 25,
-                    "text": "And ye see that I have commanded that none of you should go away, but rather have commanded that ye should come unto me, that ye might feel and see; even so shall ye do unto the world; and whosoever breaketh this commandment suffereth himself to be led into temptation.",
-                    "score": 0.7737342227024707
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 9,
+                    "text": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9239834547042847
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 59,
-                    "text": "And Enoch beheld the Son of Man ascend up unto the Father; and he called unto the Lord, saying: Wilt thou not come again upon the earth? Forasmuch as thou art God, and I know thee, and thou hast sworn unto me, and commanded me that I should ask in the name of thine Only Begotten; thou hast made me, and given unto me a right to thy throne, and not of myself, but through thine own grace; wherefore, I ask thee if thou wilt not come again on the earth.",
-                    "score": 0.7712403375063155
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 26,
+                    "text": "And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I of it, but to day.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9099563306544041
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 22,
+                    "text": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905826210975647
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 10,
+                    "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028674364089966
                 }
             ]
         },
@@ -868,256 +465,155 @@
             "text": "And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 8,
-                    "verse": 37,
-                    "text": "I know that ye are Abraham's seed; but ye seek to kill me, because my word hath no place in you.",
-                    "score": 0.7866698228566703
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 19,
+                    "text": "And Joseph said unto them, Fear not: for am I in the place of God?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8258331670210247
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
-                    "score": 0.7751261308746809
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 84,
-                    "text": "And he would not for a while, but afterward he said within himself: Though I fear not God, nor regard man, yet because this widow troubleth me I will avenge her, lest by her continual coming she weary me.",
-                    "score": 0.7734606269271704
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 60,
-                    "verse": 14,
-                    "text": "And now behold, I say unto you, I fear exceedingly that the judgments of God will come upon this people, because of their exceeding slothfulness, yea, even the slothfulness of our government, and their exceedingly great neglect towards their brethren, yea, towards those who have been slain.",
-                    "score": 0.7619816894785776
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 13,
-                    "verse": 26,
-                    "text": "I say unto you, Nay; for if ye had, the Lord would not have caused me to come forth and to prophesy evil concerning this people.",
-                    "score": 0.7615925096504245
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 8,
-                    "verse": 40,
-                    "text": "But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.",
-                    "score": 0.7577720890081229
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 3,
-                    "verse": 7,
-                    "text": "For, behold, you should not have feared man more than God. Although men set at naught the counsels of God, and despise his words--",
-                    "score": 0.757609086787876
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 30,
-                    "verse": 1,
-                    "text": "Behold, I say unto you, David, that you have feared man and have not relied on me for strength as you ought.",
-                    "score": 0.7561628263419681
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 4,
-                    "verse": 40,
-                    "text": "And he said unto them, Why are ye so fearful? how is it that ye have no faith?",
-                    "score": 0.7559829524257101
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
-                    "verse": 15,
-                    "text": "Oh, thought I, that I could be banished and become extinct both soul and body, that I might not be brought to stand in the presence of my God, to be judged of my deeds.",
-                    "score": 0.7552387005736545
+                    "verse": 12,
+                    "text": "And David was afraid of God that day, saying, How shall I bring the ark of God home to me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001854952193606
                 }
             ]
         },
         {
             "verse": 12,
             "text": "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 10,
-                    "verse": 37,
-                    "text": "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me.",
-                    "score": 0.7492257024002327
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 15,
-                    "verse": 1,
-                    "text": "I am the true vine, and my Father is the husbandman.",
-                    "score": 0.7445180228679877
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 10,
-                    "verse": 30,
-                    "text": "I and my Father are one.",
-                    "score": 0.7433044008573539
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 5,
-                    "verse": 43,
-                    "text": "I am come in my Father's name, and ye receive me not: if another shall come in his own name, him ye will receive.",
-                    "score": 0.734066681311819
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 10,
-                    "verse": 35,
-                    "text": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.",
-                    "score": 0.7323629421665927
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 8,
-                    "verse": 18,
-                    "text": "I am one that bear witness of myself, and the Father that sent me beareth witness of me.",
-                    "score": 0.7205446172538909
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 11,
-                    "verse": 29,
-                    "text": "I am the same who came unto mine own and mine own received me not;",
-                    "score": 0.7187550463341625
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.",
-                    "score": 0.7171059312255944
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 13,
-                    "verse": 56,
-                    "text": "And his sisters, are they not all with us? Whence then hath this man all these things?",
-                    "score": 0.716148231337653
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 14,
-                    "verse": 24,
-                    "text": "He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father's which sent me.",
-                    "score": 0.7113396786920152
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 13,
             "text": "And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He is my brother.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 44,
+                    "verse": 24,
+                    "text": "And it came to pass when we came up unto thy servant my father, we told him the words of my lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8241172704583182
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 2,
+                    "verse": 12,
+                    "text": "Now therefore, I pray you, swear unto me by the Lord, since I have shewed you kindness, that ye will also shew kindness unto my father's house, and give me a true token:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.813487040454159
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 28,
+                    "verse": 21,
+                    "text": "So that I come again to my father's house in peace; then shall the Lord be my God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8100395960827229
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 38,
+                    "text": "But thou shalt go unto my father's house, and to my kindred, and take a wife unto my son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8061334945409273
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 5,
                     "text": "Wherefore it came to pass that my father, Lehi, as he went forth prayed unto the Lord, yea, even with all his heart, in behalf of his people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8053056729870115
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 20,
+                    "verse": 29,
+                    "text": "And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me to be there: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king's table.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035177003888071
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 27,
+                    "text": "And he said, Blessed be the Lord God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the Lord led me to the house of my master's brethren.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029181282669849
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 16,
                     "verse": 27,
                     "text": "Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8018084737181735
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 11,
                     "text": "And it came to pass after my father had spoken these words he spake unto my brethren concerning the gospel which should be preached among the Jews, and also concerning the dwindling of the Jews in unbelief. And after they had slain the Messiah, who should come, and after he had been slain he should rise from the dead, and should make himself manifest, by the Holy Ghost, unto the Gentiles.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8010586157663272
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 10,
                     "verse": 8,
                     "text": "And it came to pass that I obeyed the voice of the angel, and returned towards my house. And as I was going thither I found the man whom the angel said unto me: Thou shalt receive into thy house--and behold it was this same man who has been speaking unto you concerning the things of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.801011231354795
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 6,
                     "verse": 10,
                     "text": "And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8006509160085832
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And it came to pass that the voice of the Lord spake unto my father by night, and commanded him that on the morrow he should take his journey into the wilderness.",
-                    "score": 0.7978183457524982
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 135,
-                    "verse": 5,
-                    "text": "And it came to pass that I prayed unto the Lord that he would give unto the Gentiles grace, that they might have charity. And it came to pass that the Lord said unto me: If they have not charity it mattereth not unto thee, thou hast been faithful; wherefore thy garments shall be made clean. And because thou hast seen thy weakness, thou shalt be made strong, even unto the sitting down in the place which I have prepared in the mansions of my Father. And now I ... bid farewell unto the Gentiles; yea, and also unto my brethren whom I love, until we shall meet before the judgment-seat of Christ, where all men shall know that my garments are not spotted with your blood. The testators are now dead, and their testament is in force.",
-                    "score": 0.797271041340978
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
-                    "score": 0.7939358852146442
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 42,
-                    "text": "And it came to pass, as I journeyed from the land of Cainan, by the sea east, I beheld a vision; and lo, the heavens I saw, and the Lord spake with me, and gave me commandment; wherefore, for this cause, to keep the commandment, I speak forth these words.",
-                    "score": 0.7938554543260001
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.",
-                    "score": 0.7900836412291365
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 7,
+                    "text": "The Lord God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020933450516216
                 }
             ]
         },
@@ -1126,84 +622,74 @@
             "text": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 19,
-                    "verse": 7,
-                    "text": "Let us be glad and rejoice, and give honour to him: for the marriage of the Lamb is come, and his wife hath made herself ready.",
-                    "score": 0.7615717708356933
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 11,
-                    "text": "And then also cometh the Jerusalem of old; and the inhabitants thereof, blessed are they, for they have been washed in the blood of the Lamb; and they are they who were scattered and gathered in from the four quarters of the earth, and from the north countries, and are partakers of the fulfilling of the covenant which God made with their father, Abraham.",
-                    "score": 0.7603298196006841
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 34,
-                    "text": "God commanded Abraham, and Sarah gave Hagar to Abraham to wife. And why did she do it? Because this was the law; and from Hagar sprang many people. This, therefore, was fulfilling, among other things, the promises.",
-                    "score": 0.7600211007984322
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 3,
-                    "verse": 22,
-                    "text": "And the rib which I, the Lord God, had taken from man, made I a woman, and brought her unto the man.",
-                    "score": 0.7575836137168289
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 41,
-                    "text": "And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.",
-                    "score": 0.756543808117861
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 4,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
                     "verse": 27,
-                    "text": "Unto Adam, and also unto his wife, did I, the Lord God, make coats of skins, and clothed them.",
-                    "score": 0.755412554873365
+                    "text": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.901381806100816
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 24,
-                    "text": "And I, God, said: Let the earth bring forth the living creature after his kind, cattle, and creeping things, and beasts of the earth after their kind, and it was so;",
-                    "score": 0.7538635091960078
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 16,
+                    "text": "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8428946368139749
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 14,
-                    "verse": 4,
-                    "text": "These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb.",
-                    "score": 0.7535115585736002
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 17,
+                    "text": "So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8124315504889217
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 1,
-                    "text": "And it came to pass that after I, the Lord God, had driven them out, that Adam began to till the earth, and to have dominion over all the beasts of the field, and to eat his bread by the sweat of his brow, as I the Lord had commanded him. And Eve, also, his wife, did labor with him.",
-                    "score": 0.7517746891520559
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 2,
+                    "text": "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8089676237800332
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 25,
-                    "text": "And he gathereth his children from the four quarters of the earth; and he numbereth his sheep, and they know him; and there shall be one fold and one shepherd; and he shall feed his sheep, and in him they shall find pasture.",
-                    "score": 0.7515115856542226
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 29,
+                    "text": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033479342828257
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 27,
+                    "text": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9152823686599731
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 16,
+                    "text": "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9087048172950745
                 }
             ]
         },
@@ -1214,82 +700,362 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 10,
                     "verse": 10,
                     "text": "But behold, this land, said God, shall be a land of thine inheritance, and the Gentiles shall be blessed upon the land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8362098504751977
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 19,
-                    "text": "Wherefore, I will consecrate this land unto thy seed, and them who shall be numbered among thy seed, forever, for the land of their inheritance; for it is a choice land, saith God unto me, above all other lands, wherefore I will have all men that dwell thereon that they shall worship me, saith God.",
-                    "score": 0.8256395097682937
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 21,
+                    "text": "Behold, the Lord thy God hath set the land before thee: go up and possess it, as the Lord God of thy fathers hath said unto thee; fear not, neither be discouraged.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8288971785529587
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 34,
+                    "verse": 10,
+                    "text": "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.826835337072836
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 10,
+                    "verse": 19,
+                    "text": "Wherefore, I will consecrate this land unto thy seed, and them who shall be numbered among thy seed, forever, for the land of their inheritance; for it is a choice land, saith God unto me, above all other lands, wherefore I will have all men that dwell thereon that they shall worship me, saith God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8256395097682937
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 101,
+                    "verse": 6,
+                    "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8240177375094639
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 9,
                     "text": "Wherefore, I, Lehi, have obtained a promise, that inasmuch as those whom the Lord God shall bring out of the land of Jerusalem shall keep his commandments, they shall prosper upon the face of this land; and they shall be kept from all other nations, that they may possess this land unto themselves. And if it so be that they shall keep his commandments they shall be blessed upon the face of this land, and there shall be none to molest them, nor to take away the land of their inheritance; and they shall dwell safely forever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8237772923532487
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 7,
                     "text": "Wherefore, this land is consecrated unto him whom he shall bring. And if it so be that they shall serve him according to the commandments which he hath given, it shall be a land of liberty unto them; wherefore, they shall never be brought down into captivity; if so, it shall be because of iniquity; for if iniquity shall abound cursed shall be the land for their sakes, but unto the righteous it shall be blessed forever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8221925591128442
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 32,
+                    "verse": 22,
+                    "text": "And the land be subdued before the Lord: then afterward ye shall return, and be guiltless before the Lord, and before Israel; and this land shall be your possession before the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8209794389023293
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 17,
+                    "verse": 14,
+                    "text": "When thou art come unto the land which the Lord thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that are about me;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8198302896437537
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 28,
+                    "verse": 15,
+                    "text": "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8185541935824653
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 2,
                     "verse": 9,
                     "text": "And now, we can behold the decrees of God concerning this land, that it is a land of promise; and whatsoever nation shall possess it shall serve God, or they shall be swept off when the fulness of his wrath shall come upon them. And the fulness of his wrath cometh upon them when they are ripened in iniquity.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8175730342736551
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 2,
                     "verse": 10,
                     "text": "For behold, this is a land which is choice above all other lands; wherefore he that doth possess it shall serve God or shall be swept off; for it is the everlasting decree of God. And it is not until the fulness of iniquity among the children of the land, that they are swept off.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8160697812239387
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 47,
+                    "verse": 6,
+                    "text": "The land of Egypt is before thee; in the best of the land make thy father and brethren to dwell; in the land of Goshen let them dwell: and if thou knowest any men of activity among them, then make them rulers over my cattle.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8149595762488093
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 47,
+                    "verse": 19,
+                    "text": "Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8129989987505016
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 8,
+                    "text": "Behold, I have set the land before you: go in and possess the land which the Lord sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8126276671932376
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 26,
+                    "verse": 10,
+                    "text": "And now, behold, I have brought the firstfruits of the land, which thou, O Lord, hast given me. And thou shalt set it before the Lord thy God, and worship before the Lord thy God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8091690302016823
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 45,
                     "verse": 8,
                     "text": "Then Alma said unto him: Blessed art thou; and the Lord shall prosper thee in this land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8089337137139012
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 2,
+                    "verse": 31,
+                    "text": "And the Lord said unto me, Behold, I have begun to give Sihon and his land before thee: begin to possess, that thou mayest inherit his land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087177158484092
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 32,
+                    "verse": 52,
+                    "text": "Yet thou shalt see the land before thee; but thou shalt not go thither unto the land which I give the children of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075917682034873
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 31,
+                    "text": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do them in the land which I give them to possess it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074218606591914
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 46,
                     "text": "Verily, verily, I say unto you, all these things shall surely come, even as the Father hath commanded me. Then shall this covenant which the Father hath covenanted with his people be fulfilled; and then shall Jerusalem be inhabited again with my people, and it shall be the land of their inheritance.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8073689751870069
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 9,
+                    "text": "I will walk before the Lord in the land of the living.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8058431530266311
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 103,
                     "verse": 20,
                     "text": "But I say unto you: Mine angels shall go up before you, and also my presence, and in time ye shall possess the goodly land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8056116819584729
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 5,
                     "text": "But, said he, notwithstanding our afflictions, we have obtained a land of promise, a land which is choice above all other lands; a land which the Lord God hath covenanted with me should be a land for the inheritance of my seed. Yea, the Lord hath covenanted this land unto me, and to my children forever, and also all those who should be led out of other countries by the hand of the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8051126163160881
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 9,
+                    "verse": 20,
+                    "text": "And thus the Lord did pour out his blessings upon this land, which was choice above all other lands; and he commanded that whoso should possess the land should possess it unto the Lord, or they should be destroyed when they were ripened in iniquity; for upon such, saith the Lord: I will pour out the fulness of my wrath.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8031970524599814
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 61,
+                    "verse": 28,
+                    "text": "Wherefore, let him do as the Spirit of the living God commandeth him, whether upon the land or upon the waters, as it remaineth with me to do hereafter.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026575639898741
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 20,
+                    "text": "And inasmuch as ye shall keep my commandments, ye shall prosper, and shall be led to a land of promise; yea, even a land which I have prepared for you; yea, a land which is choice above all other lands.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023529326079649
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 28,
+                    "text": "And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802231218380094
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 31,
+                    "text": "Wherefore, because thou hast been faithful thy seed shall be blessed with his seed, that they dwell in prosperity long upon the face of this land; and nothing, save it shall be iniquity among them, shall harm or disturb their prosperity upon the face of this land forever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016283638847875
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 34,
+                    "verse": 4,
+                    "text": "And the Lord said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013751680033443
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 27,
+                    "verse": 15,
+                    "text": "And it came to pass that Ammon said unto them: Behold, I and my brethren will go forth into the land of Zarahemla, and ye shall remain here until we return; and we will try the hearts of our brethren, whether they will that ye shall come into their land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011439201741392
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 32,
+                    "verse": 5,
+                    "text": "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009961592335786
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 32,
+                    "text": "Wherefore, if ye shall keep the commandments of the Lord, the Lord hath consecrated this land for the security of thy seed with the seed of my son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800300837835016
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 10,
+                    "verse": 11,
+                    "text": "And the Lord said unto me, Arise, take thy journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002411918258395
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 3,
+                    "verse": 12,
+                    "text": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the Lord of hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000571660860017
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 24,
+                    "verse": 12,
+                    "text": "And all nations shall call you blessed, for ye shall be a delightsome land, saith the Lord of Hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000571660860017
                 }
             ]
         },
@@ -1298,84 +1064,44 @@
             "text": "And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 42,
+                    "verse": 11,
+                    "text": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the Lord had brought upon him: every man also gave him a piece of money, and every one an earring of gold.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148918742804924
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 12,
+                    "text": "And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075793443200789
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 16,
+                    "verse": 5,
+                    "text": "And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength lieth, and by what means we may prevail against him, that we may bind him to afflict him: and we will give thee every one of us eleven hundred pieces of silver.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073823376117323
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 12,
                     "verse": 21,
                     "text": "And after the brother of Jared had beheld the finger of the Lord, because of the promise which the brother of Jared had obtained by faith, the Lord could not withhold anything from his sight; wherefore he showed him all things, for he could no longer be kept without the veil.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8008111843310963
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "And it came to pass that the Lord said unto the brother of Jared: Behold, thou shalt not suffer these things which ye have seen and heard to go forth unto the world, until the time cometh that I shall glorify my name in the flesh; wherefore, ye shall treasure up the things which ye have seen and heard, and show it to no man.",
-                    "score": 0.7965456654617483
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 54,
-                    "text": "Thou shalt not take thy brother's garment; thou shalt pay for that which thou shalt receive of thy brother.",
-                    "score": 0.785237033278463
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 26,
-                    "verse": 15,
-                    "text": "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.",
-                    "score": 0.784408164868117
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 6,
-                    "text": "And it came to pass that when the brother of Jared had said these words, behold, the Lord stretched forth his hand and touched the stones one by one with his finger. And the veil was taken from off the eyes of the brother of Jared, and he saw the finger of the Lord; and it was as the finger of a man, like unto flesh and blood; and the brother of Jared fell down before the Lord, for he was struck with fear.",
-                    "score": 0.7844080824179794
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 6,
-                    "verse": 42,
-                    "text": "Either how canst thou say to thy brother, Brother, let me pull out the mote that is in thine eye, when thou thyself beholdest not the beam that is in thine own eye? Thou hypocrite, cast out first the beam out of thine own eye, and then shalt thou see clearly to pull out the mote that is in thy brother's eye.",
-                    "score": 0.782011924456262
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And the brother of Jared repented of the evil which he had done, and did call upon the name of the Lord for his brethren who were with him. And the Lord said unto him: I will forgive thee and thy brethren of their sins; but thou shalt not sin any more, for ye shall remember that my Spirit will not always strive with man; wherefore, if ye will sin until ye are fully ripe ye shall be cut off from the presence of the Lord. And these are my thoughts upon the land which I shall give you for your inheritance; for it shall be a land choice above all other lands.",
-                    "score": 0.7810964509009732
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 12,
-                    "verse": 20,
-                    "text": "And behold, we have seen in this record that one of these was the brother of Jared; for so great was his faith in God, that when God put forth his finger he could not hide it from the sight of the brother of Jared, because of his word which he had spoken unto him, which word he had obtained by faith.",
-                    "score": 0.7793969620949762
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 11,
-                    "verse": 22,
-                    "text": "And Amulek said unto him: Yea, if it be according to the Spirit of the Lord, which is in me; for I shall say nothing which is contrary to the Spirit of the Lord. And Zeezrom said unto him: Behold, here are six onties of silver, and all these will I give thee if thou wilt deny the existence of a Supreme Being.",
-                    "score": 0.7788979873218368
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 14,
-                    "verse": 4,
-                    "text": "Or how wilt thou say to thy brother: Let me pull the mote out of thine eye--and behold, a beam is in thine own eye?",
-                    "score": 0.7756113713741585
                 }
             ]
         },
@@ -1384,172 +1110,21 @@
             "text": "So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 6,
-                    "verse": 18,
-                    "text": "And they that were vexed with unclean spirits: and they were healed.",
-                    "score": 0.7643574194124931
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 37,
-                    "text": "Abraham received concubines, and they bore him children; and it was accounted unto him for righteousness, because they were given unto him, and he abode in my law; as Isaac also and Jacob did none other things than that which they were commanded; and because they did none other things than that which they were commanded, they have entered into their exaltation, according to the promises, and sit upon thrones, and are not angels but are gods.",
-                    "score": 0.7606341708048121
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 24,
-                    "verse": 22,
-                    "text": "And they gave thanks to God, yea, all their men and all their women and all their children that could speak lifted their voices in the praises of their God.",
-                    "score": 0.7597255657868758
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 31,
-                    "text": "And he spake unto me again, saying: Look! And I looked, and I beheld the Lamb of God going forth among the children of men. And I beheld multitudes of people who were sick, and who were afflicted with all manner of diseases, and with devils and unclean spirits; and the angel spake and showed all these things unto me. And they were healed by the power of the Lamb of God; and the devils and the unclean spirits were cast out.",
-                    "score": 0.7566336395376859
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 24,
-                    "verse": 21,
-                    "text": "Yea, and in the valley of Alma they poured out their thanks to God because he had been merciful unto them, and eased their burdens, and had delivered them out of bondage; for they were in bondage, and none could deliver them except it were the Lord their God.",
-                    "score": 0.754795425222339
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 2,
-                    "text": "Look unto Abraham, your father, and unto Sarah, she that bare you; for I called him alone, and blessed him.",
-                    "score": 0.7527001656547982
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 17,
-                    "verse": 21,
-                    "text": "And when he had said these words, he wept, and the multitude bare record of it, and he took their little children, one by one, and blessed them, and prayed unto the Father for them.",
-                    "score": 0.7510309524159476
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 17,
-                    "verse": 10,
-                    "text": "And they did all, both they who had been healed and they who were whole, bow down at his feet, and did worship him; and as many as could come for the multitude did kiss his feet, insomuch that they did bathe his feet with their tears.",
-                    "score": 0.7478607968469212
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 3,
-                    "text": "And when they had fasted and prayed, and laid their hands on them, they sent them away.",
-                    "score": 0.7471472279443863
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "And the people, when they knew it, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing.",
-                    "score": 0.7469929970720547
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 14,
+                    "text": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8124315504889217
                 }
             ]
         },
         {
             "verse": 18,
             "text": "For the Lord had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 34,
-                    "text": "God commanded Abraham, and Sarah gave Hagar to Abraham to wife. And why did she do it? Because this was the law; and from Hagar sprang many people. This, therefore, was fulfilling, among other things, the promises.",
-                    "score": 0.7439683102747405
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 1,
-                    "text": "And it came to pass that after I, the Lord God, had driven them out, that Adam began to till the earth, and to have dominion over all the beasts of the field, and to eat his bread by the sweat of his brow, as I the Lord had commanded him. And Eve, also, his wife, did labor with him.",
-                    "score": 0.7344443254679521
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 24,
-                    "text": "Behold, David and Solomon truly had many wives and concubines, which thing was abominable before me, saith the Lord.",
-                    "score": 0.7296082195697657
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 4,
-                    "verse": 26,
-                    "text": "And Adam called his wife's name Eve, because she was the mother of all living; for thus have I, the Lord God, called the first of all women, which are many.",
-                    "score": 0.7261013992039531
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 5,
-                    "verse": 34,
-                    "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?",
-                    "score": 0.7258251751745501
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me--Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
-                    "score": 0.7227290646968662
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 22,
-                    "verse": 28,
-                    "text": "Therefore in the resurrection whose wife shall she be of the seven? for they all had her.",
-                    "score": 0.7177243737496017
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 1,
-                    "text": "Verily, thus saith the Lord unto you my servant Joseph, that inasmuch as you have inquired of my hand to know and understand wherein I, the Lord, justified my servants Abraham, Isaac, and Jacob, as also Moses, David and Solomon, my servants, as touching the principle and doctrine of their having many wives and concubines--",
-                    "score": 0.7167521692202957
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 37,
-                    "text": "Abraham received concubines, and they bore him children; and it was accounted unto him for righteousness, because they were given unto him, and he abode in my law; as Isaac also and Jacob did none other things than that which they were commanded; and because they did none other things than that which they were commanded, they have entered into their exaltation, according to the promises, and sit upon thrones, and are not angels but are gods.",
-                    "score": 0.7164601641836534
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 4,
-                    "text": "And Adam and Eve, his wife, called upon the name of the Lord, and they heard the voice of the Lord from the way toward the Garden of Eden, speaking unto them, and they saw him not; for they were shut out from his presence.",
-                    "score": 0.7161135954536054
-                }
-            ]
+            "similars": []
         }
     ]
 }

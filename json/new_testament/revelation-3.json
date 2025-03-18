@@ -8,84 +8,44 @@
             "text": "And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Amos",
-                    "chapter": 5,
-                    "verse": 8,
-                    "text": "Seek him that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The Lord is his name:",
-                    "score": 0.7871658774663354
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 145,
-                    "verse": 10,
-                    "text": "All thy works shall praise thee, O Lord; and thy saints shall bless thee.",
-                    "score": 0.7779721444419554
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 14,
-                    "verse": 24,
-                    "text": "And behold, the things which this apostle of the Lamb shall write are many things which thou hast seen; and behold, the remainder shalt thou see.",
-                    "score": 0.7766367971784934
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 22,
-                    "verse": 17,
-                    "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;",
-                    "score": 0.7759100210141237
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 6,
-                    "verse": 5,
-                    "text": "And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the Lord of all the earth.",
-                    "score": 0.7735460752104285
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 31,
-                    "verse": 35,
-                    "text": "Thus saith the Lord, which giveth the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The Lord of hosts is his name:",
-                    "score": 0.7731328712515758
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 104,
-                    "verse": 3,
-                    "text": "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:",
-                    "score": 0.7717961524855514
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 32,
-                    "verse": 3,
-                    "text": "Angels speak by the power of the Holy Ghost; wherefore, they speak the words of Christ. Wherefore, I said unto you, feast upon the words of Christ; for behold, the words of Christ will tell you all things what ye should do.",
-                    "score": 0.7696741319953598
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 20,
-                    "text": "And these things doth the Spirit manifest unto me; therefore I write unto you all. And for this cause I write unto you, that ye may know that ye must all stand before the judgment-seat of Christ, yea, every soul who belongs to the whole human family of Adam; and ye must stand to be judged of your works, whether they be good or evil;",
-                    "score": 0.7694874903865491
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--Matthew",
-                    "chapter": 1,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
                     "verse": 1,
-                    "text": "For I say unto you, that ye shall not see me henceforth and know that I am he of whom it is written by the prophets, until ye shall say: Blessed is he who cometh in the name of the Lord, in the clouds of heaven, and all the holy angels with him. Then understood his disciples that he should come again on the earth, after that he was glorified and crowned on the right hand of God.",
-                    "score": 0.7685850998234319
+                    "text": "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8504740134862674
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 1,
+                    "verse": 20,
+                    "text": "The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8429650572909198
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 8,
+                    "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8112709105691214
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 8,
+                    "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9224206943951943
                 }
             ]
         },
@@ -96,82 +56,22 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 138,
                     "verse": 8,
                     "text": "The Lord will perfect that which concerneth me: thy mercy, O Lord, endureth for ever: forsake not the works of thine own hands.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8140284363412889
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 30,
                     "verse": 8,
                     "text": "Wherefore, give heed unto these things and be diligent in keeping my commandments, and you shall be blessed unto eternal life. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8133625096006096
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 15,
-                    "verse": 7,
-                    "text": "And because I said unto you that old things have passed away, I do not destroy that which hath been spoken concerning things which are to come.",
-                    "score": 0.7931985538466485
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 12,
-                    "verse": 30,
-                    "text": "Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou inquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.",
-                    "score": 0.786057144946919
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 122,
-                    "text": "Be surety for thy servant for good: let not the proud oppress me.",
-                    "score": 0.7833164257509792
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 34,
-                    "verse": 33,
-                    "text": "And now, as I said unto you before, as ye have had so many witnesses, therefore, I beseech of you that ye do not procrastinate the day of your repentance until the end; for after this day of life, which is given us to prepare for eternity, behold, if we do not improve our time while in this life, then cometh the night of darkness wherein there can be no labor performed.",
-                    "score": 0.7829432632478194
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 37,
-                    "verse": 14,
-                    "text": "Hearken unto this, O Job: stand still, and consider the wondrous works of God.",
-                    "score": 0.782344184968177
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 108,
-                    "verse": 3,
-                    "text": "And arise up and be more careful henceforth in observing your vows, which you have made and do make, and you shall be blessed with exceeding great blessings.",
-                    "score": 0.7808782956682655
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 4,
-                    "verse": 30,
-                    "text": "But this much I can tell you, that if ye do not watch yourselves, and your thoughts, and your words, and your deeds, and observe the commandments of God, and continue in the faith of what ye have heard concerning the coming of our Lord, even unto the end of your lives, ye must perish. And now, O man, remember, and perish not.",
-                    "score": 0.7808717318705268
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 19,
-                    "text": "Wherefore, I beseech of you, brethren, that ye should search diligently in the light of Christ that ye may know good from evil; and if ye will lay hold upon every good thing, and condemn it not, ye certainly will be a child of Christ.",
-                    "score": 0.7798108360449301
                 }
             ]
         },
@@ -180,256 +80,235 @@
             "text": "Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 16,
+                    "verse": 15,
+                    "text": "Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.842507912945305
+                },
+                {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--Matthew",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 46,
                     "text": "And what I say unto one, I say unto all men; watch, therefore, for you know not at what hour your Lord doth come.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.832355127601088
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 42,
+                    "text": "Watch therefore: for ye know not what hour your Lord doth come.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8259488295319075
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 5,
+                    "text": "Remember therefore from whence thou art fallen, and repent, and do the first works; or else I will come unto thee quickly, and will remove thy candlestick out of his place, except thou repent.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8250099069267149
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 20,
                     "text": "Thou shalt not steal; and he that stealeth and will not repent shall be cast out.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8188754315853397
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 13,
+                    "verse": 33,
+                    "text": "Take ye heed, watch and pray: for ye know not when the time is.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.814631232646414
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 21,
+                    "verse": 8,
+                    "text": "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8105867922194137
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 10,
+                    "text": "Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation, which shall come upon all the world, to try them that dwell upon the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078624043222724
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 14,
                     "verse": 13,
                     "text": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8057542976459605
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 15,
                     "verse": 15,
                     "text": "O Lord, thou knowest: remember me, and visit me, and revenge me of my persecutors; take me not away in thy longsuffering: know that for thy sake I have suffered rebuke.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8032547893517452
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 25,
                     "verse": 15,
                     "text": "Keep my commandments continually, and a crown of righteousness thou shalt receive. And except thou do this, where I am you cannot come.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8027825319791825
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 5,
                     "verse": 39,
                     "text": "Behold thou hast driven me out this day from the face of the Lord, and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that he that findeth me will slay me, because of mine iniquities, for these things are not hid from the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8027652010682848
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 82,
                     "verse": 5,
                     "text": "Therefore, what I say unto one I say unto all: Watch, for the adversary spreadeth his dominions, and darkness reigneth;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8017695716023534
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 20,
                     "text": "Therefore remember, O man, for all thy doings thou shalt be brought into judgment.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8009069302447983
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 126,
-                    "text": "Pray always, that ye may not faint, until I come. Behold, and lo, I will come quickly, and receive you unto myself. Amen.",
-                    "score": 0.7998970983451427
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 22,
+                    "verse": 15,
+                    "text": "For thou shalt be his witness unto all men of what thou hast seen and heard.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002612241249972
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 34,
-                    "verse": 39,
-                    "text": "Yea, and I also exhort you, my brethren, that ye be watchful unto prayer continually, that ye may not be led away by the temptations of the devil, that he may not overpower you, that ye may not become his subjects at the last day; for behold, he rewardeth you no good thing.",
-                    "score": 0.7996315639900924
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 42,
+                    "text": "Watch therefore: for ye know not what hour your Lord doth come.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9109815146879252
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Joseph Smith--Matthew",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 46,
+                    "text": "And what I say unto one, I say unto all men; watch, therefore, for you know not at what hour your Lord doth come.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.909410449686795
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 13,
+                    "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9040183906577677
                 }
             ]
         },
         {
             "verse": 4,
             "text": "Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 17,
-                    "verse": 8,
-                    "text": "And I have been with thee whithersoever thou hast walked, and have cut off all thine enemies from before thee, and have made thee a name like the name of the great men that are in the earth.",
-                    "score": 0.7815641417071569
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 1,
-                    "verse": 12,
-                    "text": "And I give unto them a name that never shall be blotted out, except it be through transgression.",
-                    "score": 0.7711251918756099
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 18,
-                    "verse": 39,
-                    "text": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
-                    "score": 0.7639636572872847
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.",
-                    "score": 0.7606743408096398
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 3,
-                    "verse": 13,
-                    "text": "And I have also given thee that which thou hast not asked, both riches, and honour: so that there shall not be any among the kings like unto thee all thy days.",
-                    "score": 0.7603434659064103
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 9,
-                    "verse": 10,
-                    "text": "And they that know thy name will put their trust in thee: for thou, Lord, hast not forsaken them that seek thee.",
-                    "score": 0.7593010566535278
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 11,
-                    "verse": 12,
-                    "text": "And ye shall know that I am the Lord: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that are round about you.",
-                    "score": 0.7590614460490864
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
-                    "verse": 25,
-                    "text": "And may the Lord bless you, and keep your garments spotless, that ye may at last be brought to sit down with Abraham, Isaac, and Jacob, and the holy prophets who have been ever since the world began, having your garments spotless even as their garments are spotless, in the kingdom of heaven to go no more out.",
-                    "score": 0.7581020429441829
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 136,
-                    "verse": 37,
-                    "text": "Therefore, marvel not at these things, for ye are not yet pure; ye can not yet bear my glory; but ye shall behold it if ye are faithful in keeping all my words that I have given you, from the days of Adam to Abraham, from Abraham to Moses, from Moses to Jesus and his apostles, and from Jesus and his apostles to Joseph Smith, whom I did call upon by mine angels, my ministering servants, and by mine own voice out of the heavens, to bring forth my work;",
-                    "score": 0.7574699140896297
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 12,
-                    "verse": 37,
-                    "text": "And it came to pass that the Lord said unto me: If they have not charity it mattereth not unto thee, thou hast been faithful; wherefore, thy garments shall be made clean. And because thou hast seen thy weakness thou shalt be made strong, even unto the sitting down in the place which I have prepared in the mansions of my Father.",
-                    "score": 0.7567313921519283
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 5,
             "text": "He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 12,
+                    "verse": 8,
+                    "text": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.822250592095927
+                },
+                {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 17,
                     "verse": 13,
                     "text": "I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8186810914487213
                 },
                 {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 32,
+                    "text": "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181036555732023
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 20,
                     "text": "Nevertheless, he that endureth in faith and doeth my will, the same shall overcome, and shall receive an inheritance upon the earth when the day of transfiguration shall come;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8179360522878657
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 27,
-                    "verse": 16,
-                    "text": "And it shall come to pass, that whoso repenteth and is baptized in my name shall be filled; and if he endureth to the end, behold, him will I hold guiltless before my Father at that day when I shall stand to judge the world.",
-                    "score": 0.7990080626369821
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 36,
-                    "verse": 23,
-                    "text": "And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I am the Lord, saith the Lord God, when I shall be sanctified in you before their eyes.",
-                    "score": 0.7890026409234283
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 27,
-                    "verse": 6,
-                    "text": "And whoso taketh upon him my name, and endureth to the end, the same shall be saved at the last day.",
-                    "score": 0.7886945726394405
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 8,
-                    "text": "But the day soon cometh that ye shall see me, and know that I am; for the veil of darkness shall soon be rent, and he that is not purified shall not abide the day.",
-                    "score": 0.784543084622392
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 3,
-                    "verse": 8,
-                    "text": "O my brethren, I fear that unless ye shall repent of your sins that their skins will be whiter than yours, when ye shall be brought with them before the throne of God.",
-                    "score": 0.7836015477413475
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 106,
-                    "verse": 8,
-                    "text": "And I will give him grace and assurance wherewith he may stand; and if he continue to be a faithful witness and a light unto the church I have prepared a crown for him in the mansions of my Father. Even so. Amen.",
-                    "score": 0.7833119109989012
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 18,
-                    "text": "And again, I say unto you that it is my will that my servant Lyman Wight should continue in preaching for Zion, in the spirit of meekness, confessing me before the world; and I will bear him up as on eagles' wings; and he shall beget glory and honor to himself and unto my name.",
-                    "score": 0.783177612148845
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 21,
-                    "verse": 29,
-                    "text": "Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: but in his son's days will I bring the evil upon his house.",
-                    "score": 0.7831266425720338
                 }
             ]
         },
@@ -438,172 +317,471 @@
             "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 1,
-                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
-                    "score": 0.8465392316899734
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9158822522383038
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8925632130913375
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8886095713925374
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.884469269845038
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8770735119900525
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8465392316899734
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 17,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8415535916266739
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 50,
                     "text": "He who hath faith to hear shall hear.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8414526085792917
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 43,
                     "verse": 1,
                     "text": "O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8340413831895406
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 86,
                     "verse": 6,
                     "text": "Give ear, O Lord, unto my prayer; and attend to the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8286524249761994
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 130,
                     "verse": 2,
                     "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8259009311834521
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 1,
                     "text": "Hearken, O ye people, and open your hearts and give ear from afar; and listen, you that call yourselves the people of the Lord, and hear the word of the Lord and his will concerning you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8257739551385788
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 54,
                     "verse": 2,
                     "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8234712757613154
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 23,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205445895068303
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205445895068303
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 13,
                     "verse": 15,
                     "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169831564462396
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 1,
                     "text": "Hearken, O ye people of my church, saith the Lord your God, and hear the word of the Lord concerning you--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8149354716952026
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 34,
                     "verse": 2,
                     "text": "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8118041835168895
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 32,
+                    "verse": 1,
+                    "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117134678059014
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 24,
+                    "verse": 26,
+                    "text": "That he that escapeth in that day shall come unto thee, to cause thee to hear it with thine ears?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809504978807875
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 17,
+                    "verse": 1,
+                    "text": "Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8086169004999493
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 143,
+                    "verse": 1,
+                    "text": "Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075539405829026
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 23,
+                    "text": "Who among you will give ear to this? who will hearken and hear for the time to come?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805511644504488
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "If any man have an ear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041818191528881
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 17,
+                    "verse": 6,
+                    "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027693214273389
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 15,
+                    "verse": 31,
+                    "text": "The ear that heareth the reproof of life abideth among the wise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025910037603502
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 78,
+                    "verse": 2,
+                    "text": "And listen to the counsel of him who has ordained you from on high, who shall speak in your ears the words of wisdom, that salvation may be unto you in that thing which you have presented before me, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801444176870408
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "Blessed be the Lord, because he hath heard the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011344677182914
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 58,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009093820201526
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 26,
+                    "verse": 21,
+                    "text": "And he that will hear my voice shall be my sheep; and him shall ye receive into the church, and him will I also receive.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001253314358189
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999994933605385
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999992251396659
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999818205844289
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9235588266586706
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9131002698272649
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9120973620443852
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9103524413599873
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9050404372835564
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005885720253055
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 43,
+                    "verse": 1,
+                    "text": "O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9000294208526676
                 }
             ]
         },
         {
             "verse": 7,
             "text": "And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 22,
-                    "verse": 22,
-                    "text": "And the key of the house of David will I lay upon his shoulder; so he shall open, and none shall shut; and he shall shut, and none shall open.",
-                    "score": 0.7775797035795183
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 21,
-                    "verse": 12,
-                    "text": "And there came a writing to him from Elijah the prophet, saying, Thus saith the Lord God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah,",
-                    "score": 0.775704956467001
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 30,
-                    "verse": 32,
-                    "text": "Upon man's flesh shall it not be poured, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy unto you.",
-                    "score": 0.7726103433699087
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 7,
-                    "text": "I, the Lord God, have spoken it; but the hour and the day no man knoweth, neither the angels in heaven, nor shall they know until he comes.",
-                    "score": 0.766407682437506
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 13,
-                    "verse": 17,
-                    "text": "And Manoah said unto the angel of the Lord, What is thy name, that when thy sayings come to pass we may do thee honour?",
-                    "score": 0.7642643546510783
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 6,
-                    "verse": 17,
-                    "text": "Now then, O Lord God of Israel, let thy word be verified, which thou hast spoken unto thy servant David.",
-                    "score": 0.7641070841580494
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 41,
-                    "text": "O then, my beloved brethren, come unto the Lord, the Holy One. Remember that his paths are righteous. Behold, the way for man is narrow, but it lieth in a straight course before him, and the keeper of the gate is the Holy One of Israel; and he employeth no servant there; and there is none other way save it be by the gate; for he cannot be deceived, for the Lord God is his name.",
-                    "score": 0.7610134958100138
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 14,
-                    "verse": 25,
-                    "text": "But the things which thou shalt see hereafter thou shalt not write; for the Lord God hath ordained the apostle of the Lamb of God that he should write them.",
-                    "score": 0.760731563283223
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 36,
-                    "text": "And then shall be brought to pass that which is written: Awake, awake again, and put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city, for henceforth there shall no more come into thee the uncircumcised and the unclean.",
-                    "score": 0.7595463392337739
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 4,
-                    "verse": 3,
-                    "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written among the living in Jerusalem:",
-                    "score": 0.758623121589547
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 8,
@@ -612,82 +790,12 @@
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 9,
                     "verse": 3,
                     "text": "And the Lord said unto him, I have heard thy prayer and thy supplication, that thou hast made before me: I have hallowed this house, which thou hast built, to put my name there for ever; and mine eyes and mine heart shall be there perpetually.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.809253119853155
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 60,
-                    "verse": 11,
-                    "text": "Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.",
-                    "score": 0.7988899626032919
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 16,
-                    "verse": 8,
-                    "text": "I have set the Lord always before me: because he is at my right hand, I shall not be moved.",
-                    "score": 0.7963808857583664
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 17,
-                    "verse": 4,
-                    "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer.",
-                    "score": 0.7867182452933439
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 41,
-                    "verse": 12,
-                    "text": "And as for me, thou upholdest me in mine integrity, and settest me before thy face for ever.",
-                    "score": 0.7862234081023017
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 92,
-                    "verse": 4,
-                    "text": "For thou, Lord, hast made me glad through thy work: I will triumph in the works of thy hands.",
-                    "score": 0.7854158501414173
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 141,
-                    "verse": 3,
-                    "text": "Set a watch, O Lord, before my mouth; keep the door of my lips.",
-                    "score": 0.7829092011448339
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 8,
-                    "verse": 29,
-                    "text": "That thine eyes may be open toward this house night and day, even toward the place of which thou hast said, My name shall be there: that thou mayest hearken unto the prayer which thy servant shall make toward this place.",
-                    "score": 0.779621221488392
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 22,
-                    "verse": 40,
-                    "text": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me.",
-                    "score": 0.7792425034601858
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 104,
-                    "verse": 86,
-                    "text": "I give unto you this privilege, this once; and behold, if you proceed to do the things which I have laid before you, according to my commandments, all these things are mine, and ye are my stewards, and the master will not suffer his house to be broken up. Even so. Amen.",
-                    "score": 0.7775456834808473
                 }
             ]
         },
@@ -698,82 +806,32 @@
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 37,
                     "verse": 27,
                     "text": "My tabernacle also shall be with them: yea, I will be their God, and they shall be my people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8218246716844309
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 9,
+                    "text": "I know thy works, and tribulation, and poverty, (but thou art rich) and I know the blasphemy of them which say they are Jews, and are not, but are the synagogue of Satan.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8155771906691562
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 4,
                     "verse": 1,
                     "text": "And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten, is the same which was from the beginning, and he came before me, saying--Behold, here am I, send me, I will be thy son, and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021306488457507
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 8,
-                    "verse": 8,
-                    "text": "And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness.",
-                    "score": 0.7986818731548838
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 22,
-                    "verse": 25,
-                    "text": "My praise shall be of thee in the great congregation: I will pay my vows before them that fear him.",
-                    "score": 0.7968145943151471
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 37,
-                    "verse": 23,
-                    "text": "And the Lord said: I will prepare unto my servant Gazelem, a stone, which shall shine forth in darkness unto light, that I may discover unto my people who serve me, that I may discover unto them the works of their brethren, yea, their secret works, their works of darkness, and their wickedness and abominations.",
-                    "score": 0.7960180941783854
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 51,
-                    "text": "And then shall the Jews look upon me and say: What are these wounds in thine hands and in thy feet?",
-                    "score": 0.7949075309756471
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 32,
-                    "verse": 38,
-                    "text": "And they shall be my people, and I will be their God:",
-                    "score": 0.7924819133475056
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 138,
-                    "verse": 2,
-                    "text": "I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.",
-                    "score": 0.7921038783235433
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 30,
-                    "verse": 2,
-                    "text": "Turn, all ye Gentiles, from your wicked ways; and repent of your evil doings, of your lyings and deceivings, and of your whoredoms, and of your secret abominations, and your idolatries, and of your murders, and your priestcrafts, and your envyings, and your strifes, and from all your wickedness and abominations, and come unto me, and be baptized in my name, that ye may receive a remission of your sins, and be filled with the Holy Ghost, that ye may be numbered with my people who are of the house of Israel.",
-                    "score": 0.7916982845962783
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 20,
-                    "verse": 12,
-                    "text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the Lord that sanctify them.",
-                    "score": 0.7886019795928613
                 }
             ]
         },
@@ -784,82 +842,22 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 34,
                     "verse": 40,
                     "text": "And now my beloved brethren, I would exhort you to have patience, and that ye bear with all manner of afflictions; that ye do not revile against those who do cast you out because of your exceeding poverty, lest ye become sinners like unto them;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8120859291124904
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 17,
-                    "text": "Deal bountifully with thy servant, that I may live, and keep thy word.",
-                    "score": 0.7990149708001388
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 94,
-                    "text": "I am thine, save me; for I have sought thy precepts.",
-                    "score": 0.793377264652248
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 25,
-                    "verse": 15,
-                    "text": "Keep my commandments continually, and a crown of righteousness thou shalt receive. And except thou do this, where I am you cannot come.",
-                    "score": 0.7894702759948308
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 121,
-                    "verse": 8,
-                    "text": "The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore.",
-                    "score": 0.7860847832670692
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 5,
-                    "verse": 33,
-                    "text": "And there are many that lie in wait to destroy thee from off the face of the earth; and for this cause, that thy days may be prolonged, I have given unto thee these commandments.",
-                    "score": 0.7857424759755554
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 17,
-                    "verse": 4,
-                    "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer.",
-                    "score": 0.7855421907115082
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 25,
-                    "verse": 21,
-                    "text": "Let integrity and uprightness preserve me; for I wait on thee.",
-                    "score": 0.784409816717
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 72,
-                    "text": "And now I say unto you, keep these things from going abroad unto the world until it is expedient in me, that ye may accomplish this work in the eyes of the people, and in the eyes of your enemies, that they may not know your works until ye have accomplished the thing which I have commanded you;",
-                    "score": 0.7843728180690603
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 38,
-                    "text": "And seek the face of the Lord always, that in patience ye may possess your souls, and ye shall have eternal life.",
-                    "score": 0.7842177318116633
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 3,
+                    "text": "Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078624043222724
                 }
             ]
         },
@@ -868,84 +866,24 @@
             "text": "Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 22,
+                    "verse": 7,
+                    "text": "Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8142734703613769
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 35,
                     "verse": 27,
                     "text": "Fear not, little flock, the kingdom is yours until I come. Behold, I come quickly. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8078312756595614
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 39,
-                    "verse": 24,
-                    "text": "Behold, I come quickly. Even so. Amen.",
-                    "score": 0.7967515694144576
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 41,
-                    "verse": 4,
-                    "text": "And I will be your ruler when I come; and behold, I come quickly, and ye shall see that my law is kept.",
-                    "score": 0.7923033212965299
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 33,
-                    "verse": 18,
-                    "text": "For behold, verily, verily, I say unto you, that I come quickly. Even so. Amen.",
-                    "score": 0.786570672758852
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 27,
-                    "verse": 6,
-                    "text": "My righteousness I hold fast, and will not let it go: my heart shall not reproach me so long as I live.",
-                    "score": 0.7847278455436457
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 28,
-                    "text": "Behold, I am Jesus Christ, and I come quickly. Even so. Amen.",
-                    "score": 0.7801066376572414
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 13,
-                    "verse": 18,
-                    "text": "That thou appear not unto men to fast, but unto thy Father, who is in secret; and thy Father, who seeth in secret, shall reward thee openly.",
-                    "score": 0.773006534692419
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 126,
-                    "text": "Pray always, that ye may not faint, until I come. Behold, and lo, I will come quickly, and receive you unto myself. Amen.",
-                    "score": 0.7727572516121628
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 34,
-                    "verse": 12,
-                    "text": "And verily, verily, I say unto you, I come quickly. I am your Lord and your Redeemer. Even so. Amen.",
-                    "score": 0.7725044508349999
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 51,
-                    "verse": 20,
-                    "text": "Verily, I say unto you, I am Jesus Christ, who cometh quickly, in an hour you think not. Even so. Amen.",
-                    "score": 0.7721027919572231
                 }
             ]
         },
@@ -956,82 +894,12 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 4,
                     "verse": 3,
                     "text": "And it shall come to pass, that he that is left in Zion, and he that remaineth in Jerusalem, shall be called holy, even every one that is written among the living in Jerusalem:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8014283579692837
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 36,
-                    "text": "And then shall be brought to pass that which is written: Awake, awake again, and put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city, for henceforth there shall no more come into thee the uncircumcised and the unclean.",
-                    "score": 0.7972686899596035
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 62,
-                    "text": "And righteousness will I send down out of heaven; and truth will I send forth out of the earth, to bear testimony of mine Only Begotten; his resurrection from the dead; yea, and also the resurrection of all men; and righteousness and truth will I cause to sweep the earth as with a flood, to gather out mine elect from the four quarters of the earth, unto a place which I shall prepare, an Holy City, that my people may gird up their loins, and be looking forth for the time of my coming; for there shall be my tabernacle, and it shall be called Zion, a New Jerusalem.",
-                    "score": 0.791929342508829
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 14,
-                    "verse": 3,
-                    "text": "And it shall come to pass, they that are left in Zion and remain in Jerusalem shall be called holy, every one that is written among the living in Jerusalem--",
-                    "score": 0.7916562439859403
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 21,
-                    "verse": 4,
-                    "text": "And he built altars in the house of the Lord, of which the Lord said, In Jerusalem will I put my name.",
-                    "score": 0.7911738850093454
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 23,
-                    "verse": 27,
-                    "text": "And the Lord said, I will remove Judah also out of my sight, as I have removed Israel, and will cast off this city Jerusalem which I have chosen, and the house of which I said, My name shall be there.",
-                    "score": 0.7911470675918991
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 31,
-                    "verse": 13,
-                    "text": "I am the God of Beth-el, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.",
-                    "score": 0.7893653049356477
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 13,
-                    "verse": 14,
-                    "text": "So will I break down the wall that ye have daubed with untempered mortar, and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I am the Lord.",
-                    "score": 0.7893386496249214
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 9,
-                    "verse": 29,
-                    "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the Lord; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the Lord's.",
-                    "score": 0.7892573726404889
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 4,
-                    "text": "And I command you that ye shall write these sayings after I am gone, that if it so be that my people at Jerusalem, they who have seen me and been with me in my ministry, do not ask the Father in my name, that they may receive a knowledge of you by the Holy Ghost, and also of the other tribes whom they know not of, that these sayings which ye shall write shall be kept and shall be manifested unto the Gentiles, that through the fulness of the Gentiles, the remnant of their seed, who shall be scattered forth upon the face of the earth because of their unbelief, may be brought in, or may be brought to a knowledge of me, their Redeemer.",
-                    "score": 0.7884992799866172
                 }
             ]
         },
@@ -1040,84 +908,464 @@
             "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 1,
-                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
-                    "score": 0.8465392316899734
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 6,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9158822522383038
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8925632130913375
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8886095713925374
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.884469269845038
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8770735119900525
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8465392316899734
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 17,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8415535916266739
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 50,
                     "text": "He who hath faith to hear shall hear.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8414526085792917
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 43,
                     "verse": 1,
                     "text": "O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8340413831895406
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 86,
                     "verse": 6,
                     "text": "Give ear, O Lord, unto my prayer; and attend to the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8286524249761994
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 130,
                     "verse": 2,
                     "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8259009311834521
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 1,
                     "text": "Hearken, O ye people, and open your hearts and give ear from afar; and listen, you that call yourselves the people of the Lord, and hear the word of the Lord and his will concerning you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8257739551385788
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 54,
                     "verse": 2,
                     "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8234712757613154
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 23,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205445895068303
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205445895068303
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 13,
                     "verse": 15,
                     "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169831564462396
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 1,
                     "text": "Hearken, O ye people of my church, saith the Lord your God, and hear the word of the Lord concerning you--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8149354716952026
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 34,
                     "verse": 2,
                     "text": "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8118041835168895
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 32,
+                    "verse": 1,
+                    "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117134678059014
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 24,
+                    "verse": 26,
+                    "text": "That he that escapeth in that day shall come unto thee, to cause thee to hear it with thine ears?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809504978807875
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 17,
+                    "verse": 1,
+                    "text": "Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8086169004999493
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 143,
+                    "verse": 1,
+                    "text": "Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075539405829026
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 23,
+                    "text": "Who among you will give ear to this? who will hearken and hear for the time to come?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805511644504488
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "If any man have an ear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041818191528881
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 17,
+                    "verse": 6,
+                    "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027693214273389
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 15,
+                    "verse": 31,
+                    "text": "The ear that heareth the reproof of life abideth among the wise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025910037603502
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 78,
+                    "verse": 2,
+                    "text": "And listen to the counsel of him who has ordained you from on high, who shall speak in your ears the words of wisdom, that salvation may be unto you in that thing which you have presented before me, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801444176870408
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "Blessed be the Lord, because he hath heard the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011344677182914
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 58,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009093820201526
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 26,
+                    "verse": 21,
+                    "text": "And he that will hear my voice shall be my sheep; and him shall ye receive into the church, and him will I also receive.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001253314358189
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 6,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999994933605385
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 6,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999818205844289
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999818205844289
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999810457229614
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9231746701210409
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9128704291168276
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9122557859649504
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9105272564449093
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9050686246238564
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002568066273232
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 43,
+                    "verse": 1,
+                    "text": "O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9001470148651028
                 }
             ]
         },
@@ -1126,84 +1374,34 @@
             "text": "And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 102,
-                    "verse": 18,
-                    "text": "This shall be written for the generation to come: and the people which shall be created shall praise the Lord.",
-                    "score": 0.7842161466003219
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 2,
-                    "verse": 1,
-                    "text": "And it came to pass that the Lord spake unto Moses, saying: Behold, I reveal unto you concerning this heaven, and this earth; write the words which I speak. I am the Beginning and the End, the Almighty God; by mine Only Begotten I created these things; yea, in the beginning I created the heaven, and the earth upon which thou standest.",
-                    "score": 0.7792098042522468
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 6,
                     "verse": 8,
-                    "text": "And Alma went and began to declare the word of God unto the church which was established in the valley of Gideon, according to the revelation of the truth of the word which had been spoken by his fathers, and according to the spirit of prophecy which was in him, according to the testimony of Jesus Christ, the Son of God, who should come to redeem his people from their sins, and the holy order by which he was called. And thus it is written. Amen.",
-                    "score": 0.7762276357492351
+                    "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8059219169992053
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 21,
-                    "verse": 12,
-                    "text": "And the first preacher of this church unto the church, and before the world, yea, before the Gentiles; yea, and thus saith the Lord God, lo, lo! to the Jews also. Amen.",
-                    "score": 0.7704658707539143
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 18,
+                    "text": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9008286536233959
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 1,
-                    "text": "Hearken, O ye people of my church, to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.",
-                    "score": 0.7655941202862324
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 14,
-                    "verse": 11,
-                    "text": "And behold, thou art David, and thou art called to assist; which thing if ye do, and are faithful, ye shall be blessed both spiritually and temporally, and great shall be your reward. Amen.",
-                    "score": 0.7653680781885074
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 14,
-                    "text": "And the angel said unto me: Behold thy seed, and also the seed of thy brethren.",
-                    "score": 0.7633938625178024
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 23,
-                    "verse": 4,
-                    "text": "Therefore give heed to my words; write the things which I have told you; and according to the time and the will of the Father they shall go forth unto the Gentiles.",
-                    "score": 0.76338891806166
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 5,
-                    "verse": 4,
-                    "text": "And in the mouth of three witnesses shall these things be established; and the testimony of three, and this work, in the which shall be shown forth the power of God and also his word, of which the Father, and the Son, and the Holy Ghost bear record--and all this shall stand as a testimony against the world at the last day.",
-                    "score": 0.7633440100054838
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 37,
-                    "text": "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah.",
-                    "score": 0.7627522655296209
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 8,
+                    "text": "And unto the angel of the church in Smyrna write; These things saith the first and the last, which was dead, and is alive;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9004965901966863
                 }
             ]
         },
@@ -1212,84 +1410,14 @@
             "text": "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 10,
-                    "verse": 7,
-                    "text": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.",
-                    "score": 0.762188543249851
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 57,
-                    "verse": 12,
-                    "text": "I will declare thy righteousness, and thy works; for they shall not profit thee.",
-                    "score": 0.753106727559745
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 24,
-                    "verse": 12,
-                    "text": "If thou sayest, Behold, we knew it not; doth not he that pondereth the heart consider it? and he that keepeth thy soul, doth not he know it? and shall not he render to every man according to his works?",
-                    "score": 0.7530551191525912
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 18,
-                    "verse": 4,
-                    "text": "For so the Lord said unto me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, and like a cloud of dew in the heat of harvest.",
-                    "score": 0.751088939263369
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 10,
-                    "text": "Thou art not yet as Job; thy friends do not contend against thee, neither charge thee with transgression, as they did Job.",
-                    "score": 0.7500175156750637
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 34,
-                    "verse": 17,
-                    "text": "Thou shalt make thee no molten gods.",
-                    "score": 0.7493914466902902
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 42,
-                    "text": "Thou shalt not be idle; for he that is idle shall not eat the bread nor wear the garments of the laborer.",
-                    "score": 0.7483218393346824
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 8,
-                    "verse": 22,
-                    "text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.",
-                    "score": 0.7441522325960369
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 6,
-                    "verse": 1,
-                    "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
-                    "score": 0.7439281133243351
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 4,
-                    "verse": 12,
-                    "text": "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.",
-                    "score": 0.7435449044277652
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8112756152699545
                 }
             ]
         },
@@ -1298,428 +1426,56 @@
             "text": "So then because thou art lukewarm, and neither cold nor hot, I will spue thee out of my mouth.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 6,
-                    "verse": 1,
-                    "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure.",
-                    "score": 0.7614095389733794
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 38,
-                    "verse": 1,
-                    "text": "O Lord, rebuke me not in thy wrath: neither chasten me in thy hot displeasure.",
-                    "score": 0.7577853368061341
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 10,
-                    "verse": 7,
-                    "text": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.",
-                    "score": 0.7456934321005395
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 38,
-                    "verse": 14,
-                    "text": "Thus I was as a man that heareth not, and in whose mouth are no reproofs.",
-                    "score": 0.7434100337381545
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 27,
-                    "verse": 4,
-                    "text": "My lips shall not speak wickedness, nor my tongue utter deceit.",
-                    "score": 0.7417551304746048
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 5,
-                    "verse": 2,
-                    "text": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.",
-                    "score": 0.7393340862667678
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 55,
-                    "verse": 11,
-                    "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.",
-                    "score": 0.7382224038687085
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 5,
-                    "verse": 21,
-                    "text": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
-                    "score": 0.7331881157628266
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 43,
-                    "text": "And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.",
-                    "score": 0.7314860432008548
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 4,
-                    "verse": 14,
-                    "text": "Then said I, Ah Lord God! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.",
-                    "score": 0.7295504827332718
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 15,
+                    "text": "I know thy works, that thou art neither cold nor hot: I would thou wert cold or hot.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8112756152699545
                 }
             ]
         },
         {
             "verse": 17,
             "text": "Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked:",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 28,
-                    "verse": 5,
-                    "text": "By thy great wisdom and by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:",
-                    "score": 0.795672886206042
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 16,
-                    "text": "And for your salvation I give unto you a commandment, for I have heard your prayers, and the poor have complained before me, and the rich have I made, and all flesh is mine, and I am no respecter of persons.",
-                    "score": 0.795395765857516
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 40,
-                    "verse": 17,
-                    "text": "But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.",
-                    "score": 0.7923194653069922
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 70,
-                    "verse": 5,
-                    "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying.",
-                    "score": 0.7912600209299986
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 29,
-                    "text": "But I am poor and sorrowful: let thy salvation, O God, set me up on high.",
-                    "score": 0.7907352888746562
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 30,
-                    "verse": 30,
-                    "text": "For it was little which thou hadst before I came, and it is now increased unto a multitude; and the Lord hath blessed thee since my coming: and now when shall I provide for mine own house also?",
-                    "score": 0.7866696162419987
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 28,
-                    "verse": 22,
-                    "text": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
-                    "score": 0.7865911434924949
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
-                    "chapter": 12,
-                    "verse": 8,
-                    "text": "And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin.",
-                    "score": 0.782335837965946
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "Seek not for riches but for wisdom, and behold, the mysteries of God shall be unfolded unto you, and then shall you be made rich. Behold, he that hath eternal life is rich.",
-                    "score": 0.7809486339108476
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 11,
-                    "verse": 7,
-                    "text": "Seek not for riches but for wisdom; and, behold, the mysteries of God shall be unfolded unto you, and then shall you be made rich. Behold, he that hath eternal life is rich.",
-                    "score": 0.7809486339108476
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 18,
             "text": "I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 9,
-                    "verse": 5,
-                    "text": "For behold, when ye shall be brought to see your nakedness before God, and also the glory of God, and the holiness of Jesus Christ, it will kindle a flame of unquenchable fire upon you.",
-                    "score": 0.7971031849050265
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 4,
-                    "verse": 2,
-                    "text": "And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top thereof:",
-                    "score": 0.793849116063351
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 5,
-                    "verse": 16,
-                    "text": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.",
-                    "score": 0.7906343003591367
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 30,
-                    "verse": 22,
-                    "text": "Ye shall defile also the covering of thy graven images of silver, and the ornament of thy molten images of gold: thou shalt cast them away as a menstruous cloth; thou shalt say unto it, Get thee hence.",
-                    "score": 0.7886108025624986
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 13,
-                    "text": "And thou shalt make ouches of gold;",
-                    "score": 0.7879930455751906
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 67,
-                    "verse": 2,
-                    "text": "Behold and lo, mine eyes are upon you, and the heavens and the earth are in mine hands, and the riches of eternity are mine to give.",
-                    "score": 0.7841075786361342
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 28,
-                    "text": "Yea, ye will lift him up, and ye will give unto him of your substance; ye will give unto him of your gold, and of your silver, and ye will clothe him with costly apparel; and because he speaketh flattering words unto you, and he saith that all is well, then ye will not find fault with him.",
-                    "score": 0.783885707015093
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 12,
-                    "text": "And now behold, my brethren, this is the word which I declare unto you, that many of you have begun to search for gold, and for silver, and for all manner of precious ores, in the which this land, which is a land of promise unto you and to your seed, doth abound most plentifully.",
-                    "score": 0.7838364643972928
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations that are in the midst of thee; and ye shall know that I am the Lord that smiteth.",
-                    "score": 0.7837633326366977
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "And mine eye shall not spare thee, neither will I have pity: but I will recompense thy ways upon thee, and thine abominations shall be in the midst of thee: and ye shall know that I am the Lord.",
-                    "score": 0.7830785967157152
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 16,
+                    "verse": 15,
+                    "text": "Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8125942479774518
                 }
             ]
         },
         {
             "verse": 19,
             "text": "As many as I love, I rebuke and chasten: be zealous therefore, and repent.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 18,
-                    "verse": 22,
-                    "text": "And as many as repent and are baptized in my name, which is Jesus Christ, and endure to the end, the same shall be saved.",
-                    "score": 0.7946844783654522
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 30,
-                    "text": "Yea, and as often as my people repent will I forgive them their trespasses against me.",
-                    "score": 0.7918315058162779
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 25,
-                    "verse": 17,
-                    "text": "And I will execute great vengeance upon them with furious rebukes; and they shall know that I am the Lord, when I shall lay my vengeance upon them.",
-                    "score": 0.7879274161094229
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 95,
-                    "verse": 1,
-                    "text": "Verily, thus saith the Lord unto you whom I love, and whom I love I also chasten that their sins may be forgiven, for with the chastisement I prepare a way for their deliverance in all things out of temptation, and I have loved you--",
-                    "score": 0.7841642160358446
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 30,
-                    "text": "And thou shalt do it with all humility, trusting in me, reviling not against revilers.",
-                    "score": 0.7833463938799494
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "And when I desire to rejoice, my heart groaneth because of my sins; nevertheless, I know in whom I have trusted.",
-                    "score": 0.7822222582396345
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 26,
-                    "verse": 11,
-                    "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me.",
-                    "score": 0.7814364465431446
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 9,
-                    "verse": 8,
-                    "text": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.",
-                    "score": 0.7803928162441924
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 20,
-                    "verse": 6,
-                    "text": "And shewing mercy unto thousands of them that love me, and keep my commandments.",
-                    "score": 0.7799251876695159
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 5,
-                    "verse": 10,
-                    "text": "And shewing mercy unto thousands of them that love me and keep my commandments.",
-                    "score": 0.7799251876695159
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 20,
             "text": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 50,
-                    "verse": 8,
-                    "text": "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.",
-                    "score": 0.7926528721562618
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 91,
-                    "verse": 15,
-                    "text": "He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.",
-                    "score": 0.7902866786198349
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 6,
-                    "verse": 5,
-                    "text": "Therefore, if you will ask of me you shall receive; if you will knock it shall be opened unto you.",
-                    "score": 0.7850535054828396
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 14,
-                    "verse": 5,
-                    "text": "Therefore, if you will ask of me you shall receive; if you will knock it shall be opened unto you.",
-                    "score": 0.7850535054828396
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 12,
-                    "verse": 5,
-                    "text": "Therefore, if you will ask of me you shall receive; if you will knock it shall be opened unto you.",
-                    "score": 0.7850535054828396
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 11,
-                    "verse": 5,
-                    "text": "Therefore, if you will ask of me you shall receive; if you will knock it shall be opened unto you.",
-                    "score": 0.7850535054828396
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 26,
-                    "verse": 14,
-                    "text": "As for me, behold, I am in your hand: do with me as seemeth good and meet unto you.",
-                    "score": 0.7838913690765026
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 18,
-                    "verse": 44,
-                    "text": "As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.",
-                    "score": 0.7820576651527448
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 38,
-                    "verse": 3,
-                    "text": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me.",
-                    "score": 0.7801810820457398
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 22,
-                    "verse": 45,
-                    "text": "Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me.",
-                    "score": 0.7764668305828775
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8302410179564671
                 }
             ]
         },
@@ -1730,82 +1486,222 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 28,
                     "verse": 10,
                     "text": "And for this cause ye shall have fulness of joy; and ye shall sit down in the kingdom of my Father; yea, your joy shall be full, even as the Father hath given me fulness of joy; and ye shall be even as I am, and I am even as the Father; and the Father and I are one;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8406856316593538
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 1,
                     "verse": 35,
                     "text": "Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8205746056211765
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 7,
+                    "text": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8192049803811072
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 2,
                     "verse": 11,
                     "text": "But I am like as yourselves, subject to all manner of infirmities in body and mind; yet I have been chosen by this people, and consecrated by my father, and was suffered by the hand of the Lord that I should be a ruler and a king over this people; and have been kept and preserved by his matchless power, to serve you with all the might, mind and strength which the Lord hath granted unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8175709931903657
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 31,
+                    "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148841932741749
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 1,
                     "verse": 30,
                     "text": "Even as I sware unto thee by the Lord God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.813306170876406
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 37,
                     "text": "And he that receiveth me receiveth my Father;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8114118726293592
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 1,
                     "verse": 27,
                     "text": "Is this thing done by my lord the king, and thou hast not shewed it unto thy servant, who should sit on the throne of my lord the king after him?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8111188110146278
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 7,
                     "verse": 18,
                     "text": "Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to be ruler in Israel.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8069315895144511
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 8,
                     "verse": 25,
                     "text": "Therefore now, Lord God of Israel, keep with thy servant David my father that thou promisedst him, saying, There shall not fail thee a man in my sight to sit on the throne of Israel; so that thy children take heed to their way, that they walk before me as thou hast walked before me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8062447335133209
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 29,
                     "verse": 17,
                     "text": "And now may God grant unto these, my brethren, that they may sit down in the kingdom of God; yea, and also all those who are the fruit of their labors that they may go no more out, but that they may praise him forever. And may God grant that it may be done according to my words, even as I have spoken. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8055032736813019
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 17,
                     "verse": 13,
                     "text": "I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8053153069212927
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 38,
+                    "text": "And he that receiveth my Father receiveth my Father's kingdom; therefore all that my Father hath shall be given unto him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8043091174764349
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 10,
+                    "text": "When my father and my mother forsake me, then the Lord will take me up.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027586878601294
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 49,
+                    "text": "For I am the Lord thy God, and will be with thee even unto the end of the world, and through all eternity; for verily I seal upon you your exaltation, and prepare a throne for you in the kingdom of my Father, with Abraham your father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018909309448012
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 6,
+                    "verse": 57,
+                    "text": "As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80096630700174
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 27,
+                    "verse": 5,
+                    "text": "Or let him take hold of my strength, that he may make peace with me; and he shall make peace with me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800818821201617
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 53,
+                    "text": "For I am the Lord thy God, and ye shall obey my voice; and I give unto my servant Joseph that he shall be made ruler over many things; for he hath been faithful over a few things, and from henceforth I will strengthen him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005382178293526
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 12,
+                    "verse": 26,
+                    "text": "If any man serve me, let him follow me; and where I am, there shall also my servant be: if any man serve me, him will my Father honour.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005247472358286
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 23,
+                    "verse": 6,
+                    "text": "Will he plead against me with his great power? No; but he would put strength in me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000962426472471
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 21,
+                    "verse": 7,
+                    "text": "He that overcometh shall inherit all things; and I will be his God, and he shall be my son.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9242102002469247
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 26,
+                    "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9013102323207652
                 }
             ]
         },
@@ -1814,84 +1710,464 @@
             "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 1,
-                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
-                    "score": 0.8465392316899734
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 6,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9158822522383038
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8925632130913375
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8886095713925374
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.884469269845038
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8770735119900525
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8465392316899734
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 17,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8415535916266739
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 50,
                     "text": "He who hath faith to hear shall hear.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8414526085792917
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 43,
                     "verse": 1,
                     "text": "O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8340413831895406
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 86,
                     "verse": 6,
                     "text": "Give ear, O Lord, unto my prayer; and attend to the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8286524249761994
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 130,
                     "verse": 2,
                     "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8259009311834521
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 1,
                     "text": "Hearken, O ye people, and open your hearts and give ear from afar; and listen, you that call yourselves the people of the Lord, and hear the word of the Lord and his will concerning you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8257739551385788
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 54,
                     "verse": 2,
                     "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8234712757613154
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 23,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205445895068303
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205445895068303
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 13,
                     "verse": 15,
                     "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169831564462396
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 1,
                     "text": "Hearken, O ye people of my church, saith the Lord your God, and hear the word of the Lord concerning you--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8149354716952026
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 34,
                     "verse": 2,
                     "text": "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8118041835168895
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 32,
+                    "verse": 1,
+                    "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117134678059014
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 24,
+                    "verse": 26,
+                    "text": "That he that escapeth in that day shall come unto thee, to cause thee to hear it with thine ears?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809504978807875
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 17,
+                    "verse": 1,
+                    "text": "Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8086169004999493
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 143,
+                    "verse": 1,
+                    "text": "Hear my prayer, O Lord, give ear to my supplications: in thy faithfulness answer me, and in thy righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075539405829026
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 23,
+                    "text": "Who among you will give ear to this? who will hearken and hear for the time to come?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805511644504488
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "If any man have an ear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041818191528881
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 17,
+                    "verse": 6,
+                    "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027693214273389
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 15,
+                    "verse": 31,
+                    "text": "The ear that heareth the reproof of life abideth among the wise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025910037603502
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 78,
+                    "verse": 2,
+                    "text": "And listen to the counsel of him who has ordained you from on high, who shall speak in your ears the words of wisdom, that salvation may be unto you in that thing which you have presented before me, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801444176870408
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "Blessed be the Lord, because he hath heard the voice of my supplications.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011344677182914
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 58,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to my word, and learn of me what I will concerning you, and also concerning this land unto which I have sent you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009093820201526
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 26,
+                    "verse": 21,
+                    "text": "And he that will hear my voice shall be my sheep; and him shall ye receive into the church, and him will I also receive.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001253314358189
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 6,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999994933605385
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 6,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999992251396659
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999992251396659
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999810457229614
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9235871343120562
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9131255966239248
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9121105294326458
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9103468927844437
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "Hearken, O ye elders of my church, and give ear to the voice of the living God; and attend to the words of wisdom which shall be given unto you, according as ye have asked and are agreed as touching the church, and the spirits which have gone abroad in the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9050286895070963
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9006106198197988
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 43,
+                    "verse": 1,
+                    "text": "O hearken, ye elders of my church, and give ear to the words which I shall speak unto you.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9000390112423323
                 }
             ]
         }

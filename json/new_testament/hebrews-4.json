@@ -10,82 +10,22 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 61,
                     "verse": 13,
                     "text": "But behold he doth not command us that we shall subject ourselves to our enemies, but that we should put our trust in him, and he will deliver us.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024705618640635
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 37,
-                    "verse": 7,
-                    "text": "Rest in the Lord, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
-                    "score": 0.7933312882645392
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 29,
-                    "verse": 25,
-                    "text": "The fear of man bringeth a snare: but whoso putteth his trust in the Lord shall be safe.",
-                    "score": 0.7922254049111549
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 24,
-                    "verse": 12,
-                    "text": "And if the man be poor, thou shalt not sleep with his pledge:",
-                    "score": 0.7911551391251291
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 25,
-                    "verse": 8,
-                    "text": "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame.",
-                    "score": 0.7859099933272925
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 79,
-                    "verse": 8,
-                    "text": "O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.",
-                    "score": 0.7843152658085258
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 12,
-                    "verse": 35,
-                    "text": "And whosoever will harden his heart and will do iniquity, behold, I swear in my wrath that he shall not enter into my rest.",
-                    "score": 0.7837851809201145
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 34,
-                    "verse": 39,
-                    "text": "Yea, and I also exhort you, my brethren, that ye be watchful unto prayer continually, that ye may not be led away by the temptations of the devil, that he may not overpower you, that ye may not become his subjects at the last day; for behold, he rewardeth you no good thing.",
-                    "score": 0.7820150053331677
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 13,
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 4,
                     "verse": 11,
-                    "text": "Shall not his excellency make you afraid? and his dread fall upon you?",
-                    "score": 0.7817489887809934
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 5,
-                    "verse": 18,
-                    "text": "Nevertheless in those days, saith the Lord, I will not make a full end with you.",
-                    "score": 0.7788460531618744
+                    "text": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9141344002089602
                 }
             ]
         },
@@ -94,84 +34,14 @@
             "text": "For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 15,
-                    "verse": 22,
-                    "text": "And they understood me not, for they supposed it had been the Gentiles; for they understood not that the Gentiles should be converted through their preaching.",
-                    "score": 0.7812073122184847
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 138,
-                    "verse": 32,
-                    "text": "Thus was the gospel preached to those who had died in their sins, without a knowledge of the truth, or in transgression, having rejected the prophets.",
-                    "score": 0.7774880862990988
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 32,
-                    "verse": 14,
-                    "text": "And now, as I said unto you, that because ye were compelled to be humble ye were blessed, do ye not suppose that they are more blessed who truly humble themselves because of the word?",
-                    "score": 0.7767370954059191
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 39,
-                    "verse": 5,
-                    "text": "And verily, verily, I say unto you, he that receiveth my gospel receiveth me; and he that receiveth not my gospel receiveth not me.",
-                    "score": 0.7751597876490426
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 138,
-                    "verse": 10,
-                    "text": "\"For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.\" (1 Peter 4:6.)",
-                    "score": 0.7723973228211437
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 105,
-                    "verse": 2,
-                    "text": "Behold, I say unto you, were it not for the transgressions of my people, speaking concerning the church and not individuals, they might have been redeemed even now.",
-                    "score": 0.7682332003278958
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 49,
-                    "text": "Now, this is not all--their faith in their prayers was that this gospel should be made known also, if it were possible that other nations should possess this land;",
-                    "score": 0.7672875325523327
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And he said: Go and tell this people--Hear ye indeed, but they understood not; and see ye indeed, but they perceived not.",
-                    "score": 0.7603421568735662
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 5,
-                    "text": "And now, as the preaching of the word had a great tendency to lead the people to do that which was just--yea, it had had more powerful effect upon the minds of the people than the sword, or anything else, which had happened unto them--therefore Alma thought it was expedient that they should try the virtue of the word of God.",
-                    "score": 0.7602290522323111
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 46,
-                    "verse": 1,
-                    "text": "Hearken, O ye people of my church; for verily I say unto you that these things were spoken unto you for your profit and learning.",
-                    "score": 0.7590876272252018
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 14,
+                    "verse": 7,
+                    "text": "And there they preached the gospel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081368075417918
                 }
             ]
         },
@@ -180,84 +50,24 @@
             "text": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "For he that is entered into his rest, he also hath ceased from his own works, as God did from his.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809943195832169
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 5,
                     "verse": 13,
                     "text": "Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the Lord have spoken it in my zeal, when I have accomplished my fury in them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8045966751411736
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 30,
-                    "text": "And this is a decree, which I have sent forth in the beginning of the world, from my own mouth, from the foundation thereof, and by the mouths of my servants, thy fathers, have I decreed it, even as it shall be sent forth in the world, unto the ends thereof.",
-                    "score": 0.7934780915754927
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 86,
-                    "text": "If they live here let them live unto me; and if they die let them die unto me; for they shall rest from all their labors here, and shall continue their works.",
-                    "score": 0.7904112258089726
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 14,
-                    "text": "Behold, I come unto my own, to fulfil all things which I have made known unto the children of men from the foundation of the world, and to do the will, both of the Father and of the Son--of the Father because of me, and of the Son because of my flesh. And behold, the time is at hand, and this night shall the sign be given.",
-                    "score": 0.7866458961318215
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 32,
-                    "text": "According to that which was ordained in the midst of the Council of the Eternal God of all other gods before this world was, that should be reserved unto the finishing and the end thereof, when every man shall enter into his eternal presence and into his immortal rest.",
-                    "score": 0.7831219305282529
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 23,
-                    "text": "For it is I that taketh upon me the sins of the world; for it is I that hath created them; and it is I that granteth unto him that believeth unto the end a place at my right hand.",
-                    "score": 0.781657461283358
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Enos",
-                    "chapter": 1,
-                    "verse": 26,
-                    "text": "And I saw that I must soon go down to my grave, having been wrought upon by the power of God that I must preach and prophesy unto this people, and declare the word according to the truth which is in Christ. And I have declared it in all my days, and have rejoiced in it above that of the world.",
-                    "score": 0.7812143455282345
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "And blessed is he that is found faithful unto my name at the last day, for he shall be lifted up to dwell in the kingdom prepared for him from the foundation of the world. And behold it is I that hath spoken it. Amen.",
-                    "score": 0.7801516339124351
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "I dwell in the midst of them all; I now, therefore, have come down unto thee to declare unto thee the works which my hands have made, wherein my wisdom excelleth them all, for I rule in the heavens above, and in the earth beneath, in all wisdom and prudence, over all the intelligences thine eyes have seen from the beginning; I came down in the beginning in the midst of all the intelligences thou hast seen.",
-                    "score": 0.7798993646898436
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 41,
-                    "text": "Therefore, go forth unto this people, and declare the words which I have spoken, unto the ends of the earth.",
-                    "score": 0.7782945795421196
                 }
             ]
         },
@@ -268,82 +78,222 @@
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 2,
                     "verse": 2,
                     "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8892751960109773
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 2,
                     "verse": 3,
                     "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8861961709324501
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 3,
                     "verse": 3,
                     "text": "And I, God, blessed the seventh day, and sanctified it; because that in it I had rested from all my work which I, God, had created and made.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.854952451374472
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 34,
                     "verse": 21,
                     "text": "Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8363181242675101
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 3,
                     "verse": 2,
                     "text": "And on the seventh day I, God, ended my work, and all things which I had made; and I rested on the seventh day from all my work, and all things which I had made were finished, and I, God, saw that they were good;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8305402391232669
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 20,
                     "verse": 11,
                     "text": "For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8277210756019457
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 35,
                     "verse": 2,
                     "text": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the Lord: whosoever doeth work therein shall be put to death.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8209477481814024
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 23,
                     "verse": 12,
                     "text": "Six days thou shalt do thy work, and on the seventh day thou shalt rest: that thine ox and thine ass may rest, and the son of thy handmaid, and the stranger, may be refreshed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8184019575267142
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 31,
                     "verse": 15,
                     "text": "Six days may work be done; but in the seventh is the sabbath of rest, holy to the Lord: whosoever doeth any work in the sabbath day, he shall surely be put to death.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8148374979304105
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 5,
                     "verse": 3,
                     "text": "And the Gods concluded upon the seventh time, because that on the seventh time they would rest from all their works which they (the Gods) counseled among themselves to form; and sanctified it. And thus were their decisions at the time that they counseled among themselves to form the heavens and the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8092585496727933
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 44,
+                    "verse": 26,
+                    "text": "And after he is cleansed, they shall reckon unto him seven days.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.804696221305813
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8197007990240098
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8165132026060579
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9565222522487308
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.946662215789037
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 3,
+                    "verse": 3,
+                    "text": "And I, God, blessed the seventh day, and sanctified it; because that in it I had rested from all my work which I, God, had created and made.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9384648520212123
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 3,
+                    "verse": 2,
+                    "text": "And on the seventh day I, God, ended my work, and all things which I had made; and I rested on the seventh day from all my work, and all things which I had made were finished, and I, God, saw that they were good;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9344465532233989
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "And the Gods said among themselves: On the seventh time we will end our work, which we have counseled; and we will rest on the seventh time from all our work which we have counseled.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9220316913165695
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 16,
+                    "verse": 30,
+                    "text": "So the people rested on the seventh day.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9180685506524376
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 20,
+                    "verse": 11,
+                    "text": "For in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the sabbath day, and hallowed it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.917502127662495
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 3,
+                    "text": "And the Gods concluded upon the seventh time, because that on the seventh time they would rest from all their works which they (the Gods) counseled among themselves to form; and sanctified it. And thus were their decisions at the time that they counseled among themselves to form the heavens and the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9025444715457018
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 13,
+                    "verse": 19,
+                    "text": "For in six days the Lord made heaven and earth, and the sea, and all that in them is; wherefore the Lord blessed the sabbath day, and hallowed it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9017057032918104
                 }
             ]
         },
@@ -352,84 +302,64 @@
             "text": "And in this place again, If they shall enter into my rest.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 14,
+                    "verse": 3,
+                    "text": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8217899932845132
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 132,
                     "verse": 14,
                     "text": "This is my rest for ever: here will I dwell; for I have desired it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8132829767076218
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 25,
                     "verse": 8,
                     "text": "And let them make me a sanctuary; that I may dwell among them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8105650939782282
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 19,
                     "verse": 9,
                     "text": "I speak unto you that are chosen in this thing, even as one, that you may enter into my rest.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8053814866271413
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 44,
-                    "verse": 16,
-                    "text": "They shall enter into my sanctuary, and they shall come near to my table, to minister unto me, and they shall keep my charge.",
-                    "score": 0.7981068387014014
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Enos",
-                    "chapter": 1,
-                    "verse": 27,
-                    "text": "And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father. Amen.",
-                    "score": 0.7889128194297087
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 57,
-                    "verse": 2,
-                    "text": "He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.",
-                    "score": 0.7879473571402114
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 11,
+                    "text": "So I sware in my wrath, They shall not enter into my rest.)",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041417722871097
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 95,
                     "verse": 11,
                     "text": "Unto whom I sware in my wrath that they should not enter into my rest.",
-                    "score": 0.7862109450742223
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 28,
-                    "verse": 21,
-                    "text": "So that I come again to my father's house in peace; then shall the Lord be my God:",
-                    "score": 0.7757154772547292
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
-                    "chapter": 5,
-                    "verse": 15,
-                    "text": "I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.",
-                    "score": 0.7720421659341488
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 25,
-                    "text": "And then shall the power of heaven come down among them; and I also will be in the midst.",
-                    "score": 0.7711232625202854
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.90265291929245
                 }
             ]
         },
@@ -438,84 +368,44 @@
             "text": "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "So we see that they could not enter in because of unbelief.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8224287381841642
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 63,
                     "verse": 7,
                     "text": "And he that seeketh signs shall see signs, but not unto salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.801946935865543
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 54,
-                    "text": "Yea, will ye persist in supposing that ye are better one than another; yea, will ye persist in the persecution of your brethren, who humble themselves and do walk after the holy order of God, wherewith they have been brought into this church, having been sanctified by the Holy Spirit, and they do bring forth works which are meet for repentance--",
-                    "score": 0.791599436048124
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 9,
-                    "text": "But, behold, faith cometh not by signs, but signs follow those that believe.",
-                    "score": 0.7891325935320056
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 9,
+                    "volume": "New Testament",
+                    "book": "Romans",
+                    "volume_book_index": 6,
+                    "chapter": 11,
                     "verse": 23,
-                    "text": "And he that believeth and is baptized shall be saved, but he that believeth not shall be damned;",
-                    "score": 0.786569750307252
+                    "text": "And they also, if they abide not still in unbelief, shall be grafted in: for God is able to graft them in again.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004044504301991
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 48,
-                    "verse": 5,
-                    "text": "The place is not yet to be revealed; but after your brethren come from the east there are to be certain men appointed, and to them it shall be given to know the place, or to them it shall be revealed.",
-                    "score": 0.7849581387766195
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 18,
-                    "verse": 9,
-                    "text": "And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it is very good: and are ye still? be not slothful to go, and to enter to possess the land.",
-                    "score": 0.7834123348821341
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 112,
-                    "verse": 29,
-                    "text": "And he that believeth and is baptized shall be saved, and he that believeth not, and is not baptized, shall be damned.",
-                    "score": 0.7826587228546322
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 143,
-                    "verse": 2,
-                    "text": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified.",
-                    "score": 0.7822415967983223
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 25,
-                    "text": "And now for this cause, that ye may not be destroyed, the Lord has sent his angel to visit many of his people, declaring unto them that they must go forth and cry mightily unto this people, saying: Repent ye, for the kingdom of heaven is nigh at hand;",
-                    "score": 0.7818736690230061
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 32,
-                    "text": "Nevertheless, ye shall not cast him out of your synagogues, or your places of worship, for unto such shall ye continue to minister; for ye know not but what they will return and repent, and come unto me with full purpose of heart, and I shall heal them; and ye shall be the means of bringing salvation unto them.",
-                    "score": 0.781108526837417
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "So we see that they could not enter in because of unbelief.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9106781163256649
                 }
             ]
         },
@@ -524,84 +414,34 @@
             "text": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 15,
+                    "text": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8642052654335354
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 6,
                     "verse": 6,
                     "text": "Yea, today, if ye will hear his voice, harden not your hearts; for why will ye die?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8296668292636901
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 10,
-                    "verse": 12,
-                    "text": "Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.",
-                    "score": 0.7960274549403779
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 22,
-                    "verse": 14,
-                    "text": "Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the Lord have spoken it, and will do it.",
-                    "score": 0.7942730539639842
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 32,
-                    "verse": 26,
-                    "text": "And he said, Let me go, for the day breaketh. And he said, I will not let thee go, except thou bless me.",
-                    "score": 0.7938485232418445
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 12,
-                    "verse": 10,
-                    "text": "And therefore, he that will harden his heart, the same receiveth the lesser portion of the word; and he that will not harden his heart, to him is given the greater portion of the word, until it is given unto him to know the mysteries of God until he know them in full.",
-                    "score": 0.7913784564147892
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 28,
-                    "text": "Therefore I say unto you, that he that will not hear my voice, the same shall ye not receive into my church, for him I will not receive at the last day.",
-                    "score": 0.7903134988744712
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 5,
-                    "verse": 18,
-                    "text": "Nevertheless in those days, saith the Lord, I will not make a full end with you.",
-                    "score": 0.7866714008716221
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 15,
-                    "verse": 11,
-                    "text": "Do ye not remember the things which the Lord hath said?--If ye will not harden your hearts, and ask me in faith, believing that ye shall receive, with diligence in keeping my commandments, surely these things shall be made known unto you.",
-                    "score": 0.7858743515880915
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 34,
-                    "verse": 31,
-                    "text": "Yea, I would that ye would come forth and harden not your hearts any longer; for behold, now is the time and the day of your salvation; and therefore, if ye will repent and harden not your hearts, immediately shall the great plan of redemption be brought about unto you.",
-                    "score": 0.7850735223632628
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 15,
-                    "verse": 10,
-                    "text": "Behold, I said unto them: How is it that ye do not keep the commandments of the Lord? How is it that ye will perish, because of the hardness of your hearts?",
-                    "score": 0.784694635985427
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 15,
+                    "text": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9158505998014234
                 }
             ]
         },
@@ -610,84 +450,14 @@
             "text": "For if Jesus had given them rest, then would he not afterward have spoken of another day.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 28,
-                    "verse": 12,
-                    "text": "To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.",
-                    "score": 0.7704455082866828
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 28,
-                    "verse": 34,
-                    "text": "And wo be unto him that will not hearken unto the words of Jesus, and also to them whom he hath chosen and sent among them; for whoso receiveth not the words of Jesus and the words of those whom he hath sent receiveth not him; and therefore he will not receive them at the last day;",
-                    "score": 0.7625357225616929
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 23,
-                    "verse": 6,
-                    "text": "And now it came to pass that when Jesus had said these words he said unto them again, after he had expounded all the scriptures unto them which they had received, he said unto them: Behold, other scriptures I would that ye should write, that ye have not.",
-                    "score": 0.753901973968202
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 25,
-                    "text": "And now when ye talk, ye say: If our days had been in the days of our fathers of old, we would not have slain the prophets; we would not have stoned them, and cast them out.",
-                    "score": 0.7487963357037912
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 21,
-                    "verse": 44,
-                    "text": "And the Lord gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the Lord delivered all their enemies into their hand.",
-                    "score": 0.7450903989741311
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 33,
-                    "text": "O that I had repented, and had not killed the prophets, and stoned them, and cast them out. Yea, in that day ye shall say: O that we had remembered the Lord our God in the day that he gave us our riches, and then they would not have become slippery that we should lose them; for behold, our riches are gone from us.",
-                    "score": 0.7432317875807247
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 24,
-                    "text": "Yea, do ye suppose that they would have been led out of bondage, if the Lord had not commanded Moses that he should lead them out of bondage?",
-                    "score": 0.741734214254817
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 3,
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 11,
                     "verse": 13,
-                    "text": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,",
-                    "score": 0.7377770869915339
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 4,
-                    "verse": 10,
-                    "text": "And he that believeth not my words believeth not my disciples; and if it so be that I do not speak, judge ye; for ye shall know that it is I that speaketh, at the last day.",
-                    "score": 0.7377003702595676
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 16,
-                    "verse": 6,
-                    "text": "And now if Christ had not come into the world, speaking of things to come as though they had already come, there could have been no redemption.",
-                    "score": 0.7359715384311422
+                    "text": "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083413713235613
                 }
             ]
         },
@@ -698,82 +468,82 @@
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 23,
                     "verse": 25,
                     "text": "For David said, The Lord God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8365214490147482
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 40,
                     "verse": 1,
                     "text": "Comfort ye, comfort ye my people, saith your God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8258937825318382
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 8,
                     "verse": 56,
                     "text": "Blessed be the Lord, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.812605660444896
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 21,
                     "verse": 23,
                     "text": "His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the Lord thy God giveth thee for an inheritance.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8109862946515682
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "1 Thessalonians",
+                    "volume_book_index": 13,
+                    "chapter": 4,
+                    "verse": 15,
+                    "text": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809933010046676
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 30,
                     "verse": 15,
                     "text": "For thus saith the Lord God, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8074553998539359
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 12,
                     "verse": 13,
                     "text": "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8071488150590591
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 57,
                     "verse": 2,
                     "text": "He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8000759851589551
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "For ye are not as yet come to the rest and to the inheritance, which the Lord your God giveth you.",
-                    "score": 0.7988163248214898
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 22,
-                    "verse": 18,
-                    "text": "Is not the Lord your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the Lord, and before his people.",
-                    "score": 0.7974861229341894
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 28,
-                    "verse": 12,
-                    "text": "To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.",
-                    "score": 0.796769912300555
                 }
             ]
         },
@@ -784,82 +554,22 @@
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 2,
                     "verse": 2,
                     "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8148275703090785
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "And the presence of God withdrew from Moses, that his glory was not upon Moses; and Moses was left unto himself. And as he was left unto himself, he fell unto the earth.",
-                    "score": 0.783145937172699
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 2,
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 4,
                     "verse": 3,
-                    "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made.",
-                    "score": 0.7669959517518147
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 32,
-                    "text": "According to that which was ordained in the midst of the Council of the Eternal God of all other gods before this world was, that should be reserved unto the finishing and the end thereof, when every man shall enter into his eternal presence and into his immortal rest.",
-                    "score": 0.7646842363937416
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 1,
-                    "text": "And now it came to pass that Alma returned from the land of Gideon, after having taught the people of Gideon many things which cannot be written, having established the order of the church, according as he had before done in the land of Zarahemla, yea, he returned to his own house at Zarahemla to rest himself from the labors which he had performed.",
-                    "score": 0.7639086981083193
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 50,
-                    "text": "And he that hath no understanding, it remaineth in me to do according as it is written. And now I declare no more unto you at this time. Amen.",
-                    "score": 0.7637381882751961
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 14,
-                    "verse": 6,
-                    "text": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.",
-                    "score": 0.7630726738539231
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 3,
-                    "verse": 3,
-                    "text": "And I, God, blessed the seventh day, and sanctified it; because that in it I had rested from all my work which I, God, had created and made.",
-                    "score": 0.7604620355039904
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 9,
-                    "verse": 19,
-                    "text": "And if there were miracles wrought then, why has God ceased to be a God of miracles and yet be an unchangeable Being? And behold, I say unto you he changeth not; if so he would cease to be God; and he ceaseth not to be God, and is a God of miracles.",
-                    "score": 0.7569064164375955
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 56,
-                    "text": "Wherefore his writing is not acceptable unto the Lord, and he shall make another; and if the Lord receive it not, behold he standeth no longer in the office to which I have appointed him.",
-                    "score": 0.7564285601983696
+                    "text": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809943195832169
                 }
             ]
         },
@@ -868,84 +578,14 @@
             "text": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 37,
-                    "verse": 7,
-                    "text": "Rest in the Lord, and wait patiently for him: fret not thyself because of him who prospereth in his way, because of the man who bringeth wicked devices to pass.",
-                    "score": 0.7973905196967737
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
-                    "verse": 15,
-                    "text": "But if he repent not of his sins, which are unbelief and blindness of heart, let him take heed lest he fall.",
-                    "score": 0.7918676922289714
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 6,
-                    "text": "For as death hath passed upon all men, to fulfil the merciful plan of the great Creator, there must needs be a power of resurrection, and the resurrection must needs come unto man by reason of the fall; and the fall came by reason of transgression; and because man became fallen they were cut off from the presence of the Lord.",
-                    "score": 0.7894694063451625
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 22,
-                    "verse": 29,
-                    "text": "When men are cast down, then thou shalt say, There is lifting up; and he shall save the humble person.",
-                    "score": 0.7815767883827565
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 14,
-                    "verse": 6,
-                    "text": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.",
-                    "score": 0.7765165617314115
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 94,
-                    "verse": 13,
-                    "text": "That thou mayest give him rest from the days of adversity, until the pit be digged for the wicked.",
-                    "score": 0.7756903815209233
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "Do therefore according to thy wisdom, and let not his hoar head go down to the grave in peace.",
-                    "score": 0.7755173975590696
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 128,
-                    "verse": 22,
-                    "text": "Brethren, shall we not go on in so great a cause? Go forward and not backward. Courage, brethren; and on, on to the victory! Let your hearts rejoice, and be exceedingly glad. Let the earth break forth into singing. Let the dead speak forth anthems of eternal praise to the King Immanuel, who hath ordained, before the world was, that which would enable us to redeem them out of their prison; for the prisoners shall go free.",
-                    "score": 0.7747436598471191
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 32,
-                    "text": "According to that which was ordained in the midst of the Council of the Eternal God of all other gods before this world was, that should be reserved unto the finishing and the end thereof, when every man shall enter into his eternal presence and into his immortal rest.",
-                    "score": 0.7728624644567437
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 34,
-                    "verse": 23,
-                    "text": "For he will not lay upon man more than right; that he should enter into judgment with God.",
-                    "score": 0.7725165649029371
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9141344002089602
                 }
             ]
         },
@@ -956,342 +596,180 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 2,
                     "text": "Behold, I am God; give heed unto my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my words.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8630657571037137
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 14,
                     "verse": 2,
                     "text": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8610601837615477
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 11,
                     "verse": 2,
                     "text": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8610601837615477
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 2,
                     "text": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore, give heed unto my word.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8610601837615477
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 33,
                     "verse": 1,
                     "text": "Behold, I say unto you, my servants Ezra and Northrop, open ye your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit; and is a discerner of the thoughts and intents of the heart.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8476562200802906
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 3,
-                    "verse": 29,
-                    "text": "Yea, we see that whosoever will may lay hold upon the word of God, which is quick and powerful, which shall divide asunder all the cunning and the snares and the wiles of the devil, and lead the man of Christ in a strait and narrow course across that everlasting gulf of misery which is prepared to engulf the wicked--",
-                    "score": 0.7858261011515687
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 2,
+                    "text": "Behold, I am God; give heed unto my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my words.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9144452708298356
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 86,
-                    "verse": 4,
-                    "text": "But behold, in the last days, even now while the Lord is beginning to bring forth the word, and the blade is springing up and is yet tender--",
-                    "score": 0.7697070383172312
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore, give heed unto my word.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9142144969573933
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 27,
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 2,
+                    "text": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9142144969573933
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 2,
+                    "text": "Behold, I am God; give heed to my word, which is quick and powerful, sharper than a two-edged sword, to the dividing asunder of both joints and marrow; therefore give heed unto my word.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.914131706110735
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 33,
                     "verse": 1,
-                    "text": "Listen to the voice of Jesus Christ, your Lord, your God, and your Redeemer, whose word is quick and powerful.",
-                    "score": 0.7621939563841714
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 3,
-                    "verse": 35,
-                    "text": "Nevertheless they did fast and pray oft, and did wax stronger and stronger in their humility, and firmer and firmer in the faith of Christ, unto the filling their souls with joy and consolation, yea, even to the purifying and the sanctification of their hearts, which sanctification cometh because of their yielding their hearts unto God.",
-                    "score": 0.7599056423054731
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 26,
-                    "text": "And ye have murmured because he hath been plain unto you. Ye say that he hath used sharpness; ye say that he hath been angry with you; but behold, his sharpness was the sharpness of the power of the word of God, which was in him; and that which ye call anger was the truth, according to that which is in God, which he could not restrain, manifesting boldly concerning your iniquities.",
-                    "score": 0.757612957135768
+                    "text": "Behold, I say unto you, my servants Ezra and Northrop, open ye your ears and hearken to the voice of the Lord your God, whose word is quick and powerful, sharper than a two-edged sword, to the dividing asunder of the joints and marrow, soul and spirit; and is a discerner of the thoughts and intents of the heart.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9047107966158036
                 }
             ]
         },
         {
             "verse": 13,
             "text": "Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 67,
-                    "verse": 12,
-                    "text": "Neither can any natural man abide the presence of God, neither after the carnal mind.",
-                    "score": 0.7712059216593833
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 28,
-                    "text": "But no man is possessor of all things except he be purified and cleansed from all sin.",
-                    "score": 0.7668311293704472
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 18,
-                    "verse": 6,
-                    "text": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the Lord.",
-                    "score": 0.7656392167132461
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 20,
-                    "verse": 26,
-                    "text": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.",
-                    "score": 0.764952998523258
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "For verily the voice of the Lord is unto all men, and there is none to escape; and there is no eye that shall not see, neither ear that shall not hear, neither heart that shall not be penetrated.",
-                    "score": 0.7589366319503994
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 31,
-                    "text": "He had on a loose robe of most exquisite whiteness. It was a whiteness beyond anything earthly I had ever seen; nor do I believe that any earthly thing could be made to appear so exceedingly white and brilliant. His hands were naked, and his arms also, a little above the wrist; so, also, were his feet naked, as were his legs, a little above the ankles. His head and neck were also bare. I could discover that he had no other clothing on but this robe, as it was open, so that I could see into his bosom.",
-                    "score": 0.7504560566830216
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "Wherefore, no man can behold all my works, except he behold all my glory; and no man can behold all my glory, and afterwards remain in the flesh on the earth.",
-                    "score": 0.7499760955593281
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 45,
-                    "text": "For since the beginning of the world have not men heard nor perceived by the ear, neither hath any eye seen, O God, besides thee, how great things thou hast prepared for him that waiteth for thee.",
-                    "score": 0.749544928170948
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 26,
-                    "verse": 6,
-                    "text": "Hell is naked before him, and destruction hath no covering.",
-                    "score": 0.7489706003657037
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 42,
-                    "verse": 20,
-                    "text": "Seeing many things, but thou observest not; opening the ears, but he heareth not.",
-                    "score": 0.748547340463729
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 14,
             "text": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 9,
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8246948619826352
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 7,
                     "verse": 26,
-                    "text": "And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the right hand of his power, until all things shall become subject unto him, be, and abide with you forever. Amen.",
-                    "score": 0.7977191035399092
+                    "text": "For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8153731582870998
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 64,
-                    "text": "Then comes the High Priesthood, which is the greatest of all.",
-                    "score": 0.794548338621173
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 33,
-                    "verse": 21,
-                    "text": "For our heart shall rejoice in him, because we have trusted in his holy name.",
-                    "score": 0.7908254663499692
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 3,
-                    "verse": 41,
-                    "text": "Let us lift up our heart with our hands unto God in the heavens.",
-                    "score": 0.7844377187244357
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 26,
-                    "verse": 3,
-                    "text": "And thou shalt go unto the priest that shall be in those days, and say unto him, I profess this day unto the Lord thy God, that I am come unto the country which the Lord sware unto our fathers for to give us.",
-                    "score": 0.7832467976163443
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 135,
-                    "verse": 5,
-                    "text": "For I know that the Lord is great, and that our Lord is above all gods.",
-                    "score": 0.7823952703884902
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 28,
-                    "text": "I am the Lord thy God, and will give unto thee the law of my Holy Priesthood, as was ordained by me and my Father before the world was.",
-                    "score": 0.7777296284581985
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 118,
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 10,
                     "verse": 23,
-                    "text": "This is the Lord's doing; it is marvellous in our eyes.",
-                    "score": 0.7761077896741497
+                    "text": "Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071544116035013
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 13,
-                    "verse": 10,
-                    "text": "But as for us, the Lord is our God, and we have not forsaken him; and the priests, which minister unto the Lord, are the sons of Aaron, and the Levites wait upon their business:",
-                    "score": 0.7740992213553995
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.912953994836274
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 99,
-                    "verse": 5,
-                    "text": "Exalt ye the Lord our God, and worship at his footstool; for he is holy.",
-                    "score": 0.7728558961199062
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 1,
+                    "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9085337465127572
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 7,
+                    "verse": 26,
+                    "text": "For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9042867536203028
                 }
             ]
         },
         {
             "verse": 15,
             "text": "For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 3,
-                    "verse": 22,
-                    "text": "It is of the Lord's mercies that we are not consumed, because his compassions fail not.",
-                    "score": 0.7782052190741772
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 103,
-                    "verse": 10,
-                    "text": "He hath not dealt with us after our sins; nor rewarded us according to our iniquities.",
-                    "score": 0.777763223925663
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 28,
-                    "verse": 38,
-                    "text": "Therefore, that they might not taste of death there was a change wrought upon their bodies, that they might not suffer pain nor sorrow save it were for the sins of the world.",
-                    "score": 0.7632276027153054
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 26,
-                    "verse": 29,
-                    "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the Lord.",
-                    "score": 0.757659756290837
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 66,
-                    "verse": 10,
-                    "text": "Seek not to be cumbered. Forsake all unrighteousness. Commit not adultery--a temptation with which thou hast been troubled.",
-                    "score": 0.757212023043394
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 5,
-                    "verse": 7,
-                    "text": "Our fathers have sinned, and are not; and we have borne their iniquities.",
-                    "score": 0.7555946061867834
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 54,
-                    "text": "And see that there is no iniquity in the church, neither hardness with each other, neither lying, backbiting, nor evil speaking;",
-                    "score": 0.7542822530268898
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 10,
-                    "text": "Thou art not yet as Job; thy friends do not contend against thee, neither charge thee with transgression, as they did Job.",
-                    "score": 0.7540801409710739
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 5,
-                    "verse": 17,
-                    "text": "And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the Lord; though he wist it not, yet is he guilty, and shall bear his iniquity.",
-                    "score": 0.7539765356336537
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 10,
-                    "verse": 4,
-                    "text": "The wicked, through the pride of his countenance, will not seek after God: God is not in all his thoughts.",
-                    "score": 0.753240461231905
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 16,
@@ -1300,82 +778,122 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 109,
                     "verse": 10,
                     "text": "And now, Holy Father, we ask thee to assist us, thy people, with thy grace, in calling our solemn assembly, that it may be done to thine honor and to thy divine acceptance;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8267427554159877
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 5,
+                    "verse": 7,
+                    "text": "Blessed are the merciful: for they shall obtain mercy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8200021896383652
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 86,
                     "verse": 16,
                     "text": "O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8175661403503801
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 12,
                     "verse": 7,
                     "text": "And blessed are the merciful, for they shall obtain mercy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169313070102152
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 38,
                     "verse": 22,
                     "text": "Make haste to help me, O Lord my salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8141723637972218
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 44,
                     "verse": 26,
                     "text": "Arise for our help, and redeem us for thy mercies' sake.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8123566177595551
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 40,
                     "verse": 13,
                     "text": "Be pleased, O Lord, to deliver me: O Lord, make haste to help me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8093741125343272
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 34,
                     "verse": 17,
                     "text": "Therefore may God grant unto you, my brethren, that ye may begin to exercise your faith unto repentance, that ye begin to call upon his holy name, that he would have mercy upon you;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8081525052517877
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 119,
                     "verse": 76,
                     "text": "Let, I pray thee, thy merciful kindness be for my comfort, according to thy word unto thy servant.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8064478351520901
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 85,
                     "verse": 7,
                     "text": "Shew us thy mercy, O Lord, and grant us thy salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8042162643638449
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 97,
                     "verse": 2,
                     "text": "Verily, verily I say unto you, blessed are such, for they shall obtain; for I, the Lord, show mercy unto all the meek, and upon all whomsoever I will, that I may be justified when I shall bring them unto judgment.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8038503481536177
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 70,
+                    "verse": 1,
+                    "text": "Make haste, O God, to deliver me; make haste to help me, O Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012800099528852
                 }
             ]
         }

@@ -8,84 +8,194 @@
             "text": "Behold, thus saith the Lord, even Alpha and Omega, the beginning and the end, even he who was crucified for the sins of the world--",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 38,
+                    "verse": 1,
+                    "text": "Thus saith the Lord your God, even Jesus Christ, the Great I Am, Alpha and Omega, the beginning and the end, the same which looked upon the wide expanse of eternity, and all the seraphic hosts of heaven, before the world was made;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.881365627173274
+                },
+                {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 1,
                     "verse": 8,
                     "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.864494154173851
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 1,
+                    "text": "I am Alpha and Omega, Christ the Lord; yea, even I am he, the beginning and the end, the Redeemer of the world.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8639319896806272
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 81,
+                    "verse": 7,
+                    "text": "Behold, and lo, these are the words of Alpha and Omega, even Jesus Christ. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.849440737840402
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 63,
+                    "verse": 60,
+                    "text": "Behold, I am Alpha and Omega, even Jesus Christ.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8382221741237914
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 120,
+                    "text": "I am Alpha and Omega, the beginning and the end. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8380539534493774
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 7,
+                    "text": "For verily I say unto you that I am Alpha and Omega, the beginning and the end, the light and the life of the world--a light that shineth in darkness and the darkness comprehendeth it not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8327172299990333
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 61,
+                    "verse": 1,
+                    "text": "Behold, and hearken unto the voice of him who has all power, who is from everlasting to everlasting, even Alpha and Omega, the beginning and the end.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8286870447331213
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 9,
                     "verse": 18,
                     "text": "I am the light and the life of the world. I am Alpha and Omega, the beginning and the end.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8127383211029382
                 },
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 41,
+                    "text": "That he came into the world, even Jesus, to be crucified for the world, and to bear the sins of the world, and to sanctify the world, and to cleanse it from all unrighteousness;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8103308891206423
+                },
+                {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 22,
                     "verse": 13,
                     "text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8026757308195822
                 },
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 53,
+                    "verse": 2,
+                    "text": "Behold, I, the Lord, who was crucified for the sins of the world, give unto you a commandment that you shall forsake the world.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013229286231429
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 81,
+                    "verse": 7,
+                    "text": "Behold, and lo, these are the words of Alpha and Omega, even Jesus Christ. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9248816415738229
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 1,
+                    "text": "I am Alpha and Omega, Christ the Lord; yea, even I am he, the beginning and the end, the Redeemer of the world.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9198488497553885
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 63,
+                    "verse": 60,
+                    "text": "Behold, I am Alpha and Omega, even Jesus Christ.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9191460609436101
+                },
+                {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 1,
-                    "verse": 11,
-                    "text": "Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.",
-                    "score": 0.7925957469629785
+                    "verse": 8,
+                    "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9163978596207928
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 21,
-                    "verse": 6,
-                    "text": "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.",
-                    "score": 0.792029711455303
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 38,
+                    "verse": 1,
+                    "text": "Thus saith the Lord your God, even Jesus Christ, the Great I Am, Alpha and Omega, the beginning and the end, the same which looked upon the wide expanse of eternity, and all the seraphic hosts of heaven, before the world was made;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9145271778106755
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 9,
-                    "verse": 12,
-                    "text": "Behold, he created Adam, and by Adam came the fall of man. And because of the fall of man came Jesus Christ, even the Father and the Son; and because of Jesus Christ came the redemption of man.",
-                    "score": 0.7827383950957729
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 61,
+                    "verse": 1,
+                    "text": "Behold, and hearken unto the voice of him who has all power, who is from everlasting to everlasting, even Alpha and Omega, the beginning and the end.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9082217161787596
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 17,
-                    "verse": 15,
-                    "text": "He that justifieth the wicked, and he that condemneth the just, even they both are abomination to the Lord.",
-                    "score": 0.7817270860918218
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 19,
-                    "text": "O the greatness of the mercy of our God, the Holy One of Israel! For he delivereth his saints from that awful monster the devil, and death, and hell, and that lake of fire and brimstone, which is endless torment.",
-                    "score": 0.776710557364313
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 15,
-                    "verse": 30,
-                    "text": "And I said unto them that our father also saw that the justice of God did also divide the wicked from the righteous; and the brightness thereof was like unto the brightness of a flaming fire, which ascendeth up unto God forever and ever, and hath no end.",
-                    "score": 0.775599802867853
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 67,
-                    "text": "And the Lord showed Enoch all things, even unto the end of the world; and he saw the day of the righteous, the hour of their redemption, and received a fulness of joy;",
-                    "score": 0.774772902549867
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 7,
+                    "text": "For verily I say unto you that I am Alpha and Omega, the beginning and the end, the light and the life of the world--a light that shineth in darkness and the darkness comprehendeth it not.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9057602826214021
                 }
             ]
         },
@@ -94,84 +204,214 @@
             "text": "Behold, verily, verily, I say unto you, my servant Newel Knight, you shall stand fast in the office whereunto I have appointed you.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 72,
+                    "verse": 8,
+                    "text": "And now, verily I say unto you, my servant Newel K. Whitney is the man who shall be appointed and ordained unto this power. This is the will of the Lord your God, your Redeemer. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8467119387785363
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 42,
+                    "verse": 10,
+                    "text": "And again, I say unto you, that my servant Edward Partridge shall stand in the office whereunto I have appointed him. And it shall come to pass, that if he transgress another shall be appointed in his stead. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8324684121770053
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 38,
+                    "verse": 23,
+                    "text": "But, verily I say unto you, teach one another according to the office wherewith I have appointed you;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8279422856219147
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 124,
+                    "verse": 103,
+                    "text": "And again, verily I say unto you, if my servant Sidney will serve me and be counselor unto my servant Joseph, let him arise and come up and stand in the office of his calling, and humble himself before me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8259035489704041
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 33,
+                    "verse": 18,
+                    "text": "For behold, verily, verily, I say unto you, that I come quickly. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8179875730893684
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 35,
+                    "verse": 3,
+                    "text": "Behold, verily, verily, I say unto my servant Sidney, I have looked upon thee and thy works. I have heard thy prayers, and prepared thee for a greater work.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8159574727368254
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 100,
+                    "verse": 9,
+                    "text": "And it is expedient in me that you, my servant Sidney, should be a spokesman unto this people; yea, verily, I will ordain you unto this calling, even to be a spokesman unto my servant Joseph.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151506556240389
+                },
+                {
                     "volume": "New Testament",
                     "book": "Philippians",
+                    "volume_book_index": 11,
                     "chapter": 4,
                     "verse": 1,
                     "text": "Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8087180785017296
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 81,
+                    "verse": 3,
+                    "text": "Therefore, verily I acknowledge him and will bless him, and also thee, inasmuch as thou art faithful in counsel, in the office which I have appointed unto you, in prayer always, vocally and in thy heart, in public and in private, also in thy ministry in proclaiming the gospel in the land of the living, and among thy brethren.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082815348640345
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 42,
                     "verse": 1,
                     "text": "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8073456299068436
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 124,
+                    "verse": 45,
+                    "text": "And if my people will hearken unto my voice, and unto the voice of my servants whom I have appointed to lead my people, behold, verily I say unto you, they shall not be moved out of their place.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806957159330547
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 56,
+                    "verse": 7,
+                    "text": "Wherefore, let my servant Newel Knight remain with them; and as many as will go may go, that are contrite before me, and be led by him to the land which I have appointed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064607530343431
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 52,
+                    "verse": 32,
+                    "text": "And let my servants Newel Knight and Selah J. Griffin both be ordained, and also take their journey.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8031874126577013
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Samuel",
+                    "volume_book_index": 10,
                     "chapter": 15,
                     "verse": 15,
                     "text": "And the king's servants said unto the king, Behold, thy servants are ready to do whatsoever my lord the king shall appoint.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024292885529266
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 11,
                     "verse": 31,
                     "text": "Behold, verily, verily, I say unto you, I will declare unto you my doctrine.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8022943137347115
                 },
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 34,
+                    "verse": 12,
+                    "text": "And verily, verily, I say unto you, I come quickly. I am your Lord and your Redeemer. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018331899546951
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 119,
                     "verse": 17,
                     "text": "Deal bountifully with thy servant, that I may live, and keep thy word.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016011470676011
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 12,
-                    "verse": 18,
-                    "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
-                    "score": 0.7921917265410046
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 14,
+                    "text": "Stand fast in the work wherewith I have called you, and a hair of your head shall not be lost, and you shall be lifted up at the last day. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002819640932015
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 3,
-                    "text": "I have made a covenant with my chosen, I have sworn unto David my servant,",
-                    "score": 0.7851016953950014
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 40,
+                    "verse": 1,
+                    "text": "Behold, verily I say unto you, that the heart of my servant James Covel was right before me, for he covenanted with me that he would obey my word.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000529126402781
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 16,
-                    "verse": 28,
-                    "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.",
-                    "score": 0.7833196314469598
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 72,
+                    "verse": 8,
+                    "text": "And now, verily I say unto you, my servant Newel K. Whitney is the man who shall be appointed and ordained unto this power. This is the will of the Lord your God, your Redeemer. Even so. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9080972294575685
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 28,
-                    "text": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
-                    "score": 0.783209218395798
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 40,
-                    "text": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
-                    "score": 0.7823840722842088
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 56,
+                    "verse": 7,
+                    "text": "Wherefore, let my servant Newel Knight remain with them; and as many as will go may go, that are contrite before me, and be led by him to the land which I have appointed.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9025830146571381
                 }
             ]
         },
@@ -182,82 +422,162 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 13,
                     "verse": 13,
                     "text": "And now, my brethren, I would that ye should humble yourselves before God, and bring forth fruit meet for repentance, that ye may also enter into that rest.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8355296892702463
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 34,
                     "verse": 40,
                     "text": "And now my beloved brethren, I would exhort you to have patience, and that ye bear with all manner of afflictions; that ye do not revile against those who do cast you out because of your exceeding poverty, lest ye become sinners like unto them;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.815623265787168
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 117,
+                    "verse": 4,
+                    "text": "Let them repent of all their sins, and of all their covetous desires, before me, saith the Lord; for what is property unto me? saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.81554110887847
                 },
                 {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 2,
                     "verse": 16,
                     "text": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.809561268411211
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 76,
+                    "text": "But, verily I say unto all those to whom the kingdom has been given--from you it must be preached unto them, that they shall repent of their former evil works; for they are to be upbraided for their evil hearts of unbelief, and your brethren in Zion for their rebellion against you at the time I sent you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073677840078587
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 26,
                     "verse": 3,
                     "text": "If so be they will hearken, and turn every man from his evil way, that I may repent me of the evil, which I purpose to do unto them because of the evil of their doings.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8072191456170368
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 112,
+                    "verse": 22,
+                    "text": "Inasmuch as they shall humble themselves before me, and abide in my word, and hearken to the voice of my Spirit.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064401367260763
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 16,
                     "verse": 28,
                     "text": "For I have five brethren; that he may testify unto them, lest they also come into this place of torment.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8046707109433336
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 109,
                     "verse": 20,
                     "text": "Let this be the reward of mine adversaries from the Lord, and of them that speak evil against my soul.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024964708134985
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 34,
                     "verse": 17,
                     "text": "Therefore may God grant unto you, my brethren, that ye may begin to exercise your faith unto repentance, that ye begin to call upon his holy name, that he would have mercy upon you;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024153819578241
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 5,
                     "verse": 22,
                     "text": "And thus saith the Lord God: I will cause that they shall be loathsome unto thy people, save they shall repent of their iniquities.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021718228323156
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 37,
                     "verse": 33,
                     "text": "Preach unto them repentance, and faith on the Lord Jesus Christ; teach them to humble themselves and to be meek and lowly in heart; teach them to withstand every temptation of the devil, with their faith on the Lord Jesus Christ.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8018870344505727
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 20,
+                    "text": "Wherefore, I command you again to repent, lest I humble you with my almighty power; and that you confess your sins, lest you suffer these punishments of which I have spoken, of which in the smallest, yea, even in the least degree you have tasted at the time I withdrew my Spirit.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005259193071301
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 68,
                     "verse": 1,
                     "text": "Let God arise, let his enemies be scattered: let them also that hate him flee before him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.800264507451368
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 13,
+                    "verse": 13,
+                    "text": "And now, my brethren, I would that ye should humble yourselves before God, and bring forth fruit meet for repentance, that ye may also enter into that rest.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9033492957576064
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 6,
+                    "verse": 5,
+                    "text": "Wherefore, my beloved brethren, I beseech of you in words of soberness that ye would repent, and come with full purpose of heart, and cleave unto God as he cleaveth unto you. And while his arm of mercy is extended towards you in the light of the day, harden not your hearts.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024826709895157
                 }
             ]
         },
@@ -266,84 +586,14 @@
             "text": "And as the covenant which they made unto me has been broken, even so it has become void and of none effect.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 15,
-                    "verse": 8,
-                    "text": "For behold, the covenant which I have made with my people is not all fulfilled; but the law which was given unto Moses hath an end in me.",
-                    "score": 0.7818372700305675
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 39,
-                    "text": "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground.",
-                    "score": 0.7816952045636787
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 11,
-                    "verse": 10,
-                    "text": "They are turned back to the iniquities of their forefathers, which refused to hear my words; and they went after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers.",
-                    "score": 0.7736179360427927
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 4,
-                    "verse": 14,
-                    "text": "For if they which are of the law be heirs, faith is made void, and the promise made of none effect:",
-                    "score": 0.7722325642882476
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 17,
-                    "verse": 19,
-                    "text": "Therefore thus saith the Lord God; As I live, surely mine oath that he hath despised, and my covenant that he hath broken, even it will I recompense upon his own head.",
-                    "score": 0.7628952011929175
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 23,
-                    "verse": 32,
-                    "text": "Thou shalt make no covenant with them, nor with their gods.",
-                    "score": 0.7571620743596232
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 34,
-                    "verse": 18,
-                    "text": "And I will give the men that have transgressed my covenant, which have not performed the words of the covenant which they had made before me, when they cut the calf in twain, and passed between the parts thereof,",
-                    "score": 0.7542147887904307
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 34,
-                    "text": "My covenant will I not break, nor alter the thing that is gone out of my lips.",
-                    "score": 0.7537502947106925
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 31,
-                    "verse": 32,
-                    "text": "Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the Lord:",
-                    "score": 0.7519364363177494
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 5,
-                    "verse": 5,
-                    "text": "I will get me unto the great men, and will speak unto them; for they have known the way of the Lord, and the judgment of their God: but these have altogether broken the yoke, and burst the bonds.",
-                    "score": 0.7508801127056225
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 15,
+                    "text": "For they have strayed from mine ordinances, and have broken mine everlasting covenant;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9085776426116702
                 }
             ]
         },
@@ -354,82 +604,32 @@
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 6,
                     "text": "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8046637463341769
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 17,
-                    "verse": 2,
-                    "text": "It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones.",
-                    "score": 0.7836448106356132
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 121,
+                    "verse": 22,
+                    "text": "It had been better for them that a millstone had been hanged about their necks, and they drowned in the depth of the sea.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042603985949563
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "And he spake unto them concerning their rebellions upon the waters, and the mercies of God in sparing their lives, that they were not swallowed up in the sea.",
-                    "score": 0.7504873069722144
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 9,
-                    "verse": 42,
-                    "text": "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.",
-                    "score": 0.7472103360027543
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 18,
-                    "verse": 15,
-                    "text": "And it came to pass that we were about to be swallowed up in the depths of the sea. And after we had been driven back upon the waters for the space of four days, my brethren began to see that the judgments of God were upon them, and that they must perish save that they should repent of their iniquities; wherefore, they came unto me, and loosed the bands which were upon my wrists, and behold they had swollen exceedingly; and also mine ankles were much swollen, and great was the soreness thereof.",
-                    "score": 0.7449143484956081
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 10,
-                    "text": "Art thou not he who hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?",
-                    "score": 0.7423576570741823
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Corinthians",
-                    "chapter": 5,
-                    "verse": 15,
-                    "text": "And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.",
-                    "score": 0.7397612869954645
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 20,
-                    "text": "And he said, That which cometh out of the man, that defileth the man.",
-                    "score": 0.7394372160079109
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 9,
-                    "verse": 4,
-                    "text": "And behold, that great city Moroni have I caused to be sunk in the depths of the sea, and the inhabitants thereof to be drowned.",
-                    "score": 0.7378375381980216
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 8,
-                    "verse": 31,
-                    "text": "And they besought him that he would not command them to go out into the deep.",
-                    "score": 0.7377380161115901
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 121,
+                    "verse": 22,
+                    "text": "It had been better for them that a millstone had been hanged about their necks, and they drowned in the depth of the sea.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.909591355062314
                 }
             ]
         },
@@ -440,82 +640,242 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 12,
                     "verse": 7,
                     "text": "And blessed are the merciful, for they shall obtain mercy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8528117713465423
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 5,
                     "verse": 7,
                     "text": "Blessed are the merciful: for they shall obtain mercy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8522126684891148
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 3,
                     "verse": 6,
                     "text": "And now, this commandment they observe to keep; wherefore, because of this observance, in keeping this commandment, the Lord God will not destroy them, but will be merciful unto them; and one day they shall become a blessed people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8423640164090423
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 103,
                     "verse": 18,
                     "text": "To such as keep his covenant, and to those that remember his commandments to do them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8315992736212361
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 97,
+                    "verse": 2,
+                    "text": "Verily, verily I say unto you, blessed are such, for they shall obtain; for I, the Lord, show mercy unto all the meek, and upon all whomsoever I will, that I may be justified when I shall bring them unto judgment.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8281810202090638
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 7,
                     "verse": 9,
                     "text": "Know therefore that the Lord thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8220259081130321
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 105,
                     "verse": 45,
                     "text": "That they might observe his statutes, and keep his laws. Praise ye the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8204272341873865
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 106,
                     "verse": 3,
                     "text": "Blessed are they that keep judgment, and he that doeth righteousness at all times.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8191159095264273
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 15,
                     "verse": 13,
                     "text": "Thou in thy mercy hast led forth the people which thou hast redeemed: thou hast guided them in thy strength unto thy holy habitation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8147259857701818
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 46,
                     "verse": 20,
                     "text": "Behold, whosoever will maintain this title upon the land, let them come forth in the strength of the Lord, and enter into a covenant that they will maintain their rights, and their religion, that the Lord God may bless them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8135098376375449
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 15,
                     "verse": 5,
                     "text": "And I would that ye should behold that the more part of them are in the path of their duty, and they do walk circumspectly before God, and they do observe to keep his commandments and his statutes and his judgments according to the law of Moses.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8092726782043139
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 109,
+                    "verse": 1,
+                    "text": "Thanks be to thy name, O Lord God of Israel, who keepest covenant and showest mercy unto thy servants who walk uprightly before thee, with all their hearts--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8080287242681817
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 30,
+                    "verse": 3,
+                    "text": "Yea, and the people did observe to keep the commandments of the Lord; and they were strict in observing the ordinances of God, according to the law of Moses; for they were taught to keep the law of Moses until it should be fulfilled.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079758437611365
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 2,
+                    "verse": 41,
+                    "text": "And moreover, I would desire that ye should consider on the blessed and happy state of those that keep the commandments of God. For behold, they are blessed in all things, both temporal and spiritual; and if they hold out faithful to the end they are received into heaven, that thereby they may dwell with God in a state of never-ending happiness. O remember, remember that these things are true; for the Lord God hath spoken it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078595810266223
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 25,
+                    "verse": 10,
+                    "text": "All the paths of the Lord are mercy and truth unto such as keep his covenant and his testimonies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8048844959369382
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "And said, I beseech thee, O Lord God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047708266980508
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 58,
+                    "verse": 40,
+                    "text": "But behold, they have received many wounds; nevertheless they stand fast in that liberty wherewith God has made them free; and they are strict to remember the Lord their God from day to day; yea, they do observe to keep his statutes, and his judgments, and his commandments continually; and their faith is strong in the prophecies concerning that which is to come.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020369456947338
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 7,
+                    "verse": 12,
+                    "text": "Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the Lord thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012847265195302
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 20,
+                    "verse": 6,
+                    "text": "And shewing mercy unto thousands of them that love me, and keep my commandments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80071910277024
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 10,
+                    "text": "And shewing mercy unto thousands of them that love me and keep my commandments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80071910277024
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 7,
+                    "text": "And blessed are the merciful, for they shall obtain mercy.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8056355234601796
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 7,
+                    "text": "And blessed are the merciful, for they shall obtain mercy.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9446661786834583
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 5,
+                    "verse": 7,
+                    "text": "Blessed are the merciful: for they shall obtain mercy.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.939348589298383
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 6,
+                    "text": "And now, this commandment they observe to keep; wherefore, because of this observance, in keeping this commandment, the Lord God will not destroy them, but will be merciful unto them; and one day they shall become a blessed people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9069590838837451
                 }
             ]
         },
@@ -524,84 +884,214 @@
             "text": "Wherefore, go to now and flee the land, lest your enemies come upon you; and take your journey, and appoint whom you will to be your leader, and to pay moneys for you.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 56,
+                    "verse": 7,
+                    "text": "Wherefore, let my servant Newel Knight remain with them; and as many as will go may go, that are contrite before me, and be led by him to the land which I have appointed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8359120698252014
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 28,
                     "verse": 25,
                     "text": "The Lord shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8234829480849026
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 36,
                     "verse": 24,
                     "text": "For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8202673907125305
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 10,
                     "verse": 11,
                     "text": "And the Lord said unto me, Arise, take thy journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8175817523029554
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 7,
                     "verse": 3,
                     "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8164602904079588
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 54,
                     "verse": 12,
                     "text": "And behold, if ye do not this, I will come against you with my armies; yea, even I will arm my women and my children, and I will come against you, and I will follow you even into your own land, which is the land of our first inheritance; yea, and it shall be blood for blood, yea, life for life; and I will give you battle even until you are destroyed from off the face of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8137165258710045
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Numbers",
+                    "volume_book_index": 4,
                     "chapter": 33,
                     "verse": 55,
                     "text": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8126671933186225
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Joshua",
+                    "volume_book_index": 6,
                     "chapter": 23,
                     "verse": 13,
                     "text": "Know for a certainty that the Lord your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the Lord your God hath given you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8119495779702947
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Joshua",
+                    "volume_book_index": 6,
                     "chapter": 9,
                     "verse": 11,
                     "text": "Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make ye a league with us.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8116921671608125
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 103,
+                    "verse": 24,
+                    "text": "And inasmuch as mine enemies come against you to drive you from my goodly land, which I have consecrated to be the land of Zion, even from your own lands after these testimonies, which ye have brought before me against them, ye shall curse them;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071278749951969
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 58,
+                    "verse": 25,
+                    "text": "Wherefore, let them bring their families to this land, as they shall counsel between themselves and me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051045722560605
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 42,
                     "verse": 12,
                     "text": "And I will shew mercies unto you, that he may have mercy upon you, and cause you to return to your own land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8050023123910255
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 4,
                     "verse": 38,
                     "text": "To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8043340398959442
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 34,
+                    "verse": 12,
+                    "text": "Take heed to thyself, lest thou make a covenant with the inhabitants of the land whither thou goest, lest it be for a snare in the midst of thee:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039658510488592
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 7,
+                    "text": "The Lord shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026979412157338
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 15,
+                    "verse": 14,
+                    "text": "And I will make thee to pass with thine enemies into a land which thou knowest not: for a fire is kindled in mine anger, which shall burn upon you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023264408635459
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 24,
+                    "verse": 19,
+                    "text": "For if a man find his enemy, will he let him go well away? wherefore the Lord reward thee good for that thou hast done unto me this day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8022809551806591
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 1,
+                    "text": "Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8022803450014044
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "Wherefore I also said, I will not drive them out from before you; but they shall be as thorns in your sides, and their gods shall be a snare unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020969323503568
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "Wherefore will ye plead with me? ye all have transgressed against me, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801662053927955
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 34,
+                    "verse": 10,
+                    "text": "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001460195682709
                 }
             ]
         },
@@ -612,82 +1102,22 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 21,
                     "verse": 1,
                     "text": "Now when Ammon and his brethren separated themselves in the borders of the land of the Lamanites, behold Aaron took his journey towards the land which was called by the Lamanites, Jerusalem, calling it after the land of their fathers' nativity; and it was away joining the borders of Mormon.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8051179917961881
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 52,
                     "verse": 11,
                     "text": "And he also said unto him, I would come unto you, but behold, the Lamanites are upon us in the borders of the land by the west sea; and behold, I go against them, therefore I cannot come unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024212082604982
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 2,
-                    "verse": 29,
-                    "text": "And the Lamanites did give unto us the land northward, yea, even to the narrow passage which led into the land southward. And we did give unto the Lamanites all the land southward.",
-                    "score": 0.7889953298324288
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 23,
-                    "verse": 36,
-                    "text": "And it came to pass that the Lamanites promised unto Alma and his brethren, that if they would show them the way which led to the land of Nephi that they would grant unto them their lives and their liberty.",
-                    "score": 0.7876667634939366
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 28,
-                    "verse": 1,
-                    "text": "And now it came to pass that after the people of Ammon were established in the land of Jershon, and a church also established in the land of Jershon, and the armies of the Nephites were set round about the land of Jershon, yea, in all the borders round about the land of Zarahemla; behold the armies of the Lamanites had followed their brethren into the wilderness.",
-                    "score": 0.7845944519737129
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 50,
-                    "verse": 9,
-                    "text": "And it came to pass that when Moroni had driven all the Lamanites out of the east wilderness, which was north of the lands of their own possessions, he caused that the inhabitants who were in the land of Zarahemla and in the land round about should go forth into the east wilderness, even to the borders by the seashore, and possess the land.",
-                    "score": 0.7842629329110646
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 16,
-                    "verse": 6,
-                    "text": "And it came to pass that Alma inquired of the Lord concerning the matter. And Alma returned and said unto them: Behold, the Lamanites will cross the river Sidon in the south wilderness, away up beyond the borders of the land of Manti. And behold there shall ye meet them, on the east of the river Sidon, and there the Lord will deliver unto thee thy brethren who have been taken captive by the Lamanites.",
-                    "score": 0.7841876721044907
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 24,
-                    "verse": 23,
-                    "text": "And now the Lord said unto Alma: Haste thee and get thou and this people out of this land, for the Lamanites have awakened and do pursue thee; therefore get thee out of this land, and I will stop the Lamanites in this valley that they come no further in pursuit of this people.",
-                    "score": 0.7824220927148345
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "And behold, there was peace in all the land, insomuch that the Nephites did go into whatsoever part of the land they would, whether among the Nephites or the Lamanites.",
-                    "score": 0.7823634147543613
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 23,
-                    "verse": 25,
-                    "text": "For behold, it came to pass that while they were in the land of Helam, yea, in the city of Helam, while tilling the land round about, behold an army of the Lamanites was in the borders of the land.",
-                    "score": 0.7811460587437946
                 }
             ]
         },
@@ -698,82 +1128,122 @@
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 14,
                     "verse": 3,
                     "text": "And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8231196837894871
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 61,
+                    "text": "Wherefore I give unto you that ye may now translate it, that ye may be prepared for the things to come.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8196879924820988
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 78,
+                    "verse": 7,
+                    "text": "For if you will that I give unto you a place in the celestial world, you must prepare yourselves by doing the things which I have commanded you and required of you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8155205258723115
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Enos",
+                    "volume_book_index": 4,
                     "chapter": 1,
                     "verse": 27,
                     "text": "And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8109578425230989
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 1,
                     "verse": 22,
                     "text": "And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.807938844727047
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 34,
                     "verse": 10,
                     "text": "And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8076129441832087
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 17,
                     "verse": 3,
                     "text": "Therefore, go ye unto your homes, and ponder upon the things which I have said, and ask of the Father, in my name, that ye may understand, and prepare your minds for the morrow, and I come unto you again.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8059618475431847
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 1,
+                    "text": "Behold, I say unto you that you shall let your time be devoted to the studying of the scriptures, and to preaching, and to confirming the church at Colesville, and to performing your labors on the land, such as is required, until after you shall go to the west to hold the next conference; and then it shall be made known what you shall do.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80442614664074
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 10,
                     "verse": 11,
                     "text": "And the Lord said unto me, Arise, take thy journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8039371176796778
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 30,
+                    "verse": 4,
+                    "text": "And your home shall be at your father's house, until I give unto you further commandments. And you shall attend to the ministry in the church, and before the world, and in the regions round about. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018550353259857
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Samuel",
+                    "volume_book_index": 10,
                     "chapter": 7,
                     "verse": 5,
                     "text": "Go and tell my servant David, Thus saith the Lord, Shalt thou build me an house for me to dwell in?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016152555216507
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 28,
                     "verse": 15,
                     "text": "And, behold, I am with thee, and will keep thee in all places whither thou goest, and will bring thee again into this land; for I will not leave thee, until I have done that which I have spoken to thee of.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.801050219339845
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 13,
-                    "text": "And I will also be your light in the wilderness; and I will prepare the way before you, if it so be that ye shall keep my commandments; wherefore, inasmuch as ye shall keep my commandments ye shall be led towards the promised land; and ye shall know that it is by me that ye are led.",
-                    "score": 0.7993191762183187
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.",
-                    "score": 0.7984352099193088
                 }
             ]
         },
@@ -782,84 +1252,134 @@
             "text": "And again, be patient in tribulation until I come; and, behold, I come quickly, and my reward is with me, and they who have sought me early shall find rest to their souls. Even so. Amen.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 112,
+                    "verse": 34,
+                    "text": "Be faithful until I come, for I come quickly; and my reward is with me to recompense every man according as his work shall be. I am Alpha and Omega. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8360113525895487
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 88,
+                    "verse": 126,
+                    "text": "Pray always, that ye may not faint, until I come. Behold, and lo, I will come quickly, and receive you unto myself. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.825558783953784
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Enos",
+                    "volume_book_index": 4,
                     "chapter": 1,
                     "verse": 27,
                     "text": "And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8197777319346911
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 88,
+                    "verse": 83,
+                    "text": "He that seeketh me early shall find me, and shall not be forsaken.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8162962975221065
                 },
                 {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 22,
                     "verse": 12,
                     "text": "And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8157905230877698
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 39,
+                    "verse": 24,
+                    "text": "Behold, I come quickly. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8155338318073344
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 32,
                     "verse": 43,
                     "text": "Then, my brethren, ye shall reap the rewards of your faith, and your diligence, and patience, and long-suffering, waiting for the tree to bring forth fruit unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8140712495007926
                 },
                 {
                     "volume": "New Testament",
                     "book": "Philippians",
+                    "volume_book_index": 11,
                     "chapter": 2,
                     "verse": 24,
                     "text": "But I trust in the Lord that I also myself shall come shortly.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8085546367335493
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 40,
-                    "text": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
-                    "score": 0.7965355800881297
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 49,
+                    "verse": 28,
+                    "text": "Behold, I am Jesus Christ, and I come quickly. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8066355185869988
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 22,
-                    "verse": 7,
-                    "text": "Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.",
-                    "score": 0.7964505048319179
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 35,
+                    "verse": 27,
+                    "text": "Fear not, little flock, the kingdom is yours until I come. Behold, I come quickly. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017183144011204
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 26,
-                    "verse": 9,
-                    "text": "With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments are in the earth, the inhabitants of the world will learn righteousness.",
-                    "score": 0.7951475371015534
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 112,
+                    "verse": 34,
+                    "text": "Be faithful until I come, for I come quickly; and my reward is with me to recompense every man according as his work shall be. I am Alpha and Omega. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041733031479482
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Philippians",
-                    "chapter": 4,
-                    "verse": 1,
-                    "text": "Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.",
-                    "score": 0.7946377524703429
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 39,
+                    "verse": 24,
+                    "text": "Behold, I come quickly. Even so. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9015685471249446
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 3,
-                    "verse": 25,
-                    "text": "The Lord is good unto them that wait for him, to the soul that seeketh him.",
-                    "score": 0.7936857764254543
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 10,
-                    "verse": 14,
-                    "text": "Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation.",
-                    "score": 0.7926726285785931
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 88,
+                    "verse": 126,
+                    "text": "Pray always, that ye may not faint, until I come. Behold, and lo, I will come quickly, and receive you unto myself. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.900642639360285
                 }
             ]
         }

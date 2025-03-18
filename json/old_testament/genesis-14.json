@@ -8,84 +8,64 @@
             "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 9,
+                    "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9009812246372676
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 12,
                     "verse": 1,
                     "text": "And it came to pass that the days of Ether were in the days of Coriantumr; and Coriantumr was king over all the land.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8154900896279501
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 20,
-                    "verse": 8,
-                    "text": "And it came to pass that as Ammon and Lamoni were journeying thither, they met the father of Lamoni, who was king over all the land.",
-                    "score": 0.7687901695098815
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 1,
-                    "text": "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin, king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.",
-                    "score": 0.7657469757743026
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 15,
-                    "text": "And after that he had anointed Emer to be king he saw peace in the land for the space of two years, and he died, having seen exceedingly many days, which were full of sorrow. And it came to pass that Emer did reign in his stead, and did fill the steps of his father.",
-                    "score": 0.7642829790038299
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 3,
-                    "text": "And it came to pass that on the morrow they started to go up, having with them one Ammon, he being a strong and mighty man, and a descendant of Zarahemla; and he was also their leader.",
-                    "score": 0.7608578184552554
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 14,
-                    "text": "And it came to pass that Omer began to be old; nevertheless, in his old age he begat Emer; and he anointed Emer to be king to reign in his stead.",
-                    "score": 0.7607545660133215
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 53,
-                    "text": "And when they had passed over, they came into the land of Gennesaret, and drew to the shore.",
-                    "score": 0.7518139763629592
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 4,
-                    "verse": 5,
-                    "text": "And it came to pass on the morrow, that their rulers, and elders, and scribes,",
-                    "score": 0.7513530405147388
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 4,
-                    "text": "And now, in the days of the reign of Omer he was in captivity the half of his days. And it came to pass that he begat sons and daughters, among whom were Esrom and Coriantumr;",
-                    "score": 0.7481313452652433
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 10,
-                    "verse": 17,
-                    "text": "And it came to pass that Corom did that which was good in the sight of the Lord all his days; and he begat many sons and daughters; and after he had seen many days he did pass away, even like unto the rest of the earth; and Kish reigned in his stead.",
-                    "score": 0.7439100443665121
+                    "verse": 10,
+                    "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055997716749979
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 9,
+                    "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8144139051437378
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 9,
+                    "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9381070901974964
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 5,
+                    "text": "And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9061205331158971
                 }
             ]
         },
@@ -94,514 +74,111 @@
             "text": "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 13,
-                    "text": "And the people of Ammon departed out of the land of Jershon, and came over into the land of Melek, and gave place in the land of Jershon for the armies of the Nephites, that they might contend with the armies of the Lamanites and the armies of the Zoramites; and thus commenced a war betwixt the Lamanites and the Nephites, in the eighteenth year of the reign of the judges; and an account shall be given of their wars hereafter.",
-                    "score": 0.7491444638462635
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7411527658598488
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
                     "verse": 8,
-                    "text": "Now the people of the Zoramites were angry with the people of Ammon who were in Jershon, and the chief ruler of the Zoramites, being a very wicked man, sent over unto the people of Ammon desiring them that they should cast out of their land all those who came over from them into their land.",
-                    "score": 0.7410833554987603
+                    "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8809487483589065
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 1,
-                    "text": "Now it came to pass that after the end of Korihor, Alma having received tidings that the Zoramites were perverting the ways of the Lord, and that Zoram, who was their leader, was leading the hearts of the people to bow down to dumb idols, his heart again began to sicken because of the iniquity of the people.",
-                    "score": 0.7290044440786732
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 12,
-                    "text": "And there began to be a war between the sons of Akish and Akish, which lasted for the space of many years, yea, unto the destruction of nearly all the people of the kingdom, yea, even all, save it were thirty souls, and they who fled with the house of Omer.",
-                    "score": 0.7204154163914498
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;",
-                    "score": 0.717728499769101
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 11,
-                    "text": "And thus the Zoramites and the Lamanites began to make preparations for war against the people of Ammon, and also against the Nephites.",
-                    "score": 0.715988478914272
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 13,
-                    "text": "And Corihor repented of the many evils which he had done; wherefore Shule gave him power in his kingdom.",
-                    "score": 0.7148374284563656
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "Now the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.",
-                    "score": 0.7146366974374266
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 1,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
                     "verse": 8,
-                    "text": "And it came to pass in this year there began to be a war between the Nephites, who consisted of the Nephites and the Jacobites and the Josephites and the Zoramites; and this war was between the Nephites, and the Lamanites and the Lemuelites and the Ishmaelites.",
-                    "score": 0.7116312414647483
+                    "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.800933623202613
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 8,
+                    "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9375842176427988
                 }
             ]
         },
         {
             "verse": 3,
             "text": "All these were joined together in the vale of Siddim, which is the salt sea.",
-            "similars": [
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "And I, God, said: Let the waters under the heaven be gathered together unto one place, and it was so; and I, God, said: Let there be dry land; and it was so.",
-                    "score": 0.6983499712645835
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 10,
-                    "text": "And I, God, called the dry land Earth; and the gathering together of the waters, called I the Sea; and I, God, saw that all things which I had made were good.",
-                    "score": 0.6856542550858925
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 13,
-                    "verse": 47,
-                    "text": "Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:",
-                    "score": 0.6850056220111045
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
-                    "verse": 16,
-                    "text": "And upon all the ships of the sea, and upon all the ships of Tarshish, and upon all pleasant pictures.",
-                    "score": 0.6844108063628686
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 20,
-                    "text": "For behold, he shall stand upon the mount of Olivet, and upon the mighty ocean, even the great deep, and upon the islands of the sea, and upon the land of Zion.",
-                    "score": 0.6837146545257414
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 6,
-                    "verse": 1,
-                    "text": "After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.",
-                    "score": 0.6811567688984879
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 4,
-                    "verse": 15,
-                    "text": "The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;",
-                    "score": 0.680615142476411
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 4,
-                    "verse": 13,
-                    "text": "And leaving Nazareth, he came and dwelt in Capernaum, which is upon the sea coast, in the borders of Zabulon and Nephthalim:",
-                    "score": 0.6772600676226804
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 6,
-                    "verse": 14,
-                    "text": "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.",
-                    "score": 0.6750964601976306
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 31,
-                    "text": "And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.",
-                    "score": 0.6739854492550978
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 4,
             "text": "Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "And it came to pass in the thirteenth year there began to be wars and contentions throughout all the land; for the Gadianton robbers had become so numerous, and did slay so many of the people, and did lay waste so many cities, and did spread so much death and carnage throughout the land, that it became expedient that all the people, both the Nephites and the Lamanites, should take up arms against them.",
-                    "score": 0.7231492048211287
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And when he had reigned for the space of forty and two years the people did rise up in rebellion against him; and there began to be war again in the land, insomuch that Riplakish was killed, and his descendants were driven out of the land.",
-                    "score": 0.7132432743898907
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "Therefore it came to pass, that after we had dwelt in the land for the space of twelve years that king Laman began to grow uneasy, lest by any means my people should wax strong in the land, and that they could not overpower them and bring them into bondage.",
-                    "score": 0.708688648058891
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "And when Corihor was thirty and two years old he rebelled against his father, and went over and dwelt in the land of Nehor; and he begat sons and daughters, and they became exceedingly fair; wherefore Corihor drew away many people after him.",
-                    "score": 0.7072979668579111
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 10,
-                    "verse": 14,
-                    "text": "And his brother did rise up in rebellion against him, by which he did bring him into captivity; and he did remain in captivity all his days; and he begat sons and daughters in captivity, and in his old age he begat Levi; and he died.",
-                    "score": 0.7001902298929946
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 15,
-                    "text": "And it came to pass that there arose a rebellion among the people, because of that secret combination which was built up to get power and gain; and there arose a mighty man among them in iniquity, and gave battle unto Moron, in which he did overthrow the half of the kingdom; and he did maintain the half of the kingdom for many years.",
-                    "score": 0.6985718862018968
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 19,
-                    "verse": 7,
-                    "text": "And all the men were about twelve.",
-                    "score": 0.6974403677569201
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 4,
-                    "text": "And now, in the days of the reign of Omer he was in captivity the half of his days. And it came to pass that he begat sons and daughters, among whom were Esrom and Coriantumr;",
-                    "score": 0.6960321382658347
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 4,
-                    "text": "And he lived to a good old age, and begat Shiblom; and Shiblom reigned in his stead. And the brother of Shiblom rebelled against him, and there began to be an exceedingly great war in all the land.",
-                    "score": 0.6942284912209703
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "And it came to pass that in that same year in which he was cast out from among the people there began to be a great war among the people, for there were many who rose up, who were mighty men, and sought to destroy Coriantumr by their secret plans of wickedness, of which hath been spoken.",
-                    "score": 0.6935046143404048
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 5,
             "text": "And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 24,
-                    "text": "And the sons of Coriantumr, in the fourth year, did beat Shared, and did obtain the kingdom again unto their father.",
-                    "score": 0.7503573626475366
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 3,
-                    "text": "And it came to pass that on the morrow they started to go up, having with them one Ammon, he being a strong and mighty man, and a descendant of Zarahemla; and he was also their leader.",
-                    "score": 0.7326419186021259
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 4,
-                    "text": "And now, in the days of the reign of Omer he was in captivity the half of his days. And it came to pass that he begat sons and daughters, among whom were Esrom and Coriantumr;",
-                    "score": 0.7298080523944083
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 13,
-                    "text": "And Corihor repented of the many evils which he had done; wherefore Shule gave him power in his kingdom.",
-                    "score": 0.7291709431745201
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "Wherefore, he came to the hill Ephraim, and he did molten out of the hill, and made swords out of steel for those whom he had drawn away with him; and after he had armed them with swords he returned to the city Nehor, and gave battle unto his brother Corihor, by which means he obtained the kingdom and restored it unto his father Kib.",
-                    "score": 0.7244678018476371
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 27,
-                    "verse": 35,
-                    "text": "And they traveled throughout all the land of Zarahemla, and among all the people who were under the reign of king Mosiah, zealously striving to repair all the injuries which they had done to the church, confessing all their sins, and publishing all the things which they had seen, and explaining the prophecies and the scriptures to all who desired to hear them.",
-                    "score": 0.7220231998467975
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 25,
-                    "text": "But the king stood forth among them and administered unto them. And they were pacified towards Aaron and those who were with him.",
-                    "score": 0.7194144191346548
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 6,
-                    "text": "Therefore he took Ammon, and Aaron, and Omner; and Himni he did leave in the church in Zarahemla; but the former three he took with him, and also Amulek and Zeezrom, who were at Melek; and he also took two of his sons.",
-                    "score": 0.7188265440979205
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
                     "verse": 1,
-                    "text": "And it came to pass that he begat Omer, and Omer reigned in his stead. And Omer begat Jared; and Jared begat sons and daughters.",
-                    "score": 0.7182282921614465
+                    "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9061205331158971
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7174008003412661
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 9,
+                    "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9052016891839738
                 }
             ]
         },
         {
             "verse": 6,
             "text": "And the Horites in their mount Seir, unto El-paran, which is by the wilderness.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 28,
-                    "text": "Wherefore, they went up into the wilderness. And their leader being a strong and mighty man, and a stiffnecked man, wherefore he caused a contention among them; and they were all slain, save fifty, in the wilderness, and they returned again to the land of Zarahemla.",
-                    "score": 0.7425066467872092
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 16,
-                    "verse": 6,
-                    "text": "And it came to pass that Alma inquired of the Lord concerning the matter. And Alma returned and said unto them: Behold, the Lamanites will cross the river Sidon in the south wilderness, away up beyond the borders of the land of Manti. And behold there shall ye meet them, on the east of the river Sidon, and there the Lord will deliver unto thee thy brethren who have been taken captive by the Lamanites.",
-                    "score": 0.740551982182537
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "The words of God, which he spake unto Moses at a time when Moses was caught up into an exceedingly high mountain,",
-                    "score": 0.7305119591094231
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 21,
-                    "text": "How beautiful upon the mountains are the feet of him that bringeth good tidings; that publisheth peace; that bringeth good tidings of good; that publisheth salvation; that saith unto Zion, Thy God reigneth;",
-                    "score": 0.7288829539991694
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 43,
-                    "verse": 23,
-                    "text": "But it came to pass, as soon as they had departed into the wilderness Moroni sent spies into the wilderness to watch their camp; and Moroni, also, knowing of the prophecies of Alma, sent certain men unto him, desiring him that he should inquire of the Lord whither the armies of the Nephites should go to defend themselves against the Lamanites.",
-                    "score": 0.727295935426699
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 40,
-                    "text": "And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace; that bringeth good tidings unto them of good, that publisheth salvation; that saith unto Zion: Thy God reigneth!",
-                    "score": 0.726664444391806
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 28,
-                    "verse": 1,
-                    "text": "And now it came to pass that after the people of Ammon were established in the land of Jershon, and a church also established in the land of Jershon, and the armies of the Nephites were set round about the land of Jershon, yea, in all the borders round about the land of Zarahemla; behold the armies of the Lamanites had followed their brethren into the wilderness.",
-                    "score": 0.725754253392042
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 38,
-                    "text": "And they came forth to hear him, upon the high places, saying unto the tent-keepers: Tarry ye here and keep the tents, while we go yonder to behold the seer, for he prophesieth, and there is a strange thing in the land; a wild man hath come among us.",
-                    "score": 0.7238308172224827
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 48,
-                    "verse": 6,
-                    "text": "And it came to pass that they took their camp, and moved forth toward the land of Zarahemla in the wilderness.",
-                    "score": 0.723569741392022
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 25,
-                    "text": "Now, it came to pass that when Ammon had heard this, he returned to the people of Anti-Nephi-Lehi, and also Alma with him, into the wilderness, where they had pitched their tents, and made known unto them all these things. And Alma also related unto them his conversion, with Ammon and Aaron, and his brethren.",
-                    "score": 0.7231937450082462
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 7,
             "text": "And they returned, and came to En-mishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezon-tamar.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 44,
-                    "verse": 23,
-                    "text": "And the armies of the Nephites, or of Moroni, returned and came to their houses and their lands.",
-                    "score": 0.7623328803795019
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 4,
+                    "verse": 43,
+                    "text": "And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054672972811515
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 23,
-                    "verse": 14,
-                    "text": "And the Amalekites were not converted, save only one; neither were any of the Amulonites; but they did harden their hearts, and also the hearts of the Lamanites in that part of the land wheresoever they dwelt, yea, and all their villages and all their cities.",
-                    "score": 0.7604894543826005
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 4,
+                    "verse": 43,
+                    "text": "And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9092167344922837
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 23,
-                    "verse": 38,
-                    "text": "And the remainder of them went to the land of Nephi; and a part of them returned to the land of Helam, and also brought with them the wives and the children of the guards who had been left in the land.",
-                    "score": 0.7601878017048348
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7580527163218849
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 33,
-                    "text": "And it came to pass that Amalickiah fled with a small number of his men, and the remainder were delivered up into the hands of Moroni and were taken back into the land of Zarahemla.",
-                    "score": 0.7561979788352013
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 21,
-                    "verse": 26,
-                    "text": "Nevertheless, they did find a land which had been peopled; yea, a land which was covered with dry bones; yea, a land which had been peopled and which had been destroyed; and they, having supposed it to be the land of Zarahemla, returned to the land of Nephi, having arrived in the borders of the land not many days before the coming of Ammon.",
-                    "score": 0.7561727258235305
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 15,
-                    "verse": 1,
-                    "text": "And it came to pass that Alma and Amulek were commanded to depart out of that city; and they departed, and came out even into the land of Sidom; and behold, there they found all the people who had departed out of the land of Ammonihah, who had been cast out and stoned, because they believed in the words of Alma.",
-                    "score": 0.755069896997252
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 25,
-                    "verse": 13,
-                    "text": "And it came to pass that when the Lamanites saw that they could not overpower the Nephites they returned again to their own land; and many of them came over to dwell in the land of Ishmael and the land of Nephi, and did join themselves to the people of God, who were the people of Anti-Nephi-Lehi.",
-                    "score": 0.7532506154767012
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 19,
-                    "verse": 22,
-                    "text": "And it came to pass that they were about to return to the land of Nephi, and they met the men of Gideon. And the men of Gideon told them of all that had happened to their wives and their children; and that the Lamanites had granted unto them that they might possess the land by paying a tribute to the Lamanites of one half of all they possessed.",
-                    "score": 0.7505060264225948
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 50,
-                    "verse": 36,
-                    "text": "And thus were the people of Morianton brought back. And upon their covenanting to keep the peace they were restored to the land of Morianton, and a union took place between them and the people of Lehi; and they were also restored to their lands.",
-                    "score": 0.7455515078179424
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 14,
+                    "verse": 45,
+                    "text": "Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9051526019250103
                 }
             ]
         },
@@ -610,84 +187,64 @@
             "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 3,
-                    "text": "And it came to pass that on the morrow they started to go up, having with them one Ammon, he being a strong and mighty man, and a descendant of Zarahemla; and he was also their leader.",
-                    "score": 0.7431798741117375
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 2,
-                    "verse": 22,
-                    "text": "Now those whom he had sent out to watch the camp of the Amlicites were called Zeram, and Amnor, and Manti, and Limher; these were they who went out with their men to watch the camp of the Amlicites.",
-                    "score": 0.7429434672102234
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7425791106107091
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 59,
-                    "text": "And it came to pass that as he went forth among the people, yea, among a people who had separated themselves from the Nephites and called themselves Zoramites, being led by a man whose name was Zoram--and as he went forth amongst them, behold, he was run upon and trodden down, even until he was dead.",
-                    "score": 0.741201497519221
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 12,
-                    "text": "And there began to be a war between the sons of Akish and Akish, which lasted for the space of many years, yea, unto the destruction of nearly all the people of the kingdom, yea, even all, save it were thirty souls, and they who fled with the house of Omer.",
-                    "score": 0.7391685264463322
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 12,
-                    "text": "Now, when they had come into the land, behold, to their astonishment they found that the Zoramites had built synagogues, and that they did gather themselves together on one day of the week, which day they did call the day of the Lord; and they did worship after a manner which Alma and his brethren had never beheld;",
-                    "score": 0.738902289367031
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 62,
-                    "verse": 33,
-                    "text": "And the armies of the Lamanites were all gathered together, insomuch that they were all in one body in the land of Moroni. Now Ammoron, the king of the Lamanites, was also with them.",
-                    "score": 0.7365577531403144
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 34,
-                    "text": "Therefore, they did as Ammon commanded them, and he went forth and stood to contend with those who stood by the waters of Sebus; and they were in number not a few.",
-                    "score": 0.7352433957368293
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 13,
-                    "text": "And the people of Ammon departed out of the land of Jershon, and came over into the land of Melek, and gave place in the land of Jershon for the armies of the Nephites, that they might contend with the armies of the Lamanites and the armies of the Zoramites; and thus commenced a war betwixt the Lamanites and the Nephites, in the eighteenth year of the reign of the judges; and an account shall be given of their wars hereafter.",
-                    "score": 0.7351598154545793
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
                     "verse": 2,
-                    "text": "Yea, and the rest of the brethren, after they had preached the word unto the Zoramites, also came over into the land of Jershon.",
-                    "score": 0.7351144053088445
+                    "text": "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8809487483589065
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 10,
+                    "text": "And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8191498113064797
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 2,
+                    "text": "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.800933623202613
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 2,
+                    "text": "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9375842176427988
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 10,
+                    "text": "And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9087667898118862
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 17,
+                    "text": "And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9037495198100535
                 }
             ]
         },
@@ -696,84 +253,44 @@
             "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 17,
-                    "verse": 10,
-                    "text": "And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space.",
-                    "score": 0.7360111692536512
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;",
-                    "score": 0.7170535297646501
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 12,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
                     "verse": 1,
-                    "text": "And it came to pass that the days of Ether were in the days of Coriantumr; and Coriantumr was king over all the land.",
-                    "score": 0.7166980941737247
+                    "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9009812246372676
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 18,
-                    "verse": 7,
-                    "text": "Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, even the king of Assyria and all his glory; and he shall come up over all his channels, and go over all his banks.",
-                    "score": 0.7095613828056467
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 1,
+                    "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8144139051437378
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 3,
-                    "verse": 36,
-                    "text": "Which was the son of Cainan, which was the son of Arphaxad, which was the son of Sem, which was the son of Noe, which was the son of Lamech,",
-                    "score": 0.7088658753260401
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 1,
+                    "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9381070901974964
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 24,
-                    "text": "And the sons of Coriantumr, in the fourth year, did beat Shared, and did obtain the kingdom again unto their father.",
-                    "score": 0.7037471608320405
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 7,
-                    "text": "Know ye not that there are more nations than one? Know ye not that I, the Lord your God, have created all men, and that I remember those who are upon the isles of the sea; and that I rule in the heavens above and in the earth beneath; and I bring forth my word unto the children of men, yea, even upon all the nations of the earth?",
-                    "score": 0.7036829904172187
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 4,
-                    "text": "And now, in the days of the reign of Omer he was in captivity the half of his days. And it came to pass that he begat sons and daughters, among whom were Esrom and Coriantumr;",
-                    "score": 0.7036618280372444
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 47,
-                    "text": "Behold, all these are kingdoms, and any man who hath seen any or the least of these hath seen God moving in his majesty and power.",
-                    "score": 0.7032000605273202
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 14,
-                    "text": "And Jared had four sons; and they were called Jacom, and Gilgah, and Mahah, and Orihah.",
-                    "score": 0.702762325462321
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 5,
+                    "text": "And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9052016891839738
                 }
             ]
         },
@@ -782,84 +299,24 @@
             "text": "And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 24,
-                    "verse": 16,
-                    "text": "Then let them which be in Judaea flee into the mountains:",
-                    "score": 0.7461925085021999
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 27,
-                    "text": "Therefore, as Ammon and the servants of the king were driving forth their flocks to this place of water, behold, a certain number of the Lamanites, who had been with their flocks to water, stood and scattered the flocks of Ammon and the servants of the king, and they scattered them insomuch that they fled many ways.",
-                    "score": 0.7453337701965909
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 9,
-                    "text": "And it came to pass that Nimrah gathered together a small number of men, and fled out of the land, and came over and dwelt with Omer.",
-                    "score": 0.741273589625319
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 22,
-                    "verse": 11,
-                    "text": "And it came to pass that the people of king Limhi did depart by night into the wilderness with their flocks and their herds, and they went round about the land of Shilom in the wilderness, and bent their course towards the land of Zarahemla, being led by Ammon and his brethren.",
-                    "score": 0.7401469397628816
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 6,
-                    "verse": 16,
-                    "text": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:",
-                    "score": 0.7383032438081278
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 8,
-                    "verse": 1,
-                    "text": "When he was come down from the mountain, great multitudes followed him.",
-                    "score": 0.7351907858837613
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 13,
-                    "verse": 17,
-                    "text": "Now this Melchizedek was a king over the land of Salem; and his people had waxed strong in iniquity and abomination; yea, they had all gone astray; they were full of all manner of wickedness;",
-                    "score": 0.734477649242588
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 11,
-                    "verse": 38,
-                    "text": "(Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.",
-                    "score": 0.7290648524123616
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 14,
-                    "verse": 20,
-                    "text": "And they were divided; and a part of them fled to the army of Shiz, and a part of them fled to the army of Coriantumr.",
-                    "score": 0.7275455395619647
+                    "verse": 8,
+                    "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8191498113064797
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 15,
-                    "verse": 28,
-                    "text": "And it came to pass that when the men of Coriantumr had received sufficient strength that they could walk, they were about to flee for their lives; but behold, Shiz arose, and also his men, and he swore in his wrath that he would slay Coriantumr or he would perish by the sword.",
-                    "score": 0.7262225078340488
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 8,
+                    "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9087667898118862
                 }
             ]
         },
@@ -868,84 +325,14 @@
             "text": "And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
-                    "verse": 45,
-                    "text": "And sold their possessions and goods, and parted them to all men, as every man had need.",
-                    "score": 0.7889415960411658
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 22,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
                     "verse": 12,
-                    "text": "And they had taken all their gold, and silver, and their precious things, which they could carry, and also their provisions with them, into the wilderness; and they pursued their journey.",
-                    "score": 0.7844293473814005
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 58,
-                    "text": "And it came to pass that they were all convinced of the wickedness of Korihor; therefore they were all converted again unto the Lord; and this put an end to the iniquity after the manner of Korihor. And Korihor did go about from house to house, begging food for his support.",
-                    "score": 0.7744526172299261
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 19,
-                    "verse": 32,
-                    "text": "And they that were sent went their way, and found even as he had said unto them.",
-                    "score": 0.7706983478704169
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 5,
-                    "verse": 72,
-                    "text": "And it came to pass that the servants did go and labor with their mights; and the Lord of the vineyard labored also with them; and they did obey the commandments of the Lord of the vineyard in all things.",
-                    "score": 0.7683075655504981
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "And it had come to pass, yea, all things, every whit, according to the words of the prophets.",
-                    "score": 0.7611175437438485
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;",
-                    "score": 0.7602437167688074
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 6,
-                    "verse": 2,
-                    "text": "And it came to pass that they had not eaten up all their provisions; therefore they did take with them all that they had not devoured, of all their grain of every kind, and their gold, and their silver, and all their precious things, and they did return to their own lands and their possessions, both on the north and on the south, both on the land northward and on the land southward.",
-                    "score": 0.7590350315033699
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 6,
-                    "text": "And the disciples went, and did as Jesus commanded them,",
-                    "score": 0.7582119693504248
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And when he had declared all these things unto them, he sent them to Joppa.",
-                    "score": 0.7581159165518634
+                    "text": "And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9060633126535022
                 }
             ]
         },
@@ -954,514 +341,90 @@
             "text": "And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "But I, Abraham, and Lot, my brother's son, prayed unto the Lord, and the Lord appeared unto me, and said unto me: Arise, and take Lot with thee; for I have purposed to take thee away out of Haran, and to make of thee a minister to bear my name in a strange land which I will give unto thy seed after thee for an everlasting possession, when they hearken to my voice.",
-                    "score": 0.7791762785488983
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 4,
-                    "text": "Therefore I left the land of Ur, of the Chaldees, to go into the land of Canaan; and I took Lot, my brother's son, and his wife, and Sarai my wife; and also my father followed after me, unto the land which we denominated Haran.",
-                    "score": 0.7721340495654151
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother's son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
-                    "score": 0.7674035320047656
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 6,
-                    "text": "Therefore he took Ammon, and Aaron, and Omner; and Himni he did leave in the church in Zarahemla; but the former three he took with him, and also Amulek and Zeezrom, who were at Melek; and he also took two of his sons.",
-                    "score": 0.7610091697830602
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.",
-                    "score": 0.7551859379587972
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 26,
-                    "verse": 37,
-                    "text": "And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.",
-                    "score": 0.7508981475555655
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 18,
-                    "verse": 25,
-                    "text": "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.",
-                    "score": 0.7428915690076452
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 52,
-                    "text": "Wherefore the Lord cursed Lamech, and his house, and all them that had covenanted with Satan; for they kept not the commandments of God, and it displeased God, and he ministered not unto them, and their works were abominations, and began to spread among all the sons of men. And it was among the sons of men.",
-                    "score": 0.7412861902540573
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 11,
-                    "verse": 10,
-                    "text": "And it came to pass that Ahah, his son, did obtain the kingdom; and he did reign over the people all his days. And he did do all manner of iniquity in his days, by which he did cause the shedding of much blood; and few were his days.",
-                    "score": 0.7398300445883585
+                    "verse": 31,
+                    "text": "And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.826160244961128
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7397257796085464
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8127518677304306
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 21,
+                    "text": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042920487496309
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9151347228965014
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 11,
+                    "text": "And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9060633126535022
                 }
             ]
         },
         {
             "verse": 13,
             "text": "And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 21,
-                    "verse": 11,
-                    "text": "Therefore, when he saw that they would not hear his words, he departed out of their synagogue, and came over to a village which was called Ani-Anti, and there he found Muloki preaching the word unto them; and also Ammah and his brethren. And they contended with many about the word.",
-                    "score": 0.7688046790497061
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 9,
-                    "text": "And it came to pass that Nimrah gathered together a small number of men, and fled out of the land, and came over and dwelt with Omer.",
-                    "score": 0.7669435634278123
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7535107278387437
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 24,
-                    "text": "Rebel no more against your brother, whose views have been glorious, and who hath kept the commandments from the time that we left Jerusalem; and who hath been an instrument in the hands of God, in bringing us forth into the land of promise; for were it not for him, we must have perished with hunger in the wilderness; nevertheless, ye sought to take away his life; yea, and he hath suffered much sorrow because of you.",
-                    "score": 0.7527490108397303
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 14,
-                    "verse": 20,
-                    "text": "And they were divided; and a part of them fled to the army of Shiz, and a part of them fled to the army of Coriantumr.",
-                    "score": 0.7517142685316387
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 15,
-                    "text": "And it came to pass that when they saw that they were surrounded, they pled with Amalickiah that he would suffer them to fall in with their brethren, that they might not be destroyed. Now this was the very thing which Amalickiah desired.",
-                    "score": 0.7436605988104465
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 6,
-                    "text": "Therefore he took Ammon, and Aaron, and Omner; and Himni he did leave in the church in Zarahemla; but the former three he took with him, and also Amulek and Zeezrom, who were at Melek; and he also took two of his sons.",
-                    "score": 0.7432837023731637
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 2,
-                    "verse": 22,
-                    "text": "Now those whom he had sent out to watch the camp of the Amlicites were called Zeram, and Amnor, and Manti, and Limher; these were they who went out with their men to watch the camp of the Amlicites.",
-                    "score": 0.7425821487887794
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 20,
-                    "text": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them, but shall stay upon the Lord, the Holy One of Israel, in truth.",
-                    "score": 0.7424311949710324
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 1,
-                    "text": "And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin, king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.",
-                    "score": 0.7420155141737077
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 14,
             "text": "And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 10,
-                    "verse": 14,
-                    "text": "And his brother did rise up in rebellion against him, by which he did bring him into captivity; and he did remain in captivity all his days; and he begat sons and daughters in captivity, and in his old age he begat Levi; and he died.",
-                    "score": 0.7453089085326688
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 13,
-                    "verse": 28,
-                    "text": "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?",
-                    "score": 0.736986491800545
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 20,
-                    "text": "But behold, he did deliver them because they did humble themselves before him; and because they cried mightily unto him he did deliver them out of bondage; and thus doth the Lord work with his power in all cases among the children of men, extending the arm of mercy towards them that put their trust in him.",
-                    "score": 0.7313672213169832
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 60,
-                    "text": "I soon found out the reason why I had received such strict charges to keep them safe, and why it was that the messenger had said that when I had done what was required at my hand, he would call for them. For no sooner was it known that I had them, than the most strenuous exertions were used to get them from me. Every stratagem that could be invented was resorted to for that purpose. The persecution became more bitter and severe than before, and multitudes were on the alert continually to get them from me if possible. But by the wisdom of God, they remained safe in my hands, until I had accomplished by them what was required at my hand. When, according to arrangements, the messenger called for them, I delivered them up to him; and he has them in his charge until this day, being the second day of May, one thousand eight hundred and thirty-eight.",
-                    "score": 0.7287458175693895
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 51,
-                    "text": "And as he was now going down, his servants met him, and told him, saying, Thy son liveth.",
-                    "score": 0.7284502066272186
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 19,
-                    "verse": 16,
-                    "text": "And now there was one of the sons of the king among those that were taken captive, whose name was Limhi.",
-                    "score": 0.7265998075740853
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 23,
-                    "text": "And it came to pass that there arose up Shared, and he also gave battle unto Coriantumr; and he did beat him, insomuch that in the third year he did bring him into captivity.",
-                    "score": 0.7248631618317887
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 20,
-                    "verse": 30,
-                    "text": "And, as it happened, it was their lot to have fallen into the hands of a more hardened and a more stiffnecked people; therefore they would not hearken unto their words, and they had cast them out, and had smitten them, and had driven them from house to house, and from place to place, even until they had arrived in the land of Middoni; and there they were taken and cast into prison, and bound with strong cords, and kept in prison for many days, and were delivered by Lamoni and Ammon.",
-                    "score": 0.7239028802090882
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And when he had gathered together an army he came up unto the land of Moron where the king dwelt, and took him captive, which brought to pass the saying of the brother of Jared that they would be brought into captivity.",
-                    "score": 0.7235798842640816
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 23,
-                    "text": "And now behold, this was grievous unto them. And the brother of Jared said unto them: Surely this thing leadeth into captivity.",
-                    "score": 0.7203003701727321
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 15,
             "text": "And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 51,
-                    "text": "And the enemy came by night, and broke down the hedge; and the servants of the nobleman arose and were affrighted, and fled; and the enemy destroyed their works, and broke down the olive trees.",
-                    "score": 0.7841851491251196
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "And it came to pass as he went forth towards the judgment-seat to destroy Helaman, behold one of the servants of Helaman, having been out by night, and having obtained, through disguise, a knowledge of those plans which had been laid by this band to destroy Helaman--",
-                    "score": 0.768231134275317
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 37,
-                    "text": "But behold, every man that lifted his club to smite Ammon, he smote off their arms with his sword; for he did withstand their blows by smiting their arms with the edge of his sword, insomuch that they began to be astonished, and began to flee before him; yea, and they were not few in number; and he caused them to flee by the strength of his arm.",
-                    "score": 0.7631693531334467
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 22,
-                    "verse": 6,
-                    "text": "And the remnant took his servants, and entreated them spitefully, and slew them.",
-                    "score": 0.762379486919196
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 13,
-                    "verse": 28,
-                    "text": "He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?",
-                    "score": 0.7607965745016494
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 18,
-                    "verse": 6,
-                    "text": "And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.",
-                    "score": 0.75559356755903
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 22,
-                    "verse": 63,
-                    "text": "And the men that held Jesus mocked him, and smote him.",
-                    "score": 0.7533392706750625
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 22,
-                    "text": "And he spake unto me concerning the elders of the Jews, he knowing that his master, Laban, had been out by night among them.",
-                    "score": 0.7533212985316526
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 14,
-                    "text": "And when they had sworn by all that had been forbidden them by our Lord and Savior Jesus Christ, that they would go up unto their enemies to battle, and avenge themselves of the blood of their brethren, behold the voice of the Lord came unto me, saying:",
-                    "score": 0.7518792230721647
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 14,
-                    "verse": 12,
-                    "text": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death; and he was numbered with the transgressors; and he bore the sins of many, and made intercession for the transgressors.",
-                    "score": 0.7507044178168856
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 16,
             "text": "And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
-                    "verse": 45,
-                    "text": "And sold their possessions and goods, and parted them to all men, as every man had need.",
-                    "score": 0.7754383455441861
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother's son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
-                    "score": 0.7618896778738716
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 19,
-                    "verse": 15,
-                    "text": "And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.",
-                    "score": 0.7536292257335901
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 3,
-                    "verse": 35,
-                    "text": "The Father loveth the Son, and hath given all things into his hand.",
-                    "score": 0.7464276547729346
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 1,
-                    "verse": 27,
-                    "text": "And they did impart of their substance, every man according to that which he had, to the poor, and the needy, and the sick, and the afflicted; and they did not wear costly apparel, yet they were neat and comely.",
-                    "score": 0.7408543490645485
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "4 Nephi",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "And they had all things common among them; therefore there were not rich and poor, bond and free, but they were all made free, and partakers of the heavenly gift.",
-                    "score": 0.740181862232744
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "And he laid a tax of one fifth part of all they possessed, a fifth part of their gold and of their silver, and a fifth part of their ziff, and of their copper, and of their brass and their iron; and a fifth part of their fatlings; and also a fifth part of all their grain.",
-                    "score": 0.7389526742784323
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 5,
-                    "verse": 2,
-                    "text": "And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles' feet.",
-                    "score": 0.7386000989245611
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 3,
-                    "verse": 23,
-                    "text": "And after we had gathered these things together, we went up again unto the house of Laban.",
-                    "score": 0.7364592255534086
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 36,
-                    "text": "Again, he sent other servants more than the first: and they did unto them likewise.",
-                    "score": 0.7347920254665542
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 17,
             "text": "And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 39,
-                    "text": "And when he had driven them afar off, he returned and they watered their flocks and returned them to the pasture of the king, and then went in unto the king, bearing the arms which had been smitten off by the sword of Ammon, of those who sought to slay him; and they were carried in unto the king for a testimony of the things which they had done.",
-                    "score": 0.7691703502311545
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "Wherefore, he came to the hill Ephraim, and he did molten out of the hill, and made swords out of steel for those whom he had drawn away with him; and after he had armed them with swords he returned to the city Nehor, and gave battle unto his brother Corihor, by which means he obtained the kingdom and restored it unto his father Kib.",
-                    "score": 0.7610959880613646
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;",
-                    "score": 0.756209358845468
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 22,
-                    "text": "But behold, as the king came out to meet him Amalickiah caused that his servants should go forth to meet the king. And they went and bowed themselves before the king, as if to reverence him because of his greatness.",
-                    "score": 0.748616508543361
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 20,
-                    "text": "In the same day shall the Lord shave with a razor that is hired, by them beyond the river, by the king of Assyria, the head, and the hair of the feet; and it shall also consume the beard.",
-                    "score": 0.7461180515537819
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 21,
-                    "text": "And the king came out to meet him with his guards, for he supposed that Amalickiah had fulfilled his commands, and that Amalickiah had gathered together so great an army to go against the Nephites to battle.",
-                    "score": 0.7447807403875868
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 29,
-                    "text": "Now when the servants of the king saw an army pursuing after them, they were frightened again, and fled into the wilderness, and came over into the land of Zarahemla and joined the people of Ammon.",
-                    "score": 0.7399041357955269
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 9,
-                    "verse": 35,
-                    "text": "And all that dwelt at Lydda and Saron saw him, and turned to the Lord.",
-                    "score": 0.7391852193969968
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 26,
-                    "text": "And after he had been in the service of the king three days, as he was with the Lamanitish servants going forth with their flocks to the place of water, which was called the water of Sebus, and all the Lamanites drive their flocks hither, that they may have water--",
-                    "score": 0.7385124803191523
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 7,
-                    "text": "And behold, they met the king of the people who were in the land of Nephi, and in the land of Shilom; and they were surrounded by the king's guard, and were taken, and were bound, and were committed to prison.",
-                    "score": 0.7351635908514482
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 8,
+                    "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9037495198100535
                 }
             ]
         },
@@ -1472,82 +435,22 @@
                 {
                     "volume": "New Testament",
                     "book": "Hebrews",
+                    "volume_book_index": 19,
                     "chapter": 7,
                     "verse": 1,
                     "text": "For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.872490620211925
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 2,
-                    "text": "Why the first is called the Melchizedek Priesthood is because Melchizedek was such a great high priest.",
-                    "score": 0.7881000378638281
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 13,
-                    "verse": 18,
-                    "text": "But Melchizedek having exercised mighty faith, and received the office of the high priesthood according to the holy order of God, did preach repentance unto his people. And behold, they did repent; and Melchizedek did establish peace in the land in his days; therefore he was called the prince of peace, for he was the king of Salem; and he did reign under his father.",
-                    "score": 0.7851327493589387
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 7,
-                    "text": "But he truly gave unto them bread to eat, and also wine to drink.",
-                    "score": 0.7846726964109334
                 },
                 {
                     "volume": "New Testament",
                     "book": "Hebrews",
-                    "chapter": 5,
-                    "verse": 10,
-                    "text": "Called of God an high priest after the order of Melchisedec.",
-                    "score": 0.7845917261018382
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 23,
-                    "text": "And after he had eaten and was filled he said unto Amulek: I am Alma, and am the high priest over the church of God throughout the land.",
-                    "score": 0.7782950031987965
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 2,
-                    "verse": 26,
-                    "text": "How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?",
-                    "score": 0.7739623348109975
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 57,
-                    "text": "And are priests of the Most High, after the order of Melchizedek, which was after the order of Enoch, which was after the order of the Only Begotten Son.",
-                    "score": 0.7511700345044717
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 5,
-                    "text": "And when they had given unto the multitude he also gave them wine to drink, and commanded them that they should give unto the multitude.",
-                    "score": 0.746833312862209
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 71,
-                    "text": "Nevertheless, a high priest, that is, after the order of Melchizedek, may be set apart unto the ministering of temporal things, having a knowledge of them by the Spirit of truth;",
-                    "score": 0.7463393976553031
+                    "volume_book_index": 19,
+                    "chapter": 7,
+                    "verse": 1,
+                    "text": "For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9246834933003762
                 }
             ]
         },
@@ -1556,84 +459,94 @@
             "text": "And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 22,
+                    "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8693758937637596
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 115,
+                    "verse": 15,
+                    "text": "Ye are blessed of the Lord which made heaven and earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.824529553412513
+                },
+                {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 19,
                     "verse": 38,
                     "text": "Saying, Blessed be the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8209407956876159
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 39,
-                    "text": "He ruleth high in the heavens, for it is his throne, and this earth is his footstool.",
-                    "score": 0.7978767265908615
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 113,
+                    "verse": 4,
+                    "text": "The Lord is high above all nations, and his glory above the heavens.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8076234204960944
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 1,
+                    "volume": "Old Testament",
+                    "book": "Habakkuk",
+                    "volume_book_index": 35,
+                    "chapter": 3,
                     "verse": 3,
-                    "text": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:",
-                    "score": 0.7940501206991426
+                    "text": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041842289329015
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 6,
-                    "text": "And when I had spoken these words, the Spirit cried with a loud voice, saying: Hosanna to the Lord, the most high God; for he is God over all the earth, yea, even above all. And blessed art thou, Nephi, because thou believest in the Son of the most high God; wherefore, thou shalt behold the things which thou hast desired.",
-                    "score": 0.7936338511976031
+                    "volume": "Old Testament",
+                    "book": "Daniel",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 18,
+                    "text": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007079225900697
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 2,
-                    "verse": 28,
-                    "text": "Then took he him up in his arms, and blessed God, and said,",
-                    "score": 0.7915010328070345
+                    "verse": 12,
+                    "text": "Huram said moreover, Blessed be the Lord God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the Lord, and an house for his kingdom.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006740010572294
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 11,
-                    "verse": 39,
-                    "text": "And Amulek said unto him: Yea, he is the very Eternal Father of heaven and of earth, and all things which in them are; he is the beginning and the end, the first and the last;",
-                    "score": 0.7884185542275682
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 22,
+                    "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9207820523484432
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 23,
-                    "text": "And after he had eaten and was filled he said unto Amulek: I am Alma, and am the high priest over the church of God throughout the land.",
-                    "score": 0.7831765125439434
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 1,
-                    "verse": 32,
-                    "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:",
-                    "score": 0.7831358740074503
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Philippians",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "Wherefore God also hath highly exalted him, and given him a name which is above every name:",
-                    "score": 0.7828390599361869
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 78,
-                    "verse": 19,
-                    "text": "And he who receiveth all things with thankfulness shall be made glorious; and the things of this earth shall be added unto him, even an hundred fold, yea, more.",
-                    "score": 0.7822758606378173
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 28,
+                    "verse": 13,
+                    "text": "And, behold, the Lord stood above it, and said, I am the Lord God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9035147044224809
                 }
             ]
         },
@@ -1642,84 +555,74 @@
             "text": "And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 20,
+                    "verse": 13,
+                    "text": "And when the Lord thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8381123028924613
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 21,
+                    "verse": 10,
+                    "text": "When thou goest forth to war against thine enemies, and the Lord thy God hath delivered them into thine hands, and thou hast taken them captive,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8206843860220534
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 2,
+                    "text": "Thus saith the Lord God; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8155154347347242
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 17,
+                    "verse": 39,
+                    "text": "But the Lord your God ye shall fear; and he shall deliver you out of the hand of all your enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8153532922122828
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 8,
                     "verse": 4,
                     "text": "Therefore this is thy gift; apply unto it, and blessed art thou, for it shall deliver you out of the hands of your enemies, when, if it were not so, they would slay you and bring your soul to destruction.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8100418693315633
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 3,
                     "verse": 12,
                     "text": "And when thou deliveredst up that which God had given thee sight and power to translate, thou deliveredst up that which was sacred into the hands of a wicked man,",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8013698650470539
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 8,
-                    "text": "And then, if thou endure it well, God shall exalt thee on high; thou shalt triumph over all thy foes.",
-                    "score": 0.7959925628830188
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 57,
-                    "verse": 35,
-                    "text": "And behold, we are again delivered out of the hands of our enemies. And blessed is the name of our God; for behold, it is he that has delivered us; yea, that has done this great thing for us.",
-                    "score": 0.794658866697093
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Philippians",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "Wherefore God also hath highly exalted him, and given him a name which is above every name:",
-                    "score": 0.7876310501438566
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 20,
-                    "text": "The Lord thy God sent his angel to deliver thee from the hands of the priest of Elkenah.",
-                    "score": 0.7845300975141988
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 43,
-                    "text": "Behold, my servant shall deal prudently; he shall be exalted and extolled and be very high.",
-                    "score": 0.7843776923746466
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 112,
-                    "verse": 8,
-                    "text": "And by thy word many high ones shall be brought low, and by thy word many low ones shall be exalted.",
-                    "score": 0.7824105203221631
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 96,
-                    "text": "For I, the Almighty, have laid my hands upon the nations, to scourge them for their wickedness.",
-                    "score": 0.7808855514348686
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 25,
-                    "verse": 29,
-                    "text": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.",
-                    "score": 0.7793437192936913
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 32,
+                    "verse": 14,
+                    "text": "Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005338229636592
                 }
             ]
         },
@@ -1728,84 +631,74 @@
             "text": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 22,
+                    "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8318846014503878
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 21,
+                    "verse": 23,
+                    "text": "And Ornan said unto David, Take it to thee, and let my lord the king do that which is good in his eyes: lo, I give thee the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8115334315802843
+                },
+                {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 21,
                     "verse": 43,
                     "text": "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8099085217631825
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 117,
-                    "verse": 14,
-                    "text": "Therefore, let him come up hither speedily, unto the land of Zion; and in the due time he shall be made a merchant unto my name, saith the Lord, for the benefit of my people.",
-                    "score": 0.7951886158340368
+                    "volume": "Old Testament",
+                    "book": "Esther",
+                    "volume_book_index": 17,
+                    "chapter": 3,
+                    "verse": 11,
+                    "text": "And the king said unto Haman, The silver is given to thee, the people also, to do with them as it seemeth good to thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050019367216478
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 89,
-                    "text": "Whoso receiveth you receiveth me; and the same will feed you, and clothe you, and give you money.",
-                    "score": 0.7889088544633823
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 12,
+                    "text": "And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042920487496309
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 37,
-                    "text": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
-                    "score": 0.78269060352622
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 16,
-                    "verse": 15,
-                    "text": "All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew it unto you.",
-                    "score": 0.7807451679754975
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 21,
-                    "text": "And that the Lord God would send or bring forth another people to possess the land, by his power, after the manner by which he brought their fathers.",
-                    "score": 0.7806305413620844
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "And Abel, he also brought of the firstlings of his flock, and of the fat thereof. And the Lord had respect unto Abel, and to his offering;",
-                    "score": 0.779099827056534
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 26,
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 28,
                     "verse": 17,
-                    "text": "Delivering thee from the people, and from the Gentiles, unto whom now I send thee,",
-                    "score": 0.7780308819583605
+                    "text": "And the Lord hath done to him, as he spake by me: for the Lord hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006516782958134
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 51,
-                    "verse": 8,
-                    "text": "And the money which is left unto this people--let there be an agent appointed unto this people, to take the money to provide food and raiment, according to the wants of this people.",
-                    "score": 0.777920067712041
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 23,
-                    "text": "And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom.",
-                    "score": 0.7775183653116453
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 22,
+                    "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9007330477674648
                 }
             ]
         },
@@ -1814,84 +707,114 @@
             "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the Lord, the most high God, the possessor of heaven and earth,",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 6,
-                    "text": "And now, these are the words: Thus saith the Lord God: Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people; and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.",
-                    "score": 0.7937471535464083
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 19,
+                    "text": "And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8693758937637596
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 22,
-                    "text": "And when he had removed him, he raised up unto them David to be their king; to whom also he gave testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.",
-                    "score": 0.7927694827870785
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 21,
+                    "text": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8318846014503878
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 20,
-                    "text": "But I say unto you: Mine angels shall go up before you, and also my presence, and in time ye shall possess the goodly land.",
-                    "score": 0.7915973329559871
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 8,
-                    "text": "I came unto mine own, and mine own received me not; but unto as many as received me gave I power to do many miracles, and to become the sons of God; and even unto them that believed on my name gave I power to obtain eternal life.",
-                    "score": 0.7915548448835333
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
-                    "verse": 28,
-                    "text": "And I know that he will raise me up at the last day, to dwell with him in glory; yea, and I will praise him forever, for he has brought our fathers out of Egypt, and he has swallowed up the Egyptians in the Red Sea; and he led them by his power into the promised land; yea, and he has delivered them out of bondage and captivity from time to time.",
-                    "score": 0.7881295719422379
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 22,
-                    "text": "Thus saith the Lord God: Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people; and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.",
-                    "score": 0.7881131620787567
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 20,
+                    "verse": 5,
+                    "text": "And say unto them, Thus saith the Lord God; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I am the Lord your God;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8210142102233343
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 7,
+                    "text": "The Lord God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8109695222914247
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 2,
+                    "verse": 18,
+                    "text": "Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for this good work.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809280064478772
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 28,
                     "verse": 13,
-                    "text": "Mine hand hath also laid the foundation of the earth, and my right hand hath spanned the heavens. I call unto them and they stand up together.",
-                    "score": 0.7866284197826569
+                    "text": "And, behold, the Lord stood above it, and said, I am the Lord God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051129562918551
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 15,
-                    "text": "And it came to pass that after Aaron had expounded these things unto him, the king said: What shall I do that I may have this eternal life of which thou hast spoken? Yea, what shall I do that I may be born of God, having this wicked spirit rooted out of my breast, and receive his Spirit, that I may be filled with joy, that I may not be cast off at the last day? Behold, said he, I will give up all that I possess, yea, I will forsake my kingdom, that I may receive this great joy.",
-                    "score": 0.7840561871424349
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 7,
+                    "text": "Therefore thus saith the Lord God; I have lifted up mine hand, Surely the heathen that are about you, they shall bear their shame.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046882120057018
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 52,
-                    "verse": 44,
-                    "text": "Behold, I am Jesus Christ, the Son of God, and I will lift them up at the last day. Even so. Amen.",
-                    "score": 0.7839767667257541
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 7,
+                    "verse": 28,
+                    "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened as the hand of the Lord my God was upon me, and I gathered together out of Israel chief men to go up with me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035995790147492
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 1,
-                    "verse": 15,
-                    "text": "And as they lifted up their hands upon me, that they might offer me up and take away my life, behold, I lifted up my voice unto the Lord my God, and the Lord hearkened and heard, and he filled me with the vision of the Almighty, and the angel of his presence stood by me, and immediately unloosed my bands;",
-                    "score": 0.7826656278527185
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 19,
+                    "text": "And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9207820523484432
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 21,
+                    "text": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9007330477674648
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 28,
+                    "verse": 13,
+                    "text": "And, behold, the Lord stood above it, and said, I am the Lord God of Abraham thy father, and the God of Isaac: the land whereon thou liest, to thee will I give it, and to thy seed;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005204439163208
                 }
             ]
         },
@@ -1900,172 +823,21 @@
             "text": "That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich:",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 20,
-                    "text": "Thou shalt not steal; and he that stealeth and will not repent shall be cast out.",
-                    "score": 0.780943896181107
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 15,
-                    "verse": 18,
-                    "text": "For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,",
-                    "score": 0.7788415931310007
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 47,
-                    "text": "And it shall come to pass that if you build a house unto my name, and do not do the things that I say, I will not perform the oath which I make unto you, neither fulfil the promises which ye expect at my hands, saith the Lord.",
-                    "score": 0.7776603007706466
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
-                    "verse": 5,
-                    "text": "And now, because thou hast done this with such unwearyingness, behold, I will bless thee forever; and I will make thee mighty in word and in deed, in faith and in works; yea, even that all things shall be done unto thee according to thy word, for thou shalt not ask that which is contrary to my will.",
-                    "score": 0.7771309421072995
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 7,
-                    "verse": 29,
-                    "text": "For behold, the Lord hath said: I will not succor my people in the day of their transgression; but I will hedge up their ways that they prosper not; and their doings shall be as a stumbling block before them.",
-                    "score": 0.7755089892595437
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 2,
-                    "verse": 21,
-                    "text": "Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal?",
-                    "score": 0.7740746608112387
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 6,
-                    "verse": 6,
-                    "text": "Wherefore, I shall give commandment unto my seed, that they shall not occupy these plates with things which are not of worth unto the children of men.",
-                    "score": 0.7716121916838252
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 54,
-                    "text": "Thou shalt not take thy brother's garment; thou shalt pay for that which thou shalt receive of thy brother.",
-                    "score": 0.7702716480270468
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 42,
-                    "text": "Thou shalt not be idle; for he that is idle shall not eat the bread nor wear the garments of the laborer.",
-                    "score": 0.7697121513871242
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 6,
-                    "verse": 12,
-                    "text": "All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any.",
-                    "score": 0.7675284527167866
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 5,
+                    "verse": 9,
+                    "text": "And I will do in thee that which I have not done, and whereunto I will not do any more the like, because of all thine abominations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060671403090905
                 }
             ]
         },
         {
             "verse": 24,
             "text": "Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "Saying, Thou wentest in to men uncircumcised, and didst eat with them.",
-                    "score": 0.7794801525850693
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 33,
-                    "text": "Therefore said the disciples one to another, Hath any man brought him ought to eat?",
-                    "score": 0.7672977634509142
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 15,
-                    "verse": 12,
-                    "text": "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living.",
-                    "score": 0.7640965567359891
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 11,
-                    "verse": 33,
-                    "text": "Wherefore, my brethren, when ye come together to eat, tarry one for another.",
-                    "score": 0.7572598628994085
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 55,
-                    "text": "And the lord of the vineyard said unto one of his servants: Go and gather together the residue of my servants, and take all the strength of mine house, which are my warriors, my young men, and they that are of middle age also among all my servants, who are the strength of mine house, save those only whom I have appointed to tarry;",
-                    "score": 0.7555851616061058
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 11,
-                    "verse": 34,
-                    "text": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.",
-                    "score": 0.7526127183248522
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 4,
-                    "text": "And when they had eaten and were filled, he commanded that they should give unto the multitude.",
-                    "score": 0.7434112183744633
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 14,
-                    "verse": 16,
-                    "text": "But Jesus said unto them, They need not depart; give ye them to eat.",
-                    "score": 0.7430837985869295
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 19,
-                    "verse": 18,
-                    "text": "That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great.",
-                    "score": 0.741650403373633
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 26,
-                    "verse": 26,
-                    "text": "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.",
-                    "score": 0.7412347411408997
-                }
-            ]
+            "similars": []
         }
     ]
 }

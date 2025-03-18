@@ -8,84 +8,184 @@
             "text": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them--",
             "similars": [
                 {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 15,
+                    "verse": 11,
+                    "text": "And now it came to pass that when Jesus had spoken these words, he said unto those twelve whom he had chosen:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8850262728384101
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 36,
+                    "text": "And it came to pass that when Jesus had made an end of these sayings, he touched with his hand the disciples whom he had chosen, one by one, even until he had touched them all, and spake unto them as he touched them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8664071964805022
+                },
+                {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 6,
                     "verse": 13,
                     "text": "And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8576006299483907
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 12,
+                    "verse": 8,
+                    "text": "And the angel spake unto me, saying: Behold the twelve disciples of the Lamb, who are chosen to minister unto thy seed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8411684601813648
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8385432433375973
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 26,
+                    "text": "And now it came to pass that when Jesus had spoken these words, he turned his eyes again upon the disciples whom he had chosen, and said unto them:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8184994072778756
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 1,
+                    "text": "And it came to pass that when Jesus had spoken these words unto Nephi, and to those who had been called, (now the number of them who had been called, and received power and authority to baptize, was twelve) and behold, he stretched forth his hand unto the multitude, and cried unto them, saying: Blessed are ye if ye shall give heed unto the words of these twelve whom I have chosen from among you to minister unto you, and to be your servants; and unto them I have given power that they may baptize you with water; and after that ye are baptized with water, behold, I will baptize you with fire and with the Holy Ghost; therefore blessed are ye if ye shall believe in me and be baptized, after that ye have seen me and know that I am.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8115639982010067
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 17,
+                    "text": "And it came to pass that when Jesus had spoken these words unto his disciples, he turned again unto the multitude and said unto them:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106158568184468
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 27,
                     "text": "Yea, even twelve; and the Twelve shall be my disciples, and they shall take upon them my name; and the Twelve are they who shall desire to take upon them my name with full purpose of heart.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8104254517713689
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 17,
                     "verse": 13,
                     "text": "Then the disciples understood that he spake unto them of John the Baptist.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8022111143979828
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 19,
                     "verse": 6,
                     "text": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021107849233016
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 5,
-                    "verse": 31,
-                    "text": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?",
-                    "score": 0.799921457096927
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 15,
+                    "verse": 11,
+                    "text": "And now it came to pass that when Jesus had spoken these words, he said unto those twelve whom he had chosen:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9409905040854667
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 20,
-                    "verse": 17,
-                    "text": "And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,",
-                    "score": 0.7981927888865764
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 26,
+                    "text": "And now it came to pass that when Jesus had spoken these words, he turned his eyes again upon the disciples whom he had chosen, and said unto them:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9211710001434154
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "And he called unto him the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;",
-                    "score": 0.7969757149709273
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 23,
-                    "verse": 1,
-                    "text": "Then spake Jesus to the multitude, and to his disciples,",
-                    "score": 0.7969049791243823
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 36,
+                    "text": "And it came to pass that when Jesus had made an end of these sayings, he touched with his hand the disciples whom he had chosen, one by one, even until he had touched them all, and spake unto them as he touched them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9164116829177783
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
-                    "chapter": 19,
-                    "verse": 39,
-                    "text": "And some of the Pharisees from among the multitude said unto him, Master, rebuke thy disciples.",
-                    "score": 0.7949942385554232
+                    "volume_book_index": 3,
+                    "chapter": 6,
+                    "verse": 13,
+                    "text": "And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9067943954924632
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041170306415033
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
-                    "chapter": 6,
+                    "volume_book_index": 5,
+                    "chapter": 1,
                     "verse": 2,
-                    "text": "Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables.",
-                    "score": 0.7949909512316156
+                    "text": "Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022163152694959
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 6,
+                    "verse": 6,
+                    "text": "Whom they set before the apostles: and when they had prayed, they laid their hands on them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005474688580585
                 }
             ]
         },
@@ -94,84 +194,454 @@
             "text": "And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.",
             "similars": [
                 {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 3,
+                    "verse": 15,
+                    "text": "And his name shall be called after me; and it shall be after the name of his father. And he shall be like unto me; for the thing, which the Lord shall bring forth by his hand, by the power of the Lord shall bring my people unto salvation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.868928075909836
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 28,
+                    "text": "And now I go unto the Father. And verily I say unto you, whatsoever things ye shall ask the Father in my name shall be given unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8443286095503609
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 7,
+                    "text": "Therefore, whatsoever ye shall do, ye shall do it in my name; therefore ye shall call the church in my name; and ye shall call upon the Father in my name that he will bless the church for my sake.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.841962648494134
+                },
+                {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 18,
                     "text": "Behold, I will lead thee by my hand, and I will take thee, to put upon thee my name, even the Priesthood of thy father, and my power shall be over thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.838232493897898
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 8,
                     "verse": 19,
                     "text": "Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8375832978713718
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 55,
-                    "verse": 3,
-                    "text": "And on whomsoever you shall lay your hands, if they are contrite before me, you shall have power to give the Holy Spirit.",
-                    "score": 0.8183683524662169
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 9,
+                    "text": "Verily I say unto you, that ye are built upon my gospel; therefore ye shall call whatsoever things ye do call, in my name; therefore if ye call upon the Father, for the church, if it be in my name the Father will hear you;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8345258539675163
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 21,
+                    "text": "Father, I pray thee that thou wilt give the Holy Ghost unto all them that shall believe in their words.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8343293649748212
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 31,
+                    "verse": 12,
+                    "text": "And also, the voice of the Son came unto me, saying: He that is baptized in my name, to him will the Father give the Holy Ghost, like unto me; wherefore, follow me, and do the things which ye have seen me do.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8316868664780248
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 20,
+                    "text": "And whatsoever ye shall ask the Father in my name, which is right, believing that ye shall receive, behold it shall be given unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8246274944712163
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 2,
+                    "text": "And Jesus again showed himself unto them, for they were praying unto the Father in his name; and Jesus came and stood in the midst of them, and said unto them: What will ye that I shall give unto you?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205921421957129
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 55,
+                    "verse": 3,
+                    "text": "And on whomsoever you shall lay your hands, if they are contrite before me, you shall have power to give the Holy Spirit.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8183683524662169
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 23,
+                    "text": "But ye shall pray for them, and shall not cast them out; and if it so be that they come unto you oft ye shall pray for them unto the Father, in my name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.818301320233393
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 132,
                     "verse": 59,
                     "text": "Verily, if a man be called of my Father, as was Aaron, by mine own voice, and by the voice of him that sent me, and I have endowed him with the keys of the power of this priesthood, if he do anything in my name, and according to my law and by my word, he will not commit sin, and I will justify him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8175817164264501
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 10,
                     "text": "And I will bless them through thy name; for as many as receive this Gospel shall be called after thy name, and shall be accounted thy seed, and shall rise up and bless thee, as their father;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8155399586002432
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 44,
                     "text": "And the elders of the church, two or more, shall be called, and shall pray for and lay their hands upon them in my name; and if they die they shall die unto me, and if they live they shall live unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8152070213555686
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 18,
                     "text": "Ask the Father in my name in faith, believing that you shall receive, and you shall have the Holy Ghost, which manifesteth all things which are expedient unto the children of men.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.814176688181115
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 11,
                     "verse": 2,
                     "text": "And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8135812962156802
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 7,
                     "verse": 11,
                     "text": "And he gave unto me a commandment that I should baptize in the name of the Father, and of the Son, which is full of grace and truth, and of the Holy Ghost, which beareth record of the Father and the Son.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8116608124979268
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 52,
                     "text": "And he also said unto him: If thou wilt turn unto me, and hearken unto my voice, and believe, and repent of all thy transgressions, and be baptized, even in water, in the name of mine Only Begotten Son, who is full of grace and truth, which is Jesus Christ, the only name which shall be given under heaven, whereby salvation shall come unto the children of men, ye shall receive the gift of the Holy Ghost, asking all things in his name, and whatsoever ye shall ask, it shall be given you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8114804435990305
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 14,
+                    "verse": 8,
+                    "text": "And it shall come to pass, that if you shall ask the Father in my name, in faith believing, you shall receive the Holy Ghost, which giveth utterance, that you may stand as a witness of the things of which you shall both hear and see, and also that you may declare repentance unto this generation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8113074475367811
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 22,
+                    "text": "Father, thou hast given them the Holy Ghost because they believe in me; and thou seest that they believe in me because thou hearest them, and they pray unto me; and they pray unto me because I am with them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8110515201752699
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 27,
+                    "text": "And after this manner shall ye baptize in my name; for behold, verily I say unto you, that the Father, and the Son, and the Holy Ghost are one; and I am in the Father, and the Father in me, and the Father and I are one.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106986105177639
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 13,
+                    "text": "And he said, O my Lord, send, I pray thee, by the hand of him whom thou wilt send.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8102136725163359
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 24,
+                    "text": "And call ye on the name of your gods, and I will call on the name of the Lord: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8100863393049159
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 3,
+                    "verse": 2,
+                    "text": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8090756196561485
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 29,
+                    "verse": 12,
+                    "text": "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8089130059297833
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 35,
+                    "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087349228732635
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 100,
+                    "verse": 10,
+                    "text": "And I will give unto him power to be mighty in testimony.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085775752521076
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 43,
+                    "text": "He saith unto them, How then doth David in spirit call him Lord, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085258767375298
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 31,
+                    "text": "And they shall believe in me, that I am Jesus Christ, the Son of God, and shall pray unto the Father in my name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085167955344458
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 35,
+                    "verse": 6,
+                    "text": "But now I give unto thee a commandment, that thou shalt baptize by water, and they shall receive the Holy Ghost by the laying on of the hands, even as the apostles of old.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.808038610062983
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 21,
+                    "verse": 27,
+                    "text": "Yea, the work shall commence among all the dispersed of my people, with the Father to prepare the way whereby they may come unto me, that they may call on the Father in my name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064854128533919
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 63,
+                    "text": "And as I said unto mine apostles, even so I say unto you, for you are mine apostles, even God's high priests; ye are they whom my Father hath given me; ye are my friends;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057089994036493
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 19,
+                    "text": "Therefore ye must always pray unto the Father in my name;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053377000604434
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 32,
+                    "text": "And Jesus stood still, and called them, and said, What will ye that I shall do unto you?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047316020426706
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 2,
+                    "verse": 21,
+                    "text": "And it shall come to pass, that whosoever shall call on the name of the Lord shall be saved.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037502475318766
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 30,
+                    "text": "But verily, verily, I say unto you, that as many as receive me, to them will I give power to become the sons of God, even to them that believe on my name. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030870342062226
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 25,
+                    "text": "Having authority given me of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029410292886917
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 30,
+                    "text": "Nevertheless, ye shall not cast him out from among you, but ye shall minister unto him and shall pray for him unto the Father, in my name; and if it so be that he repenteth and is baptized in my name, then shall ye receive him, and shall minister unto him of my flesh and blood.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023871870327861
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 23,
+                    "text": "And now Father, I pray unto thee for them, and also for all those who shall believe on their words, that they may believe in me, that I may be in them as thou, Father, art in me, that we may be one.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8022773719370317
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 20,
+                    "verse": 22,
+                    "text": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021643815958528
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 4,
+                    "text": "And then began these men to call upon the name of the Lord, and the Lord blessed them;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008476296354625
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 76,
+                    "text": "And the elder or priest shall administer it; and after this manner shall he administer it--he shall kneel with the church and call upon the Father in solemn prayer, saying:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001248812918182
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 7,
+                    "text": "Therefore, whatsoever ye shall do, ye shall do it in my name; therefore ye shall call the church in my name; and ye shall call upon the Father in my name that he will bless the church for my sake.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9177786854901296
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 9,
+                    "text": "Verily I say unto you, that ye are built upon my gospel; therefore ye shall call whatsoever things ye do call, in my name; therefore if ye call upon the Father, for the church, if it be in my name the Father will hear you;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9021305231335391
                 }
             ]
         },
@@ -182,82 +652,282 @@
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 10,
                     "verse": 44,
                     "text": "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8388452427501633
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 19,
-                    "verse": 6,
-                    "text": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
-                    "score": 0.837822054534677
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 2,
+                    "verse": 1,
+                    "text": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8385432433375973
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 19,
+                    "verse": 6,
+                    "text": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.837822054534677
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 37,
+                    "text": "And the multitude heard not the words which he spake, therefore they did not bear record; but the disciples bare record that he gave them power to give the Holy Ghost. And I will show unto you hereafter that this record is true.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8211758199371061
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 17,
+                    "text": "And it came to pass that when Jesus had spoken these words unto his disciples, he turned again unto the multitude and said unto them:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8199467153133634
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 26,
+                    "verse": 17,
+                    "text": "And it came to pass that the disciples whom Jesus had chosen began from that time forth to baptize and to teach as many as did come unto them; and as many as were baptized in the name of Jesus were filled with the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8193349560237164
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 11,
                     "verse": 15,
                     "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.818478692742564
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 2,
                     "verse": 4,
                     "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8135155686157052
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 28,
+                    "verse": 1,
+                    "text": "And it came to pass when Jesus had said these words, he spake unto his disciples, one by one, saying unto them: What is it that ye desire of me, after that I am gone to the Father?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8109397925283037
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 12,
                     "verse": 1,
                     "text": "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8068170869541846
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 8,
                     "verse": 17,
                     "text": "Then laid they their hands on them, and they received the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8048398931695212
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 36,
+                    "text": "And it came to pass that when Jesus had made an end of these sayings, he touched with his hand the disciples whom he had chosen, one by one, even until he had touched them all, and spake unto them as he touched them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803404878081206
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 17,
                     "verse": 13,
                     "text": "Then the disciples understood that he spake unto them of John the Baptist.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8023767548058561
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "And it came to pass that on the morrow the multitude were gathered together; and he spake plainly unto them and denied the things which he had taught them, and confessed the Christ, and the power of the Holy Ghost, and the ministering of angels.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018997674862922
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 20,
                     "verse": 22,
                     "text": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016219967391611
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 2,
+                    "verse": 8,
+                    "text": "And it came to pass that he began to speak to his people from the tower; and they could not all hear his words because of the greatness of the multitude; therefore he caused that the words which he spake should be written and sent forth among those that were not under the sound of his voice, that they might also receive his words.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015401384796068
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 5,
                     "verse": 31,
                     "text": "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8015361620297083
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 10,
+                    "verse": 44,
+                    "text": "While Peter yet spake these words, the Holy Ghost fell on all them which heard the word.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.927407096226937
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 37,
+                    "text": "And the multitude heard not the words which he spake, therefore they did not bear record; but the disciples bare record that he gave them power to give the Holy Ghost. And I will show unto you hereafter that this record is true.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9213982633109786
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 19,
+                    "verse": 6,
+                    "text": "And when Paul had laid his hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9108568164279656
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 8,
+                    "verse": 17,
+                    "text": "Then laid they their hands on them, and they received the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9087636416413587
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9069402217865055
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 20,
+                    "verse": 22,
+                    "text": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9067607355286023
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 2,
+                    "verse": 1,
+                    "text": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041170306415033
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 4,
                     "verse": 31,
                     "text": "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.",
-                    "score": 0.7979794715527091
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018261794629588
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 11,
+                    "verse": 12,
+                    "text": "And it came to pass that when Jesus had spoken these words the whole multitude fell to the earth; for they remembered that it had been prophesied among them that Christ should show himself unto them after his ascension into heaven.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9017249228626397
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 26,
+                    "verse": 17,
+                    "text": "And it came to pass that the disciples whom Jesus had chosen began from that time forth to baptize and to teach as many as did come unto them; and as many as were baptized in the name of Jesus were filled with the Holy Ghost.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9013244064635648
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "And it came to pass that on the morrow the multitude were gathered together; and he spake plainly unto them and denied the things which he had taught them, and confessed the Christ, and the power of the Holy Ghost, and the ministering of angels.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9010942342506078
                 }
             ]
         }

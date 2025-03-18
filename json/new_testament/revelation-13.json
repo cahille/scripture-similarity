@@ -6,432 +6,89 @@
         {
             "verse": 1,
             "text": "And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 7,
-                    "text": "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.",
-                    "score": 0.7833866367662704
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
-                    "verse": 3,
-                    "text": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.",
-                    "score": 0.7771350890799514
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
-                    "verse": 6,
-                    "text": "And he came to the ram that had two horns, which I had seen standing before the river, and ran unto him in the fury of his power.",
-                    "score": 0.7722366522764366
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 51,
-                    "verse": 15,
-                    "text": "But I am the Lord thy God, that divided the sea, whose waves roared: The Lord of hosts is his name.",
-                    "score": 0.771104362932422
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 22,
-                    "verse": 17,
-                    "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;",
-                    "score": 0.7692438912207378
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 3,
-                    "text": "And four great beasts came up from the sea, diverse one from another.",
-                    "score": 0.7650583882106271
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 21,
-                    "text": "And I, God, created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind; and I, God, saw that all things which I had created were good.",
-                    "score": 0.764756066082825
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 2,
-                    "verse": 24,
-                    "text": "For behold, ye shall be as a whale in the midst of the sea; for the mountain waves shall dash upon you. Nevertheless, I will bring you up again out of the depths of the sea; for the winds have gone forth out of my mouth, and also the rains and the floods have I sent forth.",
-                    "score": 0.7619317932213875
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 1,
-                    "text": "And it came to pass that the angel said unto me: Look, and behold thy seed, and also the seed of thy brethren. And I looked and beheld the land of promise; and I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.",
-                    "score": 0.7617716243508297
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 107,
-                    "verse": 25,
-                    "text": "For he commandeth, and raiseth the stormy wind, which lifteth up the waves thereof.",
-                    "score": 0.7616115939338721
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 2,
             "text": "And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.",
-                    "score": 0.79001415155336
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
                     "verse": 4,
-                    "text": "The first was like a lion, and had eagle's wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.",
-                    "score": 0.7890629306045623
+                    "text": "And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181495179818832
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 7,
+                    "text": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8154488102632333
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 7,
                     "verse": 6,
                     "text": "After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.",
-                    "score": 0.7837227224828356
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9248018399235445
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 27,
-                    "verse": 5,
-                    "text": "I have made the earth, the man and the beast that are upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me.",
-                    "score": 0.7750374480149047
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 3,
-                    "verse": 10,
-                    "text": "He was unto me as a bear lying in wait, and as a lion in secret places.",
-                    "score": 0.7732293036126726
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 30,
-                    "verse": 30,
-                    "text": "A lion which is strongest among beasts, and turneth not away for any;",
-                    "score": 0.7715600378012334
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 13,
+                    "verse": 11,
+                    "text": "And I beheld another beast coming up out of the earth; and he had two horns like a lamb, and he spake as a dragon.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9172989475075838
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
                     "verse": 7,
-                    "text": "Therefore I will be unto them as a lion: as a leopard by the way will I observe them:",
-                    "score": 0.7661784273979927
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 91,
-                    "verse": 13,
-                    "text": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.",
-                    "score": 0.7655558912177214
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 10,
-                    "verse": 16,
-                    "text": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
-                    "score": 0.7651064430083042
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 49,
-                    "verse": 9,
-                    "text": "Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?",
-                    "score": 0.7632100133898372
+                    "text": "And the first beast was like a lion, and the second beast like a calf, and the third beast had a face as a man, and the fourth beast was like a flying eagle.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9034327383717867
                 }
             ]
         },
         {
             "verse": 3,
             "text": "And I saw one of his heads as it were wounded to death; and his deadly wound was healed: and all the world wondered after the beast.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 21,
-                    "text": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death.",
-                    "score": 0.7352427155129782
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 53,
-                    "verse": 5,
-                    "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
-                    "score": 0.7261008709451463
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 14,
-                    "verse": 5,
-                    "text": "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.",
-                    "score": 0.7261008709451463
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 13,
-                    "verse": 18,
-                    "text": "The flesh also, in which, even in the skin thereof, was a boil, and is healed,",
-                    "score": 0.7232215054094667
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 147,
-                    "verse": 3,
-                    "text": "He healeth the broken in heart, and bindeth up their wounds.",
-                    "score": 0.722849487596165
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 9,
-                    "verse": 8,
-                    "text": "And he bowed himself, and said, What is thy servant, that thou shouldest look upon such a dead dog as I am?",
-                    "score": 0.7203246892188437
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 13,
-                    "verse": 6,
-                    "text": "And one shall say unto him, What are these wounds in thine hands? Then he shall answer, Those with which I was wounded in the house of my friends.",
-                    "score": 0.719589933227723
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 6,
-                    "text": "After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.",
-                    "score": 0.7164753917675246
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 33,
-                    "text": "And I, Nephi, saw that he was lifted up upon the cross and slain for the sins of the world.",
-                    "score": 0.7161492240707646
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 19,
-                    "text": "Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;",
-                    "score": 0.7156254209265119
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 4,
             "text": "And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 18,
-                    "text": "And he that killeth a beast shall make it good; beast for beast.",
-                    "score": 0.7760117130084395
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.",
-                    "score": 0.7671491415852395
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
-                    "score": 0.7636817805759161
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
-                    "score": 0.7611231491162633
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 5,
-                    "verse": 21,
-                    "text": "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appointeth over it whomsoever he will.",
-                    "score": 0.7594250801217886
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 14,
-                    "text": "And when they had sworn by all that had been forbidden them by our Lord and Savior Jesus Christ, that they would go up unto their enemies to battle, and avenge themselves of the blood of their brethren, behold the voice of the Lord came unto me, saying:",
-                    "score": 0.7580094675217226
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 41,
-                    "text": "And he did straiten them in the wilderness with his rod; for they hardened their hearts, even as ye have; and the Lord straitened them because of their iniquity. He sent fiery flying serpents among them; and after they were bitten he prepared a way that they might be healed; and the labor which they had to perform was to look; and because of the simpleness of the way, or the easiness of it, there were many who perished.",
-                    "score": 0.7579448763301254
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 6,
-                    "verse": 16,
-                    "text": "Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.",
-                    "score": 0.7548069177570733
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 43,
-                    "verse": 20,
-                    "text": "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.",
-                    "score": 0.7531038445841319
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 25,
-                    "text": "And the Gods organized the earth to bring forth the beasts after their kind, and cattle after their kind, and every thing that creepeth upon the earth after its kind; and the Gods saw they would obey.",
-                    "score": 0.7527705803264626
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 2,
+                    "text": "And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181495179818832
                 }
             ]
         },
         {
             "verse": 5,
             "text": "And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 6,
-                    "text": "And he spake with power and authority from God; and he continued his words, saying:",
-                    "score": 0.7809557607844694
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 26,
-                    "verse": 14,
-                    "text": "And it came to pass that he did teach and minister unto the children of the multitude of whom hath been spoken, and he did loose their tongues, and they did speak unto their fathers great and marvelous things, even greater than he had revealed unto the people; and he loosed their tongues that they could utter.",
-                    "score": 0.7750544308691768
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 19,
-                    "verse": 8,
-                    "text": "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.",
-                    "score": 0.77094251719734
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 46,
-                    "verse": 24,
-                    "text": "And again, it is given to some to speak with tongues;",
-                    "score": 0.7645328920185738
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "And it came to pass at the end of forty days and forty nights, that the Lord gave me the two tables of stone, even the tables of the covenant.",
-                    "score": 0.7623410753802364
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 8,
-                    "text": "And it came to pass that he began to speak to his people from the tower; and they could not all hear his words because of the greatness of the multitude; therefore he caused that the words which he spake should be written and sent forth among those that were not under the sound of his voice, that they might also receive his words.",
-                    "score": 0.7601619506872864
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 25,
-                    "text": "And it came to pass that he begat Com, and Com reigned in his stead; and he reigned forty and nine years, and he begat Heth; and he also begat other sons and daughters.",
-                    "score": 0.7590178462192001
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 2,
-                    "verse": 12,
-                    "text": "And more of this Gadianton shall be spoken hereafter. And thus ended the forty and second year of the reign of the judges over the people of Nephi.",
-                    "score": 0.7580769906095278
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 17,
-                    "verse": 16,
-                    "text": "And the Philistine drew near morning and evening, and presented himself forty days.",
-                    "score": 0.7576382136740938
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "O the greatness and the justice of our God! For he executeth all his words, and they have gone forth out of his mouth, and his law must be fulfilled.",
-                    "score": 0.7565218428348037
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 6,
@@ -440,82 +97,12 @@
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 11,
                     "verse": 5,
                     "text": "But oh that God would speak, and open his lips against thee;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8050947612599194
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 13,
-                    "verse": 3,
-                    "text": "He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.",
-                    "score": 0.7948698252331016
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 29,
-                    "verse": 20,
-                    "text": "The Lord will not spare him, but then the anger of the Lord and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the Lord shall blot out his name from under heaven.",
-                    "score": 0.7861184177271948
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "And he laid it upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.",
-                    "score": 0.7838688872397283
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 30,
-                    "verse": 27,
-                    "text": "Behold, the name of the Lord cometh from far, burning with his anger, and the burden thereof is heavy: his lips are full of indignation, and his tongue as a devouring fire:",
-                    "score": 0.7831215202172592
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 16,
-                    "verse": 7,
-                    "text": "And he laid it upon my mouth, and said: Lo, this has touched thy lips; and thine iniquity is taken away, and thy sin purged.",
-                    "score": 0.7820238692094599
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 26,
-                    "text": "And he lifted up his voice to heaven, and cried, saying: O, how long, O Lord, wilt thou suffer that thy servants shall dwell here below in the flesh, to behold such gross wickedness among the children of men?",
-                    "score": 0.7792912401185161
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 8,
-                    "verse": 9,
-                    "text": "And he said unto me, Go in, and behold the wicked abominations that they do here.",
-                    "score": 0.7714660164632843
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 16,
-                    "text": "And he that blasphemeth the name of the Lord, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the Lord, shall be put to death.",
-                    "score": 0.7701723501083796
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 33,
-                    "verse": 6,
-                    "text": "By the word of the Lord were the heavens made; and all the host of them by the breath of his mouth.",
-                    "score": 0.7669906091242785
                 }
             ]
         },
@@ -524,84 +111,34 @@
             "text": "And it was given unto him to make war with the saints, and to overcome them: and power was given him over all kindreds, and tongues, and nations.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 26,
+                    "text": "And he that overcometh, and keepeth my works unto the end, to him will I give power over the nations:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8052343864506482
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
                     "verse": 29,
                     "text": "Wherefore, he maketh war with the saints of God, and encompasseth them round about.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8048013851067652
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 50,
                     "verse": 35,
                     "text": "And by giving heed and doing these things which ye have received, and which ye shall hereafter receive--and the kingdom is given you of the Father, and power to overcome all things which are not ordained of him--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8000834661705315
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 3,
-                    "verse": 14,
-                    "text": "And when they had sworn by all that had been forbidden them by our Lord and Savior Jesus Christ, that they would go up unto their enemies to battle, and avenge themselves of the blood of their brethren, behold the voice of the Lord came unto me, saying:",
-                    "score": 0.7898156105957734
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 6,
-                    "text": "And they have done unto the Son of Man even as they listed; and he has taken his power on the right hand of his glory, and now reigneth in the heavens, and will reign till he descends on the earth to put all enemies under his feet, which time is nigh at hand--",
-                    "score": 0.7843134259106166
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 11,
-                    "text": "Yea, he will bring other nations unto them, and he will give unto them power, and he will take away from them the lands of their possessions, and he will cause them to be scattered and smitten.",
-                    "score": 0.781319880254347
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 5,
-                    "verse": 11,
-                    "text": "And he hath power given unto him from the Father to redeem them from their sins because of repentance; therefore he hath sent his angels to declare the tidings of the conditions of repentance, which bringeth unto the power of the Redeemer, unto the salvation of their souls.",
-                    "score": 0.7810517055243489
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was entreated of them; because they put their trust in him.",
-                    "score": 0.7796493201862837
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 10,
-                    "verse": 24,
-                    "text": "And it came to pass, when they brought out those kings unto Joshua, that Joshua called for all the men of Israel, and said unto the captains of the men of war which went with him, Come near, put your feet upon the necks of these kings. And they came near, and put their feet upon the necks of them.",
-                    "score": 0.7789937183446066
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 22,
-                    "text": "And whatsoever nation shall uphold such secret combinations, to get power and gain, until they shall spread over the nation, behold, they shall be destroyed; for the Lord will not suffer that the blood of his saints, which shall be shed by them, shall always cry unto him from the ground for vengeance upon them and yet he avenge them not.",
-                    "score": 0.7786000150730409
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 78,
-                    "verse": 61,
-                    "text": "And delivered his strength into captivity, and his glory into the enemy's hand.",
-                    "score": 0.7781815965891676
                 }
             ]
         },
@@ -612,82 +149,22 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 66,
                     "verse": 4,
                     "text": "All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.808229824794537
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
                     "verse": 39,
                     "text": "For all the rest shall be brought forth by the resurrection of the dead, through the triumph and the glory of the Lamb, who was slain, who was in the bosom of the Father before the worlds were made.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8046551387305435
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Micah",
-                    "chapter": 5,
-                    "verse": 4,
-                    "text": "And he shall stand and feed in the strength of the Lord, in the majesty of the name of the Lord his God; and they shall abide: for now shall he be great unto the ends of the earth.",
-                    "score": 0.7844510812326874
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 41,
-                    "text": "And they must come according to the words which shall be established by the mouth of the Lamb; and the words of the Lamb shall be made known in the records of thy seed, as well as in the records of the twelve apostles of the Lamb; wherefore they both shall be established in one; for there is one God and one Shepherd over all the earth.",
-                    "score": 0.7827653753881173
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 14,
-                    "verse": 17,
-                    "text": "And it shall be, that whoso will not come up of all the families of the earth unto Jerusalem to worship the King, the Lord of hosts, even upon them shall be no rain.",
-                    "score": 0.7806769913972258
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 35,
-                    "text": "For, behold, saith the Lamb: I will manifest myself unto thy seed, that they shall write many things which I shall minister unto them, which shall be plain and precious; and after thy seed shall be destroyed, and dwindle in unbelief, and also the seed of thy brethren, behold, these things shall be hid up, to come forth unto the Gentiles, by the gift and power of the Lamb.",
-                    "score": 0.7795780840746448
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 65,
-                    "verse": 25,
-                    "text": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord.",
-                    "score": 0.7775946516526295
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 22,
-                    "verse": 29,
-                    "text": "All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.",
-                    "score": 0.7748252923950671
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
-                    "score": 0.7739626698432471
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 20,
-                    "verse": 24,
-                    "text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.",
-                    "score": 0.7737713287831495
                 }
             ]
         },
@@ -696,84 +173,184 @@
             "text": "If any man have an ear, let him hear.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 23,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.978227101863569
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.978227101863569
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.874837557113192
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8680999503556199
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8300519615425073
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 34,
                     "verse": 2,
                     "text": "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8295536827867727
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 34,
                     "verse": 34,
                     "text": "Let men of understanding tell me, and let a wise man hearken unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8052954202203936
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 86,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
                     "verse": 6,
-                    "text": "Give ear, O Lord, unto my prayer; and attend to the voice of my supplications.",
-                    "score": 0.7971285228911449
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041818191528881
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 28,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041818191528881
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041818191528881
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041818191528881
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9224960803985596
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
                     "verse": 23,
-                    "text": "Give ye ear, and hear my voice; hearken, and hear my speech.",
-                    "score": 0.7955531126909918
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9224960803985596
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 130,
-                    "verse": 2,
-                    "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
-                    "score": 0.7911772038106103
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 23,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.985596090125932
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Joel",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?",
-                    "score": 0.7892381827930126
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "If any man have ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9855423854776408
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 54,
-                    "verse": 2,
-                    "text": "Hear my prayer, O God; give ear to the words of my mouth.",
-                    "score": 0.786728251117619
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 15,
+                    "text": "He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9390535525493289
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 49,
-                    "verse": 1,
-                    "text": "Hear this, all ye people; give ear, all ye inhabitants of the world:",
-                    "score": 0.7857975240638727
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "Who hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9273519705760439
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 78,
-                    "verse": 1,
-                    "text": "Give ear, O my people, to my law: incline your ears to the words of my mouth.",
-                    "score": 0.7825659765682312
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 32,
-                    "verse": 1,
-                    "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
-                    "score": 0.7796238716399969
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And he said unto them, He that hath ears to hear, let him hear.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9164298623376839
                 }
             ]
         },
@@ -784,82 +361,182 @@
                 {
                     "volume": "Old Testament",
                     "book": "Amos",
+                    "volume_book_index": 30,
                     "chapter": 9,
                     "verse": 4,
                     "text": "And though they go into captivity before their enemies, thence will I command the sword, and it shall slay them: and I will set mine eyes upon them for evil, and not for good.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8324439924604694
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mormon",
+                    "volume_book_index": 13,
                     "chapter": 8,
                     "verse": 41,
                     "text": "Behold, the sword of vengeance hangeth over you; and the time soon cometh that he avengeth the blood of the saints upon you, for he will not suffer their cries any longer.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8144864996723554
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 15,
                     "verse": 2,
                     "text": "And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the Lord; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8095432361002135
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Kings",
+                    "volume_book_index": 12,
                     "chapter": 6,
                     "verse": 22,
                     "text": "And he answered, Thou shalt not smite them: wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.807655737357213
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 11,
                     "verse": 33,
                     "text": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8076507509405035
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 27,
                     "verse": 40,
                     "text": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8057625231572969
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 34,
                     "verse": 40,
                     "text": "And now my beloved brethren, I would exhort you to have patience, and that ye bear with all manner of afflictions; that ye do not revile against those who do cast you out because of your exceeding poverty, lest ye become sinners like unto them;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8056035500768698
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 38,
                     "verse": 2,
                     "text": "Thus saith the Lord, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8055684070228223
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 19,
                     "verse": 17,
                     "text": "And it shall come to pass, that him that escapeth the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8054600928398342
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 21,
                     "verse": 9,
                     "text": "He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8046308028004314
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 14,
+                    "verse": 12,
+                    "text": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041592238968375
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 39,
+                    "verse": 18,
+                    "text": "For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020260225438538
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 49,
+                    "verse": 25,
+                    "text": "But thus saith the Lord, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020007605010274
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 25,
+                    "text": "But thus saith the Lord, even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered; for I will contend with him that contendeth with thee, and I will save thy children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020007605010274
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 14,
+                    "verse": 3,
+                    "text": "And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017547531338005
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 24,
+                    "verse": 3,
+                    "text": "And it shall come to pass in that day that the Lord shall give thee rest, from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005360042908883
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 26,
+                    "verse": 52,
+                    "text": "Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001048227682129
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 14,
+                    "verse": 12,
+                    "text": "Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9013654228769789
                 }
             ]
         },
@@ -870,82 +547,42 @@
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 7,
                     "verse": 5,
                     "text": "And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8045806219972474
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
-                    "verse": 6,
-                    "text": "And he came to the ram that had two horns, which I had seen standing before the river, and ran unto him in the fury of his power.",
-                    "score": 0.7959014028748528
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 2,
+                    "text": "And the beast which I saw was like unto a leopard, and his feet were as the feet of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9172989475075838
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
-                    "verse": 5,
-                    "text": "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.",
-                    "score": 0.7882069770801414
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 7,
-                    "text": "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.",
-                    "score": 0.7759640825333952
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 11,
-                    "text": "I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.",
-                    "score": 0.7663640650578284
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 12,
                     "verse": 3,
-                    "text": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.",
-                    "score": 0.7640066083788085
+                    "text": "And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9152614231807032
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 7,
                     "verse": 6,
                     "text": "After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.",
-                    "score": 0.7633939693208873
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 20,
-                    "text": "And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spake very great things, whose look was more stout than his fellows.",
-                    "score": 0.7579340206931405
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
-                    "score": 0.7561970422294967
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 4,
-                    "verse": 33,
-                    "text": "And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.",
-                    "score": 0.7525454165323786
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002762674626922
                 }
             ]
         },
@@ -954,84 +591,34 @@
             "text": "And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 21,
-                    "text": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death.",
-                    "score": 0.7825109482140709
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 16,
+                    "verse": 2,
+                    "text": "And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and upon them which worshipped his image.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140285760676483
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
-                    "score": 0.7800986758295827
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 14,
+                    "text": "And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024717540853998
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 18,
-                    "text": "And he that killeth a beast shall make it good; beast for beast.",
-                    "score": 0.7773141801460782
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
-                    "score": 0.7718741031799798
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 27,
-                    "verse": 5,
-                    "text": "I have made the earth, the man and the beast that are upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me.",
-                    "score": 0.7693049419058396
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 24,
-                    "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
-                    "score": 0.7682486259775637
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "And I, God, made the beasts of the earth after their kind, and cattle after their kind, and everything which creepeth upon the earth after his kind; and I, God, saw that all these things were good.",
-                    "score": 0.7631324256303571
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 25,
-                    "text": "And the Gods organized the earth to bring forth the beasts after their kind, and cattle after their kind, and every thing that creepeth upon the earth after its kind; and the Gods saw they would obey.",
-                    "score": 0.7605528172501675
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 14,
-                    "verse": 6,
-                    "text": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat.",
-                    "score": 0.7575624779927586
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "Let his heart be changed from man's, and let a beast's heart be given unto him; and let seven times pass over him.",
-                    "score": 0.7574361751601951
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 14,
+                    "text": "And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9111619101570019
                 }
             ]
         },
@@ -1042,82 +629,82 @@
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 4,
                     "verse": 36,
                     "text": "Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8250008883750044
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 1,
+                    "verse": 7,
+                    "text": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8247698022863708
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Joel",
+                    "volume_book_index": 29,
                     "chapter": 2,
                     "verse": 30,
                     "text": "And I will shew wonders in the heavens and in the earth, blood, and fire, and pillars of smoke.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.815398583420764
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Peter",
+                    "volume_book_index": 22,
+                    "chapter": 3,
+                    "verse": 12,
+                    "text": "Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8127969358535
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 5,
                     "verse": 24,
                     "text": "And ye said, Behold, the Lord our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8113239447164208
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 104,
                     "verse": 4,
                     "text": "Who maketh his angels spirits; his ministers a flaming fire:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8106980346633647
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 7,
                     "verse": 6,
                     "text": "Yea, he has undertaken a greater work; therefore I will make him as flaming fire and a ministering angel; he shall minister for those who shall be heirs of salvation who dwell on the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.805798679821357
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 5,
-                    "verse": 45,
-                    "text": "And behold, the Holy Spirit of God did come down from heaven, and did enter into their hearts, and they were filled as if with fire, and they could speak forth marvelous words.",
-                    "score": 0.7980016698276838
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nahum",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.",
-                    "score": 0.7957408864492584
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 46,
-                    "verse": 8,
-                    "text": "Come, behold the works of the Lord, what desolations he hath made in the earth.",
-                    "score": 0.794377641631642
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 51,
-                    "verse": 16,
-                    "text": "When he uttereth his voice, there is a multitude of waters in the heavens; and he causeth the vapours to ascend from the ends of the earth: he maketh lightnings with rain, and bringeth forth the wind out of his treasures.",
-                    "score": 0.7943728820441741
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 10,
-                    "verse": 13,
-                    "text": "When he uttereth his voice, there is a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.",
-                    "score": 0.7943728820441741
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 2,
+                    "verse": 19,
+                    "text": "And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004015257602625
                 }
             ]
         },
@@ -1126,84 +713,44 @@
             "text": "And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 12,
-                    "verse": 16,
-                    "text": "With him is strength and wisdom: the deceived and the deceiver are his.",
-                    "score": 0.7741306462448236
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 19,
+                    "verse": 20,
+                    "text": "And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.832178704368392
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
-                    "score": 0.7716560355510459
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 12,
+                    "text": "And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024717540853998
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 24,
-                    "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
-                    "score": 0.764894806163739
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 12,
+                    "text": "And he exerciseth all the power of the first beast before him, and causeth the earth and them which dwell therein to worship the first beast, whose deadly wound was healed.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9111619101570019
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 21,
-                    "text": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death.",
-                    "score": 0.7646932812303421
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 41,
-                    "text": "And he did straiten them in the wilderness with his rod; for they hardened their hearts, even as ye have; and the Lord straitened them because of their iniquity. He sent fiery flying serpents among them; and after they were bitten he prepared a way that they might be healed; and the labor which they had to perform was to look; and because of the simpleness of the way, or the easiness of it, there were many who perished.",
-                    "score": 0.7645755352194419
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 53,
-                    "text": "But behold, the devil hath deceived me; for he appeared unto me in the form of an angel, and said unto me: Go and reclaim this people, for they have all gone astray after an unknown God. And he said unto me: There is no God; yea, and he taught me that which I should say. And I have taught his words; and I taught them because they were pleasing unto the carnal mind; and I taught them, even until I had much success, insomuch that I verily believed that they were true; and for this cause I withstood the truth, even until I have brought this great curse upon me.",
-                    "score": 0.7629731854675869
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 4,
-                    "text": "For should the mighty miracles be wrought among other nations they would repent, and know that he be their God.",
-                    "score": 0.7599576137772993
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 48,
-                    "verse": 10,
-                    "text": "Cursed be he that doeth the work of the Lord deceitfully, and cursed be he that keepeth back his sword from blood.",
-                    "score": 0.7580937081634561
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 21,
-                    "verse": 8,
-                    "text": "And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.",
-                    "score": 0.7545517546945545
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Obadiah",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?",
-                    "score": 0.754177729954407
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 15,
+                    "text": "And he had power to give life unto the image of the beast, that the image of the beast should both speak, and cause that as many as would not worship the image of the beast should be killed.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9039143266626807
                 }
             ]
         },
@@ -1214,342 +761,39 @@
                 {
                     "volume": "Old Testament",
                     "book": "Leviticus",
+                    "volume_book_index": 3,
                     "chapter": 24,
                     "verse": 21,
                     "text": "And he that killeth a beast, he shall restore it: and he that killeth a man, he shall be put to death.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8093694285840892
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 18,
-                    "text": "And he that killeth a beast shall make it good; beast for beast.",
-                    "score": 0.7922586500330107
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 27,
-                    "verse": 11,
-                    "text": "And if it be any unclean beast, of which they do not offer a sacrifice unto the Lord, then he shall present the beast before the priest:",
-                    "score": 0.78617526712675
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 27,
-                    "verse": 9,
-                    "text": "And if it be a beast, whereof men bring an offering unto the Lord, all that any man giveth of such unto the Lord shall be holy.",
-                    "score": 0.7819880770187345
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 12,
-                    "verse": 10,
-                    "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.",
-                    "score": 0.7806242233457545
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 20,
-                    "verse": 15,
-                    "text": "And if a man lie with a beast, he shall surely be put to death: and ye shall slay the beast.",
-                    "score": 0.7785916450949889
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 7,
-                    "verse": 25,
-                    "text": "For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the Lord, even the soul that eateth it shall be cut off from his people.",
-                    "score": 0.776975113647924
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "Let his heart be changed from man's, and let a beast's heart be given unto him; and let seven times pass over him.",
-                    "score": 0.7721229521064532
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 31,
-                    "verse": 26,
-                    "text": "Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:",
-                    "score": 0.765995158582637
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 66,
-                    "verse": 3,
-                    "text": "He that killeth an ox is as if he slew a man; he that sacrificeth a lamb, as if he cut off a dog's neck; he that offereth an oblation, as if he offered swine's blood; he that burneth incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations.",
-                    "score": 0.7638819201830863
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 14,
+                    "text": "And deceiveth them that dwell on the earth by the means of those miracles which he had power to do in the sight of the beast; saying to them that dwell on the earth, that they should make an image to the beast, which had the wound by a sword, and did live.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9039143266626807
                 }
             ]
         },
         {
             "verse": 16,
             "text": "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "4 Nephi",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "And they had all things common among them; therefore there were not rich and poor, bond and free, but they were all made free, and partakers of the heavenly gift.",
-                    "score": 0.7577678647257806
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 6,
-                    "verse": 8,
-                    "text": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.",
-                    "score": 0.7561316846128011
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 29,
-                    "verse": 12,
-                    "text": "Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all.",
-                    "score": 0.7529993169929836
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 10,
-                    "verse": 4,
-                    "text": "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich.",
-                    "score": 0.7481871567629326
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 34,
-                    "verse": 28,
-                    "text": "So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.",
-                    "score": 0.7462633201139939
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 115,
-                    "verse": 13,
-                    "text": "He will bless them that fear the Lord, both small and great.",
-                    "score": 0.7454181342059225
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 26,
-                    "verse": 13,
-                    "text": "And that he manifesteth himself unto all those who believe in him, by the power of the Holy Ghost; yea, unto every nation, kindred, tongue, and people, working mighty miracles, signs, and wonders, among the children of men according to their faith.",
-                    "score": 0.7434125566464362
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 22,
-                    "verse": 16,
-                    "text": "He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.",
-                    "score": 0.7422249060698333
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 36,
-                    "verse": 15,
-                    "text": "He delivereth the poor in his affliction, and openeth their ears in oppression.",
-                    "score": 0.7401919344701711
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 33,
-                    "verse": 3,
-                    "text": "Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.",
-                    "score": 0.739331461939877
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 17,
             "text": "And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 38,
-                    "text": "For no man can be saved, according to the words of Christ, save they shall have faith in his name; wherefore, if these things have ceased, then has faith ceased also; and awful is the state of man, for they are as though there had been no redemption made.",
-                    "score": 0.7470682629413053
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 27,
-                    "verse": 10,
-                    "text": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy.",
-                    "score": 0.7465750972107023
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 15,
-                    "verse": 5,
-                    "text": "He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.",
-                    "score": 0.7399243165508866
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 64,
-                    "verse": 7,
-                    "text": "And there is none that calleth upon thy name, that stirreth up himself to take hold of thee: for thou hast hid thy face from us, and hast consumed us, because of our iniquities.",
-                    "score": 0.7369136551506699
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 20,
-                    "verse": 21,
-                    "text": "There shall none of his meat be left; therefore shall no man look for his goods.",
-                    "score": 0.7361571180950883
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 27,
-                    "verse": 20,
-                    "text": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more.",
-                    "score": 0.7328516478409818
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 7,
-                    "verse": 13,
-                    "text": "For the seller shall not return to that which is sold, although they were yet alive: for the vision is touching the whole multitude thereof, which shall not return; neither shall any strengthen himself in the iniquity of his life.",
-                    "score": 0.7306775687992575
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 12,
-                    "verse": 22,
-                    "text": "And wo unto him to whom he shall say this, for it shall be unto him that will do iniquity, and he cannot be saved; therefore, for this cause, that men might be saved, hath repentance been declared.",
-                    "score": 0.7282380422972766
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 7,
-                    "verse": 24,
-                    "text": "And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it.",
-                    "score": 0.7275610173064412
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 4,
-                    "verse": 8,
-                    "text": "And this is the means whereby salvation cometh. And there is none other salvation save this which hath been spoken of; neither are there any conditions whereby man can be saved except the conditions which I have told you.",
-                    "score": 0.7262240002921063
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 18,
             "text": "Here is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 2,
-                    "verse": 4,
-                    "text": "And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred.",
-                    "score": 0.7745273243685015
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 31,
-                    "verse": 26,
-                    "text": "Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:",
-                    "score": 0.7678787608786652
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "Let his heart be changed from man's, and let a beast's heart be given unto him; and let seven times pass over him.",
-                    "score": 0.7624639294866541
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 24,
-                    "verse": 18,
-                    "text": "And he that killeth a beast shall make it good; beast for beast.",
-                    "score": 0.7603515603533295
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 71,
-                    "verse": 5,
-                    "text": "Now, behold this is wisdom; whoso readeth, let him understand and receive also;",
-                    "score": 0.7565181128775137
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 1,
-                    "verse": 27,
-                    "text": "Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred.",
-                    "score": 0.7560565931214154
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
-                    "score": 0.754731157780852
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 27,
-                    "verse": 9,
-                    "text": "And if it be a beast, whereof men bring an offering unto the Lord, all that any man giveth of such unto the Lord shall be holy.",
-                    "score": 0.7535777698140083
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 34,
-                    "verse": 34,
-                    "text": "Let men of understanding tell me, and let a wise man hearken unto me.",
-                    "score": 0.7533649597850698
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "And his host, and those that were numbered thereof, were forty and six thousand and five hundred.",
-                    "score": 0.7528074778360587
-                }
-            ]
+            "similars": []
         }
     ]
 }

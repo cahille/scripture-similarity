@@ -8,84 +8,94 @@
             "text": "And the men of Kirjath-jearim came, and fetched up the ark of the Lord, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the Lord.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "Wherefore, he came to the hill Ephraim, and he did molten out of the hill, and made swords out of steel for those whom he had drawn away with him; and after he had armed them with swords he returned to the city Nehor, and gave battle unto his brother Corihor, by which means he obtained the kingdom and restored it unto his father Kib.",
-                    "score": 0.7387237825513181
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 6,
+                    "verse": 21,
+                    "text": "And they sent messengers to the inhabitants of Kirjath-jearim, saying, The Philistines have brought again the ark of the Lord; come ye down, and fetch it up to you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8241780470808179
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 15,
-                    "text": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother's son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
-                    "score": 0.7344779370901778
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 15,
-                    "verse": 18,
-                    "text": "Now as I said, Alma having seen all these things, therefore he took Amulek and came over to the land of Zarahemla, and took him to his own house, and did administer unto him in his tribulations, and strengthened him in the Lord.",
-                    "score": 0.7324830203664565
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 13,
                     "verse": 6,
-                    "text": "But I, Abraham, and Lot, my brother's son, prayed unto the Lord, and the Lord appeared unto me, and said unto me: Arise, and take Lot with thee; for I have purposed to take thee away out of Haran, and to make of thee a minister to bear my name in a strange land which I will give unto thy seed after thee for an everlasting possession, when they hearken to my voice.",
-                    "score": 0.7313730353863177
+                    "text": "And David went up, and all Israel, to Baalah, that is, to Kirjath-jearim, which belonged to Judah, to bring up thence the ark of God the Lord, that dwelleth between the cherubims, whose name is called on it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.815313173671488
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 15,
+                    "verse": 14,
+                    "text": "So the priests and the Levites sanctified themselves to bring up the ark of the Lord God of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9069987646342861
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 6,
+                    "verse": 3,
+                    "text": "And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905013810990601
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 13,
+                    "verse": 6,
+                    "text": "And David went up, and all Israel, to Baalah, that is, to Kirjath-jearim, which belonged to Judah, to bring up thence the ark of God the Lord, that dwelleth between the cherubims, whose name is called on it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024454028143113
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 6,
+                    "verse": 21,
+                    "text": "And they sent messengers to the inhabitants of Kirjath-jearim, saying, The Philistines have brought again the ark of the Lord; come ye down, and fetch it up to you.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022083107605681
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 8,
-                    "verse": 13,
-                    "text": "And Noah and his sons hearkened unto the Lord, and gave heed, and they were called the sons of God.",
-                    "score": 0.7303481399112064
+                    "verse": 3,
+                    "text": "And all the elders of Israel came, and the priests took up the ark.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9018560110416421
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 9,
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 6,
                     "verse": 4,
-                    "text": "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;",
-                    "score": 0.7298480917571477
+                    "text": "And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9008161634936515
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 12,
-                    "text": "Wherefore, he will bring them again out of captivity, and they shall be gathered together to the lands of their inheritance; and they shall be brought out of obscurity and out of darkness; and they shall know that the Lord is their Savior and their Redeemer, the Mighty One of Israel.",
-                    "score": 0.7292947157701383
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 3,
-                    "verse": 13,
-                    "text": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.",
-                    "score": 0.7250461731773948
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 31,
-                    "text": "Therefore, as I said concerning the sons of Moses--for the sons of Moses and also the sons of Aaron shall offer an acceptable offering and sacrifice in the house of the Lord, which house shall be built unto the Lord in this generation, upon the consecrated spot as I have appointed--",
-                    "score": 0.7235317567402647
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 4,
-                    "verse": 5,
-                    "text": "Behold, they believed in Christ and worshiped the Father in his name, and also we worship the Father in his name. And for this intent we keep the law of Moses, it pointing our souls to him; and for this cause it is sanctified unto us for righteousness, even as it was accounted unto Abraham in the wilderness to be obedient unto the commands of God in offering up his son Isaac, which is a similitude of God and his Only Begotten Son.",
-                    "score": 0.7231994831412812
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 15,
+                    "verse": 29,
+                    "text": "Zadok therefore and Abiathar carried the ark of God again to Jerusalem: and they tarried there.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9001545310020447
                 }
             ]
         },
@@ -94,84 +104,34 @@
             "text": "And it came to pass, while the ark abode in Kirjath-jearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the Lord.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 7,
-                    "text": "And it meaneth that the time cometh that after all the house of Israel have been scattered and confounded, that the Lord God will raise up a mighty nation among the Gentiles, yea, even upon the face of this land; and by them shall our seed be scattered.",
-                    "score": 0.7522581760227658
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "And it came to pass at the end of twenty years, wherein Solomon had built the house of the Lord, and his own house,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8245851640054365
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 5,
-                    "verse": 29,
-                    "text": "And it came to pass that a long time had passed away, and the Lord of the vineyard said unto his servant: Come, let us go down into the vineyard, that we may labor again in the vineyard. For behold, the time draweth near, and the end soon cometh; wherefore, I must lay up fruit against the season, unto mine own self.",
-                    "score": 0.7509608437427319
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 5,
-                    "verse": 15,
-                    "text": "And it came to pass that a long time passed away, and the Lord of the vineyard said unto his servant: Come, let us go down into the vineyard, that we may labor in the vineyard.",
-                    "score": 0.7503019742675721
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 22,
-                    "text": "For behold, the Lord God has led away from time to time from the house of Israel, according to his will and pleasure. And now behold, the Lord remembereth all them who have been broken off, wherefore he remembereth us also.",
-                    "score": 0.7473191717601742
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 21,
-                    "text": "And it came to pass that the Lord showed unto Enoch all the inhabitants of the earth; and he beheld, and lo, Zion, in process of time, was taken up into heaven. And the Lord said unto Enoch: Behold mine abode forever.",
-                    "score": 0.7439615881518016
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 10,
-                    "verse": 30,
-                    "text": "And it came to pass that Hearthom reigned in the stead of his father. And when Hearthom had reigned twenty and four years, behold, the kingdom was taken away from him. And he served many years in captivity, yea, even all the remainder of his days.",
-                    "score": 0.7431189031023453
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Enos",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "And it came to pass that I began to be old, and an hundred and seventy and nine years had passed away from the time that our father Lehi left Jerusalem.",
-                    "score": 0.7429994377868075
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 9,
                     "verse": 10,
-                    "text": "And it came to pass that when they had all given glory unto Jesus, he said unto them: Behold now I finish the commandment which the Father hath commanded me concerning this people, who are a remnant of the house of Israel.",
-                    "score": 0.7425442869173607
+                    "text": "And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the Lord, and the king's house,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8094812348372459
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 20,
-                    "text": "And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them, but shall stay upon the Lord, the Holy One of Israel, in truth.",
-                    "score": 0.7395214407715308
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 5,
-                    "verse": 3,
-                    "text": "For behold, thus saith the Lord, I will liken thee, O house of Israel, like unto a tame olive tree, which a man took and nourished in his vineyard; and it grew, and waxed old, and began to decay.",
-                    "score": 0.7380352143097305
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 23,
+                    "verse": 1,
+                    "text": "And it came to pass a long time after that the Lord had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082121812448748
                 }
             ]
         },
@@ -180,84 +140,244 @@
             "text": "And Samuel spake unto all the house of Israel, saying, If ye do return unto the Lord with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the Lord, and serve him only: and he will deliver you out of the hand of the Philistines.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 24,
+                    "verse": 23,
+                    "text": "Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the Lord God of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8226882857846278
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 8,
+                    "verse": 48,
+                    "text": "And so return unto thee with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto thee toward their land, which thou gavest unto their fathers, the city which thou hast chosen, and the house which I have built for thy name:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8194079816809062
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "Now then do it: for the Lord hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8179412731510959
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 17,
+                    "verse": 26,
+                    "text": "And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8168835829131789
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 20,
+                    "text": "And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the Lord, but serve the Lord with all your heart;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8144686867470686
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 3,
+                    "verse": 2,
+                    "text": "And the Lord said unto me, Fear him not: for I will deliver him, and all his people, and his land, into thy hand; and thou shalt do unto him as thou didst unto Sihon king of the Amorites, which dwelt at Heshbon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8129362173356042
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 6,
+                    "verse": 38,
+                    "text": "If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and toward the city which thou hast chosen, and toward the house which I have built for thy name:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8121569047387166
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 24,
                     "verse": 2,
                     "text": "And the people shall take them and bring them to their place; yea, from far unto the ends of the earth; and they shall return to their lands of promise. And the house of Israel shall possess them, and the land of the Lord shall be for servants and handmaids; and they shall take them captives unto whom they were captives; and they shall rule over their oppressors.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8111436520485138
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
-                    "verse": 6,
-                    "text": "Therefore, O Lord, thou hast forsaken thy people, the house of Jacob, because they be replenished from the east, and hearken unto soothsayers like the Philistines, and they please themselves in the children of strangers.",
-                    "score": 0.7983578703313361
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 66,
-                    "verse": 8,
-                    "text": "Let my servant Samuel H. Smith go with you, and forsake him not, and give him thine instructions; and he that is faithful shall be made strong in every place; and I, the Lord, will go with you.",
-                    "score": 0.792900820399497
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 3,
-                    "text": "Now the Lord had said unto me: Abraham, get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will show thee.",
-                    "score": 0.7863519165210449
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 18,
-                    "text": "Wherefore, my beloved brethren, thus saith our God: I will afflict thy seed by the hand of the Gentiles; nevertheless, I will soften the hearts of the Gentiles, that they shall be like unto a father to them; wherefore, the Gentiles shall be blessed and numbered among the house of Israel.",
-                    "score": 0.786217568325175
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 24,
-                    "text": "Wherefore I spake unto them, saying: Hear ye the words of the prophet, ye who are a remnant of the house of Israel, a branch who have been broken off; hear ye the words of the prophet, which were written unto all the house of Israel, and liken them unto yourselves, that ye may have hope as well as your brethren from whom ye have been broken off; for after this manner has the prophet written.",
-                    "score": 0.7862032295243223
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
                     "chapter": 22,
-                    "verse": 12,
-                    "text": "Wherefore, he will bring them again out of captivity, and they shall be gathered together to the lands of their inheritance; and they shall be brought out of obscurity and out of darkness; and they shall know that the Lord is their Savior and their Redeemer, the Mighty One of Israel.",
-                    "score": 0.7849714492548867
+                    "verse": 18,
+                    "text": "Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the Lord for a burnt offering;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8101605026753081
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 23,
-                    "verse": 2,
-                    "text": "For surely he spake as touching all things concerning my people which are of the house of Israel; therefore it must needs be that he must speak also to the Gentiles.",
-                    "score": 0.7839345494456409
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 1,
+                    "text": "And David spake unto the Lord the words of this song in the day that the Lord had delivered him out of the hand of all his enemies, and out of the hand of Saul:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081845273559027
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 15,
-                    "text": "But if they will not turn unto me, and hearken unto my voice, I will suffer them, yea, I will suffer my people, O house of Israel, that they shall go through among them, and shall tread them down, and they shall be as salt that hath lost its savor, which is thenceforth good for nothing but to be cast out, and to be trodden under foot of my people, O house of Israel.",
-                    "score": 0.7836817647908938
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 28,
+                    "verse": 19,
+                    "text": "Moreover the Lord will also deliver Israel with thee into the hand of the Philistines: and to morrow shalt thou and thy sons be with me: the Lord also shall deliver the host of Israel into the hand of the Philistines.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8077601390198684
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 9,
+                    "verse": 16,
+                    "text": "To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071380562415602
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "If thou wilt return, O Israel, saith the Lord, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8070280646353779
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 39,
+                    "text": "As for you, O house of Israel, thus saith the Lord God; Go ye, serve ye every one his idols, and hereafter also, if ye will not hearken unto me: but pollute ye my holy name no more with your gifts, and with your idols.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056800939297004
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
                     "chapter": 17,
-                    "verse": 17,
-                    "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
-                    "score": 0.7832857076627963
+                    "verse": 37,
+                    "text": "David said moreover, The Lord that delivered me out of the paw of the lion, and out of the paw of the bear, he will deliver me out of the hand of this Philistine. And Saul said unto David, Go, and the Lord be with thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045612203303688
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 15,
+                    "verse": 26,
+                    "text": "And Samuel said unto Saul, I will not return with thee: for thou hast rejected the word of the Lord, and the Lord hath rejected thee from being king over Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042903462899123
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 37,
+                    "verse": 7,
+                    "text": "Thus saith the Lord, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to inquire of me; Behold, Pharaoh's army, which is come forth to help you, shall return to Egypt into their own land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037537784076405
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 9,
+                    "verse": 5,
+                    "text": "And when they were come to the land of Zuph, Saul said to his servant that was with him, Come, and let us return; lest my father leave caring for the asses, and take thought for us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024669562755894
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 21,
+                    "verse": 7,
+                    "text": "And afterward, saith the Lord, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020685796475654
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 35,
+                    "verse": 15,
+                    "text": "I have sent also unto you all my servants the prophets, rising up early and sending them, saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020520155881898
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 19,
+                    "verse": 14,
+                    "text": "And he bowed the heart of all the men of Judah, even as the heart of one man; so that they sent this word unto the king, Return thou, and all thy servants.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015596583752734
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 29,
+                    "verse": 7,
+                    "text": "Wherefore now return, and go in peace, that thou displease not the lords of the Philistines.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013290627705589
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 24,
+                    "verse": 21,
+                    "text": "Speak unto the house of Israel, Thus saith the Lord God; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009292664155139
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 24,
+                    "verse": 23,
+                    "text": "Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the Lord God of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9123307142356353
                 }
             ]
         },
@@ -266,84 +386,94 @@
             "text": "Then the children of Israel did put away Baalim and Ashtaroth, and served the Lord only.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 37,
-                    "text": "Abraham received concubines, and they bore him children; and it was accounted unto him for righteousness, because they were given unto him, and he abode in my law; as Isaac also and Jacob did none other things than that which they were commanded; and because they did none other things than that which they were commanded, they have entered into their exaltation, according to the promises, and sit upon thrones, and are not angels but are gods.",
-                    "score": 0.7416514895869009
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 2,
-                    "text": "Nevertheless, the Lord was merciful unto Omer, and also to his sons and to his daughters who did not seek his destruction.",
-                    "score": 0.7338460635926455
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 89,
-                    "verse": 21,
-                    "text": "And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen.",
-                    "score": 0.7330420454053628
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 56,
-                    "text": "And this condemnation resteth upon the children of Zion, even all.",
-                    "score": 0.7327332188166847
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 33,
-                    "text": "And now, do ye suppose that the children of this land, who were in the land of promise, who were driven out by our fathers, do ye suppose that they were righteous? Behold, I say unto you, Nay.",
-                    "score": 0.7251270572959403
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 8,
-                    "verse": 9,
-                    "text": "Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.",
-                    "score": 0.724970912050572
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 10,
-                    "verse": 22,
-                    "text": "For behold, the Lord God has led away from time to time from the house of Israel, according to his will and pleasure. And now behold, the Lord remembereth all them who have been broken off, wherefore he remembereth us also.",
-                    "score": 0.7232240430276852
+                    "verse": 6,
+                    "text": "And the children of Israel did evil again in the sight of the Lord, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the Lord, and served not him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.832900206578584
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
                     "chapter": 5,
-                    "verse": 15,
-                    "text": "And they were also led out of captivity and out of the land of Egypt, by that same God who had preserved them.",
-                    "score": 0.7230089722789589
+                    "verse": 4,
+                    "text": "And the children of Israel did so, and put them out without the camp: as the Lord spake unto Moses, so did the children of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8100082322163362
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 23,
-                    "text": "And it came to pass that I, Nephi, spake unto them, saying: Do ye believe that our fathers, who were the children of Israel, would have been led away out of the hands of the Egyptians if they had not hearkened unto the words of the Lord?",
-                    "score": 0.7225018267473832
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "And the children of Israel did evil in the sight of the Lord, and served Baalim:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809893919572329
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 1,
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 28,
+                    "text": "And the children of Israel went away, and did as the Lord had commanded Moses and Aaron, so did they.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036785890763678
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "And the children of Israel did evil in the sight of the Lord, and served Baalim:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8126278519630432
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "And the children of Israel did evil in the sight of the Lord, and served Baalim:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9158530185135034
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
+                    "verse": 6,
+                    "text": "And the children of Israel did evil again in the sight of the Lord, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the Lord, and served not him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.908437067773169
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 2,
+                    "verse": 13,
+                    "text": "And they forsook the Lord, and served Baal and Ashtaroth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9068882354364676
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 3,
                     "verse": 7,
-                    "text": "Therefore they turned their hearts to the sacrifice of the heathen in offering up their children unto these dumb idols, and hearkened not unto my voice, but endeavored to take away my life by the hand of the priest of Elkenah. The priest of Elkenah was also the priest of Pharaoh.",
-                    "score": 0.7218270609240071
+                    "text": "And the children of Israel did evil in the sight of the Lord, and forgat the Lord their God, and served Baalim and the groves.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9057670235633914
                 }
             ]
         },
@@ -352,84 +482,104 @@
             "text": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the Lord.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 15,
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "And Samuel called the people together unto the Lord to Mizpeh;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8553190224575324
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 22,
                     "verse": 3,
-                    "text": "And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.",
-                    "score": 0.7875897191196
+                    "text": "And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8385593635153253
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "Therefore, he had Mosiah brought before him; and these are the words which he spake unto him, saying: My son, I would that ye should make a proclamation throughout all this land among all this people, or the people of Zarahemla, and the people of Mosiah who dwell in the land, that thereby they may be gathered together; for on the morrow I shall proclaim unto this my people out of mine own mouth that thou art a king and a ruler over this people, whom the Lord our God hath given us.",
-                    "score": 0.7802378577800511
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 15,
+                    "text": "And Saul's uncle said, Tell me, I pray thee, what Samuel said unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073485081325202
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 14,
-                    "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
-                    "score": 0.7801675869137162
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 19,
-                    "text": "And the Lord appeared unto me in answer to my prayers, and said unto me: Unto thy seed will I give this land.",
-                    "score": 0.7755394502262631
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 1,
-                    "text": "And verily I say unto you, I give unto you a sign, that ye may know the time when these things shall be about to take place--that I shall gather in, from their long dispersion, my people, O house of Israel, and shall establish again among them my Zion;",
-                    "score": 0.7750805722082811
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 35,
-                    "text": "Therefore, as I said unto you, ask and ye shall receive; pray earnestly that peradventure my servant Joseph Smith, Jun., may go with you, and preside in the midst of my people, and organize my kingdom upon the consecrated land, and establish the children of Zion upon the laws and commandments which have been and which shall be given unto you.",
-                    "score": 0.7702677917254094
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 24,
-                    "text": "And then shall they assist my people that they may be gathered in, who are scattered upon all the face of the land, in unto the New Jerusalem.",
-                    "score": 0.7675816592719679
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 5,
-                    "verse": 35,
-                    "text": "And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.",
-                    "score": 0.7647823192330442
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 9,
-                    "verse": 38,
-                    "text": "Pray ye therefore the Lord of the harvest, that he will send forth labourers into his harvest.",
-                    "score": 0.7642533582370663
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
                     "chapter": 3,
-                    "verse": 9,
-                    "text": "And he shall be great like unto Moses, whom I have said I would raise up unto you, to deliver my people, O house of Israel.",
-                    "score": 0.7632073763443505
+                    "verse": 2,
+                    "text": "I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055255707695043
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 22,
+                    "verse": 5,
+                    "text": "And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the Lord to day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007351590595609
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 18,
+                    "verse": 4,
+                    "text": "And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the Lord to day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007351590595609
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 4,
+                    "verse": 12,
+                    "text": "Therefore thus will I do unto thee, O Israel: and because I will do this unto thee, prepare to meet thy God, O Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005432286982624
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "And Samuel called the people together unto the Lord to Mizpeh;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9360485634832735
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 20,
+                    "verse": 1,
+                    "text": "Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beer-sheba, with the land of Gilead, unto the Lord in Mizpeh.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9025506013511434
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 8,
+                    "verse": 4,
+                    "text": "Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020652770996094
                 }
             ]
         },
@@ -438,84 +588,24 @@
             "text": "And they gathered together to Mizpeh, and drew water, and poured it out before the Lord, and fasted on that day, and said there, We have sinned against the Lord. And Samuel judged the children of Israel in Mizpeh.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 5,
-                    "text": "And the people went forth and witnessed against them--testifying that they had reviled against the law, and their lawyers and judges of the land, and also of all the people that were in the land; and also testified that there was but one God, and that he should send his Son among the people, but he should not save them; and many such things did the people testify against Alma and Amulek. Now this was done before the chief judge of the land.",
-                    "score": 0.7612600011354208
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "And Samuel called the people together unto the Lord to Mizpeh;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106894730911328
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 128,
-                    "verse": 24,
-                    "text": "Behold, the great day of the Lord is at hand; and who can abide the day of his coming, and who can stand when he appeareth? For he is like a refiner's fire, and like fuller's soap; and he shall sit as a refiner and purifier of silver, and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness. Let us, therefore, as a church and a people, and as Latter-day Saints, offer unto the Lord an offering in righteousness; and let us present in his holy temple, when it is finished, a book containing the records of our dead, which shall be worthy of all acceptation.",
-                    "score": 0.7544777738118942
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 30,
-                    "text": "And notwithstanding they being led, the Lord their God, their Redeemer, going before them, leading them by day and giving light unto them by night, and doing all things for them which were expedient for man to receive, they hardened their hearts and blinded their minds, and reviled against Moses and against the true and living God.",
-                    "score": 0.7540403487113833
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 14,
-                    "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
-                    "score": 0.7506931636917377
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 11,
-                    "text": "And he said unto the king: Behold, here are many whom we have brought before thee, who are accused of their brethren; yea, and they have been taken in divers iniquities. And they do not repent of their iniquities; therefore we have brought them before thee, that thou mayest judge them according to their crimes.",
-                    "score": 0.7454980088287564
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 12,
-                    "text": "Now, when they had come into the land, behold, to their astonishment they found that the Zoramites had built synagogues, and that they did gather themselves together on one day of the week, which day they did call the day of the Lord; and they did worship after a manner which Alma and his brethren had never beheld;",
-                    "score": 0.7434823898575172
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 34,
-                    "text": "And now behold, my brethren, ye know that these commandments were given to our father, Lehi; wherefore, ye have known them before; and ye have come unto great condemnation; for ye have done these things which ye ought not to have done.",
-                    "score": 0.743473157634608
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 14,
-                    "verse": 4,
-                    "text": "When the Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from the midst thereof by the spirit of judgment and by the spirit of burning.",
-                    "score": 0.7424585523548102
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 24,
-                    "text": "And it came to pass that the people did revile against the prophets, and did mock them. And it came to pass that king Shule did execute judgment against all those who did revile against the prophets.",
-                    "score": 0.7414985215736869
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 16,
-                    "verse": 5,
-                    "text": "Telling them of things which must shortly come, that they might know and remember at the time of their coming that they had been made known unto them beforehand, to the intent that they might believe; therefore as many as believed on the words of Samuel went forth unto him to be baptized, for they came repenting and confessing their sins.",
-                    "score": 0.7407949155351145
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "And Samuel called the people together unto the Lord to Mizpeh;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9093912839889591
                 }
             ]
         },
@@ -524,84 +614,44 @@
             "text": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 47,
-                    "verse": 2,
-                    "text": "And it came to pass that when the proclamation had gone forth among them they were exceedingly afraid; yea, they feared to displease the king, and they also feared to go to battle against the Nephites lest they should lose their lives. And it came to pass that they would not, or the more part of them would not, obey the commandments of the king.",
-                    "score": 0.7702093054760317
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 15,
-                    "text": "And it came to pass that I looked and beheld the people of my seed gathered together in multitudes against the seed of my brethren; and they were gathered together to battle.",
-                    "score": 0.7667211050701761
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 23,
-                    "text": "And behold, we will set our armies between the land Jershon and the land Nephi, that we may protect our brethren in the land Jershon; and this we do for our brethren, on account of their fear to take up arms against their brethren lest they should commit sin; and this their great fear came because of their sore repentance which they had, on account of their many murders and their awful wickedness.",
-                    "score": 0.7599613375222828
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 4,
-                    "verse": 26,
-                    "text": "The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ.",
-                    "score": 0.7568416146539477
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 17,
-                    "text": "And I beheld that their mother Gentiles were gathered together upon the waters, and upon the land also, to battle against them.",
-                    "score": 0.756452938818892
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 19,
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 17,
                     "verse": 11,
-                    "text": "Therefore the Lord shall set up the adversaries of Rezin against him, and join his enemies together;",
-                    "score": 0.7557283850337894
+                    "text": "When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8275040263814918
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 24,
-                    "verse": 5,
-                    "text": "Now when Ammon and his brethren and all those who had come up with him saw the preparations of the Lamanites to destroy their brethren, they came forth to the land of Midian, and there Ammon met all his brethren; and from thence they came to the land of Ishmael that they might hold a council with Lamoni and also with his brother Anti-Nephi-Lehi, what they should do to defend themselves against the Lamanites.",
-                    "score": 0.7540460310501688
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 20,
+                    "verse": 3,
+                    "text": "(Now the children of Benjamin heard that the children of Israel were gone up to Mizpeh.) Then said the children of Israel, Tell us, how was this wickedness?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8069763386088442
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 28,
-                    "text": "And now it came to pass that when Moroni had said these words he went forth, and also sent forth in all the parts of the land where there were dissensions, and gathered together all the people who were desirous to maintain their liberty, to stand against Amalickiah and those who had dissented, who were called Amalickiahites.",
-                    "score": 0.7532245384483096
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 22,
+                    "verse": 12,
+                    "text": "And when the children of Israel heard of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up to war against them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.910856625829554
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 1,
-                    "text": "And it came to pass that as many as would not hearken to the words of Helaman and his brethren were gathered together against their brethren.",
-                    "score": 0.7527331460643455
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 5,
-                    "text": "And the people went forth and witnessed against them--testifying that they had reviled against the law, and their lawyers and judges of the land, and also of all the people that were in the land; and also testified that there was but one God, and that he should send his Son among the people, but he should not save them; and many such things did the people testify against Alma and Amulek. Now this was done before the chief judge of the land.",
-                    "score": 0.7490446739523342
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpeh.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022487939745254
                 }
             ]
         },
@@ -610,84 +660,14 @@
             "text": "And the children of Israel said to Samuel, Cease not to cry unto the Lord our God for us, that he will save us out of the hand of the Philistines.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 39,
-                    "verse": 12,
-                    "text": "And now the Spirit of the Lord doth say unto me: Command thy children to do good, lest they lead away the hearts of many people to destruction; therefore I command you, my son, in the fear of God, that ye refrain from your iniquities;",
-                    "score": 0.7824558597075839
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 23,
-                    "text": "But it is by the prayers of the righteous that ye are spared; now therefore, if ye will cast out the righteous from among you then will not the Lord stay his hand; but in his fierce anger he will come out against you; then ye shall be smitten by famine, and by pestilence, and by the sword; and the time is soon at hand except ye repent.",
-                    "score": 0.7795166030749135
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "For the Lord would not suffer, after he had led them out of the land of Jerusalem and kept and preserved them from falling into the hands of their enemies, yea, he would not suffer that the words should not be verified, which he spake unto our fathers, saying that: Inasmuch as ye will not keep my commandments ye shall not prosper in the land.",
-                    "score": 0.7787612992210787
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 50,
-                    "verse": 20,
-                    "text": "Blessed art thou and thy children; and they shall be blessed, inasmuch as they shall keep my commandments they shall prosper in the land. But remember, inasmuch as they will not keep my commandments they shall be cut off from the presence of the Lord.",
-                    "score": 0.7723407343436125
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 89,
-                    "verse": 21,
-                    "text": "And I, the Lord, give unto them a promise, that the destroying angel shall pass by them, as the children of Israel, and not slay them. Amen.",
-                    "score": 0.7697655711281385
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 20,
-                    "text": "For it shall come to pass, saith the Father, that at that day whosoever will not repent and come unto my Beloved Son, them will I cut off from among my people, O house of Israel;",
-                    "score": 0.7684566306345159
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 53,
-                    "text": "And behold how great the covenants of the Lord, and how great his condescensions unto the children of men; and because of his greatness, and his grace and mercy, he has promised unto us that our seed shall not utterly be destroyed, according to the flesh, but that he would preserve them; and in future generations they shall become a righteous branch unto the house of Israel.",
-                    "score": 0.7650483953892244
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 29,
-                    "verse": 8,
-                    "text": "Yea, and ye need not any longer hiss, nor spurn, nor make game of the Jews, nor any of the remnant of the house of Israel; for behold, the Lord remembereth his covenant unto them, and he will do unto them according to that which he hath sworn.",
-                    "score": 0.7616387375424458
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 11,
-                    "verse": 26,
-                    "text": "And so all Israel shall be saved: as it is written, There shall come out of Sion the Deliverer, and shall turn away ungodliness from Jacob:",
-                    "score": 0.7614979756553665
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 8,
-                    "verse": 21,
-                    "text": "And he that shall breathe out wrath and strifes against the work of the Lord, and against the covenant people of the Lord who are the house of Israel, and shall say: We will destroy the work of the Lord, and the Lord will not remember his covenant which he hath made unto the house of Israel--the same is in danger to be hewn down and cast into the fire;",
-                    "score": 0.7606917192031639
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "Now then do it: for the Lord hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083147689973366
                 }
             ]
         },
@@ -696,84 +676,284 @@
             "text": "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the Lord: and Samuel cried unto the Lord for Israel; and the Lord heard him.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 34,
-                    "text": "And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel--and this remnant of whom I speak is the seed of thy father--wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb--I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.",
-                    "score": 0.7830254243435464
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 8,
+                    "text": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8272141116219291
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "And it came to pass that they did rejoice exceedingly, and did offer sacrifice and burnt offerings unto the Lord; and they gave thanks unto the God of Israel.",
-                    "score": 0.7712073387794307
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 29,
+                    "verse": 21,
+                    "text": "And they sacrificed sacrifices unto the Lord, and offered burnt offerings unto the Lord, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8267039640083255
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 37,
-                    "text": "He answered and said unto them, Give ye them to eat. And they say unto him, Shall we go and buy two hundred pennyworth of bread, and give them to eat?",
-                    "score": 0.7708030484718085
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 18,
+                    "text": "And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be for a burnt offering unto the Lord, with their meat offering, and their drink offerings, even an offering made by fire, of sweet savour unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8244035958531046
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 21,
-                    "verse": 15,
-                    "text": "So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.",
-                    "score": 0.7692400233583133
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 7,
-                    "verse": 17,
-                    "text": "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.",
-                    "score": 0.7690578453561219
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 7,
-                    "verse": 10,
-                    "text": "And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.",
-                    "score": 0.7667070525384779
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 4,
-                    "text": "And when they had eaten he commanded them that they should break bread, and give unto the multitude.",
-                    "score": 0.7655940294234865
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "And Abel, he also brought of the firstlings of his flock, and of the fat thereof. And the Lord had respect unto Abel, and to his offering;",
-                    "score": 0.7638924614999593
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 8,
                     "verse": 35,
-                    "text": "For, behold, saith the Lamb: I will manifest myself unto thy seed, that they shall write many things which I shall minister unto them, which shall be plain and precious; and after thy seed shall be destroyed, and dwindle in unbelief, and also the seed of thy brethren, behold, these things shall be hid up, to come forth unto the Gentiles, by the gift and power of the Lamb.",
-                    "score": 0.7636152593206433
+                    "text": "Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats for a sin offering: all this was a burnt offering unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8235729320552396
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 31,
-                    "text": "And he spake unto me again, saying: Look! And I looked, and I beheld the Lamb of God going forth among the children of men. And I beheld multitudes of people who were sick, and who were afflicted with all manner of diseases, and with devils and unclean spirits; and the angel spake and showed all these things unto me. And they were healed by the power of the Lamb of God; and the devils and the unclean spirits were cast out.",
-                    "score": 0.761120307993547
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 3,
+                    "text": "And thou shalt say unto them, This is the offering made by fire which ye shall offer unto the Lord; two lambs of the first year without spot day by day, for a continual burnt offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.820317944266672
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 13,
+                    "verse": 9,
+                    "text": "And Saul said, Bring hither a burnt offering to me, and peace offerings. And he offered the burnt offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8184016322075096
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 45,
+                    "verse": 15,
+                    "text": "And one lamb out of the flock, out of two hundred, out of the fat pastures of Israel; for a meat offering, and for a burnt offering, and for peace offerings, to make reconciliation for them, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.817877652093007
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 8,
+                    "text": "And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer it, a sacrifice made by fire, of a sweet savour unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166939559763012
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 9,
+                    "verse": 2,
+                    "text": "And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140494632939754
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 4,
+                    "verse": 35,
+                    "text": "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the Lord: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8138570897290526
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 29,
+                    "verse": 41,
+                    "text": "And the other lamb thou shalt offer at even, and shalt do thereto according to the meat offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.813366024856317
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 7,
+                    "text": "If he offer a lamb for his offering, then shall he offer it before the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8120792229237256
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 13,
+                    "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079828509311796
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 13,
+                    "text": "And a several tenth deal of flour mingled with oil for a meat offering unto one lamb; for a burnt offering of a sweet savour, a sacrifice made by fire unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079196771027444
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 46,
+                    "verse": 4,
+                    "text": "And the burnt offering that the prince shall offer unto the Lord in the sabbath day shall be six lambs without blemish, and a ram without blemish.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075440140118585
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 15,
+                    "verse": 22,
+                    "text": "And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067673594141882
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 13,
+                    "text": "And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the Lord; thirteen young bullocks, two rams, and fourteen lambs of the first year; they shall be without blemish:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062062151429944
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 21,
+                    "verse": 23,
+                    "text": "And Ornan said unto David, Take it to thee, and let my lord the king do that which is good in his eyes: lo, I give thee the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050740703204569
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 36,
+                    "text": "But ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the Lord: one bullock, one ram, seven lambs of the first year without blemish:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8044512194110699
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 15,
+                    "verse": 15,
+                    "text": "And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the Lord thy God; and the rest we have utterly destroyed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8032276752193883
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 8,
+                    "text": "But ye shall offer a burnt offering unto the Lord for a sweet savour; one young bullock, one ram, and seven lambs of the first year; they shall be unto you without blemish:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028331764492798
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 6,
+                    "verse": 14,
+                    "text": "And he shall offer his offering unto the Lord, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018305134387353
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 16,
+                    "verse": 9,
+                    "text": "And Aaron shall bring the goat upon which the Lord's lot fell, and offer him for a sin offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016457316160923
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 17,
+                    "verse": 34,
+                    "text": "And David said unto Saul, Thy servant kept his father's sheep, and there came a lion, and a bear, and took a lamb out of the flock:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015053517965205
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 28,
+                    "verse": 19,
+                    "text": "But ye shall offer a sacrifice made by fire for a burnt offering unto the Lord; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007379564706688
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 24,
+                    "verse": 22,
+                    "text": "And Araunah said unto David, Let my lord the king take and offer up what seemeth good unto him: behold, here be oxen for burnt sacrifice, and threshing instruments and other instruments of the oxen for wood.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004958779355
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 15,
+                    "verse": 22,
+                    "text": "And Samuel said, Hath the Lord as great delight in burnt offerings and sacrifices, as in obeying the voice of the Lord? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9103959580902
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 13,
+                    "verse": 10,
+                    "text": "And it came to pass, that as soon as he had made an end of offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might salute him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.90171439627238
                 }
             ]
         },
@@ -782,84 +962,134 @@
             "text": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the Lord thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 28,
-                    "text": "And if they shall smite this people thou wilt smite them; thou wilt fight for thy people as thou didst in the day of battle, that they may be delivered from the hands of all their enemies.",
-                    "score": 0.7790198046101345
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 10,
+                    "verse": 7,
+                    "text": "And the anger of the Lord was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8104545784060805
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
                     "chapter": 14,
-                    "verse": 14,
-                    "text": "Now it came to pass that when the bodies of those who had been cast into the fire were consumed, and also the records which were cast in with them, the chief judge of the land came and stood before Alma and Amulek, as they were bound; and he smote them with his hand upon their cheeks, and said unto them: After what ye have seen, will ye preach again unto this people, that they shall be cast into a lake of fire and brimstone?",
-                    "score": 0.7737227398592491
+                    "verse": 52,
+                    "text": "And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8090569398096668
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 26,
-                    "verse": 6,
-                    "text": "And they shall be visited with thunderings, and lightnings, and earthquakes, and all manner of destructions, for the fire of the anger of the Lord shall be kindled against them, and they shall be as stubble, and the day that cometh shall consume them, saith the Lord of Hosts.",
-                    "score": 0.7687763522558865
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 4,
+                    "verse": 2,
+                    "text": "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081338538589529
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 18,
-                    "text": "Behold, my brethren, I say unto you, that these things must shortly come; yea, even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth; and it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.",
-                    "score": 0.7686535285190652
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 16,
-                    "text": "And from that time forth there were wars and bloodshed among them; but the Lord came and dwelt with his people, and they dwelt in righteousness.",
-                    "score": 0.7672369488461851
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 12,
-                    "text": "And they did land upon the shore of the promised land. And when they had set their feet upon the shores of the promised land they bowed themselves down upon the face of the land, and did humble themselves before the Lord, and did shed tears of joy before the Lord, because of the multitude of his tender mercies over them.",
-                    "score": 0.7662225405371867
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 37,
-                    "text": "But behold, every man that lifted his club to smite Ammon, he smote off their arms with his sword; for he did withstand their blows by smiting their arms with the edge of his sword, insomuch that they began to be astonished, and began to flee before him; yea, and they were not few in number; and he caused them to flee by the strength of his arm.",
-                    "score": 0.7638012069525316
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 1,
-                    "verse": 29,
-                    "text": "And thus he did; and he did head them before they came to the land Bountiful, and gave unto them battle, insomuch that they began to retreat back towards the land of Zarahemla.",
-                    "score": 0.7635073588279868
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "And because of the mercies of the Father unto the Gentiles, and also the judgments of the Father upon my people who are of the house of Israel, verily, verily, I say unto you, that after all this, and I have caused my people who are of the house of Israel to be smitten, and to be afflicted, and to be slain, and to be cast out from among them, and to become hated by them, and to become a hiss and a byword among them--",
-                    "score": 0.762179264771524
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
                     "chapter": 2,
-                    "verse": 28,
-                    "text": "Nevertheless, the Nephites being strengthened by the hand of the Lord, having prayed mightily to him that he would deliver them out of the hands of their enemies, therefore the Lord did hear their cries, and did strengthen them, and the Lamanites and the Amlicites did fall before them.",
-                    "score": 0.7612499677653038
+                    "verse": 14,
+                    "text": "And the anger of the Lord was hot against Israel, and he delivered them into the hands of spoilers that spoiled them, and he sold them into the hands of their enemies round about, so that they could not any longer stand before their enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805943173265687
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053661074518533
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 18,
+                    "text": "So Samuel called unto the Lord; and the Lord sent thunder and rain that day: and all the people greatly feared the Lord and Samuel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050672791670106
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 19,
+                    "verse": 8,
+                    "text": "And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008022309484921
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 15,
+                    "verse": 14,
+                    "text": "And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the Lord came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006446718520487
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 18,
+                    "text": "So Samuel called unto the Lord; and the Lord sent thunder and rain that day: and all the people greatly feared the Lord and Samuel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9094741290494684
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 4,
+                    "verse": 2,
+                    "text": "And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9062462234873077
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9035463986667301
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben-ezer: and the Philistines pitched in Aphek.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9033485881451159
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 7,
+                    "verse": 13,
+                    "text": "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the Lord was against the Philistines all the days of Samuel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9000927746351627
                 }
             ]
         },
@@ -868,84 +1098,24 @@
             "text": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Beth-car.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 2,
-                    "verse": 5,
-                    "text": "And they did also drive us forth out of the land of David.",
-                    "score": 0.7578729550701688
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 33,
-                    "text": "And it came to pass that Amalickiah fled with a small number of his men, and the remainder were delivered up into the hands of Moroni and were taken back into the land of Zarahemla.",
-                    "score": 0.7498641235006975
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 62,
-                    "verse": 38,
-                    "text": "Now it came to pass that Moroni marched forth on the morrow, and came upon the Lamanites, insomuch that they did slay them with a great slaughter; and they did drive them out of the land; and they did flee, even that they did not return at that time against the Nephites.",
-                    "score": 0.7455865237836891
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 39,
-                    "text": "And when he had driven them afar off, he returned and they watered their flocks and returned them to the pasture of the king, and then went in unto the king, bearing the arms which had been smitten off by the sword of Ammon, of those who sought to slay him; and they were carried in unto the king for a testimony of the things which they had done.",
-                    "score": 0.7449250899678559
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
                     "chapter": 11,
-                    "verse": 18,
-                    "text": "And it came to pass that king Noah sent his armies against them, and they were driven back, or they drove them back for a time; therefore, they returned rejoicing in their spoil.",
-                    "score": 0.7437581261066972
+                    "verse": 8,
+                    "text": "And the Lord delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephoth-maim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8154982646535437
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Jarom",
-                    "chapter": 1,
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 10,
                     "verse": 7,
-                    "text": "And it came to pass that they came many times against us, the Nephites, to battle. But our kings and our leaders were mighty men in the faith of the Lord; and they taught the people the ways of the Lord; wherefore, we withstood the Lamanites and swept them away out of our lands, and began to fortify our cities, or whatsoever place of our inheritance.",
-                    "score": 0.7419883687077546
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 62,
-                    "verse": 14,
-                    "text": "And it came to pass that Moroni and Pahoran, leaving a large body of men in the land of Zarahemla, took their march with a large body of men towards the land of Nephihah, being determined to overthrow the Lamanites in that city.",
-                    "score": 0.7413810687107407
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 24,
-                    "verse": 16,
-                    "text": "Then let them which be in Judaea flee into the mountains:",
-                    "score": 0.7411286750032132
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 15,
-                    "verse": 1,
-                    "text": "And it came to pass that Alma and Amulek were commanded to depart out of that city; and they departed, and came out even into the land of Sidom; and behold, there they found all the people who had departed out of the land of Ammonihah, who had been cast out and stoned, because they believed in the words of Alma.",
-                    "score": 0.7409358745869822
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 57,
-                    "text": "And as we had no place for our prisoners, that we could guard them to keep them from the armies of the Lamanites, therefore we sent them to the land of Zarahemla, and a part of those men who were not slain of Antipus, with them; and the remainder I took and joined them to my stripling Ammonites, and took our march back to the city of Judea.",
-                    "score": 0.7403720457717964
+                    "text": "And when all the men of Israel that were in the valley saw that they fled, and that Saul and his sons were dead, then they forsook their cities, and fled: and the Philistines came and dwelt in them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805951122204373
                 }
             ]
         },
@@ -954,84 +1124,14 @@
             "text": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Eben-ezer, saying, Hitherto hath the Lord helped us.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 130,
-                    "verse": 11,
-                    "text": "And a white stone is given to each of those who come into the celestial kingdom, whereon is a new name written, which no man knoweth save he that receiveth it. The new name is the key word.",
-                    "score": 0.7629035100651028
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 7,
-                    "text": "And it came to pass that he built an altar of stones, and made an offering unto the Lord, and gave thanks unto the Lord our God.",
-                    "score": 0.7624726145508582
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 2,
-                    "text": "For it came to pass after the Lord had prepared the stones which the brother of Jared had carried up into the mount, the brother of Jared came down out of the mount, and he did put forth the stones into the vessels which were prepared, one in each end thereof; and behold, they did give light unto the vessels.",
-                    "score": 0.7516631974436857
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "And I, Abraham, arose from the place of the altar which I had built unto the Lord, and removed from thence unto a mountain on the east of Bethel, and pitched my tent there, Bethel on the west, and Hai on the east; and there I built another altar unto the Lord, and called again upon the name of the Lord.",
-                    "score": 0.7437961885623757
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 28,
-                    "text": "And it came to pass that the Lord commanded him that he should seal up the two stones which he had received, and show them not, until the Lord should show them unto the children of men.",
-                    "score": 0.7434391577079725
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 1,
-                    "verse": 42,
-                    "text": "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
-                    "score": 0.7366825299960486
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "But behold, according to the scriptures, this stone shall become the great, and the last, and the only sure foundation, upon which the Jews can build.",
-                    "score": 0.7365835563121799
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 52,
-                    "text": "Having removed the earth, I obtained a lever, which I got fixed under the edge of the stone, and with a little exertion raised it up. I looked in, and there indeed did I behold the plates, the Urim and Thummim, and the breastplate, as stated by the messenger. The box in which they lay was formed by laying stones together in some kind of cement. In the bottom of the box were laid two stones crossways of the box, and on these stones lay the plates and the other things with them.",
-                    "score": 0.7364233806224324
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 4,
-                    "verse": 15,
-                    "text": "And now I, Jacob, am led on by the Spirit unto prophesying; for I perceive by the workings of the Spirit which is in me, that by the stumbling of the Jews they will reject the stone upon which they might build and have safe foundation.",
-                    "score": 0.7326767183842718
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 37,
-                    "verse": 38,
-                    "text": "And now, my son, I have somewhat to say concerning the thing which our fathers call a ball, or director--or our fathers called it Liahona, which is, being interpreted, a compass; and the Lord prepared it.",
-                    "score": 0.7318629450499642
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "And Samuel called the people together unto the Lord to Mizpeh;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9036132905137505
                 }
             ]
         },
@@ -1040,84 +1140,14 @@
             "text": "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the Lord was against the Philistines all the days of Samuel.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 8,
-                    "text": "But wo, saith the Father, unto the unbelieving of the Gentiles--for notwithstanding they have come forth upon the face of this land, and have scattered my people who are of the house of Israel; and my people who are of the house of Israel have been cast out from among them, and have been trodden under feet by them;",
-                    "score": 0.7277573059034316
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "Now it came to pass that there was a day set apart by the unbelievers, that all those who believed in those traditions should be put to death except the sign should come to pass, which had been given by Samuel the prophet.",
-                    "score": 0.7270871448481391
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 21,
-                    "text": "And it came to pass that he caused that he should be carried out of the land. And he came over into the land of Gideon, and began to preach unto them also; and here he did not have much success, for he was taken and bound and carried before the high priest, and also the chief judge over the land.",
-                    "score": 0.7259606481236957
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 5,
-                    "verse": 70,
-                    "text": "And it came to pass that the Lord of the vineyard sent his servant; and the servant went and did as the Lord had commanded him, and brought other servants; and they were few.",
-                    "score": 0.7250423803658381
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 24,
-                    "verse": 6,
-                    "text": "Now there was not one soul among all the people who had been converted unto the Lord that would take up arms against their brethren; nay, they would not even make any preparations for war; yea, and also their king commanded them that they should not.",
-                    "score": 0.7247408004290352
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 8,
-                    "verse": 9,
-                    "text": "Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.",
-                    "score": 0.7237044932335586
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 5,
-                    "text": "And since they have been led away, these things have been prophesied concerning them, and also concerning all those who shall hereafter be scattered and be confounded, because of the Holy One of Israel; for against him will they harden their hearts; wherefore, they shall be scattered among all nations and shall be hated of all men.",
-                    "score": 0.7210659588390229
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 41,
-                    "text": "And Cain was shut out from the presence of the Lord, and with his wife and many of his brethren dwelt in the land of Nod, on the east of Eden.",
-                    "score": 0.7204668127138012
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 23,
-                    "verse": 29,
-                    "text": "And it came to pass that the Lord did soften the hearts of the Lamanites. And Alma and his brethren went forth and delivered themselves up into their hands; and the Lamanites took possession of the land of Helam.",
-                    "score": 0.7199148885535253
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 8,
-                    "verse": 26,
-                    "text": "And they arrived at the country of the Gadarenes, which is over against Galilee.",
-                    "score": 0.7198341588448085
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 7,
+                    "verse": 10,
+                    "text": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the Lord thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9000927746351627
                 }
             ]
         },
@@ -1126,84 +1156,24 @@
             "text": "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 12,
-                    "text": "Who were separated from the earth, and were received unto myself--a city reserved until a day of righteousness shall come--a day which was sought for by all holy men, and they found it not because of wickedness and abominations;",
-                    "score": 0.7523373436340357
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 13,
+                    "text": "And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those lands again peaceably.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.807341174799521
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 35,
-                    "verse": 14,
-                    "text": "And Alma, and Ammon, and their brethren, and also the two sons of Alma returned to the land of Zarahemla, after having been instruments in the hands of God of bringing many of the Zoramites to repentance; and as many as were brought to repentance were driven out of their land; but they have lands for their inheritance in the land of Jershon, and they have taken up arms to defend themselves, and their wives, and children, and their lands.",
-                    "score": 0.7489532443032986
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 50,
-                    "verse": 36,
-                    "text": "And thus were the people of Morianton brought back. And upon their covenanting to keep the peace they were restored to the land of Morianton, and a union took place between them and the people of Lehi; and they were also restored to their lands.",
-                    "score": 0.7464716376031034
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 2,
-                    "text": "And the people shall take them and bring them to their place; yea, from far unto the ends of the earth; and they shall return to their lands of promise. And the house of Israel shall possess them, and the land of the Lord shall be for servants and handmaids; and they shall take them captives unto whom they were captives; and they shall rule over their oppressors.",
-                    "score": 0.7464043633552766
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
                     "chapter": 6,
-                    "verse": 7,
-                    "text": "And behold, there was peace in all the land, insomuch that the Nephites did go into whatsoever part of the land they would, whether among the Nephites or the Lamanites.",
-                    "score": 0.7455157213838727
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 10,
-                    "verse": 3,
-                    "text": "That after they should be destroyed, even that great city Jerusalem, and many be carried away captive into Babylon, according to the own due time of the Lord, they should return again, yea, even be brought back out of captivity; and after they should be brought back out of captivity they should possess again the land of their inheritance.",
-                    "score": 0.7449668648045273
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 44,
-                    "verse": 23,
-                    "text": "And the armies of the Nephites, or of Moroni, returned and came to their houses and their lands.",
-                    "score": 0.7435760300869249
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 16,
-                    "verse": 6,
-                    "text": "And it came to pass that Alma inquired of the Lord concerning the matter. And Alma returned and said unto them: Behold, the Lamanites will cross the river Sidon in the south wilderness, away up beyond the borders of the land of Manti. And behold there shall ye meet them, on the east of the river Sidon, and there the Lord will deliver unto thee thy brethren who have been taken captive by the Lamanites.",
-                    "score": 0.7413696190096595
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 21,
-                    "verse": 18,
-                    "text": "And it came to pass that Ammon and Lamoni returned from the land of Middoni to the land of Ishmael, which was the land of their inheritance.",
-                    "score": 0.7404645144600963
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 25,
-                    "verse": 11,
-                    "text": "And now this I speak because of the spirit which is in me. And notwithstanding they have been carried away they shall return again, and possess the land of Jerusalem; wherefore, they shall be restored again to the land of their inheritance.",
-                    "score": 0.7404012812699236
+                    "verse": 17,
+                    "text": "And these are the golden emerods which the Philistines returned for a trespass offering unto the Lord; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026757851468707
                 }
             ]
         },
@@ -1212,256 +1182,85 @@
             "text": "And Samuel judged Israel all the days of his life.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "And it came to pass that Orihah did execute judgment upon the land in righteousness all his days, whose days were exceedingly many.",
-                    "score": 0.7808592177369322
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 15,
                     "verse": 20,
-                    "text": "And after that he gave unto them judges about the space of four hundred and fifty years, until Samuel the prophet.",
-                    "score": 0.7523957720070988
+                    "text": "And he judged Israel in the days of the Philistines twenty years.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8094121322820382
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 27,
-                    "text": "And there were no more wars in the days of Shule; and he remembered the great things that the Lord had done for his fathers in bringing them across the great deep into the promised land; wherefore he did execute judgment in righteousness all his days.",
-                    "score": 0.7497985174009915
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 17,
-                    "verse": 31,
-                    "text": "Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead.",
-                    "score": 0.7481022357548798
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 9,
-                    "verse": 21,
-                    "text": "And Emer did execute judgment in righteousness all his days, and he begat many sons and daughters; and he begat Coriantum, and he anointed Coriantum to reign in his stead.",
-                    "score": 0.7447176665284452
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 31,
-                    "text": "And he was seen many days of them which came up with him from Galilee to Jerusalem, who are his witnesses unto the people.",
-                    "score": 0.741661432003839
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 13,
-                    "text": "Esaias also lived in the days of Abraham, and was blessed of him--",
-                    "score": 0.7363428622443565
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
-                    "verse": 17,
-                    "text": "And whoso standeth in this mission is appointed to be a judge in Israel, like as it was in ancient days, to divide the lands of the heritage of God unto his children;",
-                    "score": 0.7361798289172018
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 24,
-                    "verse": 21,
-                    "text": "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.",
-                    "score": 0.7345141365969636
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "And they prophesied unto Com many things; and he was blessed in all the remainder of his days.",
-                    "score": 0.7304991011263771
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "And it came to pass, when Samuel was old, that he made his sons judges over Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9115586824154085
                 }
             ]
         },
         {
             "verse": 16,
             "text": "And he went from year to year in circuit to Beth-el, and Gilgal, and Mizpeh, and judged Israel in all those places.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 3,
-                    "verse": 5,
-                    "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,",
-                    "score": 0.7121963324583604
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 13,
-                    "verse": 22,
-                    "text": "And he went through the cities and villages, teaching, and journeying toward Jerusalem.",
-                    "score": 0.7054272060646194
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
-                    "verse": 17,
-                    "text": "And whoso standeth in this mission is appointed to be a judge in Israel, like as it was in ancient days, to divide the lands of the heritage of God unto his children;",
-                    "score": 0.7019121388081271
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 3,
-                    "verse": 32,
-                    "text": "And it came to pass that there was peace and exceedingly great joy in the remainder of the forty and ninth year; yea, and also there was continual peace and great joy in the fiftieth year of the reign of the judges.",
-                    "score": 0.6978418161303214
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 41,
-                    "text": "Now his parents went to Jerusalem every year at the feast of the passover.",
-                    "score": 0.6952323333128587
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 4,
-                    "verse": 3,
-                    "text": "He left Judaea, and departed again into Galilee.",
-                    "score": 0.6933157533644638
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 30,
-                    "text": "And it came to pass that when he was brought before Alma and the chief judge, he did go on in the same manner as he did in the land of Gideon; yea, he went on to blaspheme.",
-                    "score": 0.693009480942568
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 72,
-                    "text": "And also to be a judge in Israel, to do the business of the church, to sit in judgment upon transgressors upon testimony as it shall be laid before him according to the laws, by the assistance of his counselors, whom he has chosen or will choose among the elders of the church.",
-                    "score": 0.6918701651922845
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 16,
-                    "verse": 11,
-                    "text": "And these were the conditions also, in the eighty and eighth year of the reign of the judges.",
-                    "score": 0.6901696912755948
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "Now it came to pass that the ninety and first year had passed away and it was six hundred years from the time that Lehi left Jerusalem; and it was in the year that Lachoneus was the chief judge and the governor over the land.",
-                    "score": 0.6900134581468645
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 17,
             "text": "And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the Lord.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 7,
-                    "text": "And it came to pass that he built an altar of stones, and made an offering unto the Lord, and gave thanks unto the Lord our God.",
-                    "score": 0.7889560430553673
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 33,
+                    "verse": 4,
+                    "text": "Also he built altars in the house of the Lord, whereof the Lord had said, In Jerusalem shall my name be for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8068268240742565
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 1,
-                    "verse": 7,
-                    "text": "And it came to pass that he returned to his own house at Jerusalem; and he cast himself upon his bed, being overcome with the Spirit and the things which he had seen.",
-                    "score": 0.7828034541142728
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 47,
-                    "text": "But Solomon built him an house.",
-                    "score": 0.7803330170667591
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 1,
-                    "verse": 68,
-                    "text": "Blessed be the Lord God of Israel; for he hath visited and redeemed his people,",
-                    "score": 0.7748394405008717
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 13,
-                    "verse": 5,
-                    "text": "And he spake also concerning the house of Israel, and the Jerusalem from whence Lehi should come--after it should be destroyed it should be built up again, a holy city unto the Lord; wherefore, it could not be a new Jerusalem for it had been in a time of old; but it should be built up again, and become a holy city of the Lord; and it should be built unto the house of Israel--",
-                    "score": 0.7703288014855579
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 22,
-                    "text": "For behold, the Lord God has led away from time to time from the house of Israel, according to his will and pleasure. And now behold, the Lord remembereth all them who have been broken off, wherefore he remembereth us also.",
-                    "score": 0.7662659864131327
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 3,
-                    "text": "But behold, the voice of the Lord came unto him, that he should return again, and prophesy unto the people whatsoever things should come into his heart.",
-                    "score": 0.7627367660963484
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 8,
-                    "verse": 39,
-                    "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
-                    "score": 0.76231592644076
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 8,
-                    "verse": 8,
-                    "text": "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:",
-                    "score": 0.761237577474693
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 2,
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 33,
                     "verse": 20,
-                    "text": "And I, Abraham, arose from the place of the altar which I had built unto the Lord, and removed from thence unto a mountain on the east of Bethel, and pitched my tent there, Bethel on the west, and Hai on the east; and there I built another altar unto the Lord, and called again upon the name of the Lord.",
-                    "score": 0.7607554123220907
+                    "text": "And he erected there an altar, and called it El-elohe-Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047818550291057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 22,
+                    "verse": 1,
+                    "text": "Then David said, This is the house of the Lord God, and this is the altar of the burnt offering for Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008784802277268
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 33,
+                    "verse": 16,
+                    "text": "And he repaired the altar of the Lord, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the Lord God of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002312869346279
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 33,
+                    "verse": 20,
+                    "text": "And he erected there an altar, and called it El-elohe-Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9019469887598456
                 }
             ]
         }

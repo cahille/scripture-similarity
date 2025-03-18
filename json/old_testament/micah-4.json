@@ -8,84 +8,414 @@
             "text": "But in the last days it shall come to pass, that the mountain of the house of the Lord shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
                     "verse": 2,
-                    "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
-                    "score": 0.9769271249052917
+                    "text": "And it shall come to pass in the last days, that the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9770222706196673
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9769271249052917
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8447965505523319
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 12,
                     "verse": 3,
                     "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8447965505523319
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the Lord, and shall water the valley of Shittim.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8388320117657726
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 29,
+                    "text": "And it shall come to pass, when the Lord thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8373509095434433
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 2,
+                    "text": "And many nations shall come, and say, Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8350383622862617
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Obadiah",
+                    "volume_book_index": 31,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8317218071528668
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 3,
                     "verse": 13,
                     "text": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8215364824836137
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 40,
+                    "text": "For in mine holy mountain, in the mountain of the height of Israel, saith the Lord God, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.821446168893127
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 43,
+                    "verse": 12,
+                    "text": "This is the law of the house; Upon the top of the mountain the whole limit thereof round about shall be most holy. Behold, this is the law of the house.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8207083523926454
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 13,
                     "verse": 37,
                     "text": "And blessed are they who shall seek to bring forth my Zion at that day, for they shall have the gift and the power of the Holy Ghost; and if they endure unto the end they shall be lifted up at the last day, and shall be saved in the everlasting kingdom of the Lamb; and whoso shall publish peace, yea, tidings of great joy, how beautiful upon the mountains shall they be.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8188146356237995
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 24,
+                    "verse": 3,
+                    "text": "Who shall ascend into the hill of the Lord? or who shall stand in his holy place?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8187232733668848
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 13,
                     "verse": 8,
                     "text": "Wherefore, the remnant of the house of Joseph shall be built upon this land; and it shall be a land of their inheritance; and they shall build up a holy city unto the Lord, like unto the Jerusalem of old; and they shall no more be confounded, until the end come when the earth shall pass away.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8181032434835322
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 13,
                     "text": "And let them who be of Judah flee unto Jerusalem, unto the mountains of the Lord's house.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8155891976994757
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 14,
+                    "verse": 40,
+                    "text": "And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we be here, and will go up unto the place which the Lord hath promised: for we have sinned.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8147370509368673
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 72,
+                    "verse": 3,
+                    "text": "The mountains shall bring peace to the people, and the little hills, by righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8136023357614416
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 65,
+                    "verse": 9,
+                    "text": "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8111574072268957
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 12,
                     "verse": 17,
                     "text": "Behold, if he say unto this mountain--Be thou raised up, and come over and fall upon that city, that it be buried up--behold it is done.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8098576617952672
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 14,
+                    "verse": 5,
+                    "text": "And ye shall flee to the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the Lord my God shall come, and all the saints with thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8077312819894786
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 14,
+                    "verse": 12,
+                    "text": "Now therefore give me this mountain, whereof the Lord spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I shall be able to drive them out, as the Lord said.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073678102402528
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 17,
+                    "verse": 22,
+                    "text": "Thus saith the Lord God; I will also take of the highest branch of the high cedar, and will set it; I will crop off from the top of his young twigs a tender one, and will plant it upon an high mountain and eminent:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067471197113377
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 1,
+                    "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe and to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063720532421647
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 24,
+                    "verse": 21,
+                    "text": "And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062746981544657
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 32,
+                    "verse": 5,
+                    "text": "And I will lay thy flesh upon the mountains, and fill the valleys with thy height.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806147372379684
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 40,
                     "text": "And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace; that bringeth good tidings unto them of good, that publisheth salvation; that saith unto Zion: Thy God reigneth!",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8051005664321277
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 1,
                     "verse": 42,
                     "text": "And when thou hast done this thou shalt go at the head of them down into the valley which is northward. And there will I meet thee, and I will go before thee into a land which is choice above all the lands of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.804843749368272
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 31,
+                    "text": "For ye shall pass over Jordan to go in to possess the land which the Lord your God giveth you, and ye shall possess it, and dwell therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047373012877309
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 7,
+                    "text": "Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029018034925072
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 4,
+                    "verse": 13,
+                    "text": "For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what is his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The Lord, The God of hosts, is his name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023124181572694
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 15,
+                    "verse": 17,
+                    "text": "Thou shalt bring them in, and plant them in the mountain of thine inheritance, in the place, O Lord, which thou hast made for thee to dwell in, in the Sanctuary, O Lord, which thy hands have established.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021924197343452
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "Thus saith the Lord; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the Lord of hosts the holy mountain.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021714919252081
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the Lord your God giveth you to possess it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016338012277984
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 40,
                     "text": "Calling upon the name of the Lord day and night, saying: O that thou wouldst rend the heavens, that thou wouldst come down, that the mountains might flow down at thy presence.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8013663918360902
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 14,
+                    "text": "And upon all the high mountains, and upon all the hills, and upon all the nations which are lifted up, and upon every people;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011011568344771
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 30,
+                    "verse": 25,
+                    "text": "And there shall be upon every high mountain, and upon every high hill, rivers and streams of waters in the day of the great slaughter, when the towers fall.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008967822243884
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 17,
+                    "verse": 11,
+                    "text": "And it shall come to pass, when thy days be expired that thou must go to be with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80045994469142
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, that the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9276287598831218
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9155930876731938
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, that the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9849424353207766
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9839347278974584
                 }
             ]
         },
@@ -96,82 +426,932 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 12,
                     "verse": 3,
                     "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9631962272927507
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9631962272927507
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
                     "verse": 2,
-                    "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
-                    "score": 0.8409633177796699
+                    "text": "And it shall come to pass in the last days, that the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8437923700857088
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Obadiah",
+                    "volume_book_index": 31,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8434218881939274
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8409633177796699
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 19,
+                    "verse": 3,
+                    "text": "And Moses went up unto God, and the Lord called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob, and tell the children of Israel;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8384556677524908
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "But in the last days it shall come to pass, that the mountain of the house of the Lord shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8350383622862617
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 40,
+                    "text": "For in mine holy mountain, in the mountain of the height of Israel, saith the Lord God, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8322127651764832
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 24,
                     "verse": 2,
                     "text": "And the people shall take them and bring them to their place; yea, from far unto the ends of the earth; and they shall return to their lands of promise. And the house of Israel shall possess them, and the land of the Lord shall be for servants and handmaids; and they shall take them captives unto whom they were captives; and they shall rule over their oppressors.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8296469024183795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "Thus saith the Lord; I am returned unto Zion, and will dwell in the midst of Jerusalem: and Jerusalem shall be called a city of truth; and the mountain of the Lord of hosts the holy mountain.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8286648552898939
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 3,
                     "verse": 13,
                     "text": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8257974718706301
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 38,
+                    "verse": 8,
+                    "text": "After many days thou shalt be visited: in the latter years thou shalt come into the land that is brought back from the sword, and is gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8234566849775332
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 1,
                     "verse": 43,
                     "text": "And there will I bless thee and thy seed, and raise up unto me of thy seed, and of the seed of thy brother, and they who shall go with thee, a great nation. And there shall be none greater than the nation which I will raise up unto me of thy seed, upon all the face of the earth. And thus I will do unto thee because this long time ye have cried unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8231907623886323
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 29,
                     "verse": 14,
                     "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8229262511317801
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 117,
                     "verse": 9,
                     "text": "Therefore, come up hither unto the land of my people, even Zion.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8225648746966695
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 65,
+                    "verse": 9,
+                    "text": "And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.822241539737183
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 13,
+                    "verse": 11,
+                    "text": "And it shall be when the Lord shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8219328390583944
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 46,
+                    "verse": 31,
+                    "text": "And Joseph said unto his brethren, and unto his father's house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father's house, which were in the land of Canaan, are come unto me;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8217384616055836
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Obadiah",
+                    "volume_book_index": 31,
+                    "chapter": 1,
+                    "verse": 21,
+                    "text": "And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the Lord's.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.821085788456368
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 10,
+                    "verse": 29,
+                    "text": "And Moses said unto Hobab, the son of Raguel the Midianite, Moses' father in law, We are journeying unto the place of which the Lord said, I will give it you: come thou with us, and we will do thee good: for the Lord hath spoken good concerning Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8204487811181967
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 29,
+                    "text": "And it shall come to pass, when the Lord thy God hath brought thee in unto the land whither thou goest to possess it, that thou shalt put the blessing upon mount Gerizim, and the curse upon mount Ebal.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8201035154342026
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 39,
+                    "verse": 2,
+                    "text": "And I will turn thee back, and leave but the sixth part of thee, and will cause thee to come up from the north parts, and will bring thee upon the mountains of Israel:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8199274943880613
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 5,
+                    "text": "O house of Jacob, come ye, and let us walk in the light of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8195443883671241
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 33,
+                    "verse": 1,
+                    "text": "And the Lord said unto Moses, Depart, and go up hence, thou and the people which thou hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto thy seed will I give it:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8193982327728878
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 36,
+                    "verse": 1,
+                    "text": "Also, thou son of man, prophesy unto the mountains of Israel, and say, Ye mountains of Israel, hear the word of the Lord:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8186179200443043
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 7,
                     "verse": 3,
                     "text": "And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8181564159188798
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 6,
+                    "verse": 3,
+                    "text": "And say, Ye mountains of Israel, hear the word of the Lord God; Thus saith the Lord God to the mountains, and to the hills, to the rivers, and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8179839758767969
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 2,
+                    "verse": 32,
+                    "text": "And it shall come to pass, that whosoever shall call on the name of the Lord shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the Lord hath said, and in the remnant whom the Lord shall call.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8177802437353264
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 9,
                     "text": "And behold, and lo, this shall be their cry, and the voice of the Lord unto all people: Go ye forth unto the land of Zion, that the borders of my people may be enlarged, and that her stakes may be strengthened, and that Zion may go forth unto the regions round about.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8176862971455525
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 40,
                     "text": "And then shall they say: How beautiful upon the mountains are the feet of him that bringeth good tidings unto them, that publisheth peace; that bringeth good tidings unto them of good, that publisheth salvation; that saith unto Zion: Thy God reigneth!",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169256572528244
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 40,
+                    "verse": 9,
+                    "text": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8163282965931328
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 14,
+                    "verse": 2,
+                    "text": "And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the Lord for servants and handmaids: and they shall take them captives, whose captives they were; and they shall rule over their oppressors.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8161071913637087
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 24,
+                    "verse": 12,
+                    "text": "And the Lord said unto Moses, Come up to me into the mount, and be there: and I will give thee tables of stone, and a law, and commandments which I have written; that thou mayest teach them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.815968684842551
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 8,
+                    "verse": 11,
+                    "text": "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151782242683795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 11,
+                    "verse": 31,
+                    "text": "For ye shall pass over Jordan to go in to possess the land which the Lord your God giveth you, and ye shall possess it, and dwell therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151272723889282
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The Lord God of the Hebrews hath met with us: and now let us go, we beseech thee, three days' journey into the wilderness, that we may sacrifice to the Lord our God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8141508527698753
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 23,
+                    "text": "Thus saith the Lord of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The Lord bless thee, O habitation of justice, and mountain of holiness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8139339114479347
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 13,
+                    "text": "And let them who be of Judah flee unto Jerusalem, unto the mountains of the Lord's house.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8135807530196298
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8132703547783968
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 8,
+                    "verse": 23,
+                    "text": "Thus saith the Lord of hosts; In those days it shall come to pass, that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard that God is with you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8125494945980498
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 14,
+                    "text": "And upon all the high mountains, and upon all the hills, and upon all the nations which are lifted up, and upon every people;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8125224436857469
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 20,
+                    "text": "And I said unto you, Ye are come unto the mountain of the Amorites, which the Lord our God doth give unto us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8124255149312741
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 66,
+                    "verse": 20,
+                    "text": "And they shall bring all your brethren for an offering unto the Lord out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the Lord, as the children of Israel bring an offering in a clean vessel into the house of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8116519406298057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 5,
+                    "verse": 15,
+                    "text": "Lo, I will bring a nation upon you from far, O house of Israel, saith the Lord: it is a mighty nation, it is an ancient nation, a nation whose language thou knowest not, neither understandest what they say.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8111081539853826
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 36,
+                    "text": "The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.810429299228947
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 10,
+                    "verse": 11,
+                    "text": "And the Lord said unto me, Arise, take thy journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8102189083317154
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 22,
+                    "verse": 8,
+                    "text": "And many nations shall pass by this city, and they shall say every man to his neighbour, Wherefore hath the Lord done thus unto this great city?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8102035510693146
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 6,
+                    "verse": 14,
+                    "text": "But, behold, I will raise up against you a nation, O house of Israel, saith the Lord the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8101623212713182
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 10,
+                    "verse": 8,
+                    "text": "And it shall come to pass that they shall be gathered in from their long dispersion, from the isles of the sea, and from the four parts of the earth; and the nations of the Gentiles shall be great in the eyes of me, saith God, in carrying them forth to the lands of their inheritance.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809337047672907
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 33,
+                    "text": "Ye shall walk in all the ways which the Lord your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8091646930762023
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 6,
+                    "verse": 10,
+                    "text": "And it shall be, when the Lord thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081259192392468
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 23,
+                    "verse": 8,
+                    "text": "But, The Lord liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.807812972477828
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 14,
+                    "verse": 5,
+                    "text": "And ye shall flee to the valley of the mountains; for the valley of the mountains shall reach unto Azal: yea, ye shall flee, like as ye fled from before the earthquake in the days of Uzziah king of Judah: and the Lord my God shall come, and all the saints with thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8076346132038462
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 61,
+                    "verse": 24,
+                    "text": "Behold, I, the Lord, have appointed a way for the journeying of my saints; and behold, this is the way--that after they leave the canal they shall journey by land, inasmuch as they are commanded to journey and go up unto the land of Zion;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074338722545742
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 7,
+                    "verse": 1,
+                    "text": "When the Lord thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073182948469795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 3,
+                    "verse": 4,
+                    "text": "And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071297861585888
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 7,
+                    "verse": 14,
+                    "text": "In the morning therefore ye shall be brought according to your tribes: and it shall be, that the tribe which the Lord taketh shall come according to the families thereof; and the family which the Lord shall take shall come by households; and the household which the Lord shall take shall come man by man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8070005062817436
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "And many nations shall be joined to the Lord in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the Lord of hosts hath sent me unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067943920492258
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 6,
+                    "verse": 15,
+                    "text": "And they that are far off shall come and build in the temple of the Lord, and ye shall know that the Lord of hosts hath sent me unto you. And this shall come to pass, if ye will diligently obey the voice of the Lord your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067500638985412
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 32,
+                    "text": "And the sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion in the Lord's house, whose sons are ye; and also many whom I have called and sent forth to build up my church.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806501288527421
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 1,
+                    "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe and to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057728430724097
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 6,
+                    "text": "For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the Lord our God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057151670037894
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 50,
+                    "verse": 24,
+                    "text": "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805459471920276
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 34,
+                    "verse": 2,
+                    "text": "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054488479761427
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 32,
+                    "verse": 49,
+                    "text": "Get thee up into this mountain Abarim, unto mount Nebo, which is in the land of Moab, that is over against Jericho; and behold the land of Canaan, which I give unto the children of Israel for a possession:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053289404130963
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 103,
+                    "verse": 34,
+                    "text": "But verily I say unto you, a commandment I give unto you, that ye shall not go up unto the land of Zion until you have obtained a hundred of the strength of my house, to go up with you unto the land of Zion.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050585878041779
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 53,
+                    "text": "And the Lord said: Blessed is he through whose seed Messiah shall come; for he saith--I am Messiah, the King of Zion, the Rock of Heaven, which is broad as eternity; whoso cometh in at the gate and climbeth up by me shall never fall; wherefore, blessed are they of whom I have spoken, for they shall come forth with songs of everlasting joy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045607573302235
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 14,
+                    "verse": 12,
+                    "text": "Now therefore give me this mountain, whereof the Lord spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the Lord will be with me, then I shall be able to drive them out, as the Lord said.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8044415529054351
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 18,
+                    "verse": 7,
+                    "text": "In that time shall the present be brought unto the Lord of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the Lord of hosts, the mount Zion.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8043587071056885
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 27,
+                    "verse": 15,
+                    "text": "And it came to pass that Ammon said unto them: Behold, I and my brethren will go forth into the land of Zarahemla, and ye shall remain here until we return; and we will try the hearts of our brethren, whether they will that ye shall come into their land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040348264254921
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 31,
+                    "verse": 3,
+                    "text": "And the Lord said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039001618165734
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 4,
+                    "verse": 14,
+                    "text": "Come unto me, O ye house of Israel, and it shall be made manifest unto you how great things the Father hath laid up for you, from the foundation of the world; and it hath not come unto you, because of unbelief.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037690534248538
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 136,
+                    "verse": 1,
+                    "text": "The Word and Will of the Lord concerning the Camp of Israel in their journeyings to the West:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034858944203795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 6,
+                    "verse": 2,
+                    "text": "Hear ye, O mountains, the Lord's controversy, and ye strong foundations of the earth: for the Lord hath a controversy with his people, and he will plead with Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033973225503536
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 17,
+                    "text": "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033909438557344
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 17,
+                    "verse": 14,
+                    "text": "When thou art come unto the land which the Lord thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that are about me;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030178137417381
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 93,
+                    "verse": 53,
+                    "text": "And, verily I say unto you, that it is my will that you should hasten to translate my scriptures, and to obtain a knowledge of history, and of countries, and of kingdoms, of laws of God and man, and all this for the salvation of Zion. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026963693749012
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 3,
+                    "verse": 17,
+                    "text": "So shall ye know that I am the Lord your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024401888279427
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 12,
+                    "text": "And then, O house of Israel, behold, these shall come from far; and lo, these from the north and from the west; and these from the land of Sinim.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021536879943448
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 5,
+                    "text": "They shall ask the way to Zion with their faces thitherward, saying, Come, and let us join ourselves to the Lord in a perpetual covenant that shall not be forgotten.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020564275374793
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 41,
+                    "text": "Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015101544003153
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 15,
+                    "verse": 18,
+                    "text": "Speak unto the children of Israel, and say unto them, When ye come into the land whither I bring you,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015015056847836
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 1,
+                    "verse": 42,
+                    "text": "And when thou hast done this thou shalt go at the head of them down into the valley which is northward. And there will I meet thee, and I will go before thee into a land which is choice above all the lands of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013237778460557
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 17,
+                    "verse": 26,
+                    "text": "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801117379485595
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the Lord your God giveth you to possess it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009130706146745
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 28,
+                    "verse": 29,
+                    "text": "And it shall come to pass, when the Lord seeth fit in his wisdom that they shall minister unto all the scattered tribes of Israel, and unto all nations, kindreds, tongues and people, and shall bring out of them unto Jesus many souls, that their desire may be fulfilled, and also because of the convincing power of God which is in them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80035914902009
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 38,
+                    "verse": 20,
+                    "text": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000460259562957
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9492673338333038
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 3,
+                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9492673338333038
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 3,
+                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9876889292094645
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 3,
+                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9876889292094645
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, that the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9082135828797198
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9079906830776568
                 }
             ]
         },
@@ -180,84 +1360,94 @@
             "text": "And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 4,
+                    "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9776738603580045
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 12,
                     "verse": 4,
                     "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plow-shares, and their spears into pruning-hooks--nation shall not lift up sword against nation, neither shall they learn war any more.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.970090509045265
                 },
                 {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 19,
                     "verse": 15,
                     "text": "And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8042520607993792
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 9,
-                    "text": "And the world, because of their iniquity, shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, because of his loving kindness and his long-suffering towards the children of men.",
-                    "score": 0.7919715933186059
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 19,
-                    "text": "The weak things of the world shall come forth and break down the mighty and strong ones, that man should not counsel his fellow man, neither trust in the arm of flesh--",
-                    "score": 0.7857165800542213
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 45,
-                    "text": "So shall he sprinkle many nations; the kings shall shut their mouths at him, for that which had not been told them shall they see; and that which they had not heard shall they consider.",
-                    "score": 0.7851586668385944
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 23,
-                    "text": "And he enacteth laws, and sendeth them forth among his people, yea, laws after the manner of his own wickedness; and whosoever doth not obey his laws he causeth to be destroyed; and whosoever doth rebel against him he will send his armies against them to war, and if he can he will destroy them; and thus an unrighteous king doth pervert the ways of all righteousness.",
-                    "score": 0.7841046164094188
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 13,
-                    "text": "Their hand shall be lifted up upon their adversaries, and all their enemies shall be cut off.",
-                    "score": 0.7831146778084174
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
+                    "volume": "Old Testament",
+                    "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 11,
+                    "verse": 33,
+                    "text": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006266767460295
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 27,
+                    "verse": 8,
+                    "text": "And it shall come to pass, that the nation and kingdom which will not serve the same Nebuchadnezzar the king of Babylon, and that will not put their neck under the yoke of the king of Babylon, that nation will I punish, saith the Lord, with the sword, and with the famine, and with the pestilence, until I have consumed them by his hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005172410762643
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
                     "verse": 4,
-                    "text": "O Lord, do not suffer that this people shall be destroyed by the sword; but O Lord, rather let there be a famine in the land, to stir them up in remembrance of the Lord their God, and perhaps they will repent and turn unto thee.",
-                    "score": 0.7829493028245513
+                    "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9787428975105356
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 22,
-                    "text": "And whatsoever nation shall uphold such secret combinations, to get power and gain, until they shall spread over the nation, behold, they shall be destroyed; for the Lord will not suffer that the blood of his saints, which shall be shed by them, shall always cry unto him from the ground for vengeance upon them and yet he avenge them not.",
-                    "score": 0.7818758950643553
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 4,
+                    "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plow-shares, and their spears into pruning-hooks--nation shall not lift up sword against nation, neither shall they learn war any more.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9717614617063357
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 4,
+                    "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9948908677502108
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 17,
-                    "text": "Thy hand shall be lifted up upon thine adversaries, and all thine enemies shall be cut off.",
-                    "score": 0.7789463336325438
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 4,
+                    "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plow-shares, and their spears into pruning-hooks--nation shall not lift up sword against nation, neither shall they learn war any more.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9928918163784466
                 }
             ]
         },
@@ -266,84 +1456,144 @@
             "text": "But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the Lord of hosts hath spoken it.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 3,
+                    "verse": 10,
+                    "text": "In that day, saith the Lord of hosts, shall ye call every man his neighbour under the vine and under the fig tree.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8917782246622666
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 16,
+                    "text": "And the Lord God commanded the man, saying, Of every tree of the garden thou mayest freely eat:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8224873093855675
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 4,
+                    "verse": 25,
+                    "text": "And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer-sheba, all the days of Solomon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8214530221110925
+                },
+                {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 5,
                     "verse": 12,
                     "text": "And the Gods commanded the man, saying: Of every tree of the garden thou mayest freely eat,",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8165721866652342
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 3,
                     "verse": 16,
                     "text": "And I, the Lord God, commanded the man, saying: Of every tree of the garden thou mayest freely eat,",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8124693305284472
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 27,
+                    "verse": 18,
+                    "text": "Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8122264347755414
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 101,
                     "verse": 101,
                     "text": "They shall build, and another shall not inherit it; they shall plant vineyards, and they shall eat the fruit thereof. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8113926585767345
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 4,
                     "verse": 7,
                     "text": "And he said unto the woman: Yea, hath God said--Ye shall not eat of every tree of the garden? (And he spake by the mouth of the serpent.)",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.808696894183713
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 24,
                     "verse": 11,
                     "text": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the fields, saith the Lord of Hosts.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8052765686799127
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 3,
+                    "verse": 11,
+                    "text": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036273447535326
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 4,
                     "verse": 9,
                     "text": "But of the fruit of the tree which thou beholdest in the midst of the garden, God hath said--Ye shall not eat of it, neither shall ye touch it, lest ye die.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8035485556667086
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 6,
-                    "verse": 44,
-                    "text": "For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.",
-                    "score": 0.7993113339259738
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 25,
+                    "verse": 30,
+                    "text": "Therefore prophesy thou against them all these words, and say unto them, The Lord shall roar from on high, and utter his voice from his holy habitation; he shall mightily roar upon his habitation; he shall give a shout, as they that tread the grapes, against all the inhabitants of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023207560480187
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 52,
-                    "text": "And again I say unto you, the Spirit saith: Behold, the ax is laid at the root of the tree; therefore every tree that bringeth not forth good fruit shall be hewn down and cast into the fire, yea, a fire which cannot be consumed, even an unquenchable fire. Behold, and remember, the Holy One hath spoken it.",
-                    "score": 0.7916819488609892
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 3,
+                    "verse": 3,
+                    "text": "But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020339885068852
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 15,
-                    "verse": 13,
-                    "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.",
-                    "score": 0.7863329897668985
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 26,
-                    "verse": 28,
-                    "text": "Behold, hath the Lord commanded any that they should not partake of his goodness? Behold I say unto you, Nay; but all men are privileged the one like unto the other, and none are forbidden.",
-                    "score": 0.7860996319957267
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 3,
+                    "verse": 10,
+                    "text": "In that day, saith the Lord of hosts, shall ye call every man his neighbour under the vine and under the fig tree.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9000361859690604
                 }
             ]
         },
@@ -352,84 +1602,144 @@
             "text": "For all people will walk every one in the name of his god, and we will walk in the name of the Lord our God for ever and ever.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 26,
+                    "verse": 12,
+                    "text": "And I will walk among you, and will be your God, and ye shall be my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8298247756197544
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 14,
+                    "verse": 9,
+                    "text": "And the Lord shall be king over all the earth: in that day shall there be one Lord, and his name one.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8274477547510165
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 145,
+                    "verse": 2,
+                    "text": "Every day will I bless thee; and I will praise thy name for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8245974458163646
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 113,
+                    "verse": 2,
+                    "text": "Blessed be the name of the Lord from this time forth and for evermore.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8158813193008253
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 48,
+                    "verse": 14,
+                    "text": "For this God is our God for ever and ever: he will be our guide even unto death.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8142740206386403
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 72,
+                    "verse": 17,
+                    "text": "His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8126734387580289
+                },
+                {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 7,
                     "verse": 17,
                     "text": "But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8115888804224326
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 136,
                     "verse": 4,
                     "text": "And this shall be our covenant--that we will walk in all the ordinances of the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8113027295352141
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 17,
+                    "text": "I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087932025642159
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 145,
+                    "verse": 1,
+                    "text": "I will extol thee, my God, O king; and I will bless thy name for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8052993105635592
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 22,
                     "verse": 5,
                     "text": "For thy maker, thy husband, the Lord of Hosts is his name; and thy Redeemer, the Holy One of Israel--the God of the whole earth shall he be called.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8029269642406249
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "But that every man might speak in the name of God the Lord, even the Savior of the world;",
-                    "score": 0.7930213434694611
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 135,
+                    "verse": 13,
+                    "text": "Thy name, O Lord, endureth for ever; and thy memorial, O Lord, throughout all generations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013844034164976
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 22,
-                    "text": "Behold, it is my will, that all they who call on my name, and worship me according to mine everlasting gospel, should gather together, and stand in holy places;",
-                    "score": 0.7925221875996269
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 36,
-                    "text": "And the Lord God has spoken it; and honor, power and glory be rendered to his holy name, both now and ever. Amen.",
-                    "score": 0.7897263241358321
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 42,
                     "verse": 3,
-                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
-                    "score": 0.7863951673113315
+                    "text": "That the Lord thy God may shew us the way wherein we may walk, and the thing that we may do.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007546568550098
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 14,
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 10,
                     "verse": 12,
-                    "text": "So then every one of us shall give account of himself to God.",
-                    "score": 0.7835233045764569
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 17,
-                    "text": "That all the incomings of thy people, into this house, may be in the name of the Lord;",
-                    "score": 0.7831301603877735
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 26,
-                    "verse": 8,
-                    "text": "Blessed be the name of our God; let us sing to his praise, yea, let us give thanks to his holy name, for he doth work righteousness forever.",
-                    "score": 0.7822762846555069
+                    "text": "And I will strengthen them in the Lord; and they shall walk up and down in his name, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005911113579062
                 }
             ]
         },
@@ -438,84 +1748,74 @@
             "text": "In that day, saith the Lord, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8156443344200283
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 51,
+                    "verse": 52,
+                    "text": "Wherefore, behold, the days come, saith the Lord, that I will do judgment upon her graven images: and through all her land the wounded shall groan.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039494544293055
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 30,
+                    "verse": 8,
+                    "text": "For it shall come to pass in that day, saith the Lord of hosts, that I will break his yoke from off thy neck, and will burst thy bonds, and strangers shall no more serve themselves of him:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8031879908632923
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 6,
+                    "verse": 11,
+                    "text": "Therefore I am full of the fury of the Lord; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with him that is full of days.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025737939156178
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8019750027499333
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 24,
                     "verse": 3,
                     "text": "And it shall come to pass in that day that the Lord shall give thee rest, from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8008006630507446
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 39,
-                    "text": "Behold thou hast driven me out this day from the face of the Lord, and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that he that findeth me will slay me, because of mine iniquities, for these things are not hid from the Lord.",
-                    "score": 0.7992410179182706
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 105,
-                    "verse": 1,
-                    "text": "Verily I say unto you who have assembled yourselves together that you may learn my will concerning the redemption of mine afflicted people--",
-                    "score": 0.7967813870124197
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 27,
-                    "text": "And it shall come to pass in that day that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.",
-                    "score": 0.7942006620874478
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 54,
-                    "text": "And I command mine handmaid, Emma Smith, to abide and cleave unto my servant Joseph, and to none else. But if she will not abide this commandment she shall be destroyed, saith the Lord; for I am the Lord thy God, and will destroy her if she abide not in my law.",
-                    "score": 0.7937318372851395
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 16,
-                    "text": "Cursed are all those that shall lift up the heel against mine anointed, saith the Lord, and cry they have sinned when they have not sinned before me, saith the Lord, but have done that which was meet in mine eyes, and which I commanded them.",
-                    "score": 0.7933569426134875
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 1,
-                    "text": "Verily, thus saith the Lord unto you who have assembled yourselves together to receive his will concerning you:",
-                    "score": 0.7921620843979857
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
-                    "verse": 18,
-                    "text": "And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:",
-                    "score": 0.7915310852012657
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 44,
-                    "verse": 2,
-                    "text": "And it shall come to pass, that inasmuch as they are faithful, and exercise faith in me, I will pour out my Spirit upon them in the day that they assemble themselves together.",
-                    "score": 0.7914063399508948
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 28,
-                    "text": "I say unto you that I have caused that ye should assemble yourselves together that I might rid my garments of your blood, at this period of time when I am about to go down to my grave, that I might go down in peace, and my immortal spirit may join the choirs above in singing the praises of a just God.",
-                    "score": 0.7897601614304667
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9013824017915828
                 }
             ]
         },
@@ -524,84 +1824,44 @@
             "text": "And I will make her that halted a remnant, and her that was cast far off a strong nation: and the Lord shall reign over them in mount Zion from henceforth, even for ever.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 19,
+                    "verse": 31,
+                    "text": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the Lord of hosts shall do this.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117291324198149
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 37,
+                    "verse": 32,
+                    "text": "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the Lord of hosts shall do this.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117291324198149
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 97,
                     "verse": 19,
                     "text": "And the nations of the earth shall honor her, and shall say: Surely Zion is the city of our God, and surely Zion cannot fall, neither be moved out of her place, for God is there, and the hand of the Lord is there;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8078642404326017
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 9,
-                    "text": "And behold, and lo, this shall be their cry, and the voice of the Lord unto all people: Go ye forth unto the land of Zion, that the borders of my people may be enlarged, and that her stakes may be strengthened, and that Zion may go forth unto the regions round about.",
-                    "score": 0.7975941287919335
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 41,
-                    "text": "For, behold, I say unto you that Zion shall flourish, and the glory of the Lord shall be upon her;",
-                    "score": 0.797383193889669
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 51,
-                    "text": "But if they will not, make bare thine arm, O Lord, and redeem that which thou didst appoint a Zion unto thy people.",
-                    "score": 0.7947060118981428
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 14,
-                    "text": "And every nation which shall war against thee, O house of Israel, shall be turned one against another, and they shall fall into the pit which they digged to ensnare the people of the Lord. And all that fight against Zion shall be destroyed, and that great whore, who hath perverted the right ways of the Lord, yea, that great and abominable church, shall tumble to the dust and great shall be the fall of it.",
-                    "score": 0.7927717345034853
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 90,
-                    "verse": 36,
-                    "text": "But verily I say unto you, that I, the Lord, will contend with Zion, and plead with her strong ones, and chasten her until she overcomes and is clean before me.",
-                    "score": 0.791734037615036
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 67,
-                    "text": "And the glory of the Lord shall be there, and the terror of the Lord also shall be there, insomuch that the wicked will not come unto it, and it shall be called Zion.",
-                    "score": 0.7907178793357629
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 97,
-                    "verse": 18,
-                    "text": "And, now, behold, if Zion do these things she shall prosper, and spread herself and become very glorious, very great, and very terrible.",
-                    "score": 0.7900847142958083
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 13,
-                    "text": "Behold, this is the blessing which I have promised after your tribulations, and the tribulations of your brethren--your redemption, and the redemption of your brethren, even their restoration to the land of Zion, to be established, no more to be thrown down.",
-                    "score": 0.7878797532430317
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 35,
-                    "text": "And the rebellious shall be cut off out of the land of Zion, and shall be sent away, and shall not inherit the land.",
-                    "score": 0.7860310923058913
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 110,
+                    "verse": 2,
+                    "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042006057833083
                 }
             ]
         },
@@ -610,256 +1870,335 @@
             "text": "And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 1,
+                    "verse": 13,
+                    "text": "O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8150710377493364
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 10,
                     "verse": 31,
                     "text": "And awake, and arise from the dust, O Jerusalem; yea, and put on thy beautiful garments, O daughter of Zion; and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8141067948018231
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 13,
+                    "text": "Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the Lord, and their substance unto the Lord of the whole earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803630687638538
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 62,
+                    "verse": 11,
+                    "text": "Behold, the Lord hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036125405441931
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Lamentations",
+                    "volume_book_index": 25,
+                    "chapter": 2,
+                    "verse": 13,
+                    "text": "What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033611582669117
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 9,
+                    "verse": 9,
+                    "text": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027263403996852
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "Deliver thyself, O Zion, that dwellest with the daughter of Babylon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017683212524285
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 27,
+                    "text": "The first shall say to Zion, Behold, behold them: and I will give to Jerusalem one that bringeth good tidings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016818998336105
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 20,
                     "verse": 32,
                     "text": "As yet shall he remain at Nob that day; he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012829523098245
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 10,
+                    "verse": 32,
+                    "text": "As yet shall he remain at Nob that day: he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8012829523098245
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 46,
                     "text": "Verily, verily, I say unto you, all these things shall surely come, even as the Father hath commanded me. Then shall this covenant which the Father hath covenanted with his people be fulfilled; and then shall Jerusalem be inhabited again with my people, and it shall be the land of their inheritance.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8012102553875105
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 97,
-                    "verse": 19,
-                    "text": "And the nations of the earth shall honor her, and shall say: Surely Zion is the city of our God, and surely Zion cannot fall, neither be moved out of her place, for God is there, and the hand of the Lord is there;",
-                    "score": 0.7936791100753673
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 25,
-                    "text": "Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.",
-                    "score": 0.7936445589260865
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 37,
-                    "text": "Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.",
-                    "score": 0.7936445589260865
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 32,
-                    "text": "And there shall they fall down and be crowned with glory, even in Zion, by the hands of the servants of the Lord, even the children of Ephraim.",
-                    "score": 0.792752237003511
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
                     "verse": 10,
-                    "text": "And behold, he shall be born of Mary, at Jerusalem which is the land of our forefathers, she being a virgin, a precious and chosen vessel, who shall be overshadowed and conceive by the power of the Holy Ghost, and bring forth a son, yea, even the Son of God.",
-                    "score": 0.7916096550536954
+                    "text": "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the Lord shall redeem thee from the hand of thine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012084876624633
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 6,
-                    "text": "And now, these are the words: Thus saith the Lord God: Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people; and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.",
-                    "score": 0.7909128441036205
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 12,
-                    "verse": 22,
-                    "text": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,",
-                    "score": 0.7901482817875737
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
+                    "chapter": 3,
+                    "verse": 14,
+                    "text": "Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010786639263574
                 }
             ]
         },
         {
             "verse": 9,
             "text": "Now why dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 53,
-                    "text": "And then shall they weep because of their iniquities; then shall they lament because they persecuted their king.",
-                    "score": 0.772662098256061
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 20,
-                    "verse": 13,
-                    "text": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.",
-                    "score": 0.7712897733009231
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 33,
-                    "verse": 11,
-                    "text": "And thou didst hear me because of mine afflictions and my sincerity; and it is because of thy Son that thou hast been thus merciful unto me, therefore I will cry unto thee in all mine afflictions, for in thee is my joy; for thou hast turned thy judgments away from me, because of thy Son.",
-                    "score": 0.7707997362722867
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Galatians",
-                    "chapter": 4,
-                    "verse": 27,
-                    "text": "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
-                    "score": 0.7679654290862621
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 22,
-                    "verse": 6,
-                    "text": "For the Lord hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.",
-                    "score": 0.7667088120184218
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 33,
-                    "verse": 10,
-                    "text": "Yea, and thou hast also heard me when I have been cast out and have been despised by mine enemies; yea, thou didst hear my cries, and wast angry with mine enemies, and thou didst visit them in thine anger with speedy destruction.",
-                    "score": 0.7647011103163885
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 101,
-                    "text": "Therefore, let my servant William cry aloud and spare not, with joy and rejoicing, and with hosannas to him that sitteth upon the throne forever and ever, saith the Lord your God.",
-                    "score": 0.7640225275384427
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 17,
-                    "text": "My heart hath been weighed down with sorrow from time to time, for I have feared, lest for the hardness of your hearts the Lord your God should come out in the fulness of his wrath upon you, that ye be cut off and destroyed forever;",
-                    "score": 0.7616533592555922
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 15,
-                    "verse": 2,
-                    "text": "Yea, except ye repent, your women shall have great cause to mourn in the day that they shall give suck; for ye shall attempt to flee and there shall be no place for refuge; yea, and wo unto them which are with child, for they shall be heavy and cannot flee; therefore, they shall be trodden down and shall be left to perish.",
-                    "score": 0.7568450412117715
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 20,
-                    "verse": 15,
-                    "text": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.",
-                    "score": 0.7553962040935928
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 10,
             "text": "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the Lord shall redeem thee from the hand of thine enemies.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "Deliver thyself, O Zion, that dwellest with the daughter of Babylon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.850697161098038
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Lamentations",
+                    "volume_book_index": 25,
+                    "chapter": 4,
+                    "verse": 22,
+                    "text": "The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8408967366853889
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 1,
+                    "verse": 13,
+                    "text": "O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8345394091118944
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 51,
+                    "verse": 6,
+                    "text": "Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the Lord's vengeance; he will render unto her a recompence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.824154728658923
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 10,
+                    "text": "Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8177709585907809
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Amos",
+                    "volume_book_index": 30,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "Therefore thus saith the Lord; Thy wife shall be an harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die in a polluted land: and Israel shall surely go into captivity forth of his land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166519937425281
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 13,
+                    "text": "Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the Lord, and their substance unto the Lord of the whole earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8154593541882288
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 10,
                     "verse": 31,
                     "text": "And awake, and arise from the dust, O Jerusalem; yea, and put on thy beautiful garments, O daughter of Zion; and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8134655211844919
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 9,
                     "verse": 6,
                     "text": "And now, my beloved son, notwithstanding their hardness, let us labor diligently; for if we should cease to labor, we should be brought under condemnation; for we have a labor to perform whilst in this tabernacle of clay, that we may conquer the enemy of all righteousness, and rest our souls in the kingdom of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8065649220346022
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 52,
+                    "verse": 2,
+                    "text": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023824920731962
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 4,
+                    "verse": 31,
+                    "text": "For I have heard a voice as of a woman in travail, and the anguish as of her that bringeth forth her first child, the voice of the daughter of Zion, that bewaileth herself, that spreadeth her hands, saying, Woe is me now! for my soul is wearied because of murderers.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020239437493828
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 46,
+                    "verse": 19,
+                    "text": "O thou daughter dwelling in Egypt, furnish thyself to go into captivity: for Noph shall be waste and desolate without an inhabitant.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80156814318629
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 51,
+                    "verse": 33,
+                    "text": "For thus saith the Lord of hosts, the God of Israel; The daughter of Babylon is like a threshingfloor, it is time to thresh her: yet a little while, and the time of her harvest shall come.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014902372651165
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 8,
+                    "text": "And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012084876624633
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 110,
+                    "verse": 2,
+                    "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80074957402023
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Lamentations",
+                    "volume_book_index": 25,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "Zion spreadeth forth her hands, and there is none to comfort her: the Lord hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006774053933511
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 8,
                     "verse": 25,
                     "text": "Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8004333104804896
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 37,
                     "text": "Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8004333104804896
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 3,
-                    "text": "For the Lord shall comfort Zion, he will comfort all her waste places; and he will make her wilderness like Eden, and her desert like the garden of the Lord. Joy and gladness shall be found therein, thanksgiving and the voice of melody.",
-                    "score": 0.7999061011807991
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 39,
-                    "text": "And whatsoever city thy servants shall enter, and the people of that city receive their testimony, let thy peace and thy salvation be upon that city; that they may gather out of that city the righteous, that they may come forth to Zion, or to her stakes, the places of thine appointment, with songs of everlasting joy;",
-                    "score": 0.7993734910347318
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 15,
-                    "verse": 2,
-                    "text": "Yea, except ye repent, your women shall have great cause to mourn in the day that they shall give suck; for ye shall attempt to flee and there shall be no place for refuge; yea, and wo unto them which are with child, for they shall be heavy and cannot flee; therefore, they shall be trodden down and shall be left to perish.",
-                    "score": 0.7989224739226773
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 97,
-                    "verse": 21,
-                    "text": "Therefore, verily, thus saith the Lord, let Zion rejoice, for this is Zion--the pure in heart; therefore, let Zion rejoice, while all the wicked shall mourn.",
-                    "score": 0.7946727110480202
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 26,
-                    "text": "And lo, I am with thee, even unto the end of thy days; for thou shalt deliver my people from bondage, even Israel my chosen.",
-                    "score": 0.7937339898281991
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 24,
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
                     "verse": 7,
-                    "text": "For thou shalt devote all thy service in Zion; and in this thou shalt have strength.",
-                    "score": 0.7936980189633844
+                    "text": "Deliver thyself, O Zion, that dwellest with the daughter of Babylon.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.915859893108627
                 }
             ]
         },
@@ -868,172 +2207,31 @@
             "text": "Now also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 129,
+                    "verse": 5,
+                    "text": "Let them all be confounded and turned back that hate Zion.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8130575928654297
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 115,
                     "verse": 6,
                     "text": "And that the gathering together upon the land of Zion, and upon her stakes, may be for a defense, and for a refuge from the storm, and from wrath when it shall be poured out without mixture upon the whole earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8009477048517566
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 70,
-                    "text": "And it shall be said among the wicked: Let us not go up to battle against Zion, for the inhabitants of Zion are terrible; wherefore we cannot stand.",
-                    "score": 0.7985397280535161
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 14,
-                    "text": "And every nation which shall war against thee, O house of Israel, shall be turned one against another, and they shall fall into the pit which they digged to ensnare the people of the Lord. And all that fight against Zion shall be destroyed, and that great whore, who hath perverted the right ways of the Lord, yea, that great and abominable church, shall tumble to the dust and great shall be the fall of it.",
-                    "score": 0.7970636104634528
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 16,
-                    "text": "Wherefore, he that fighteth against Zion, both Jew and Gentile, both bond and free, both male and female, shall perish; for they are they who are the whore of all the earth; for they who are not for me are against me, saith our God.",
-                    "score": 0.7919946937404595
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "And after they have hardened their hearts and stiffened their necks against the Holy One of Israel, behold, the judgments of the Holy One of Israel shall come upon them. And the day cometh that they shall be smitten and afflicted.",
-                    "score": 0.7899243962972836
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 111,
-                    "verse": 6,
-                    "text": "Concern not yourselves about Zion, for I will deal mercifully with her.",
-                    "score": 0.7858220394420421
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 13,
-                    "text": "And as for those who are at Jerusalem, saith the prophet, they shall be scourged by all people, because they crucify the God of Israel, and turn their hearts aside, rejecting signs and wonders, and the power and glory of the God of Israel.",
-                    "score": 0.7856598869304028
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 14,
-                    "text": "And because they turn their hearts aside, saith the prophet, and have despised the Holy One of Israel, they shall wander in the flesh, and perish, and become a hiss and a byword, and be hated among all nations.",
-                    "score": 0.7844413583855746
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 13,
-                    "text": "And he that fighteth against Zion shall perish, saith God.",
-                    "score": 0.783817112712184
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 5,
-                    "text": "And since they have been led away, these things have been prophesied concerning them, and also concerning all those who shall hereafter be scattered and be confounded, because of the Holy One of Israel; for against him will they harden their hearts; wherefore, they shall be scattered among all nations and shall be hated of all men.",
-                    "score": 0.7817976943780264
                 }
             ]
         },
         {
             "verse": 12,
             "text": "But they know not the thoughts of the Lord, neither understand they his counsel: for he shall gather them as the sheaves into the floor.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 17,
-                    "text": "Now they knew not that Amulek could know of their designs. But it came to pass as they began to question him, he perceived their thoughts, and he said unto them: O ye wicked and perverse generation, ye lawyers and hypocrites, for ye are laying the foundations of the devil; for ye are laying traps and snares to catch the holy ones of God.",
-                    "score": 0.7781866975890323
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 25,
-                    "text": "For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.",
-                    "score": 0.7771934416480801
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 12,
-                    "verse": 46,
-                    "text": "The lord of that servant will come in a day when he looketh not for him, and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.",
-                    "score": 0.7765963478013613
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 8,
-                    "verse": 20,
-                    "text": "O how marvelous are the works of the Lord, and how long doth he suffer with his people; yea, and how blind and impenetrable are the understandings of the children of men; for they will not seek wisdom, neither do they desire that she should rule over them!",
-                    "score": 0.7751986822221274
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 27,
-                    "text": "And wo unto them that seek deep to hide their counsel from the Lord! And their works are in the dark; and they say: Who seeth us, and who knoweth us? And they also say: Surely, your turning of things upside down shall be esteemed as the potter's clay. But behold, I will show unto them, saith the Lord of Hosts, that I know all their works. For shall the work say of him that made it, he made me not? Or shall the thing framed say of him that framed it, he had no understanding?",
-                    "score": 0.7729194011442898
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 18,
-                    "text": "And he saith unto them, Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him;",
-                    "score": 0.7729193870616385
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 14,
-                    "verse": 16,
-                    "text": "Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?",
-                    "score": 0.7702351554735271
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 48,
-                    "text": "Wherefore, the end, the width, the height, the depth, and the misery thereof, they understand not, neither any man except those who are ordained unto this condemnation.",
-                    "score": 0.7646027758685356
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "James",
-                    "chapter": 1,
-                    "verse": 7,
-                    "text": "For let not that man think that he shall receive any thing of the Lord.",
-                    "score": 0.7621254090891989
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 50,
-                    "text": "And they understood not the saying which he spake unto them.",
-                    "score": 0.7608841424145394
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 13,
@@ -1042,82 +2240,262 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 19,
                     "text": "For I will make my people with whom the Father hath covenanted, yea, I will make thy horn iron, and I will make thy hoofs brass. And thou shalt beat in pieces many people; and I will consecrate their gain unto the Lord, and their substance unto the Lord of the whole earth. And behold, I am he who doeth it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9100489304543673
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 10,
                     "verse": 31,
                     "text": "And awake, and arise from the dust, O Jerusalem; yea, and put on thy beautiful garments, O daughter of Zion; and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8362858511894046
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 2,
+                    "verse": 1,
+                    "text": "Blow ye the trumpet in Zion, and sound an alarm in my holy mountain: let all the inhabitants of the land tremble: for the day of the Lord cometh, for it is nigh at hand;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8207421098271238
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 11,
                     "text": "Awake, O kings of the earth! Come ye, O, come ye, with your gold and your silver, to the help of my people, to the house of the daughters of Zion.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8183660355917411
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 8,
-                    "verse": 25,
-                    "text": "Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.",
-                    "score": 0.8134969824491992
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
+                    "chapter": 3,
+                    "verse": 14,
+                    "text": "Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8168232955012127
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 10,
+                    "verse": 2,
+                    "text": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8165318060355948
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 62,
+                    "verse": 11,
+                    "text": "Behold, the Lord hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his work before him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8157777748677012
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the Lord shall redeem thee from the hand of thine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8154593541882288
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 2,
+                    "verse": 10,
+                    "text": "Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148032106295727
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 15,
+                    "text": "Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8135270421218063
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 20,
                     "verse": 37,
                     "text": "Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8134969824491992
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 25,
+                    "text": "Shake thyself from the dust; arise, sit down, O Jerusalem; loose thyself from the bands of thy neck, O captive daughter of Zion.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134969824491992
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 52,
+                    "verse": 2,
+                    "text": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8129664714090419
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 64,
                     "verse": 41,
                     "text": "For, behold, I say unto you that Zion shall flourish, and the glory of the Lord shall be upon her;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8125969769185771
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 32,
                     "text": "And the sons of Moses and of Aaron shall be filled with the glory of the Lord, upon Mount Zion in the Lord's house, whose sons are ye; and also many whom I have called and sent forth to build up my church.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8124501537376599
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 1,
+                    "verse": 13,
+                    "text": "O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8104792076801902
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 1,
                     "verse": 43,
                     "text": "And there will I bless thee and thy seed, and raise up unto me of thy seed, and of the seed of thy brother, and they who shall go with thee, a great nation. And there shall be none greater than the nation which I will raise up unto me of thy seed, upon all the face of the earth. And thus I will do unto thee because this long time ye have cried unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8096674279089039
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 146,
+                    "verse": 10,
+                    "text": "The Lord shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095625551208123
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 5,
                     "verse": 18,
                     "text": "That these plates of brass should go forth unto all nations, kindreds, tongues, and people who were of his seed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8071281983361579
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 60,
-                    "verse": 4,
-                    "text": "For I, the Lord, rule in the heavens above, and among the armies of the earth; and in the day when I shall make up my jewels, all men shall know what it is that bespeaketh the power of God.",
-                    "score": 0.7994382503242429
+                    "verse": 17,
+                    "text": "For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8070558155190886
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 9,
+                    "verse": 9,
+                    "text": "Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065182597975167
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 12,
+                    "text": "Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the Lord, for wheat, and for wine, and for oil, and for the young of the flock and of the herd: and their soul shall be as a watered garden; and they shall not sorrow any more at all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051881614626731
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 8,
+                    "text": "And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803630687638538
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 40,
+                    "verse": 9,
+                    "text": "O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012601451138374
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 19,
+                    "text": "For I will make my people with whom the Father hath covenanted, yea, I will make thy horn iron, and I will make thy hoofs brass. And thou shalt beat in pieces many people; and I will consecrate their gain unto the Lord, and their substance unto the Lord of the whole earth. And behold, I am he who doeth it.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8506518780408111
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 19,
+                    "text": "For I will make my people with whom the Father hath covenanted, yea, I will make thy horn iron, and I will make thy hoofs brass. And thou shalt beat in pieces many people; and I will consecrate their gain unto the Lord, and their substance unto the Lord of the whole earth. And behold, I am he who doeth it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9462300788965929
                 }
             ]
         }

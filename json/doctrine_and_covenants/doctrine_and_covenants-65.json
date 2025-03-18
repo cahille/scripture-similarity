@@ -10,82 +10,202 @@
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 3,
                     "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8227629263291331
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "Wherefore the voice of the Lord is unto the ends of the earth, that all that will hear may hear:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.821343569983161
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 3,
                     "verse": 3,
                     "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8203092683938068
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 18,
                     "verse": 19,
                     "text": "Give heed to me, O Lord, and hearken to the voice of them that contend with me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8132422382152861
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 68,
                     "verse": 33,
                     "text": "To him that rideth upon the heavens of heavens, which were of old; lo, he doth send out his voice, and that a mighty voice.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8131189437232194
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 28,
                     "verse": 1,
                     "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe and to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8082401434825515
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Micah",
+                    "volume_book_index": 33,
                     "chapter": 6,
                     "verse": 1,
                     "text": "Hear ye now what the Lord saith; Arise, contend thou before the mountains, and let the hills hear thy voice.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8068203238533448
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 1,
+                    "text": "Hearken, O ye people of my church, saith the voice of him who dwells on high, and whose eyes are upon all men; yea, verily I say: Hearken ye people from afar; and ye that are upon the islands of the sea, listen together.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035832967574539
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 16,
+                    "text": "Hearken and hear, O ye inhabitants of the earth. Listen, ye elders of my church together, and hear the voice of the Lord; for he calleth upon all men, and he commandeth all men everywhere to repent.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026828944787573
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 3,
+                    "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9189245523624989
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 1,
+                    "text": "Hearken, O ye people of my church, saith the voice of him who dwells on high, and whose eyes are upon all men; yea, verily I say: Hearken ye people from afar; and ye that are upon the islands of the sea, listen together.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.914125583838724
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 3,
+                    "verse": 3,
+                    "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9095361069536247
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 3,
                     "verse": 4,
                     "text": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
-                    "score": 0.7985887380151084
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 26,
-                    "verse": 16,
-                    "text": "For those who shall be destroyed shall speak unto them out of the ground, and their speech shall be low out of the dust, and their voice shall be as one that hath a familiar spirit; for the Lord God will give unto him power, that he may whisper concerning them, even as it were out of the ground; and their speech shall whisper out of the dust.",
-                    "score": 0.7960509219892327
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9082271727391239
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
-                    "chapter": 29,
-                    "verse": 4,
-                    "text": "And thou shalt be brought down, and shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.",
-                    "score": 0.7951209144747476
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 40,
                     "verse": 3,
                     "text": "The voice of him that crieth in the wilderness, Prepare ye the way of the Lord, make straight in the desert a highway for our God.",
-                    "score": 0.7917270605491915
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9073444875283391
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 17,
+                    "text": "For behold, the Lord God hath sent forth the angel crying through the midst of heaven, saying: Prepare ye the way of the Lord, and make his paths straight, for the hour of his coming is nigh--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9071408780557183
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "Wherefore the voice of the Lord is unto the ends of the earth, that all that will hear may hear:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9060240545904754
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 43,
+                    "verse": 23,
+                    "text": "And again, the Lord shall utter his voice out of heaven, saying: Hearken, O ye nations of the earth, and hear the words of that God who made you.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9047901900050105
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 63,
+                    "verse": 1,
+                    "text": "Hearken, O ye people, and open your hearts and give ear from afar; and listen, you that call yourselves the people of the Lord, and hear the word of the Lord and his will concerning you.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9044052574996885
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 16,
+                    "text": "Hearken and hear, O ye inhabitants of the earth. Listen, ye elders of my church together, and hear the voice of the Lord; for he calleth upon all men, and he commandeth all men everywhere to repent.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020493895426215
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 72,
+                    "verse": 1,
+                    "text": "Hearken, and listen to the voice of the Lord, O ye who have assembled yourselves together, who are the high priests of my church, to whom the kingdom and power have been given.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9011625555712938
                 }
             ]
         },
@@ -96,82 +216,62 @@
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 16,
                     "verse": 19,
                     "text": "And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8375001032456644
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 27,
+                    "verse": 13,
+                    "text": "Unto whom I have committed the keys of my kingdom, and a dispensation of the gospel for the last times; and for the fulness of times, in the which I will gather together in one all things, both which are in heaven, and which are on earth;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8288070143734232
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 90,
+                    "verse": 2,
+                    "text": "Therefore, thou art blessed from henceforth that bear the keys of the kingdom given unto you; which kingdom is coming forth for the last time.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170302901177837
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 11,
                     "verse": 41,
                     "text": "Therefore, go forth unto this people, and declare the words which I have spoken, unto the ends of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8058215987938357
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
+                    "verse": 9,
+                    "text": "This earth, in its sanctified and immortal state, will be made like unto crystal and will be a Urim and Thummim to the inhabitants who dwell thereon, whereby all things pertaining to an inferior kingdom, or all kingdoms of a lower order, will be manifest to those who dwell on it; and this earth will be Christ's.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801211184166062
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 4,
                     "verse": 18,
                     "text": "Therefore, repent all ye ends of the earth, and come unto me, and believe in my gospel, and be baptized in my name; for he that believeth and is baptized shall be saved; but he that believeth not shall be damned; and signs shall follow them that believe in my name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8002373603895545
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 5,
-                    "verse": 23,
-                    "text": "Know ye not that ye are in the hands of God? Know ye not that he hath all power, and at his great command the earth shall be rolled together as a scroll?",
-                    "score": 0.794937780582793
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 1,
-                    "verse": 15,
-                    "text": "And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.",
-                    "score": 0.794597353320859
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 18,
-                    "verse": 10,
-                    "text": "When ye go, ye shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where there is no want of any thing that is in the earth.",
-                    "score": 0.7889544821767885
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 24,
-                    "verse": 14,
-                    "text": "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.",
-                    "score": 0.7880431391399463
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 43,
-                    "text": "Therefore say I unto you, The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof.",
-                    "score": 0.7847382184950917
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 14,
-                    "verse": 26,
-                    "text": "This is the purpose that is purposed upon the whole earth: and this is the hand that is stretched out upon all the nations.",
-                    "score": 0.7828052156762184
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
-                    "score": 0.7825797919034202
                 }
             ]
         },
@@ -180,84 +280,134 @@
             "text": "Yea, a voice crying--Prepare ye the way of the Lord, prepare ye the supper of the Lamb, make ready for the Bridegroom.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 10,
+                    "text": "Yea, let the cry go forth among all people: Awake and arise and go forth to meet the Bridegroom; behold and lo, the Bridegroom cometh; go ye out to meet him. Prepare yourselves for the great day of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8354123578295775
+                },
+                {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 1,
                     "verse": 3,
                     "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8268657090386227
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 88,
+                    "verse": 92,
+                    "text": "And angels shall fly through the midst of heaven, crying with a loud voice, sounding the trump of God, saying: Prepare ye, prepare ye, O inhabitants of the earth; for the judgment of our God is come. Behold, and lo, the Bridegroom cometh; go ye out to meet him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8223243333511675
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 141,
                     "verse": 1,
                     "text": "Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8146159789434264
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 17,
+                    "text": "For behold, the Lord God hath sent forth the angel crying through the midst of heaven, saying: Prepare ye the way of the Lord, and make his paths straight, for the hour of his coming is nigh--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081490916618371
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 39,
+                    "verse": 19,
+                    "text": "Wherefore, go forth, crying with a loud voice, saying: The kingdom of heaven is at hand; crying: Hosanna! blessed be the name of the Most High God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8068787194361546
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 3,
                     "verse": 3,
                     "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8056723419840819
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 3,
                     "verse": 4,
                     "text": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8049101270943259
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 88,
-                    "verse": 2,
-                    "text": "Let my prayer come before thee: incline thine ear unto my cry;",
-                    "score": 0.799023500296014
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 7,
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
                     "verse": 10,
-                    "text": "And cried with a loud voice, saying, Salvation to our God which sitteth upon the throne, and unto the Lamb.",
-                    "score": 0.7977604922333045
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zephaniah",
-                    "chapter": 1,
-                    "verse": 14,
-                    "text": "The great day of the Lord is near, it is near, and hasteth greatly, even the voice of the day of the Lord: the mighty man shall cry there bitterly.",
-                    "score": 0.7973430930423572
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 169,
-                    "text": "Let my cry come near before thee, O Lord: give me understanding according to thy word.",
-                    "score": 0.7966355222711743
+                    "text": "Yea, let the cry go forth among all people: Awake and arise and go forth to meet the Bridegroom; behold and lo, the Bridegroom cometh; go ye out to meet him. Prepare yourselves for the great day of the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9106704645950118
                 },
                 {
                     "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 7,
-                    "verse": 17,
-                    "text": "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.",
-                    "score": 0.794230442798252
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 1,
+                    "verse": 3,
+                    "text": "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.907924234867154
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 5,
-                    "verse": 2,
-                    "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.",
-                    "score": 0.7926291739470693
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 12,
+                    "text": "Prepare ye, prepare ye for that which is to come, for the Lord is nigh;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9077892083619202
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 19,
+                    "text": "Wherefore, prepare ye for the coming of the Bridegroom; go ye, go ye out to meet him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041308474930683
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 17,
+                    "text": "For behold, the Lord God hath sent forth the angel crying through the midst of heaven, saying: Prepare ye the way of the Lord, and make his paths straight, for the hour of his coming is nigh--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9019908133728911
                 }
             ]
         },
@@ -268,82 +418,462 @@
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 16,
                     "verse": 8,
                     "text": "Give thanks unto the Lord, call upon his name, make known his deeds among the people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8976219796378866
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 105,
                     "verse": 1,
                     "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8964724904924961
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 66,
                     "verse": 8,
                     "text": "O bless our God, ye people, and make the voice of his praise to be heard:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8446978478077118
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 26,
                     "verse": 8,
                     "text": "Blessed be the name of our God; let us sing to his praise, yea, let us give thanks to his holy name, for he doth work righteousness forever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8416498543114143
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 12,
                     "verse": 4,
                     "text": "And in that day shall ye say, Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8373044337291444
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 4,
                     "text": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8373044337291444
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 66,
                     "verse": 2,
                     "text": "Sing forth the honour of his name: make his praise glorious.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8294010800958745
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 13,
                     "verse": 9,
                     "text": "After this manner therefore pray ye: Our Father who art in heaven, hallowed be thy name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8272188739746864
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 68,
                     "verse": 4,
                     "text": "Sing unto God, sing praises to his name: extol him that rideth upon the heavens by his name Jah, and rejoice before him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8264178013614335
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 9,
                     "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8221786175055442
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Helaman",
+                    "volume_book_index": 10,
+                    "chapter": 3,
+                    "verse": 27,
+                    "text": "Thus we may see that the Lord is merciful unto all who will, in the sincerity of their hearts, call upon his holy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8172437585264712
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 3,
+                    "text": "Glory ye in his holy name: let the heart of them rejoice that seek the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166971887608181
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 10,
+                    "text": "Glory ye in his holy name: let the heart of them rejoice that seek the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166971887608181
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 24,
+                    "text": "Declare his glory among the heathen; his marvellous works among all nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8159541576389411
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 3,
+                    "text": "Declare his glory among the heathen, his wonders among all people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151086783143149
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 29,
+                    "verse": 2,
+                    "text": "Give unto the Lord the glory due unto his name; worship the Lord in the beauty of holiness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8146819826747805
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Romans",
+                    "volume_book_index": 6,
+                    "chapter": 10,
+                    "verse": 13,
+                    "text": "For whosoever shall call upon the name of the Lord shall be saved.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087193969475468
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 29,
+                    "text": "Give unto the Lord the glory due unto his name: bring an offering, and come before him: worship the Lord in the beauty of holiness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074406189747079
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 106,
+                    "verse": 47,
+                    "text": "Save us, O Lord our God, and gather us from among the heathen, to give thanks unto thy holy name, and to triumph in thy praise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8066199499711778
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 145,
+                    "verse": 10,
+                    "text": "All thy works shall praise thee, O Lord; and thy saints shall bless thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057175979786128
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 103,
+                    "verse": 1,
+                    "text": "Bless the Lord, O my soul: and all that is within me, bless his holy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805589197503983
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 99,
+                    "verse": 3,
+                    "text": "Let them praise thy great and terrible name; for it is holy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055148090090782
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 75,
+                    "verse": 1,
+                    "text": "Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036519151972003
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 49,
+                    "text": "Therefore will I give thanks unto thee, O Lord, among the heathen, and sing praises unto thy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035420374096186
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 49,
+                    "text": "For he that is mighty hath done to me great things; and holy is his name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033947531550403
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 67,
+                    "verse": 3,
+                    "text": "Let the people praise thee, O God; let all the people praise thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029357992280651
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 67,
+                    "verse": 5,
+                    "text": "Let the people praise thee, O God; let all the people praise thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029357992280651
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 11,
+                    "verse": 2,
+                    "text": "And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017493714973835
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 9,
+                    "verse": 52,
+                    "text": "Behold, my beloved brethren, remember the words of your God; pray unto him continually by day, and give thanks unto his holy name by night. Let your hearts rejoice.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005170484858963
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "Give thanks unto the Lord, call upon his name, make known his deeds among the people.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8383423782382993
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 1,
+                    "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8282549585992147
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "Give thanks unto the Lord, call upon his name, make known his deeds among the people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9636069801694439
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 1,
+                    "text": "O give thanks unto the Lord; call upon his name: make known his deeds among the people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9548820880125861
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 4,
+                    "text": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9225958585739201
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 12,
+                    "verse": 4,
+                    "text": "And in that day shall ye say, Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9225958585739201
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Sing praises to the Lord, which dwelleth in Zion: declare among the people his doings.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9183684490166246
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 3,
+                    "text": "Declare his glory among the heathen, his wonders among all people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9109585232113928
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 2,
+                    "text": "Sing unto the Lord, bless his name; shew forth his salvation from day to day.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9107331851780286
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 24,
+                    "text": "Declare his glory among the heathen; his marvellous works among all nations.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9044306433842549
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 105,
+                    "verse": 2,
+                    "text": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041167709931829
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 9,
+                    "text": "Sing unto him, sing psalms unto him, talk ye of all his wondrous works.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041109027928668
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 29,
+                    "verse": 2,
+                    "text": "Give unto the Lord the glory due unto his name; worship the Lord in the beauty of holiness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9021708965301578
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 29,
+                    "text": "Give unto the Lord the glory due unto his name: bring an offering, and come before him: worship the Lord in the beauty of holiness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901308655738837
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 117,
+                    "verse": 1,
+                    "text": "O praise the Lord, all ye nations: praise him, all ye people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9008521496741827
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 22,
+                    "verse": 5,
+                    "text": "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005904734486639
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "Sing unto the Lord; for he hath done excellent things: this is known in all the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005904734486639
                 }
             ]
         },
@@ -352,84 +882,434 @@
             "text": "Call upon the Lord, that his kingdom may go forth upon the earth, that the inhabitants thereof may receive it, and be prepared for the days to come, in the which the Son of Man shall come down in heaven, clothed in the brightness of his glory, to meet the kingdom of God which is set up on the earth.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 65,
+                    "verse": 6,
+                    "text": "Wherefore, may the kingdom of God go forth, that the kingdom of heaven may come, that thou, O God, mayest be glorified in heaven so on earth, that thine enemies may be subdued; for thine is the honor, power and glory, forever and ever. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8291431018267147
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 50,
                     "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8276589142864527
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 10,
                     "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8275121346859434
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 23,
                     "verse": 5,
                     "text": "Behold, the days come, saith the Lord, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8192783873108622
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 43,
+                    "verse": 29,
+                    "text": "For in mine own due time will I come upon the earth in judgment, and my people shall be redeemed and shall reign with me on earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166332954004029
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 50,
                     "verse": 4,
                     "text": "He shall call to the heavens from above, and to the earth, that he may judge his people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8156881187208491
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--Matthew",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 26,
                     "text": "For as the light of the morning cometh out of the east, and shineth even unto the west, and covereth the whole earth, so shall also the coming of the Son of Man be.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8146434881234881
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 40,
+                    "text": "Calling upon the name of the Lord day and night, saying: O that thou wouldst rend the heavens, that thou wouldst come down, that the mountains might flow down at thy presence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8143250474289438
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 7,
                     "verse": 62,
                     "text": "And righteousness will I send down out of heaven; and truth will I send forth out of the earth, to bear testimony of mine Only Begotten; his resurrection from the dead; yea, and also the resurrection of all men; and righteousness and truth will I cause to sweep the earth as with a flood, to gather out mine elect from the four quarters of the earth, unto a place which I shall prepare, an Holy City, that my people may gird up their loins, and be looking forth for the time of my coming; for there shall be my tabernacle, and it shall be called Zion, a New Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8138366194082662
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 11,
                     "verse": 21,
                     "text": "That your days may be multiplied, and the days of your children, in the land which the Lord sware unto your fathers to give them, as the days of heaven upon the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8119855785008387
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "Wherefore, I the Lord, knowing the calamity which should come upon the inhabitants of the earth, called upon my servant Joseph Smith, Jun., and spake unto him from heaven, and gave him commandments;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8114880455046545
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 4,
                     "verse": 19,
                     "text": "And blessed is he that is found faithful unto my name at the last day, for he shall be lifted up to dwell in the kingdom prepared for him from the foundation of the world. And behold it is I that hath spoken it. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8107756886179568
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Hosea",
+                    "volume_book_index": 28,
                     "chapter": 6,
                     "verse": 3,
                     "text": "Then shall we know, if we follow on to know the Lord: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8105828260773574
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Zechariah",
+                    "volume_book_index": 38,
                     "chapter": 2,
                     "verse": 11,
                     "text": "And many nations shall be joined to the Lord in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the Lord of hosts hath sent me unto thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8097259269851098
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Daniel",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 44,
+                    "text": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095066068072307
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 104,
+                    "verse": 59,
+                    "text": "For the purpose of building up my church and kingdom on the earth, and to prepare my people for the time when I shall dwell with them, which is nigh at hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8089384195611576
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "Specially the day that thou stoodest before the Lord thy God in Horeb, when the Lord said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and that they may teach their children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8088274697159413
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 61,
+                    "text": "And the day shall come that the earth shall rest, but before that day the heavens shall be darkened, and a veil of darkness shall cover the earth; and the heavens shall shake, and also the earth; and great tribulations shall be among the children of men, but my people will I preserve;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8073861203452093
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 5,
+                    "verse": 4,
+                    "text": "And he shall stand and feed in the strength of the Lord, in the majesty of the name of the Lord his God; and they shall abide: for now shall he be great unto the ends of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8068570778987427
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 9,
+                    "verse": 22,
+                    "text": "Therefore, whoso repenteth and cometh unto me as a little child, him will I receive, for of such is the kingdom of God. Behold, for such I have laid down my life, and have taken it up again; therefore repent, and come unto me ye ends of the earth, and be saved.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806835220177502
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 101,
+                    "verse": 65,
+                    "text": "Therefore, I must gather together my people, according to the parable of the wheat and the tares, that the wheat may be secured in the garners to possess eternal life, and be crowned with celestial glory, when I shall come in the kingdom of my Father to reward every man according as his work shall be;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8066823177504404
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 24,
+                    "verse": 21,
+                    "text": "And it shall come to pass in that day, that the Lord shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8061963297159843
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 71,
+                    "verse": 4,
+                    "text": "Wherefore, labor ye in my vineyard. Call upon the inhabitants of the earth, and bear record, and prepare the way for the commandments and revelations which are to come.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057865763591727
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 1,
+                    "text": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the Lord thy God, to observe and to do all his commandments which I command thee this day, that the Lord thy God will set thee on high above all nations of the earth:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051206933231492
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 26,
+                    "verse": 14,
+                    "text": "But behold, I prophesy unto you concerning the last days; concerning the days when the Lord God shall bring these things forth unto the children of men.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047405601338786
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 30,
+                    "text": "And then shall appear the sign of the Son of man in heaven: and then shall all the tribes of the earth mourn, and they shall see the Son of man coming in the clouds of heaven with power and great glory.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039662766732493
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 60,
+                    "verse": 2,
+                    "text": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the Lord shall arise upon thee, and his glory shall be seen upon thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036135597524277
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 41,
+                    "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035535341952653
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 16,
+                    "text": "Honour thy father and thy mother, as the Lord thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the Lord thy God giveth thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8031802254099436
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 45,
+                    "verse": 1,
+                    "text": "Hearken, O ye people of my church, to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030617580377326
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 31,
+                    "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8019054760305506
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 30,
+                    "verse": 8,
+                    "text": "And it shall come to pass that the Lord God shall commence his work among all nations, kindreds, tongues, and people, to bring about the restoration of his people upon the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015403413836306
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 28,
+                    "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8011254760746965
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 34,
+                    "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006622885849293
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 14,
+                    "verse": 9,
+                    "text": "And the Lord shall be king over all the earth: in that day shall there be one Lord, and his name one.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005491603283792
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 5,
+                    "verse": 5,
+                    "text": "And if it so be that they repent and come unto the Father in the name of Jesus, they shall be received into the kingdom of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004983797014951
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mormon",
+                    "volume_book_index": 13,
+                    "chapter": 8,
+                    "verse": 16,
+                    "text": "And blessed be he that shall bring this thing to light; for it shall be brought out of darkness unto light, according to the word of God; yea, it shall be brought out of the earth, and it shall shine forth out of darkness, and come unto the knowledge of the people; and it shall be done by the power of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800172137981044
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the Lord your God giveth you to possess it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001606237129856
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mormon",
+                    "volume_book_index": 13,
+                    "chapter": 9,
+                    "verse": 2,
+                    "text": "Behold, will ye believe in the day of your visitation--behold, when the Lord shall come, yea, even that great day when the earth shall be rolled together as a scroll, and the elements shall melt with fervent heat, yea, in that great day when ye shall be brought to stand before the Lamb of God--then will ye say that there is no God?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000994613088898
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 20,
+                    "verse": 27,
+                    "text": "The heaven shall reveal his iniquity; and the earth shall rise up against him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000873516853225
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 50,
+                    "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9052961412248711
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "But behold, the Spirit hath said this much unto me, saying: Cry unto this people, saying--Repent ye, and prepare the way of the Lord, and walk in his paths, which are straight; for behold, the kingdom of heaven is at hand, and the Son of God cometh upon the face of the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9037215171026295
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 65,
+                    "verse": 6,
+                    "text": "Wherefore, may the kingdom of God go forth, that the kingdom of heaven may come, that thou, O God, mayest be glorified in heaven so on earth, that thine enemies may be subdued; for thine is the honor, power and glory, forever and ever. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012361647172235
                 }
             ]
         },
@@ -440,82 +1320,202 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 13,
                     "verse": 13,
                     "text": "For thine is the kingdom, and the power, and the glory, forever. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8510700101145028
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 29,
                     "verse": 11,
                     "text": "Thine, O Lord, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O Lord, and thou art exalted as head above all.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8352693338604804
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 50,
                     "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8321598617058498
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 65,
+                    "verse": 5,
+                    "text": "Call upon the Lord, that his kingdom may go forth upon the earth, that the inhabitants thereof may receive it, and be prepared for the days to come, in the which the Son of Man shall come down in heaven, clothed in the brightness of his glory, to meet the kingdom of God which is set up on the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8291431018267147
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 10,
                     "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8239556483340565
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 10,
                     "verse": 25,
                     "text": "Wherefore, may God raise you from death by the power of the resurrection, and also from everlasting death by the power of the atonement, that ye may be received into the eternal kingdom of God, that ye may praise him through grace divine. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169721635222065
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 13,
                     "verse": 18,
                     "text": "Then said he, Unto what is the kingdom of God like? and whereunto shall I resemble it?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8158927754011432
                 },
                 {
                     "volume": "New Testament",
                     "book": "Hebrews",
+                    "volume_book_index": 19,
                     "chapter": 12,
                     "verse": 28,
                     "text": "Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8158014130361643
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 2,
                     "verse": 37,
                     "text": "Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8148276822778051
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 40,
                     "verse": 25,
                     "text": "And then shall the righteous shine forth in the kingdom of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8138909097351832
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 2,
                     "verse": 44,
                     "text": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8102354267547736
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 30,
+                    "text": "And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081913521484049
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 61,
+                    "text": "Wherefore, let no man glory in man, but rather let him glory in God, who shall subdue all enemies under his feet.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078185872304813
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 13,
+                    "verse": 20,
+                    "text": "And again he said, Whereunto shall I liken the kingdom of God?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023434012270563
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 10,
+                    "verse": 19,
+                    "text": "Wherefore, I will consecrate this land unto thy seed, and them who shall be numbered among thy seed, forever, for the land of their inheritance; for it is a choice land, saith God unto me, above all other lands, wherefore I will have all men that dwell thereon that they shall worship me, saith God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8022094827096322
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 7,
+                    "text": "And as ye go, preach, saying, The kingdom of heaven is at hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008320641162865
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 20,
+                    "verse": 6,
+                    "text": "And said, O Lord God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006334149185589
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 13,
+                    "verse": 13,
+                    "text": "For thine is the kingdom, and the power, and the glory, forever. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9283768959944
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 10,
+                    "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.903676331043269
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 65,
+                    "verse": 5,
+                    "text": "Call upon the Lord, that his kingdom may go forth upon the earth, that the inhabitants thereof may receive it, and be prepared for the days to come, in the which the Son of Man shall come down in heaven, clothed in the brightness of his glory, to meet the kingdom of God which is set up on the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012361647172235
                 }
             ]
         }

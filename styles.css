@@ -1,0 +1,140 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+}
+/* Update the checkbox group styles to prevent wrapping */
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    white-space: nowrap; /* Prevent text wrapping */
+}
+
+.checkbox-group input {
+    margin-right: 10px;
+    flex-shrink: 0;
+}
+
+.checkbox-group label {
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+/* Make multiple select show more options */
+#volumes {
+    height: auto;
+    min-height: 120px;
+    overflow-y: auto;
+    width: 100%;
+}
+/* Header Styles */
+#header {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Form Elements */
+.form-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    width: 150px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+input[type="number"],
+select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    flex: 1;
+}
+
+#volumes {
+    height: auto;
+    min-height: 120px;
+    max-height: 200px;
+    overflow-y: auto;
+    width: 100%;
+}
+
+#volumes option {
+    padding: 4px;
+    font-size: 14px;
+}
+
+/* Chapter Navigation */
+#chapters a {
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px;
+    background-color: #4caf50;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+#chapters a:hover {
+    background-color: #45a049;
+}
+
+/* Verse Display */
+.verse-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.verse {
+    margin-bottom: 10px;
+}
+
+/* Similar Verses */
+.similar-verses {
+    margin-top: 10px;
+}
+
+.similar-verse {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #4caf50;
+    border-radius: 4px;
+}
+
+.similar-verse-score {
+    font-size: 0.9em;
+    color: #555;
+}
+
+/* Links and Interactive Elements */
+.verse-link {
+    color: #555;
+    text-decoration: none;
+    cursor: pointer;
+    display: block;
+    transition: background-color 0.2s;
+}
+
+.verse-link:hover {
+    background-color: #f0f0f0;
+    color: #4caf50;
+}

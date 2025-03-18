@@ -10,426 +10,83 @@
                 {
                     "volume": "New Testament",
                     "book": "1 John",
+                    "volume_book_index": 23,
                     "chapter": 3,
                     "verse": 2,
                     "text": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8734941109331152
                 },
                 {
                     "volume": "New Testament",
                     "book": "Colossians",
+                    "volume_book_index": 12,
                     "chapter": 3,
                     "verse": 4,
                     "text": "When Christ, who is our life, shall appear, then shall ye also appear with him in glory.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8090299830573338
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 9,
                     "verse": 5,
                     "text": "Yea, I know that ye know that in the body he shall show himself unto those at Jerusalem, from whence we came; for it is expedient that it should be among them; for it behooveth the great Creator that he suffereth himself to become subject unto man in the flesh, and die for all men, that all men might become subject unto him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8030911993430115
                 },
                 {
                     "volume": "New Testament",
-                    "book": "2 Thessalonians",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.",
-                    "score": 0.7944520823126628
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 17,
-                    "verse": 30,
-                    "text": "Even thus shall it be in the day when the Son of man is revealed.",
-                    "score": 0.7942197716597076
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Corinthians",
-                    "chapter": 10,
-                    "verse": 7,
-                    "text": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's.",
-                    "score": 0.793169738293065
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 16,
-                    "text": "Behold, here is the man, we deliver him into thy hands; thou mayest do with him as seemeth thee good.",
-                    "score": 0.790144205559746
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 7,
-                    "verse": 27,
-                    "text": "Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.",
-                    "score": 0.7890960826082423
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 48,
-                    "text": "Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with this love, which he hath bestowed upon all who are true followers of his Son, Jesus Christ; that ye may become the sons of God; that when he shall appear we shall be like him, for we shall see him as he is; that we may have this hope; that we may be purified even as he is pure. Amen.",
-                    "score": 0.7859915096128683
-                },
-                {
-                    "volume": "New Testament",
                     "book": "1 John",
-                    "chapter": 2,
-                    "verse": 28,
-                    "text": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming.",
-                    "score": 0.7832606302306222
+                    "volume_book_index": 23,
+                    "chapter": 3,
+                    "verse": 2,
+                    "text": "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9143440178427702
                 }
             ]
         },
         {
             "verse": 2,
             "text": "And that same sociality which exists among us here will exist among us there, only it will be coupled with eternal glory, which glory we do not now enjoy.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Galatians",
-                    "chapter": 5,
-                    "verse": 26,
-                    "text": "Let us not be desirous of vain glory, provoking one another, envying one another.",
-                    "score": 0.7911741037068023
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 133,
-                    "verse": 1,
-                    "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!",
-                    "score": 0.7778374720387096
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 8,
-                    "verse": 18,
-                    "text": "For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.",
-                    "score": 0.7649005924895764
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.",
-                    "score": 0.7554169207023382
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 23,
-                    "verse": 11,
-                    "text": "Nevertheless, in this I do not glory, for I am unworthy to glory of myself.",
-                    "score": 0.7502031047234897
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 19,
-                    "verse": 6,
-                    "text": "Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder.",
-                    "score": 0.7497043359002968
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 33,
-                    "verse": 16,
-                    "text": "For wherein shall it be known here that I and thy people have found grace in thy sight? is it not in that thou goest with us? so shall we be separated, I and thy people, from all the people that are upon the face of the earth.",
-                    "score": 0.7495795283105003
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Thessalonians",
-                    "chapter": 5,
-                    "verse": 11,
-                    "text": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
-                    "score": 0.7492649178861266
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 85,
-                    "verse": 6,
-                    "text": "Wilt thou not revive us again: that thy people may rejoice in thee?",
-                    "score": 0.7472607534289848
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Corinthians",
-                    "chapter": 3,
-                    "verse": 8,
-                    "text": "How shall not the ministration of the spirit be rather glorious?",
-                    "score": 0.7411889509000655
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 3,
             "text": "John 14:23--The appearing of the Father and the Son, in that verse, is a personal appearance; and the idea that the Father and the Son dwell in a man's heart is an old sectarian notion, and is false.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 28,
-                    "verse": 2,
-                    "text": "Son of man, say unto the prince of Tyrus, Thus saith the Lord God; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:",
-                    "score": 0.7656161580916109
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 16,
-                    "verse": 18,
-                    "text": "That it is not reasonable that such a being as a Christ shall come; if so, and he be the Son of God, the Father of heaven and of earth, as it has been spoken, why will he not show himself unto us as well as unto them who shall be at Jerusalem?",
-                    "score": 0.7639150215165811
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 2,
-                    "verse": 23,
-                    "text": "Whosoever denieth the Son, the same hath not the Father: [but] he that acknowledgeth the Son hath the Father also.",
-                    "score": 0.760307949494021
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 14,
-                    "verse": 21,
-                    "text": "The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.",
-                    "score": 0.7602038583907484
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 26,
-                    "verse": 24,
-                    "text": "The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.",
-                    "score": 0.7585709546184625
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 14,
-                    "verse": 10,
-                    "text": "Believest thou not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.",
-                    "score": 0.7575088474459662
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 8,
-                    "verse": 4,
-                    "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?",
-                    "score": 0.7550613040193465
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 18,
-                    "verse": 20,
-                    "text": "The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.",
-                    "score": 0.7532411754408551
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 8,
-                    "verse": 5,
-                    "text": "Thou shalt also consider in thine heart, that, as a man chasteneth his son, so the Lord thy God chasteneth thee.",
-                    "score": 0.7509002029049734
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 3,
-                    "verse": 12,
-                    "text": "For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.",
-                    "score": 0.7491742504812158
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 4,
             "text": "In answer to the question--Is not the reckoning of God's time, angel's time, prophet's time, and man's time, according to the planet on which they reside?",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "Is there not an appointed time to man upon earth? are not his days also like the days of an hireling?",
-                    "score": 0.7941093584547393
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 5,
-                    "text": "And the Lord said unto me: The planet which is the lesser light, lesser than that which is to rule the day, even the night, is above or greater than that upon which thou standest in point of reckoning, for it moveth in order more slow; this is in order because it standeth above the earth upon which thou standest, therefore the reckoning of its time is not so many as to its number of days, and of months, and of years.",
-                    "score": 0.772782240290825
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?",
-                    "score": 0.772688734107577
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 13,
-                    "verse": 32,
-                    "text": "But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.",
-                    "score": 0.7687407053463652
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 40,
-                    "verse": 8,
-                    "text": "Now whether there is more than one time appointed for men to rise it mattereth not; for all do not die at once, and this mattereth not; all is as one day with God, and time only is measured unto men.",
-                    "score": 0.7626012822183916
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 9,
-                    "text": "And thus there shall be the reckoning of the time of one planet above another, until thou come nigh unto Kolob, which Kolob is after the reckoning of the Lord's time; which Kolob is set nigh unto the throne of God, to govern all those planets which belong to the same order as that upon which thou standest.",
-                    "score": 0.7604738744137831
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Haggai",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "Thus speaketh the Lord of hosts, saying, This people say, The time is not come, the time that the Lord's house should be built.",
-                    "score": 0.7578810677550661
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 7,
-                    "text": "Now the set time of the lesser light is a longer time as to its reckoning than the reckoning of the time of the earth upon which thou standest.",
-                    "score": 0.7559164334212345
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 8,
-                    "verse": 7,
-                    "text": "Yea, the stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the Lord.",
-                    "score": 0.7525284158034192
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 11,
-                    "verse": 9,
-                    "text": "Jesus answered, Are there not twelve hours in the day? If any man walk in the day, he stumbleth not, because he seeth the light of this world.",
-                    "score": 0.7489737093808262
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 5,
             "text": "I answer, Yes. But there are no angels who minister to this earth but those who do belong or have belonged to it.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 1,
-                    "verse": 14,
-                    "text": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?",
-                    "score": 0.7700253607397788
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 16,
+                    "text": "Therefore, when they are out of the world they neither marry nor are given in marriage; but are appointed angels in heaven, which angels are ministering servants, to minister for those who are worthy of a far more, and an exceeding, and an eternal weight of glory.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140349197357459
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 12,
-                    "verse": 25,
-                    "text": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.",
-                    "score": 0.7576876457193222
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 22,
-                    "verse": 30,
-                    "text": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.",
-                    "score": 0.7488492295493177
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "But the angel of the Lord said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to inquire of Baal-zebub the god of Ekron?",
-                    "score": 0.7480823729200797
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 2,
-                    "verse": 5,
-                    "text": "For unto the angels hath he not put in subjection the world to come, whereof we speak.",
-                    "score": 0.7456607405247815
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 15,
-                    "verse": 19,
-                    "text": "Unto whom alone the earth was given, and no stranger passed among them.",
-                    "score": 0.7448130983429566
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 53,
-                    "text": "Who have received the law by the disposition of angels, and have not kept it.",
-                    "score": 0.7398218691315984
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.",
-                    "score": 0.7329145673974543
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 36,
-                    "text": "Or have angels ceased to appear unto the children of men? Or has he withheld the power of the Holy Ghost from them? Or will he, so long as time shall last, or the earth shall stand, or there shall be one man upon the face thereof to be saved?",
-                    "score": 0.7279861656014912
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Peter",
-                    "chapter": 5,
-                    "verse": 3,
-                    "text": "Neither as being lords over God's heritage, but being ensamples to the flock.",
-                    "score": 0.7244480610211396
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
+                    "verse": 6,
+                    "text": "The angels do not reside on a planet like this earth;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800981257551989
                 }
             ]
         },
@@ -438,342 +95,90 @@
             "text": "The angels do not reside on a planet like this earth;",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "And after these things I saw four angels standing on the four corners of the earth, holding the four winds of the earth, that the wind should not blow on the earth, nor on the sea, nor on any tree.",
-                    "score": 0.7675717458815029
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 12,
-                    "verse": 25,
-                    "text": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.",
-                    "score": 0.7546426177065394
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 8,
-                    "verse": 13,
-                    "text": "And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!",
-                    "score": 0.7476107618606027
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 17,
-                    "verse": 16,
-                    "text": "They are not of the world, even as I am not of the world.",
-                    "score": 0.7423462319948488
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 2,
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
                     "verse": 5,
-                    "text": "For unto the angels hath he not put in subjection the world to come, whereof we speak.",
-                    "score": 0.7396439952663256
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 22,
-                    "verse": 30,
-                    "text": "For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.",
-                    "score": 0.7353885471608121
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "Whereas angels, which are greater in power and might, bring not railing accusation against them before the Lord.",
-                    "score": 0.7349882093534296
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "But the angel of the Lord said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to inquire of Baal-zebub the god of Ekron?",
-                    "score": 0.7282985771810743
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
-                    "score": 0.7262833769841915
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 13,
-                    "verse": 32,
-                    "text": "But of that day and that hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.",
-                    "score": 0.725096820146921
+                    "text": "I answer, Yes. But there are no angels who minister to this earth but those who do belong or have belonged to it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800981257551989
                 }
             ]
         },
         {
             "verse": 7,
             "text": "But they reside in the presence of God, on a globe like a sea of glass and fire, where all things for their glory are manifest, past, present, and future, and are continually before the Lord.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
-                    "score": 0.7723099348509188
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 28,
-                    "verse": 23,
-                    "text": "Yea, they are grasped with death, and hell; and death, and hell, and the devil, and all that have been seized therewith must stand before the throne of God, and be judged according to their works, from whence they must go into the place prepared for them, even a lake of fire and brimstone, which is endless torment.",
-                    "score": 0.7575021481937925
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 16,
-                    "text": "And assuredly, as the Lord liveth, for the Lord God hath spoken it, and it is his eternal word, which cannot pass away, that they who are righteous shall be righteous still, and they who are filthy shall be filthy still; wherefore, they who are filthy are the devil and his angels; and they shall go away into everlasting fire, prepared for them; and their torment is as a lake of fire and brimstone, whose flame ascendeth up forever and ever and has no end.",
-                    "score": 0.757316962289845
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 113,
-                    "verse": 4,
-                    "text": "The Lord is high above all nations, and his glory above the heavens.",
-                    "score": 0.756718305287982
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 3,
-                    "verse": 12,
-                    "text": "Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?",
-                    "score": 0.7549794272016618
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 24,
-                    "verse": 15,
-                    "text": "Wherefore glorify ye the Lord in the fires, even the name of the Lord God of Israel in the isles of the sea.",
-                    "score": 0.7546952023013463
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 14,
-                    "verse": 21,
-                    "text": "But as truly as I live, all the earth shall be filled with the glory of the Lord.",
-                    "score": 0.7544601360391049
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 29,
-                    "verse": 6,
-                    "text": "Thou shalt be visited of the Lord of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.",
-                    "score": 0.7518792808025675
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 14,
-                    "verse": 14,
-                    "text": "And they will tell it to the inhabitants of this land: for they have heard that thou Lord art among this people, that thou Lord art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.",
-                    "score": 0.7491375440362023
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 4,
-                    "verse": 24,
-                    "text": "For the Lord thy God is a consuming fire, even a jealous God.",
-                    "score": 0.7488889994409585
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 8,
             "text": "The place where God resides is a great Urim and Thummim.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 18,
-                    "verse": 30,
-                    "text": "And Ammon said unto him: The heavens is a place where God dwells and all his holy angels.",
-                    "score": 0.7936578229931954
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 48,
-                    "verse": 1,
-                    "text": "Great is the Lord, and greatly to be praised in the city of our God, in the mountain of his holiness.",
-                    "score": 0.7788615087358367
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 1,
-                    "text": "And I, Abraham, had the Urim and Thummim, which the Lord my God had given unto me, in Ur of the Chaldees;",
-                    "score": 0.775697773013128
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 28,
-                    "verse": 23,
-                    "text": "God understandeth the way thereof, and he knoweth the place thereof.",
-                    "score": 0.7744901053784387
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 46,
-                    "verse": 4,
-                    "text": "There is a river, the streams whereof shall make glad the city of God, the holy place of the tabernacles of the most High.",
-                    "score": 0.7650531093500115
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 132,
-                    "verse": 5,
-                    "text": "Until I find out a place for the Lord, an habitation for the mighty God of Jacob.",
-                    "score": 0.7534843987736696
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
-                    "score": 0.7522127628873863
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 22,
-                    "verse": 3,
-                    "text": "But thou art holy, O thou that inhabitest the praises of Israel.",
-                    "score": 0.752092258565717
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 77,
-                    "verse": 13,
-                    "text": "Thy way, O God, is in the sanctuary: who is so great a God as our God?",
-                    "score": 0.747815101863318
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 76,
-                    "verse": 2,
-                    "text": "In Salem also is his tabernacle, and his dwelling place in Zion.",
-                    "score": 0.7476226222562451
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 9,
             "text": "This earth, in its sanctified and immortal state, will be made like unto crystal and will be a Urim and Thummim to the inhabitants who dwell thereon, whereby all things pertaining to an inferior kingdom, or all kingdoms of a lower order, will be manifest to those who dwell on it; and this earth will be Christ's.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 88,
+                    "verse": 20,
+                    "text": "That bodies who are of the celestial kingdom may possess it forever and ever; for, for this intent was it made and created, and for this intent are they sanctified.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8111445995332848
+                },
+                {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 10,
                     "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8094071893257389
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 13,
                     "verse": 9,
                     "text": "And there shall be a new heaven and a new earth; and they shall be like unto the old save the old have passed away, and all things have become new.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8066767020929825
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 24,
                     "verse": 1,
                     "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8036917651824215
                 },
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 65,
+                    "verse": 2,
+                    "text": "The keys of the kingdom of God are committed unto man on the earth, and from thence shall the gospel roll forth unto the ends of the earth, as the stone which is cut out of the mountain without hands shall roll forth, until it has filled the whole earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801211184166062
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 2,
                     "verse": 39,
                     "text": "And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8005428015668862
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 64,
-                    "text": "And there shall be mine abode, and it shall be Zion, which shall come forth out of all the creations which I have made; and for the space of a thousand years the earth shall rest.",
-                    "score": 0.7973136136128719
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 10,
-                    "verse": 26,
-                    "text": "For the earth is the Lord's, and the fulness thereof.",
-                    "score": 0.7866413152377701
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 2,
-                    "verse": 44,
-                    "text": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
-                    "score": 0.7840045837597858
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 24,
-                    "text": "And there stood one among them that was like unto God, and he said unto those who were with him: We will go down, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell;",
-                    "score": 0.78368045725597
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 51,
-                    "verse": 6,
-                    "text": "Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.",
-                    "score": 0.7831889175755777
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 23,
-                    "text": "Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.",
-                    "score": 0.782747747249852
                 }
             ]
         },
@@ -782,84 +187,24 @@
             "text": "Then the white stone mentioned in Revelation 2:17, will become a Urim and Thummim to each individual who receives one, whereby things pertaining to a higher order of kingdoms will be made known;",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 23,
-                    "text": "And behold, these two stones will I give unto thee, and ye shall seal them up also with the things which ye shall write.",
-                    "score": 0.7722652245495844
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
+                    "verse": 11,
+                    "text": "And a white stone is given to each of those who come into the celestial kingdom, whereon is a new name written, which no man knoweth save he that receiveth it. The new name is the key word.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170929111544885
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 35,
-                    "text": "Also, that there were two stones in silver bows--and these stones, fastened to a breastplate, constituted what is called the Urim and Thummim--deposited with the plates; and the possession and use of these stones were what constituted \"seers\" in ancient or former times; and that God had prepared them for the purpose of translating the book.",
-                    "score": 0.7687024107342901
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 2,
-                    "verse": 17,
-                    "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.",
-                    "score": 0.7519758157309411
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 21,
-                    "text": "And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes.",
-                    "score": 0.7505805159708538
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 7,
-                    "text": "And behold the book shall be sealed; and in the book shall be a revelation from God, from the beginning of the world to the ending thereof.",
-                    "score": 0.750284525455609
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 2,
-                    "verse": 45,
-                    "text": "Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.",
-                    "score": 0.7474248143355166
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 37,
-                    "verse": 23,
-                    "text": "And the Lord said: I will prepare unto my servant Gazelem, a stone, which shall shine forth in darkness unto light, that I may discover unto my people who serve me, that I may discover unto them the works of their brethren, yea, their secret works, their works of darkness, and their wickedness and abominations.",
-                    "score": 0.7472411161715192
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 17,
-                    "text": "This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.",
-                    "score": 0.745605229321077
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 52,
-                    "text": "Having removed the earth, I obtained a lever, which I got fixed under the edge of the stone, and with a little exertion raised it up. I looked in, and there indeed did I behold the plates, the Urim and Thummim, and the breastplate, as stated by the messenger. The box in which they lay was formed by laying stones together in some kind of cement. In the bottom of the box were laid two stones crossways of the box, and on these stones lay the plates and the other things with them.",
-                    "score": 0.7422913193100765
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 3,
-                    "verse": 28,
-                    "text": "And it came to pass that the Lord commanded him that he should seal up the two stones which he had received, and show them not, until the Lord should show them unto the children of men.",
-                    "score": 0.7403794530823382
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
+                    "verse": 11,
+                    "text": "And a white stone is given to each of those who come into the celestial kingdom, whereon is a new name written, which no man knoweth save he that receiveth it. The new name is the key word.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024400115013123
                 }
             ]
         },
@@ -868,84 +213,34 @@
             "text": "And a white stone is given to each of those who come into the celestial kingdom, whereon is a new name written, which no man knoweth save he that receiveth it. The new name is the key word.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
+                    "verse": 10,
+                    "text": "Then the white stone mentioned in Revelation 2:17, will become a Urim and Thummim to each individual who receives one, whereby things pertaining to a higher order of kingdoms will be made known;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170929111544885
+                },
+                {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 2,
                     "verse": 17,
                     "text": "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8158488309559954
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 21,
-                    "text": "And the stones shall be with the names of the children of Israel, twelve, according to their names, like the engravings of a signet; every one with his name shall they be according to the twelve tribes.",
-                    "score": 0.776742477904797
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 23,
-                    "verse": 16,
-                    "text": "And now it came to pass that the king and those who were converted were desirous that they might have a name, that thereby they might be distinguished from their brethren; therefore the king consulted with Aaron and many of their priests, concerning the name that they should take upon them, that they might be distinguished.",
-                    "score": 0.767599616055779
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 7,
-                    "verse": 12,
-                    "text": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Eben-ezer, saying, Hitherto hath the Lord helped us.",
-                    "score": 0.7629035100651028
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
                     "verse": 10,
-                    "text": "Six of their names on one stone, and the other six names of the rest on the other stone, according to their birth.",
-                    "score": 0.7616144630404055
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "And it shall come to pass that whosoever doeth this shall be found at the right hand of God, for he shall know the name by which he is called; for he shall be called by the name of Christ.",
-                    "score": 0.7585773544264699
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 18,
-                    "verse": 31,
-                    "text": "And Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, unto whom the word of the Lord came, saying, Israel shall be thy name:",
-                    "score": 0.7582236174187376
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 28,
-                    "verse": 36,
-                    "text": "The Lord shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.",
-                    "score": 0.7576737425768749
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 39,
-                    "verse": 14,
-                    "text": "And the stones were according to the names of the children of Israel, twelve, according to their names, like the engravings of a signet, every one with his name, according to the twelve tribes.",
-                    "score": 0.7542441320494576
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 2,
-                    "verse": 45,
-                    "text": "Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.",
-                    "score": 0.7540340325630612
+                    "text": "Then the white stone mentioned in Revelation 2:17, will become a Urim and Thummim to each individual who receives one, whereby things pertaining to a higher order of kingdoms will be made known;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024400115013123
                 }
             ]
         },
@@ -954,172 +249,31 @@
             "text": "I prophesy, in the name of the Lord God, that the commencement of the difficulties which will cause much bloodshed previous to the coming of the Son of Man will be in South Carolina.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 20,
-                    "verse": 46,
-                    "text": "Son of man, set thy face toward the south, and drop thy word toward the south, and prophesy against the forest of the south field;",
-                    "score": 0.779198953875719
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Timothy",
-                    "chapter": 3,
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 87,
                     "verse": 1,
-                    "text": "This know also, that in the last days perilous times shall come.",
-                    "score": 0.7759312667390275
+                    "text": "Verily, thus saith the Lord concerning the wars that will shortly come to pass, beginning at the rebellion of South Carolina, which will eventually terminate in the death and misery of many souls;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8286885678826946
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 18,
-                    "text": "Behold, my brethren, I say unto you, that these things must shortly come; yea, even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth; and it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.",
-                    "score": 0.7722224298147721
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 24,
-                    "verse": 37,
-                    "text": "But as the days of Noe were, so shall also the coming of the Son of man be.",
-                    "score": 0.7705048291567046
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 7,
-                    "verse": 17,
-                    "text": "Thus saith the Lord, In this thou shalt know that I am the Lord: behold, I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood.",
-                    "score": 0.7694121177769282
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 41,
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 87,
                     "verse": 1,
-                    "text": "Blessed is he that considereth the poor: the Lord will deliver him in time of trouble.",
-                    "score": 0.7671261009644594
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 2,
-                    "text": "And these are the words which he wrote, saying: My dearly beloved brother, Moroni, as well in the Lord as in the tribulations of our warfare; behold, my beloved brother, I have somewhat to tell you concerning our warfare in this part of the land.",
-                    "score": 0.7666594476497207
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--Matthew",
-                    "chapter": 1,
-                    "verse": 36,
-                    "text": "And, as I said before, after the tribulation of those days, and the powers of the heavens shall be shaken, then shall appear the sign of the Son of Man in heaven, and then shall all the tribes of the earth mourn; and they shall see the Son of Man coming in the clouds of heaven, with power and great glory;",
-                    "score": 0.7662148491129628
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 7,
-                    "text": "And now if there should be another appointed in his stead, behold I fear there would rise contentions among you. And who knoweth but what my son, to whom the kingdom doth belong, should turn to be angry and draw away a part of this people after him, which would cause wars and contentions among you, which would be the cause of shedding much blood and perverting the way of the Lord, yea, and destroy the souls of many people.",
-                    "score": 0.7659730986606517
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 6,
-                    "verse": 21,
-                    "text": "Therefore thus saith the Lord, Behold, I will lay stumblingblocks before this people, and the fathers and the sons together shall fall upon them; the neighbour and his friend shall perish.",
-                    "score": 0.7654012957151978
+                    "text": "Verily, thus saith the Lord concerning the wars that will shortly come to pass, beginning at the rebellion of South Carolina, which will eventually terminate in the death and misery of many souls;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9199351024589412
                 }
             ]
         },
         {
             "verse": 13,
             "text": "It may probably arise through the slave question. This a voice declared to me, while I was praying earnestly on the subject, December 25th, 1832.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 6,
-                    "verse": 19,
-                    "text": "And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,",
-                    "score": 0.7665043385391901
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 14,
-                    "verse": 15,
-                    "text": "Now therefore that I am come to speak of this thing unto my lord the king, it is because the people have made me afraid: and thy handmaid said, I will now speak unto the king; it may be that the king will perform the request of his handmaid.",
-                    "score": 0.7651855399652826
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 31,
-                    "verse": 35,
-                    "text": "Oh that one would hear me! behold, my desire is, that the Almighty would answer me, and that mine adversary had written a book.",
-                    "score": 0.7586944423225979
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 41,
-                    "verse": 1,
-                    "text": "And now, my son, I have somewhat to say concerning the restoration of which has been spoken; for behold, some have wrested the scriptures, and have gone far astray because of this thing. And I perceive that thy mind has been worried also concerning this thing. But behold, I will explain it unto thee.",
-                    "score": 0.7562430830853996
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 26,
-                    "verse": 19,
-                    "text": "Now therefore, I pray thee, let my lord the king hear the words of his servant. If the Lord have stirred thee up against me, let him accept an offering: but if they be the children of men, cursed be they before the Lord; for they have driven me out this day from abiding in the inheritance of the Lord, saying, Go, serve other gods.",
-                    "score": 0.7542155731065165
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 20,
-                    "verse": 3,
-                    "text": "I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.",
-                    "score": 0.7530038312274044
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Colossians",
-                    "chapter": 4,
-                    "verse": 3,
-                    "text": "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:",
-                    "score": 0.7526512734858686
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 13,
-                    "verse": 3,
-                    "text": "Surely I would speak to the Almighty, and I desire to reason with God.",
-                    "score": 0.7518487448107359
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 86,
-                    "verse": 7,
-                    "text": "In the day of my trouble I will call upon thee: for thou wilt answer me.",
-                    "score": 0.7514694959249631
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 19,
-                    "text": "And because thou hast inquired of me concerning the transgressor, thou art blessed.",
-                    "score": 0.7502222639016889
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 14,
@@ -1128,82 +282,22 @@
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--History",
+                    "volume_book_index": 4,
                     "chapter": 1,
                     "verse": 49,
                     "text": "The first thing that I can recollect was a voice speaking unto me, calling me by name. I looked up, and beheld the same messenger standing over my head, surrounded by light as before. He then again related unto me all that he had related to me the previous night, and commanded me to go to my father and tell him of the vision and commandments which I had received.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.812053449120157
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 28,
-                    "verse": 6,
-                    "text": "Blessed be the Lord, because he hath heard the voice of my supplications.",
-                    "score": 0.7935787641519375
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 66,
-                    "verse": 19,
-                    "text": "But verily God hath heard me; he hath attended to the voice of my prayer.",
-                    "score": 0.7924469724111434
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 9,
-                    "verse": 21,
-                    "text": "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.",
-                    "score": 0.79049969712899
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
                     "verse": 17,
-                    "text": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision.",
-                    "score": 0.7881946952037219
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 8,
-                    "verse": 19,
-                    "text": "For the earnest expectation of the creature waiteth for the manifestation of the sons of God.",
-                    "score": 0.786521773568679
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 46,
-                    "text": "By this time, so deep were the impressions made on my mind, that sleep had fled from my eyes, and I lay overwhelmed in astonishment at what I had both seen and heard. But what was my surprise when again I beheld the same messenger at my bedside, and heard him rehearse or repeat over again to me the same things as before; and added a caution to me, telling me that Satan would try to tempt me (in consequence of the indigent circumstances of my father's family), to get the plates for the purpose of getting rich. This he forbade me, saying that I must have no other object in view in getting the plates but to glorify God, and must not be influenced by any other motive than that of building his kingdom; otherwise I could not get them.",
-                    "score": 0.7856879886326714
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?",
-                    "score": 0.7849944950770729
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 30,
-                    "text": "For even at this time, my whole frame doth tremble exceedingly while attempting to speak unto you; but the Lord God doth support me, and hath suffered me that I should speak unto you, and hath commanded me that I should declare unto you this day, that my son Mosiah is a king and a ruler over you.",
-                    "score": 0.7790421665356139
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 17,
-                    "verse": 30,
-                    "text": "Even thus shall it be in the day when the Son of man is revealed.",
-                    "score": 0.7773079496013264
+                    "text": "I believe the coming of the Son of Man will not be any sooner than that time.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8113743772588858
                 }
             ]
         },
@@ -1214,170 +308,29 @@
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 46,
                     "verse": 30,
                     "text": "And Israel said unto Joseph, Now let me die, since I have seen thy face, because thou art yet alive.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8082634184239853
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 35,
-                    "verse": 2,
-                    "text": "Son of man, set thy face against mount Seir, and prophesy against it,",
-                    "score": 0.7928295768620454
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 65,
-                    "verse": 20,
-                    "text": "There shall be no more thence an infant of days, nor an old man that hath not filled his days: for the child shall die an hundred years old; but the sinner being an hundred years old shall be accursed.",
-                    "score": 0.7906326637340926
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 10,
-                    "verse": 28,
-                    "text": "And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in that day thou seest my face thou shalt die.",
-                    "score": 0.7880822110847002
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 25,
-                    "verse": 2,
-                    "text": "Son of man, set thy face against the Ammonites, and prophesy against them;",
-                    "score": 0.7878511237680694
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
-                    "chapter": 2,
-                    "verse": 28,
-                    "text": "And now, my sons, I would that ye should look to the great Mediator, and hearken unto his great commandments; and be faithful unto his words, and choose eternal life, according to the will of his Holy Spirit;",
-                    "score": 0.783636237741514
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 45,
-                    "verse": 28,
-                    "text": "And Israel said, It is enough; Joseph my son is yet alive: I will go and see him before I die.",
-                    "score": 0.7821979543567597
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 4,
-                    "verse": 9,
-                    "text": "Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons' sons;",
-                    "score": 0.7819612048706505
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ruth",
-                    "chapter": 4,
-                    "verse": 15,
-                    "text": "And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.",
-                    "score": 0.7787040832723081
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joshua",
-                    "chapter": 14,
-                    "verse": 10,
-                    "text": "And now, behold, the Lord hath kept me alive, as he said, these forty and five years, even since the Lord spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.",
-                    "score": 0.7779354049114722
+                    "volume_book_index": 2,
+                    "chapter": 3,
+                    "verse": 22,
+                    "text": "And now, behold, my son Joseph, after this manner did my father of old prophesy.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022275630642602
                 }
             ]
         },
         {
             "verse": 16,
             "text": "I was left thus, without being able to decide whether this coming referred to the beginning of the millennium or to some previous appearing, or whether I should die and thus see his face.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 27,
-                    "verse": 2,
-                    "text": "And he said, Behold now, I am old, I know not the day of my death:",
-                    "score": 0.7549031994238139
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 12,
-                    "text": "And it came to pass that he said unto me: Look! And I looked as if to look upon him, and I saw him not; for he had gone from before my presence.",
-                    "score": 0.7493892304319135
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 23,
-                    "verse": 8,
-                    "text": "Behold, I go forward, but he is not there; and backward, but I cannot perceive him:",
-                    "score": 0.7445843583729473
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,",
-                    "score": 0.7444962245194897
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 15,
-                    "verse": 8,
-                    "text": "And last of all he was seen of me also, as of one born out of due time.",
-                    "score": 0.7406275683513968
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 11,
-                    "text": "But now mine own eyes have beheld God; but not my natural, but my spiritual eyes, for my natural eyes could not have beheld; for I should have withered and died in his presence; but his glory was upon me; and I beheld his face, for I was transfigured before him.",
-                    "score": 0.7403649318066418
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
-                    "verse": 17,
-                    "text": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision.",
-                    "score": 0.7397168313191271
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
-                    "verse": 15,
-                    "text": "And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.",
-                    "score": 0.7329956039043926
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 6,
-                    "text": "And I was led by the Spirit, not knowing beforehand the things which I should do.",
-                    "score": 0.7217088824843347
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 49,
-                    "text": "The first thing that I can recollect was a voice speaking unto me, calling me by name. I looked up, and beheld the same messenger standing over my head, surrounded by light as before. He then again related unto me all that he had related to me the previous night, and commanded me to go to my father and tell him of the vision and commandments which I had received.",
-                    "score": 0.7215251011071362
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 17,
@@ -1386,170 +339,99 @@
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 24,
                     "verse": 37,
                     "text": "But as the days of Noe were, so shall also the coming of the Son of man be.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8505774417700865
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 17,
                     "verse": 30,
                     "text": "Even thus shall it be in the day when the Son of man is revealed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8423267398966817
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--Matthew",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 41,
                     "text": "But as it was in the days of Noah, so it shall be also at the coming of the Son of Man;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8220655139291655
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
+                    "verse": 14,
+                    "text": "I was once praying very earnestly to know the time of the coming of the Son of Man, when I heard a voice repeat the following:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8113743772588858
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 16,
                     "verse": 28,
                     "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8037485473147267
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 17,
                     "verse": 26,
                     "text": "And as it was in the days of Noe, so shall it be also in the days of the Son of man.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8003561848542158
                 },
                 {
                     "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 12,
-                    "verse": 40,
-                    "text": "Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.",
-                    "score": 0.7991188130994444
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 16,
-                    "verse": 19,
-                    "text": "Holding forth things which must shortly come; yea, holding forth the coming of the Son of God, his sufferings and death, and also the resurrection of the dead.",
-                    "score": 0.7989881696223633
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 44,
+                    "text": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024069192894665
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--Matthew",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 48,
                     "text": "Therefore be ye also ready, for in such an hour as ye think not, the Son of Man cometh.",
-                    "score": 0.7971696792449483
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024069192894665
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 24,
-                    "verse": 44,
-                    "text": "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.",
-                    "score": 0.7971696792449483
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 12,
-                    "verse": 27,
-                    "text": "Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off.",
-                    "score": 0.7955649354324301
+                    "verse": 37,
+                    "text": "But as the days of Noe were, so shall also the coming of the Son of man be.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9009315967559814
                 }
             ]
         },
         {
             "verse": 18,
             "text": "Whatever principle of intelligence we attain unto in this life, it will rise with us in the resurrection.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 13,
-                    "text": "O how great the plan of our God! For on the other hand, the paradise of God must deliver up the spirits of the righteous, and the grave deliver up the body of the righteous; and the spirit and the body is restored to itself again, and all men become incorruptible, and immortal, and they are living souls, having a perfect knowledge like unto us in the flesh, save it be that our knowledge shall be perfect.",
-                    "score": 0.780631025348729
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 40,
-                    "verse": 9,
-                    "text": "Therefore, there is a time appointed unto men that they shall rise from the dead; and there is a space between the time of death and the resurrection. And now, concerning this space of time, what becometh of the souls of men is the thing which I have inquired diligently of the Lord to know; and this is the thing of which I do know.",
-                    "score": 0.7788931132780917
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 6,
-                    "verse": 5,
-                    "text": "For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:",
-                    "score": 0.7712737311140554
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 7,
-                    "verse": 6,
-                    "text": "And he bringeth to pass the resurrection of the dead, whereby man must be raised to stand before his judgment-seat.",
-                    "score": 0.7680061069023246
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 4,
-                    "verse": 24,
-                    "text": "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;",
-                    "score": 0.7648678657957257
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Philippians",
-                    "chapter": 3,
-                    "verse": 11,
-                    "text": "If by any means I might attain unto the resurrection of the dead.",
-                    "score": 0.7624681789309481
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.",
-                    "score": 0.7603595922561515
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 25,
-                    "text": "Wherefore, may God raise you from death by the power of the resurrection, and also from everlasting death by the power of the atonement, that ye may be received into the eternal kingdom of God, that ye may praise him through grace divine. Amen.",
-                    "score": 0.759899109107169
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 6,
-                    "text": "For as death hath passed upon all men, to fulfil the merciful plan of the great Creator, there must needs be a power of resurrection, and the resurrection must needs come unto man by reason of the fall; and the fall came by reason of transgression; and because man became fallen they were cut off from the presence of the Lord.",
-                    "score": 0.7589263759761191
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 8,
-                    "text": "O the wisdom of God, his mercy and grace! For behold, if the flesh should rise no more our spirits must become subject to that angel who fell from before the presence of the Eternal God, and became the devil, to rise no more.",
-                    "score": 0.7588132053448381
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 19,
@@ -1558,82 +440,22 @@
                 {
                     "volume": "Old Testament",
                     "book": "Proverbs",
+                    "volume_book_index": 20,
                     "chapter": 1,
                     "verse": 5,
                     "text": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8115676936258182
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Proverbs",
+                    "volume_book_index": 20,
                     "chapter": 9,
                     "verse": 9,
                     "text": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.811258830039291
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 24,
-                    "verse": 5,
-                    "text": "A wise man is strong; yea, a man of knowledge increaseth strength.",
-                    "score": 0.7944211228547932
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 8,
-                    "verse": 18,
-                    "text": "Thus God has provided a means that man, through faith, might work mighty miracles; therefore he becometh a great benefit to his fellow beings.",
-                    "score": 0.7578605829806795
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 26,
-                    "text": "Therefore, I will proceed to do a marvelous work among this people, yea, a marvelous work and a wonder, for the wisdom of their wise and learned shall perish, and the understanding of their prudent shall be hid.",
-                    "score": 0.7455585183404709
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 52,
-                    "text": "And Jesus increased in wisdom and stature, and in favour with God and man.",
-                    "score": 0.7420313283272747
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this thy people, that is so great?",
-                    "score": 0.7412725982180675
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 12,
-                    "verse": 13,
-                    "text": "With him is wisdom and strength, he hath counsel and understanding.",
-                    "score": 0.7397998074206104
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 10,
-                    "verse": 10,
-                    "text": "And to another, that he may teach the word of knowledge by the same Spirit;",
-                    "score": 0.7397097433049538
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;",
-                    "score": 0.7392885637545856
                 }
             ]
         },
@@ -1642,84 +464,34 @@
             "text": "There is a law, irrevocably decreed in heaven before the foundations of this world, upon which all blessings are predicated--",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 4,
-                    "verse": 8,
-                    "text": "And what nation is there so great, that hath statutes and judgments so righteous as all this law, which I set before you this day?",
-                    "score": 0.7997169295768192
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 5,
+                    "text": "For all who will have a blessing at my hands shall abide the law which was appointed for that blessing, and the conditions thereof, as were instituted from before the foundation of the world.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8588119239084232
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 7,
-                    "verse": 12,
-                    "text": "Wherefore the law is holy, and the commandment holy, and just, and good.",
-                    "score": 0.7984117289670343
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 3,
-                    "verse": 19,
-                    "text": "Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.",
-                    "score": 0.7973555393601911
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 34,
-                    "verse": 14,
-                    "text": "And behold, this is the whole meaning of the law, every whit pointing to that great and last sacrifice; and that great and last sacrifice will be the Son of God, yea, infinite and eternal.",
-                    "score": 0.7809200050165639
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 2,
-                    "verse": 13,
-                    "text": "(For not the hearers of the law are just before God, but the doers of the law shall be justified.",
-                    "score": 0.7804302995072104
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 28,
-                    "verse": 31,
-                    "text": "Therefore, great and marvelous works shall be wrought by them, before the great and coming day when all people must surely stand before the judgment-seat of Christ;",
-                    "score": 0.7773438840428833
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 96,
-                    "verse": 13,
-                    "text": "Before the Lord: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.",
-                    "score": 0.7756978450147346
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 14,
-                    "text": "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face.",
-                    "score": 0.774197014339321
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 2,
-                    "verse": 10,
-                    "text": "For behold, this is a land which is choice above all other lands; wherefore he that doth possess it shall serve God or shall be swept off; for it is the everlasting decree of God. And it is not until the fulness of iniquity among the children of the land, that they are swept off.",
-                    "score": 0.7727641289222945
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 42,
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
                     "verse": 21,
-                    "text": "The Lord is well pleased for his righteousness' sake; he will magnify the law, and make it honourable.",
-                    "score": 0.7702265607992268
+                    "text": "And when we obtain any blessing from God, it is by obedience to that law upon which it is predicated.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8518584357837559
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 5,
+                    "text": "For all who will have a blessing at my hands shall abide the law which was appointed for that blessing, and the conditions thereof, as were instituted from before the foundation of the world.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.916157315235458
                 }
             ]
         },
@@ -1728,84 +500,44 @@
             "text": "And when we obtain any blessing from God, it is by obedience to that law upon which it is predicated.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 130,
+                    "verse": 20,
+                    "text": "There is a law, irrevocably decreed in heaven before the foundations of this world, upon which all blessings are predicated--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8518584357837559
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 5,
+                    "text": "For all who will have a blessing at my hands shall abide the law which was appointed for that blessing, and the conditions thereof, as were instituted from before the foundation of the world.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8237094572708986
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 11,
                     "verse": 27,
                     "text": "A blessing, if ye obey the commandments of the Lord your God, which I command you this day:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8117010767675441
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 94,
-                    "verse": 12,
-                    "text": "Blessed is the man whom thou chastenest, O Lord, and teachest him out of thy law;",
-                    "score": 0.7984336881311204
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 2,
-                    "verse": 13,
-                    "text": "(For not the hearers of the law are just before God, but the doers of the law shall be justified.",
-                    "score": 0.7951366355319753
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 3,
-                    "verse": 19,
-                    "text": "Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.",
-                    "score": 0.7881921979358281
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
-                    "verse": 19,
-                    "text": "For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.",
-                    "score": 0.786074639987584
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 16,
-                    "verse": 17,
-                    "text": "Every man shall give as he is able, according to the blessing of the Lord thy God which he hath given thee.",
-                    "score": 0.7837978033924559
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 6,
-                    "verse": 25,
-                    "text": "And it shall be our righteousness, if we observe to do all these commandments before the Lord our God, as he hath commanded us.",
-                    "score": 0.7832308010975685
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
-                    "verse": 21,
-                    "text": "The Lord is well pleased for his righteousness' sake; he will magnify the law, and make it honourable.",
-                    "score": 0.7831376900981202
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 105,
-                    "verse": 45,
-                    "text": "That they might observe his statutes, and keep his laws. Praise ye the Lord.",
-                    "score": 0.7830592719123095
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 19,
-                    "verse": 7,
-                    "text": "The law of the Lord is perfect, converting the soul: the testimony of the Lord is sure, making wise the simple.",
-                    "score": 0.7806139388504632
+                    "verse": 87,
+                    "text": "And if he or she do any manner of iniquity, he or she shall be delivered up unto the law, even that of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8093395393621321
                 }
             ]
         },
@@ -1814,84 +546,14 @@
             "text": "The Father has a body of flesh and bones as tangible as man's; the Son also; but the Holy Ghost has not a body of flesh and bones, but is a personage of Spirit. Were it not so, the Holy Ghost could not dwell in us.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 8,
-                    "verse": 9,
-                    "text": "But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.",
-                    "score": 0.7972432008127772
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 6,
-                    "verse": 19,
-                    "text": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?",
-                    "score": 0.7941322090706784
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 12,
-                    "verse": 3,
-                    "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost.",
-                    "score": 0.7925216499679919
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?",
-                    "score": 0.7849755073551212
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die: because the consecration of his God is upon his head.",
-                    "score": 0.7835762557522609
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 11,
-                    "verse": 5,
-                    "text": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
-                    "score": 0.7810625297437207
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 5,
-                    "verse": 30,
-                    "text": "For we are members of his body, of his flesh, and of his bones.",
-                    "score": 0.7800167508272915
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 39,
-                    "verse": 6,
-                    "text": "For behold, if ye deny the Holy Ghost when it once has had place in you, and ye know that ye deny it, behold, this is a sin which is unpardonable; yea, and whosoever murdereth against the light and knowledge of God, it is not easy for him to obtain forgiveness; yea, I say unto you, my son, that it is not easy for him to obtain a forgiveness.",
-                    "score": 0.7775682831230241
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 9,
-                    "verse": 24,
-                    "text": "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:",
-                    "score": 0.7747774722997027
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 John",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.",
-                    "score": 0.7705080374016775
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 77,
+                    "text": "These are they who receive of the presence of the Son, but not of the fulness of the Father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8150978671921405
                 }
             ]
         },
@@ -1902,82 +564,22 @@
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 8,
                     "verse": 19,
                     "text": "Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8030947781222342
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 7,
                     "verse": 39,
                     "text": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8027916732648275
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 37,
-                    "verse": 24,
-                    "text": "Though he fall, he shall not be utterly cast down: for the Lord upholdeth him with his hand.",
-                    "score": 0.7996251592232954
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 28,
-                    "verse": 26,
-                    "text": "Yea, wo be unto him that hearkeneth unto the precepts of men, and denieth the power of God, and the gift of the Holy Ghost!",
-                    "score": 0.7812088735868941
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 8,
-                    "verse": 15,
-                    "text": "Who, when they were come down, prayed for them, that they might receive the Holy Ghost:",
-                    "score": 0.7809552435821737
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 3,
-                    "verse": 7,
-                    "text": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,",
-                    "score": 0.7808370078094303
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "James",
-                    "chapter": 1,
-                    "verse": 7,
-                    "text": "For let not that man think that he shall receive any thing of the Lord.",
-                    "score": 0.7791293307848366
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 10,
-                    "verse": 4,
-                    "text": "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.",
-                    "score": 0.7766849040017831
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 1,
-                    "verse": 21,
-                    "text": "For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost.",
-                    "score": 0.7757168581681654
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 7,
-                    "verse": 44,
-                    "text": "If so, his faith and hope is vain, for none is acceptable before God, save the meek and lowly in heart; and if a man be meek and lowly in heart, and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity; for if he have not charity he is nothing; wherefore he must needs have charity.",
-                    "score": 0.7745271965605233
                 }
             ]
         }

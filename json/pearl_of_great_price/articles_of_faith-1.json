@@ -10,170 +10,79 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 31,
                     "verse": 15,
                     "text": "Holy, holy God; we believe that thou art God, and we believe that thou art holy, and that thou wast a spirit, and that thou art a spirit, and that thou wilt be a spirit forever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.851028432163366
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 28,
                     "text": "Which Father, Son, and Holy Ghost are one God, infinite and eternal, without end. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8354217123004556
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 6,
                     "verse": 69,
                     "text": "And we believe and are sure that thou art that Christ, the Son of the living God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8195634965130746
                 },
                 {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 8,
                     "verse": 6,
                     "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8045584753689813
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 27,
                     "text": "As well as those who should come after, who should believe in the gifts and callings of God by the Holy Ghost, which beareth record of the Father and of the Son;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8019275620931591
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 15,
                     "verse": 4,
                     "text": "And they are one God, yea, the very Eternal Father of heaven and of earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8006570934793464
                 },
                 {
                     "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.",
-                    "score": 0.7996398717700729
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 19,
-                    "verse": 22,
-                    "text": "Father, thou hast given them the Holy Ghost because they believe in me; and thou seest that they believe in me because thou hearest them, and they pray unto me; and they pray unto me because I am with them.",
-                    "score": 0.79211221195674
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "And after this manner shall ye baptize in my name; for behold, verily I say unto you, that the Father, and the Son, and the Holy Ghost are one; and I am in the Father, and the Father in me, and the Father and I are one.",
-                    "score": 0.7907051009527919
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 John",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
-                    "score": 0.7869766029005509
+                    "book": "1 Corinthians",
+                    "volume_book_index": 7,
+                    "chapter": 8,
+                    "verse": 6,
+                    "text": "But to us there is but one God, the Father, of whom are all things, and we in him; and one Lord Jesus Christ, by whom are all things, and we by him.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9016363083340954
                 }
             ]
         },
         {
             "verse": 2,
             "text": "We believe that men will be punished for their own sins, and not for Adam's transgression.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "James",
-                    "chapter": 1,
-                    "verse": 20,
-                    "text": "For the wrath of man worketh not the righteousness of God.",
-                    "score": 0.7981096658342958
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 24,
-                    "verse": 16,
-                    "text": "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin.",
-                    "score": 0.7947894883918578
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 24,
-                    "verse": 19,
-                    "text": "Fret not thyself because of evil men, neither be thou envious at the wicked;",
-                    "score": 0.7895628919202572
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 21,
-                    "verse": 22,
-                    "text": "And it shall be, when their fathers or their brethren come unto us to complain, that we will say unto them, Be favourable unto them for our sakes: because we reserved not to each man his wife in the war: for ye did not give unto them at this time, that ye should be guilty.",
-                    "score": 0.7879824783170118
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 26,
-                    "verse": 32,
-                    "text": "And again, the Lord God hath commanded that men should not murder; that they should not lie; that they should not steal; that they should not take the name of the Lord their God in vain; that they should not envy; that they should not have malice; that they should not contend one with another; that they should not commit whoredoms; and that they should do none of these things; for whoso doeth them shall perish.",
-                    "score": 0.7861175169779281
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 2,
-                    "verse": 25,
-                    "text": "If one man sin against another, the judge shall judge him: but if a man sin against the Lord, who shall entreat for him? Notwithstanding they hearkened not unto the voice of their father, because the Lord would slay them.",
-                    "score": 0.7843321171389642
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Thessalonians",
-                    "chapter": 3,
-                    "verse": 2,
-                    "text": "And that we may be delivered from unreasonable and wicked men: for all men have not faith.",
-                    "score": 0.7826387441717714
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 5,
-                    "verse": 7,
-                    "text": "Our fathers have sinned, and are not; and we have borne their iniquities.",
-                    "score": 0.7825860151207958
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
-                    "chapter": 4,
-                    "verse": 14,
-                    "text": "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.",
-                    "score": 0.7824448033929009
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Timothy",
-                    "chapter": 5,
-                    "verse": 24,
-                    "text": "Some men's sins are open beforehand, going before to judgment; and some men they follow after.",
-                    "score": 0.7807988707285146
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 3,
@@ -182,82 +91,32 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 138,
                     "verse": 4,
                     "text": "That through his atonement, and by obedience to the principles of the gospel, mankind might be saved.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8925909056066956
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 15,
                     "verse": 11,
                     "text": "But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8176607689265832
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "1 Timothy",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;",
-                    "score": 0.7894732184243954
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 25,
-                    "verse": 24,
-                    "text": "And, notwithstanding we believe in Christ, we keep the law of Moses, and look forward with steadfastness unto Christ, until the law shall be fulfilled.",
-                    "score": 0.7864574762157521
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 21,
-                    "verse": 6,
-                    "text": "Thou also sayest, except we repent we shall perish. How knowest thou the thought and intent of our hearts? How knowest thou that we have cause to repent? How knowest thou that we are not a righteous people? Behold, we have built sanctuaries, and we do assemble ourselves together to worship God. We do believe that God will save all men.",
-                    "score": 0.7737769045333315
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 2,
-                    "verse": 26,
-                    "text": "And the Messiah cometh in the fulness of time, that he may redeem the children of men from the fall. And because that they are redeemed from the fall they have become free forever, knowing good from evil; to act for themselves and not to be acted upon, save it be by the punishment of the law at the great and last day, according to the commandments which God hath given.",
-                    "score": 0.7703139596780693
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 6,
-                    "verse": 24,
-                    "text": "And the Lord commanded us to do all these statutes, to fear the Lord our God, for our good always, that he might preserve us alive, as it is at this day.",
-                    "score": 0.7697881587945342
-                },
-                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 134,
-                    "verse": 12,
-                    "text": "We believe it just to preach the gospel to the nations of the earth, and warn the righteous to save themselves from the corruption of the world; but we do not believe it right to interfere with bond-servants, neither preach the gospel to, nor baptize them contrary to the will and wish of their masters, nor to meddle with or influence them in the least to cause them to be dissatisfied with their situations in this life, thereby jeopardizing the lives of men; such interference we believe to be unlawful and unjust, and dangerous to the peace of every government allowing human beings to be held in servitude.",
-                    "score": 0.7689750613370833
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 4,
-                    "verse": 7,
-                    "text": "I say, that this is the man who receiveth salvation, through the atonement which was prepared from the foundation of the world for all mankind, which ever were since the fall of Adam, or who are, or who ever shall be, even unto the end of the world.",
-                    "score": 0.766831997375591
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 130,
-                    "verse": 21,
-                    "text": "And when we obtain any blessing from God, it is by obedience to that law upon which it is predicated.",
-                    "score": 0.7663914194051612
+                    "volume_book_index": 1,
+                    "chapter": 138,
+                    "verse": 4,
+                    "text": "That through his atonement, and by obedience to the principles of the gospel, mankind might be saved.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9291399271482115
                 }
             ]
         },
@@ -268,256 +127,44 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 138,
                     "verse": 33,
                     "text": "These were taught faith in God, repentance from sin, vicarious baptism for the remission of sins, the gift of the Holy Ghost by the laying on of hands,",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.813405339907368
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 8,
                     "verse": 25,
                     "text": "And the first fruits of repentance is baptism; and baptism cometh by faith unto the fulfilling the commandments; and the fulfilling the commandments bringeth remission of sins;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8022637996338906
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 6,
-                    "verse": 2,
-                    "text": "Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.",
-                    "score": 0.784396664539492
-                },
-                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 39,
-                    "verse": 6,
-                    "text": "And this is my gospel--repentance and baptism by water, and then cometh the baptism of fire and the Holy Ghost, even the Comforter, which showeth all things, and teacheth the peaceable things of the kingdom.",
-                    "score": 0.7765024008037816
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 37,
-                    "text": "And again, by way of commandment to the church concerning the manner of baptism--All those who humble themselves before God, and desire to be baptized, and come forth with broken hearts and contrite spirits, and witness before the church that they have truly repented of all their sins, and are willing to take upon them the name of Jesus Christ, having a determination to serve him to the end, and truly manifest by their works that they have received of the Spirit of Christ unto the remission of their sins, shall be received by baptism into his church.",
-                    "score": 0.7754482716302898
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 31,
-                    "text": "And of tenets thou shalt not talk, but thou shalt declare repentance and faith on the Savior, and remission of sins by baptism, and by fire, yea, even the Holy Ghost.",
-                    "score": 0.7701645949007563
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 13,
-                    "text": "Repent and be baptized in the name of Jesus Christ, according to the holy commandment, for the remission of sins;",
-                    "score": 0.76734437160268
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 30,
-                    "verse": 5,
-                    "text": "And the gospel of Jesus Christ shall be declared among them; wherefore, they shall be restored unto the knowledge of their fathers, and also to the knowledge of Jesus Christ, which was had among their fathers.",
-                    "score": 0.760084942138519
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 6,
-                    "verse": 1,
-                    "text": "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,",
-                    "score": 0.7583854315914307
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 7,
-                    "verse": 8,
-                    "text": "Therefore repent, and be baptized in the name of Jesus, and lay hold upon the gospel of Christ, which shall be set before you, not only in this record but also in the record which shall come unto the Gentiles from the Jews, which record shall come from the Gentiles unto you.",
-                    "score": 0.7557254494523918
+                    "volume_book_index": 1,
+                    "chapter": 138,
+                    "verse": 33,
+                    "text": "These were taught faith in God, repentance from sin, vicarious baptism for the remission of sins, the gift of the Holy Ghost by the laying on of hands,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9097771317430954
                 }
             ]
         },
         {
             "verse": 5,
             "text": "We believe that a man must be called of God, by prophecy, and by the laying on of hands by those who are in authority, to preach the Gospel and administer in the ordinances thereof.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 107,
-                    "verse": 67,
-                    "text": "From the same comes the administering of ordinances and blessings upon the church, by the laying on of the hands.",
-                    "score": 0.7981078319137098
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 4,
-                    "verse": 3,
-                    "text": "Therefore, if ye have desires to serve God ye are called to the work;",
-                    "score": 0.797405184111516
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 53,
-                    "verse": 3,
-                    "text": "Take upon you mine ordination, even that of an elder, to preach faith and repentance and remission of sins, according to my word, and the reception of the Holy Spirit by the laying on of hands;",
-                    "score": 0.7824066871076298
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 34,
-                    "text": "And now, I give unto the church in these parts a commandment, that certain men among them shall be appointed, and they shall be appointed by the voice of the church;",
-                    "score": 0.7821214647619955
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 17,
-                    "text": "This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.",
-                    "score": 0.7803499596106349
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 9,
-                    "verse": 14,
-                    "text": "Even so hath the Lord ordained that they which preach the gospel should live of the gospel.",
-                    "score": 0.7793437153432747
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 123,
-                    "verse": 7,
-                    "text": "It is an imperative duty that we owe to God, to angels, with whom we shall be brought to stand, and also to ourselves, to our wives and children, who have been made to bow down with grief, sorrow, and care, under the most damning hand of murder, tyranny, and oppression, supported and urged on and upheld by the influence of that spirit which hath so strongly riveted the creeds of the fathers, who have inherited lies, upon the hearts of the children, and filled the world with confusion, and has been growing stronger and stronger, and is now the very mainspring of all corruption, and the whole earth groans under the weight of its iniquity.",
-                    "score": 0.7783636376530008
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 10,
-                    "verse": 42,
-                    "text": "But Jesus called them to him, and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.",
-                    "score": 0.7744111040711933
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 18,
-                    "verse": 32,
-                    "text": "And, behold, you are they who are ordained of me to ordain priests and teachers; to declare my gospel, according to the power of the Holy Ghost which is in you, and according to the callings and gifts of God unto men;",
-                    "score": 0.7741059849735279
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 11,
-                    "text": "Again I say unto you, that it shall not be given to any one to go forth to preach my gospel, or to build up my church, except he be ordained by some one who has authority, and it is known to the church that he has authority and has been regularly ordained by the heads of the church.",
-                    "score": 0.7707570768364558
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 6,
             "text": "We believe in the same organization that existed in the Primitive Church, namely, apostles, prophets, pastors, teachers, evangelists, and so forth.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 12,
-                    "verse": 28,
-                    "text": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.",
-                    "score": 0.7500032536441206
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 12,
-                    "verse": 29,
-                    "text": "Are all apostles? are all prophets? are all teachers? are all workers of miracles?",
-                    "score": 0.7451106019468154
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 1,
-                    "text": "Hearken, O ye elders of my church, who have assembled yourselves together in my name, even Jesus Christ the Son of the living God, the Savior of the world; inasmuch as ye believe on my name and keep my commandments.",
-                    "score": 0.7252063155996673
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 25,
-                    "verse": 21,
-                    "text": "Therefore they did assemble themselves together in different bodies, being called churches; every church having their priests and their teachers, and every priest preaching the word according as it was delivered to him by the mouth of Alma.",
-                    "score": 0.7220256212048912
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;",
-                    "score": 0.7219269432156341
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 15,
-                    "verse": 22,
-                    "text": "And now, the resurrection of all the prophets, and all those that have believed in their words, or all those that have kept the commandments of God, shall come forth in the first resurrection; therefore, they are the first resurrection.",
-                    "score": 0.7197123462196966
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 108,
-                    "text": "Behold, this is the way that mine apostles, in ancient days, built up my church unto me.",
-                    "score": 0.7189540449371674
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 17,
-                    "text": "And blessed art thou because thou hast established a church among this people; and they shall be established, and they shall be my people.",
-                    "score": 0.716227264038643
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 29,
-                    "verse": 13,
-                    "text": "Yea, and that same God did establish his church among them; yea, and that same God hath called me by a holy calling, to preach the word unto this people, and hath given me much success, in the which my joy is full.",
-                    "score": 0.7140797567968651
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "The same was in the beginning with God.",
-                    "score": 0.713779711674751
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 7,
@@ -526,170 +173,49 @@
                 {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 12,
                     "verse": 30,
                     "text": "Have all the gifts of healing? do all speak with tongues? do all interpret?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.859402909833305
                 },
                 {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 12,
                     "verse": 10,
                     "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8345627775877587
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 9,
                     "verse": 21,
                     "text": "Having been visited by the Spirit of God; having conversed with angels, and having been spoken unto by the voice of the Lord; and having the spirit of prophecy, and the spirit of revelation, and also many gifts, the gift of speaking with tongues, and the gift of preaching, and the gift of the Holy Ghost, and the gift of translation;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8250300629359969
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 46,
                     "verse": 25,
                     "text": "And to another is given the interpretation of tongues.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.813149084724385
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 12,
-                    "verse": 28,
-                    "text": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues.",
-                    "score": 0.7990338773740322
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 14,
-                    "verse": 5,
-                    "text": "I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.",
-                    "score": 0.7835439724534391
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 36,
-                    "text": "Let it be fulfilled upon them, as upon those on the day of Pentecost; let the gift of tongues be poured out upon thy people, even cloven tongues as of fire, and the interpretation thereof.",
-                    "score": 0.7811134094754777
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.",
-                    "score": 0.773808173676471
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 12,
-                    "verse": 6,
-                    "text": "Having then gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;",
-                    "score": 0.7699505512462692
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;",
-                    "score": 0.768178736798021
                 }
             ]
         },
         {
             "verse": 8,
             "text": "We believe the Bible to be the word of God as far as it is translated correctly; we also believe the Book of Mormon to be the word of God.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 15,
-                    "text": "Holy, holy God; we believe that thou art God, and we believe that thou art holy, and that thou wast a spirit, and that thou art a spirit, and that thou wilt be a spirit forever.",
-                    "score": 0.7816971092185541
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "In the beginning was the Word, and the Word was with God, and the Word was God.",
-                    "score": 0.7757157486217683
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 6,
-                    "verse": 69,
-                    "text": "And we believe and are sure that thou art that Christ, the Son of the living God.",
-                    "score": 0.7729096878281573
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 26,
-                    "text": "And again, I command thee that thou shalt not covet thine own property, but impart it freely to the printing of the Book of Mormon, which contains the truth and the word of God--",
-                    "score": 0.7722318818849971
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 45,
-                    "text": "For the word of the Lord is truth, and whatsoever is truth is light, and whatsoever is light is Spirit, even the Spirit of Jesus Christ.",
-                    "score": 0.7642119792417681
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 135,
-                    "verse": 3,
-                    "text": "Joseph Smith, the Prophet and Seer of the Lord, has done more, save Jesus only, for the salvation of men in this world, than any other man that ever lived in it. In the short space of twenty years, he has brought forth the Book of Mormon, which he translated by the gift and power of God, and has been the means of publishing it on two continents; has sent the fulness of the everlasting gospel, which it contained, to the four quarters of the earth; has brought forth the revelations and commandments which compose this book of Doctrine and Covenants, and many other wise documents and instructions for the benefit of the children of men; gathered many thousands of the Latter-day Saints, founded a great city, and left a fame and name that cannot be slain. He lived great, and he died great in the eyes of God and his people; and like most of the Lord's anointed in ancient times, has sealed his mission and his works with his own blood; and so has his brother Hyrum. In life they were not divided, and in death they were not separated!",
-                    "score": 0.763104712635433
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Corinthians",
-                    "chapter": 4,
-                    "verse": 13,
-                    "text": "We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;",
-                    "score": 0.7624661982197342
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 6,
-                    "verse": 8,
-                    "text": "And Alma went and began to declare the word of God unto the church which was established in the valley of Gideon, according to the revelation of the truth of the word which had been spoken by his fathers, and according to the spirit of prophecy which was in him, according to the testimony of Jesus Christ, the Son of God, who should come to redeem his people from their sins, and the holy order by which he was called. And thus it is written. Amen.",
-                    "score": 0.7617564193843928
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 23,
-                    "verse": 6,
-                    "text": "And as sure as the Lord liveth, so sure as many as believed, or as many as were brought to the knowledge of the truth, through the preaching of Ammon and his brethren, according to the spirit of revelation and of prophecy, and the power of God working miracles in them--yea, I say unto you, as the Lord liveth, as many of the Lamanites as believed in their preaching, and were converted unto the Lord, never did fall away.",
-                    "score": 0.7615145579730821
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 10,
-                    "verse": 35,
-                    "text": "If he called them gods, unto whom the word of God came, and the scripture cannot be broken;",
-                    "score": 0.7602966519679022
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 9,
@@ -698,82 +224,32 @@
                 {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 2,
                     "verse": 10,
                     "text": "But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8022532403586033
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
                     "verse": 7,
                     "text": "And to them will I reveal all mysteries, yea, all the hidden mysteries of my kingdom from days of old, and for ages to come, will I make known unto them the good pleasure of my will concerning all things pertaining to my kingdom.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8018392785375938
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 1,
                     "verse": 6,
                     "text": "And we also had many revelations, and the spirit of much prophecy; wherefore, we knew of Christ and his kingdom, which should come.",
-                    "score": 0.7955578727150215
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 114,
-                    "text": "But great and marvelous are the works of the Lord, and the mysteries of his kingdom which he showed unto us, which surpass all understanding in glory, and in might, and in dominion;",
-                    "score": 0.7948277520883021
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 1,
-                    "verse": 3,
-                    "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:",
-                    "score": 0.7794903010756326
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 90,
-                    "text": "And no man knows it except him to whom God has revealed it.",
-                    "score": 0.7755286293398844
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 29,
-                    "verse": 29,
-                    "text": "The secret things belong unto the Lord our God: but those things which are revealed belong unto us and to our children for ever, that we may do all the words of this law.",
-                    "score": 0.7730365027705646
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.",
-                    "score": 0.7718508665344502
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 5,
-                    "verse": 4,
-                    "text": "And it is the faith which we have had on the things which our king has spoken unto us that has brought us to this great knowledge, whereby we do rejoice with such exceedingly great joy.",
-                    "score": 0.7708143891916298
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.",
-                    "score": 0.7698323366813798
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9044580672196842
                 }
             ]
         },
@@ -784,170 +260,29 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 24,
                     "text": "And the land of Jerusalem and the land of Zion shall be turned back into their own place, and the earth shall be like as it was in the days before it was divided.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8055913101060895
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 32,
-                    "text": "What shall then answer the messengers of the nations? That the Lord hath founded Zion, and the poor of his people shall trust in it.",
-                    "score": 0.7898347742695446
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 36,
-                    "text": "Wherefore, seeing that I, the Lord, have decreed all these things upon the face of the earth, I will that my saints should be assembled upon the land of Zion;",
-                    "score": 0.7897015644025575
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 2,
-                    "text": "Yea, the word of the Lord concerning his church, established in the last days for the restoration of his people, as he has spoken by the mouth of his prophets, and for the gathering of his saints to stand upon Mount Zion, which shall be the city of New Jerusalem.",
-                    "score": 0.7894015130689855
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 25,
-                    "text": "Zion shall flourish upon the hills and rejoice upon the mountains, and shall be assembled together unto the place which I have appointed.",
-                    "score": 0.7856863515035859
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 102,
-                    "verse": 16,
-                    "text": "When the Lord shall build up Zion, he shall appear in his glory.",
-                    "score": 0.7801006475310693
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 14,
-                    "verse": 32,
-                    "text": "What shall one then answer the messengers of the nation? That the Lord hath founded Zion, and the poor of his people shall trust in it.",
-                    "score": 0.7794089746805789
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 117,
-                    "verse": 9,
-                    "text": "Therefore, come up hither unto the land of my people, even Zion.",
-                    "score": 0.7790379504125859
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 69,
-                    "verse": 6,
-                    "text": "For the land of Zion shall be a seat and a place to receive and do all these things.",
-                    "score": 0.7786543633630081
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 115,
-                    "verse": 6,
-                    "text": "And that the gathering together upon the land of Zion, and upon her stakes, may be for a defense, and for a refuge from the storm, and from wrath when it shall be poured out without mixture upon the whole earth.",
-                    "score": 0.7780913679270363
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 64,
+                    "text": "And there shall be mine abode, and it shall be Zion, which shall come forth out of all the creations which I have made; and for the space of a thousand years the earth shall rest.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8019869621129601
                 }
             ]
         },
         {
             "verse": 11,
             "text": "We claim the privilege of worshiping Almighty God according to the dictates of our own conscience, and allow all men the same privilege, let them worship how, where, or what they may.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 134,
-                    "verse": 4,
-                    "text": "We believe that religion is instituted of God; and that men are amenable to him, and to him only, for the exercise of it, unless their religious opinions prompt them to infringe upon the rights and liberties of others; but we do not believe that human law has a right to interfere in prescribing rules of worship to bind the consciences of men, nor dictate forms for public or private devotion; that the civil magistrate should restrain crime, but never control conscience; should punish guilt, but never suppress the freedom of the soul.",
-                    "score": 0.7919738533272936
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 16,
-                    "verse": 17,
-                    "text": "Every man shall give as he is able, according to the blessing of the Lord thy God which he hath given thee.",
-                    "score": 0.7841620079847236
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Peter",
-                    "chapter": 4,
-                    "verse": 11,
-                    "text": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.",
-                    "score": 0.7760695434932074
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 14,
-                    "verse": 12,
-                    "text": "So then every one of us shall give account of himself to God.",
-                    "score": 0.7760051056551792
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Peter",
-                    "chapter": 4,
-                    "verse": 16,
-                    "text": "Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.",
-                    "score": 0.769276602003068
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Galatians",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.",
-                    "score": 0.768133428384505
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 7,
-                    "text": "Howbeit in vain do they worship me, teaching for doctrines the commandments of men.",
-                    "score": 0.7667798629327893
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 3,
-                    "verse": 8,
-                    "text": "Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.",
-                    "score": 0.7660067730137107
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 122,
-                    "text": "Appoint among yourselves a teacher, and let not all be spokesmen at once; but let one speak at a time and let all listen unto his sayings, that when all have spoken that all may be edified of all, and that every man may have an equal privilege.",
-                    "score": 0.7650124496985597
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 134,
-                    "verse": 6,
-                    "text": "We believe that every man should be honored in his station, rulers and magistrates as such, being placed for the protection of the innocent and the punishment of the guilty; and that to the laws all men owe respect and deference, as without them peace and harmony would be supplanted by anarchy and terror; human laws being instituted for the express purpose of regulating our interests as individuals and nations, between man and man; and divine laws given of heaven, prescribing rules on spiritual concerns, for faith and worship, both to be answered by man to his Maker.",
-                    "score": 0.7649900993826401
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
@@ -956,82 +291,22 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 134,
                     "verse": 6,
                     "text": "We believe that every man should be honored in his station, rulers and magistrates as such, being placed for the protection of the innocent and the punishment of the guilty; and that to the laws all men owe respect and deference, as without them peace and harmony would be supplanted by anarchy and terror; human laws being instituted for the express purpose of regulating our interests as individuals and nations, between man and man; and divine laws given of heaven, prescribing rules on spiritual concerns, for faith and worship, both to be answered by man to his Maker.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8078789138034083
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 11,
-                    "text": "Therefore I will be your king the remainder of my days; nevertheless, let us appoint judges, to judge this people according to our law; and we will newly arrange the affairs of this people, for we will appoint wise men to be judges, that will judge this people according to the commandments of God.",
-                    "score": 0.7950866111431852
-                },
-                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 134,
-                    "verse": 3,
-                    "text": "We believe that all governments necessarily require civil officers and magistrates to enforce the laws of the same; and that such as will administer the law in equity and justice should be sought for and upheld by the voice of the people if a republic, or the will of the sovereign.",
-                    "score": 0.792002904753188
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.",
-                    "score": 0.7839938165182615
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Titus",
-                    "chapter": 3,
-                    "verse": 1,
-                    "text": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,",
-                    "score": 0.7834249976073071
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 32,
-                    "verse": 1,
-                    "text": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
-                    "score": 0.7738039453155955
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 105,
-                    "verse": 45,
-                    "text": "That they might observe his statutes, and keep his laws. Praise ye the Lord.",
-                    "score": 0.7695891358312386
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 134,
-                    "verse": 7,
-                    "text": "We believe that rulers, states, and governments have a right, and are bound to enact laws for the protection of all citizens in the free exercise of their religious belief; but we do not believe that they have a right in justice to deprive citizens of this privilege, or proscribe them in their opinions, so long as a regard and reverence are shown to the laws and such religious opinions do not justify sedition nor conspiracy.",
-                    "score": 0.7665780839898836
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 8,
-                    "verse": 9,
-                    "text": "Now therefore hearken unto their voice: howbeit yet protest solemnly unto them, and shew them the manner of the king that shall reign over them.",
-                    "score": 0.7645263639235278
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 29,
-                    "verse": 14,
-                    "text": "The king that faithfully judgeth the poor, his throne shall be established for ever.",
-                    "score": 0.7609188585666765
+                    "verse": 6,
+                    "text": "We believe that every man should be honored in his station, rulers and magistrates as such, being placed for the protection of the innocent and the punishment of the guilty; and that to the laws all men owe respect and deference, as without them peace and harmony would be supplanted by anarchy and terror; human laws being instituted for the express purpose of regulating our interests as individuals and nations, between man and man; and divine laws given of heaven, prescribing rules on spiritual concerns, for faith and worship, both to be answered by man to his Maker.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9032402903807254
                 }
             ]
         },
@@ -1042,82 +317,12 @@
                 {
                     "volume": "New Testament",
                     "book": "Philippians",
+                    "volume_book_index": 11,
                     "chapter": 4,
                     "verse": 8,
                     "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024888209469716
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Titus",
-                    "chapter": 2,
-                    "verse": 10,
-                    "text": "Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
-                    "score": 0.7956907813549862
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 13,
-                    "verse": 18,
-                    "text": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly.",
-                    "score": 0.794285545611796
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 13,
-                    "verse": 7,
-                    "text": "Beareth all things, believeth all things, hopeth all things, endureth all things.",
-                    "score": 0.7765015136886182
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Titus",
-                    "chapter": 3,
-                    "verse": 8,
-                    "text": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.",
-                    "score": 0.7736733914927575
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 4,
-                    "verse": 6,
-                    "text": "Remember faith, virtue, knowledge, temperance, patience, brotherly kindness, godliness, charity, humility, diligence.",
-                    "score": 0.7703427185157148
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Timothy",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;",
-                    "score": 0.7699801713076203
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 21,
-                    "verse": 6,
-                    "text": "Thou also sayest, except we repent we shall perish. How knowest thou the thought and intent of our hearts? How knowest thou that we have cause to repent? How knowest thou that we are not a righteous people? Behold, we have built sanctuaries, and we do assemble ourselves together to worship God. We do believe that God will save all men.",
-                    "score": 0.7698624519824847
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Corinthians",
-                    "chapter": 9,
-                    "verse": 7,
-                    "text": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
-                    "score": 0.7678641051968126
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 12,
-                    "verse": 17,
-                    "text": "Recompense to no man evil for evil. Provide things honest in the sight of all men.",
-                    "score": 0.7676321511062679
                 }
             ]
         }

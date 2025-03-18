@@ -10,82 +10,72 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 78,
                     "text": "The manner of administering the wine--he shall take the cup also, and say:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8987626414323565
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 14,
-                    "verse": 23,
-                    "text": "And he took the cup, and when he had given thanks, he gave it to them: and they all drank of it.",
-                    "score": 0.7895813590089965
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 8,
+                    "text": "And it came to pass that when he said these words, he commanded his disciples that they should take of the wine of the cup and drink of it, and that they should also give unto the multitude that they might drink of it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083354543819354
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 78,
+                    "text": "The manner of administering the wine--he shall take the cup also, and say:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8586449111315676
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 78,
+                    "text": "The manner of administering the wine--he shall take the cup also, and say:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9515617345457545
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 26,
                     "verse": 27,
                     "text": "And he took the cup, and gave thanks, and gave it to them, saying, Drink ye all of it;",
-                    "score": 0.7816301301283216
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9150859390224898
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 75,
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
                     "verse": 8,
-                    "text": "For in the hand of the Lord there is a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring them out, and drink them.",
-                    "score": 0.7678279988810294
+                    "text": "And it came to pass that when he said these words, he commanded his disciples that they should take of the wine of the cup and drink of it, and that they should also give unto the multitude that they might drink of it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9130113941143246
                 },
                 {
                     "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,",
-                    "score": 0.7597626812984125
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 49,
-                    "verse": 12,
-                    "text": "For thus saith the Lord; Behold, they whose judgment was not to drink of the cup have assuredly drunken; and art thou he that shall altogether go unpunished? thou shalt not go unpunished, but thou shalt surely drink of it.",
-                    "score": 0.751527437617206
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 23,
-                    "verse": 31,
-                    "text": "Look not thou upon the wine when it is red, when it giveth his colour in the cup, when it moveth itself aright.",
-                    "score": 0.7514091286090343
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 25,
-                    "verse": 17,
-                    "text": "Then took I the cup at the Lord's hand, and made all the nations to drink, unto whom the Lord had sent me:",
-                    "score": 0.7490944104950017
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 22,
-                    "verse": 17,
-                    "text": "And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:",
-                    "score": 0.7483075908173976
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 5,
-                    "verse": 4,
-                    "text": "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.",
-                    "score": 0.7472331278733075
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 14,
+                    "verse": 23,
+                    "text": "And he took the cup, and when he had given thanks, he gave it to them: and they all drank of it.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9107271166822727
                 }
             ]
         },
@@ -96,82 +86,162 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 79,
                     "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 77,
                     "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9075728324126359
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 4,
+                    "verse": 3,
+                    "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it; that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him, and keep his commandments which he hath given them, that they may always have his Spirit to be with them. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9069439521638627
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 18,
+                    "verse": 11,
+                    "text": "And this shall ye always do to those who repent and are baptized in my name; and ye shall do it in remembrance of my blood, which I have shed for you, that ye may witness unto the Father that ye do always remember me. And if ye do always remember me ye shall have my Spirit to be with you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8197590052791365
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Zechariah",
+                    "volume_book_index": 38,
                     "chapter": 10,
                     "verse": 7,
                     "text": "And they of Ephraim shall be like a mighty man, and their heart shall rejoice as through wine: yea, their children shall see it, and be glad; their heart shall rejoice in the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8165985094493522
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 13,
                     "verse": 12,
                     "text": "Therefore thou shalt speak unto them this word; Thus saith the Lord God of Israel, Every bottle shall be filled with wine: and they shall say unto thee, Do we not certainly know that every bottle shall be filled with wine?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8125144018784681
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Proverbs",
+                    "volume_book_index": 20,
                     "chapter": 31,
                     "verse": 6,
                     "text": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8062766873744623
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 5,
                     "verse": 23,
                     "text": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8010644790598718
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 26,
+                    "text": "And I will feed them that oppress thee with their own flesh; they shall be drunken with their own blood as with sweet wine; and all flesh shall know that I, the Lord, am thy Savior and thy Redeemer, the Mighty One of Jacob.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008085093119764
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 27,
                     "verse": 10,
                     "text": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8002306140903492
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 49,
-                    "verse": 26,
-                    "text": "And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the Lord am thy Saviour and thy Redeemer, the mighty One of Jacob.",
-                    "score": 0.7966754459064654
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 27,
-                    "verse": 2,
-                    "text": "For, behold, I say unto you, that it mattereth not what ye shall eat or what ye shall drink when ye partake of the sacrament, if it so be that ye do it with an eye single to my glory--remembering unto the Father my body which was laid down for you, and my blood which was shed for the remission of your sins.",
-                    "score": 0.7963868713668525
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 79,
+                    "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999994635582308
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 9,
-                    "verse": 41,
-                    "text": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.",
-                    "score": 0.7958510033207217
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 4,
+                    "verse": 3,
+                    "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it; that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him, and keep his commandments which he hath given them, that they may always have his Spirit to be with them. Amen.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.850609728657621
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 77,
+                    "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.849897027015692
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 79,
+                    "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9999978840347956
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 4,
+                    "verse": 3,
+                    "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it; that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him, and keep his commandments which he hath given them, that they may always have his Spirit to be with them. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9515800730806693
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 77,
+                    "text": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it, that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him and keep his commandments which he has given them; that they may always have his Spirit to be with them. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9515435012954774
                 }
             ]
         }

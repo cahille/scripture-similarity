@@ -10,82 +10,482 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 8,
                     "verse": 5,
                     "text": "My righteousness is near; my salvation is gone forth, and mine arm shall judge the people. The isles shall wait upon me, and on mine arm shall they trust.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8364268038105647
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 5,
+                    "text": "My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8343828319152
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 7,
+                    "verse": 7,
+                    "text": "Therefore I will look unto the Lord; I will wait for the God of my salvation: my God will hear me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.829539402039801
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "I will bear the indignation of the Lord, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8231116502739715
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 7,
+                    "verse": 8,
+                    "text": "The Lord shall judge the people: judge me, O Lord, according to my righteousness, and according to mine integrity that is in me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8219069114130891
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 52,
                     "verse": 11,
                     "text": "For thus saith the Lord, I will cut my work short in righteousness, for the days come that I will send forth judgment unto victory.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8208842913394697
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 106,
+                    "text": "I have sworn, and I will perform it, that I will keep thy righteous judgments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8191372160063543
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 18,
+                    "verse": 4,
+                    "text": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the Lord your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.818901460934334
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 9,
                     "verse": 46,
                     "text": "Prepare your souls for that glorious day when justice shall be administered unto the righteous, even the day of judgment, that ye may not shrink with awful fear; that ye may not remember your awful guilt in perfectness, and be constrained to exclaim: Holy, holy are thy judgments, O Lord God Almighty--but I know my guilt; I transgressed thy law, and my transgressions are mine; and the devil hath obtained me, that I am a prey to his awful misery.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8187618922283999
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 75,
+                    "verse": 2,
+                    "text": "When I shall receive the congregation I will judge uprightly.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8185592496429337
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 40,
+                    "text": "Behold, I have longed after thy precepts: quicken me in thy righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8178395390918967
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 166,
+                    "text": "Lord, I have hoped for thy salvation, and done thy commandments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8176420302267723
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 72,
+                    "verse": 2,
+                    "text": "He shall judge thy people with righteousness, and thy poor with judgment.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8158000089549229
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 1,
+                    "text": "Behold my servant, whom I uphold; mine elect, in whom my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.814821658342274
                 },
                 {
                     "volume": "New Testament",
                     "book": "2 Timothy",
+                    "volume_book_index": 16,
                     "chapter": 4,
                     "verse": 8,
                     "text": "Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8144493393883031
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 49,
+                    "verse": 18,
+                    "text": "I have waited for thy salvation, O Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8138595810449698
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 46,
+                    "verse": 13,
+                    "text": "I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8136222992565554
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 12,
+                    "verse": 6,
+                    "text": "Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8130831245890939
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 7,
+                    "text": "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8122692236349599
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 19,
+                    "text": "I am the Lord your God; walk in my statutes, and keep my judgments, and do them;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8120165596000477
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 43,
                     "verse": 29,
                     "text": "For in mine own due time will I come upon the earth in judgment, and my people shall be redeemed and shall reign with me on earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.811395127953667
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 9,
+                    "verse": 24,
+                    "text": "But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the Lord which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8098821690792951
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 24,
+                    "verse": 15,
+                    "text": "The Lord therefore be judge, and judge between me and thee, and see, and plead my cause, and deliver me out of thine hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079675708815897
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 18,
                     "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8070401316617193
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 2,
                     "verse": 30,
                     "text": "For mine eyes have seen thy salvation,",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8068184688899186
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 119,
                     "text": "For I, the Lord, have put forth my hand to exert the powers of heaven; ye cannot see it now, yet a little while and ye shall see it, and know that I am, and that I will come and reign with my people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8066381390749717
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 8,
-                    "verse": 34,
-                    "text": "Behold, the Lord hath shown unto me great and marvelous things concerning that which must shortly come, at that day when these things shall come forth among you.",
-                    "score": 0.8054461030267409
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 175,
+                    "text": "Let my soul live, and it shall praise thee; and let thy judgments help me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806387718718712
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 174,
+                    "text": "I have longed for thy salvation, O Lord; and thy law is my delight.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063728616906363
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mormon",
+                    "volume_book_index": 13,
+                    "chapter": 8,
+                    "verse": 34,
+                    "text": "Behold, the Lord hath shown unto me great and marvelous things concerning that which must shortly come, at that day when these things shall come forth among you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054461030267409
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 30,
+                    "verse": 18,
+                    "text": "And therefore will the Lord wait, that he may be gracious unto you, and therefore will he be exalted, that he may have mercy upon you: for the Lord is a God of judgment: blessed are all they that wait for him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047746188259375
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 39,
+                    "verse": 21,
+                    "text": "And I will set my glory among the heathen, and all the heathen shall see my judgment that I have executed, and my hand that I have laid upon them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037353979127013
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 37,
+                    "verse": 6,
+                    "text": "And he shall bring forth thy righteousness as the light, and thy judgment as the noonday.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035300458216762
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mormon",
+                    "volume_book_index": 13,
                     "chapter": 9,
                     "verse": 14,
                     "text": "And then cometh the judgment of the Holy One upon them; and then cometh the time that he that is filthy shall be filthy still; and he that is righteous shall be righteous still; he that is happy shall be happy still; and he that is unhappy shall be unhappy still.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8028444848413642
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 7,
+                    "verse": 12,
+                    "text": "Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the Lord thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027314906714589
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 149,
+                    "text": "Hear my voice according unto thy lovingkindness: O Lord, quicken me according to thy judgment.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027029962578508
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 25,
+                    "verse": 11,
+                    "text": "And I will execute judgments upon Moab; and they shall know that I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026892202550814
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 35,
+                    "verse": 24,
+                    "text": "Judge me, O Lord my God, according to thy righteousness; and let them not rejoice over me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025499595747865
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Habakkuk",
+                    "volume_book_index": 35,
+                    "chapter": 3,
+                    "verse": 18,
+                    "text": "Yet I will rejoice in the Lord, I will joy in the God of my salvation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024141166647177
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 41,
+                    "text": "Let thy mercies come also unto me, O Lord, even thy salvation, according to thy word.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8022182285924546
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 137,
+                    "text": "Righteous art thou, O Lord, and upright are thy judgments.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013657374059566
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Peter",
+                    "volume_book_index": 22,
+                    "chapter": 2,
+                    "verse": 9,
+                    "text": "The Lord knoweth how to deliver the godly out of temptations, and to reserve the unjust unto the day of judgment to be punished:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008601786753783
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 35,
+                    "verse": 23,
+                    "text": "Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007983439069277
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 52,
+                    "verse": 11,
+                    "text": "For thus saith the Lord, I will cut my work short in righteousness, for the days come that I will send forth judgment unto victory.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9114218950271606
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 13,
+                    "text": "Before the Lord: for he cometh, for he cometh to judge the earth: he shall judge the world with righteousness, and the people with his truth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9068092703819275
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 5,
+                    "text": "My righteousness is near; my salvation is gone forth, and mine arm shall judge the people. The isles shall wait upon me, and on mine arm shall they trust.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9063649829408553
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 7,
+                    "verse": 8,
+                    "text": "The Lord shall judge the people: judge me, O Lord, according to my righteousness, and according to mine integrity that is in me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055420160293579
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 5,
+                    "text": "My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.90513070133973
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 98,
+                    "verse": 9,
+                    "text": "Before the Lord; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9013668987026497
                 }
             ]
         },
@@ -94,84 +494,134 @@
             "text": "Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 6,
+                    "text": "Also the sons of the stranger, that join themselves to the Lord, to serve him, and to love the name of the Lord, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8410665216343749
+                },
+                {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 28,
                     "text": "Therefore the Son of man is Lord also of the sabbath.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8401583816636854
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 8,
                     "text": "For the Son of man is Lord even of the sabbath day.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8324444095621816
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 15,
+                    "text": "And remember that thou wast a servant in the land of Egypt, and that the Lord thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the Lord thy God commanded thee to keep the sabbath day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8245861428105222
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 6,
                     "verse": 5,
                     "text": "And he said unto them, That the Son of man is Lord also of the sabbath.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8234424033334343
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 12,
+                    "text": "Keep the sabbath day to sanctify it, as the Lord thy God hath commanded thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8225365215075109
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 3,
                     "verse": 4,
                     "text": "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8164120474267617
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 16,
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 80,
+                    "verse": 17,
+                    "text": "Let thy hand be upon the man of thy right hand, upon the son of man whom thou madest strong for thyself.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8133906206900193
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 20,
+                    "verse": 8,
                     "text": "Remember the sabbath day, to keep it holy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8106510161819055
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 23,
-                    "text": "And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.",
-                    "score": 0.7976632840539892
+                    "volume_book_index": 8,
+                    "chapter": 13,
+                    "verse": 16,
+                    "text": "Remember the sabbath day, to keep it holy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106510161819055
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 12,
-                    "verse": 11,
-                    "text": "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?",
-                    "score": 0.7911676192571284
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 31,
+                    "verse": 14,
+                    "text": "Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081421536352553
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 4,
-                    "verse": 8,
-                    "text": "Blessed is the man to whom the Lord will not impute sin.",
-                    "score": 0.7851517015025177
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 4,
+                    "text": "For thus saith the Lord unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042473525893411
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 64,
-                    "verse": 23,
-                    "text": "Behold, now it is called today until the coming of the Son of Man, and verily it is a day of sacrifice, and a day for the tithing of my people; for he that is tithed shall not be burned at his coming.",
-                    "score": 0.7849729447022276
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 68,
-                    "verse": 29,
-                    "text": "And the inhabitants of Zion shall also observe the Sabbath day to keep it holy.",
-                    "score": 0.7837054988434562
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 6,
+                    "verse": 15,
+                    "text": "Thou which hast kept with thy servant David my father that which thou hast promised him; and spakest with thy mouth, and hast fulfilled it with thine hand, as it is this day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010282990689196
                 }
             ]
         },
@@ -180,84 +630,14 @@
             "text": "Neither let the son of the stranger, that hath joined himself to the Lord, speak, saying, The Lord hath utterly separated me from his people: neither let the eunuch say, Behold, I am a dry tree.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 15,
-                    "verse": 19,
-                    "text": "But, verily, I say unto you that the Father hath commanded me, and I tell it unto you, that ye were separated from among them because of their iniquity; therefore it is because of their iniquity that they know not of you.",
-                    "score": 0.7845323986691456
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 7,
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 3,
                     "verse": 13,
-                    "text": "For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.",
-                    "score": 0.7839865648354613
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 15,
-                    "verse": 23,
-                    "text": "And they understood me not that I said they shall hear my voice; and they understood me not that the Gentiles should not at any time hear my voice--that I should not manifest myself unto them save it were by the Holy Ghost.",
-                    "score": 0.77861734335747
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 57,
-                    "text": "And now I say unto you, all you that are desirous to follow the voice of the good shepherd, come ye out from the wicked, and be ye separate, and touch not their unclean things; and behold, their names shall be blotted out, that the names of the wicked shall not be numbered among the names of the righteous, that the word of God may be fulfilled, which saith: The names of the wicked shall not be mingled with the names of my people;",
-                    "score": 0.7744848615996915
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 11,
-                    "verse": 24,
-                    "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.",
-                    "score": 0.7741052545039782
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 59,
-                    "text": "And Enoch beheld the Son of Man ascend up unto the Father; and he called unto the Lord, saying: Wilt thou not come again upon the earth? Forasmuch as thou art God, and I know thee, and thou hast sworn unto me, and commanded me that I should ask in the name of thine Only Begotten; thou hast made me, and given unto me a right to thy throne, and not of myself, but through thine own grace; wherefore, I ask thee if thou wilt not come again on the earth.",
-                    "score": 0.771422929361843
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 15,
-                    "verse": 15,
-                    "text": "Neither at any time hath the Father given me commandment that I should tell unto them concerning the other tribes of the house of Israel, whom the Father hath led away out of the land.",
-                    "score": 0.7698932545830898
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 12,
-                    "verse": 25,
-                    "text": "See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:",
-                    "score": 0.7697042591889834
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 10,
-                    "verse": 28,
-                    "text": "And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.",
-                    "score": 0.76921981951425
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 22,
-                    "text": "And behold, ye shall meet together oft; and ye shall not forbid any man from coming unto you when ye shall meet together, but suffer them that they may come unto you and forbid them not;",
-                    "score": 0.766972877009974
+                    "text": "Only acknowledge thine iniquity, that thou hast transgressed against the Lord thy God, and hast scattered thy ways to the strangers under every green tree, and ye have not obeyed my voice, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8109832759465846
                 }
             ]
         },
@@ -266,84 +646,184 @@
             "text": "For thus saith the Lord unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 6,
+                    "text": "Also the sons of the stranger, that join themselves to the Lord, to serve him, and to love the name of the Lord, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8502622683525951
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 26,
+                    "verse": 2,
+                    "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8220202731171942
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 19,
+                    "verse": 30,
+                    "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8220202731171942
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 10,
+                    "verse": 13,
+                    "text": "To keep the commandments of the Lord, and his statutes, which I command thee this day for thy good?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8186487803258565
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 12,
+                    "text": "Keep the sabbath day to sanctify it, as the Lord thy God hath commanded thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8173222415746484
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 25,
+                    "verse": 6,
+                    "text": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8171395198230627
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 12,
+                    "text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the Lord that sanctify them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8159229527016436
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 18,
                     "verse": 23,
                     "text": "And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8156974257808846
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 103,
+                    "verse": 18,
+                    "text": "To such as keep his covenant, and to those that remember his commandments to do them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.814636372399048
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 38,
+                    "text": "Beside the sabbaths of the Lord, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812394253182996
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 13,
+                    "verse": 22,
+                    "text": "And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of thy mercy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.809295559366301
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 18,
                     "verse": 14,
                     "text": "Therefore blessed are ye if ye shall keep my commandments, which the Father hath commanded me that I should give unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8083181005237272
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 20,
+                    "text": "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am the Lord your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8069283308363076
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 66,
+                    "verse": 21,
+                    "text": "And I will also take of them for priests and for Levites, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045579467102166
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 2,
+                    "text": "Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042473525893411
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 11,
+                    "verse": 5,
+                    "text": "And he commanded them, saying, This is the thing that ye shall do; A third part of you that enter in on the sabbath shall even be keepers of the watch of the king's house;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802653031870378
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 61,
                     "verse": 13,
                     "text": "And now, behold, for your good I gave unto you a commandment concerning these things; and I, the Lord, will reason with you as with men in days of old.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.802636298165866
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 46,
-                    "verse": 9,
-                    "text": "For verily I say unto you, they are given for the benefit of those who love me and keep all my commandments, and him that seeketh so to do; that all may be benefited that seek or that ask of me, that ask and not for a sign that they may consume it upon their lusts.",
-                    "score": 0.7993150845304782
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "For this is my covenant unto them, when I shall take away their sins.",
-                    "score": 0.7974326811608031
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 10,
-                    "verse": 16,
-                    "text": "This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;",
-                    "score": 0.7970316343928113
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 123,
-                    "text": "Verily I say unto you, I now give unto you the officers belonging to my Priesthood, that ye may hold the keys thereof, even the Priesthood which is after the order of Melchizedek, which is after the order of mine Only Begotten Son.",
-                    "score": 0.7963561754554765
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 82,
-                    "verse": 15,
-                    "text": "Therefore, I give unto you this commandment, that ye bind yourselves by this covenant, and it shall be done according to the laws of the Lord.",
-                    "score": 0.7937136768774565
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 3,
-                    "verse": 22,
-                    "text": "And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.",
-                    "score": 0.7933134721353986
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 53,
-                    "text": "For I am the Lord thy God, and ye shall obey my voice; and I give unto my servant Joseph that he shall be made ruler over many things; for he hath been faithful over a few things, and from henceforth I will strengthen him.",
-                    "score": 0.792170238620659
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 22,
+                    "verse": 31,
+                    "text": "Therefore shall ye keep my commandments, and do them: I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026347068531221
                 }
             ]
         },
@@ -352,84 +832,504 @@
             "text": "Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 7,
+                    "verse": 14,
+                    "text": "Therefore will I do unto this house, which is called by my name, wherein ye trust, and unto the place which I gave to you and to your fathers, as I have done to Shiloh.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8449394549133398
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 55,
                     "text": "And again, verily I say unto you, I command you again to build a house to my name, even in this place, that you may prove yourselves unto me that ye are faithful in all things whatsoever I command you, that I may bless you, and crown you with honor, immortality, and eternal life.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8341279578699639
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8334747289400419
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 19,
                     "verse": 29,
                     "text": "And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive an hundredfold, and shall inherit everlasting life.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8286644716624342
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 110,
                     "verse": 6,
                     "text": "Let the hearts of your brethren rejoice, and let the hearts of all my people rejoice, who have, with their might, built this house to my name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8214530387041414
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 40,
                     "text": "And verily I say unto you, let this house be built unto my name, that I may reveal mine ordinances therein unto my people;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8205727037885896
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 97,
                     "verse": 15,
                     "text": "And inasmuch as my people build a house unto me in the name of the Lord, and do not suffer any unclean thing to come into it, that it be not defiled, my glory shall rest upon it;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8188831800339127
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 1,
                     "verse": 12,
                     "text": "And I give unto them a name that never shall be blotted out, except it be through transgression.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8187313629095956
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 5,
                     "text": "Wherefore, Father, spare these my brethren that believe on my name, that they may come unto me and have everlasting life.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8187001927121091
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 22,
                     "text": "Let my servant George, and my servant Lyman, and my servant John Snider, and others, build a house unto my name, such a one as my servant Joseph shall show unto them, upon the place which he shall show unto them also.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8186221625625201
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 56,
-                    "text": "And now I say unto you, as pertaining to my boarding house which I have commanded you to build for the boarding of strangers, let it be built unto my name, and let my name be named upon it, and let my servant Joseph and his house have place therein, from generation to generation.",
-                    "score": 0.8095790178398412
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 25,
+                    "text": "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8143520774979487
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 29,
+                    "text": "Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord God, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8126806974311795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 7,
+                    "text": "Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8113591003682308
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 5,
+                    "verse": 5,
+                    "text": "And, behold, I purpose to build an house unto the name of the Lord my God, as the Lord spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8097643993347076
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 124,
+                    "verse": 56,
+                    "text": "And now I say unto you, as pertaining to my boarding house which I have commanded you to build for the boarding of strangers, let it be built unto my name, and let my name be named upon it, and let my servant Joseph and his house have place therein, from generation to generation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095790178398412
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 17,
+                    "text": "I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8093696975305162
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 5,
                     "text": "For verily this generation shall not all pass away until an house shall be built unto the Lord, and a cloud shall rest upon it, which cloud shall be even the glory of the Lord, which shall fill the house.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8092341556951995
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 109,
+                    "verse": 24,
+                    "text": "We ask thee, Holy Father, to establish the people that shall worship, and honorably hold a name and standing in this thy house, to all generations and for eternity;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8088762782512516
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 5,
+                    "text": "But behold, my sons and my daughters, I cannot go down to my grave save I should leave a blessing upon you; for behold, I know that if ye are brought up in the way ye should go ye will not depart from it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081126676335505
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 17,
+                    "verse": 12,
+                    "text": "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.808017904576657
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 26,
+                    "text": "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80684296819311
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 17,
+                    "verse": 27,
+                    "text": "Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O Lord, and it shall be blessed for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8061925140554667
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 6,
+                    "verse": 27,
+                    "text": "And they shall put my name upon the children of Israel; and I will bless them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8058407501718058
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 29,
+                    "verse": 14,
+                    "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8057791021218628
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 22,
+                    "verse": 10,
+                    "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053303365765738
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 31,
+                    "text": "Therefore, as I said concerning the sons of Moses--for the sons of Moses and also the sons of Aaron shall offer an acceptable offering and sacrifice in the house of the Lord, which house shall be built unto the Lord in this generation, upon the consecrated spot as I have appointed--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805233604083307
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 49,
+                    "verse": 11,
+                    "text": "Their inward thought is, that their houses shall continue for ever, and their dwelling places to all generations; they call their lands after their own names.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8044333746942168
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 132,
+                    "verse": 12,
+                    "text": "If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036388387839962
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 26,
+                    "verse": 18,
+                    "text": "Yea, blessed is this people who are willing to bear my name; for in my name shall they be called; and they are mine.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80331748105366
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 69,
+                    "verse": 36,
+                    "text": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8032614280152935
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 6,
+                    "verse": 9,
+                    "text": "Notwithstanding thou shalt not build the house; but thy son which shall come forth out of thy loins, he shall build the house for my name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029533039780399
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029421540927443
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 2,
+                    "verse": 9,
+                    "text": "The glory of this latter house shall be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028806206522417
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 10,
+                    "verse": 6,
+                    "text": "And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I am the Lord their God, and will hear them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802726482361948
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 124,
+                    "verse": 59,
+                    "text": "Therefore, let my servant Joseph and his seed after him have place in that house, from generation to generation, forever and ever, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024235680875962
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 8,
+                    "verse": 19,
+                    "text": "Nevertheless thou shalt not build the house; but thy son that shall come forth out of thy loins, he shall build the house unto my name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80215869458268
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 26,
+                    "verse": 24,
+                    "text": "For behold, in my name are they called; and if they know me they shall come forth, and shall have a place eternally at my right hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018199903946746
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 17,
+                    "verse": 24,
+                    "text": "Let it even be established, that thy name may be magnified for ever, saying, The Lord of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017954382012563
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 43,
+                    "verse": 7,
+                    "text": "And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, neither they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015488736078363
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 49,
+                    "verse": 20,
+                    "text": "The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014319192552632
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 21,
+                    "verse": 20,
+                    "text": "For it shall come to pass, saith the Father, that at that day whosoever will not repent and come unto my Beloved Son, them will I cut off from among my people, O house of Israel;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013867910842611
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 24,
+                    "verse": 17,
+                    "text": "And they shall be mine, saith the Lord of Hosts, in that day when I make up my jewels; and I will spare them as a man spareth his own son that serveth him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801040355931613
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 3,
+                    "verse": 17,
+                    "text": "And they shall be mine, saith the Lord of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801040355931613
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 115,
+                    "verse": 14,
+                    "text": "But let a house be built unto my name according to the pattern which I will show unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005486313592817
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 38,
+                    "verse": 20,
+                    "text": "And this shall be my covenant with you, ye shall have it for the land of your inheritance, and for the inheritance of your children forever, while the earth shall stand, and ye shall possess it again in eternity, no more to pass away.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002784218479525
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 13,
+                    "text": "He shall build an house for my name, and I will stablish the throne of his kingdom for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000223267662034
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 26,
+                    "text": "Moreover I will make a covenant of peace with them; it shall be an everlasting covenant with them: and I will place them, and multiply them, and will set my sanctuary in the midst of them for evermore.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9064742867037245
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 10,
+                    "verse": 28,
+                    "text": "And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012667477885946
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 32,
+                    "verse": 40,
+                    "text": "And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9010331630706852
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 22,
+                    "verse": 10,
+                    "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005769609717433
                 }
             ]
         },
@@ -438,84 +1338,254 @@
             "text": "Also the sons of the stranger, that join themselves to the Lord, to serve him, and to love the name of the Lord, to be his servants, every one that keepeth the sabbath from polluting it, and taketh hold of my covenant;",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 4,
+                    "text": "For thus saith the Lord unto the eunuchs that keep my sabbaths, and choose the things that please me, and take hold of my covenant;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8502622683525951
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 2,
+                    "text": "Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8410665216343749
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 25,
+                    "verse": 6,
+                    "text": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.832859384310866
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 18,
+                    "verse": 4,
+                    "text": "And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8325938815438185
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 12,
+                    "text": "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the Lord that sanctify them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181309333842548
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 13,
+                    "verse": 22,
+                    "text": "And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of thy mercy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.813293926869897
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 26,
+                    "verse": 2,
+                    "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811820761727747
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 19,
+                    "verse": 30,
+                    "text": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811820761727747
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 46,
                     "verse": 20,
                     "text": "Behold, whosoever will maintain this title upon the land, let them come forth in the strength of the Lord, and enter into a covenant that they will maintain their rights, and their religion, that the Lord God may bless them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8105655776326997
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 103,
+                    "verse": 18,
+                    "text": "To such as keep his covenant, and to those that remember his commandments to do them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8090946689790334
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 26,
                     "verse": 20,
                     "text": "Thou art my servant; and I covenant with thee that thou shalt have eternal life; and thou shalt serve me and go forth in my name, and shalt gather together my sheep.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8086451127129098
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 5,
+                    "verse": 15,
+                    "text": "And remember that thou wast a servant in the land of Egypt, and that the Lord thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the Lord thy God commanded thee to keep the sabbath day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8076250655416659
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 4,
+                    "verse": 22,
+                    "text": "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8052585081506165
                 },
                 {
                     "volume": "New Testament",
                     "book": "Luke",
+                    "volume_book_index": 3,
                     "chapter": 6,
                     "verse": 5,
                     "text": "And he said unto them, That the Son of man is Lord also of the sabbath.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8050973715165934
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 5,
+                    "text": "Gather my saints together unto me; those that have made a covenant with me by sacrifice.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042290365208344
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 2,
                     "verse": 28,
                     "text": "Therefore the Son of man is Lord also of the sabbath.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8042141019551214
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 18,
+                    "verse": 7,
+                    "text": "Therefore thou and thy sons with thee shall keep your priest's office for every thing of the altar, and within the veil; and ye shall serve: I have given your priest's office unto you as a service of gift: and the stranger that cometh nigh shall be put to death.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033598880844876
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 19,
+                    "verse": 34,
+                    "text": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the Lord your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030629904450867
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 49,
                     "text": "Verily, verily, I say unto you, that when I give a commandment to any of the sons of men to do a work unto my name, and those sons of men go with all their might and with all they have to perform that work, and cease not their diligence, and their enemies come upon them and hinder them from performing that work, behold, it behooveth me to require that work no more at the hands of those sons of men, but to accept of their offerings.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8019877460597802
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 84,
                     "verse": 36,
                     "text": "For he that receiveth my servants receiveth me;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8011794496217168
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 48,
+                    "text": "And when a stranger shall sojourn with thee, and will keep the passover to the Lord, let all his males be circumcised, and then let him come near and keep it; and he shall be as one that is born in the land: for no uncircumcised person shall eat thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007970097615905
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 18,
                     "verse": 23,
                     "text": "And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8007675417736607
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 6,
+                    "text": "I the Lord have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004190615459661
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Kings",
+                    "volume_book_index": 12,
+                    "chapter": 11,
+                    "verse": 5,
+                    "text": "And he commanded them, saying, This is the thing that ye shall do; A third part of you that enter in on the sabbath shall even be keepers of the watch of the king's house;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003270372789303
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 36,
                     "text": "That my covenant people may be gathered in one in that day when I shall come to my temple. And this I do for the salvation of my people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.800296794918224
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 29,
-                    "text": "And I will remember the covenant which I have made with my people; and I have covenanted with them that I would gather them together in mine own due time, that I would give unto them again the land of their fathers for their inheritance, which is the land of Jerusalem, which is the promised land unto them forever, saith the Father.",
-                    "score": 0.7982823064515888
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 12,
-                    "verse": 8,
-                    "text": "For the Son of man is Lord even of the sabbath day.",
-                    "score": 0.7934450687232637
                 }
             ]
         },
@@ -524,84 +1594,474 @@
             "text": "Even them will I bring to my holy mountain, and make them joyful in my house of prayer: their burnt offerings and their sacrifices shall be accepted upon mine altar; for mine house shall be called an house of prayer for all people.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 16,
-                    "text": "And that this house may be a house of prayer, a house of fasting, a house of faith, a house of glory and of God, even thy house;",
-                    "score": 0.8261516254343658
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 40,
+                    "text": "For in mine holy mountain, in the mountain of the height of Israel, saith the Lord God, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.873389638265496
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 11,
+                    "verse": 31,
+                    "text": "Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the Lord's, and I will offer it up for a burnt offering.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8329397553410351
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 109,
+                    "verse": 16,
+                    "text": "And that this house may be a house of prayer, a house of fasting, a house of faith, a house of glory and of God, even thy house;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8261516254343658
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 5,
+                    "verse": 7,
+                    "text": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8219301623210022
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 110,
                     "verse": 6,
                     "text": "Let the hearts of your brethren rejoice, and let the hearts of all my people rejoice, who have, with their might, built this house to my name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8217225367478697
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 115,
                     "verse": 8,
                     "text": "Therefore, I command you to build a house unto me, for the gathering together of my saints, that they may worship me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8200096577578805
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 31,
-                    "text": "Therefore, as I said concerning the sons of Moses--for the sons of Moses and also the sons of Aaron shall offer an acceptable offering and sacrifice in the house of the Lord, which house shall be built unto the Lord in this generation, upon the consecrated spot as I have appointed--",
-                    "score": 0.81449951988039
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 60,
+                    "verse": 7,
+                    "text": "All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8199540204147482
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 20,
+                    "verse": 24,
+                    "text": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.817477929262342
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Haggai",
+                    "volume_book_index": 37,
+                    "chapter": 1,
+                    "verse": 8,
+                    "text": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8157697968878563
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 66,
+                    "verse": 13,
+                    "text": "I will go into thy house with burnt offerings: I will pay thee my vows,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8157481361532783
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 84,
+                    "verse": 31,
+                    "text": "Therefore, as I said concerning the sons of Moses--for the sons of Moses and also the sons of Aaron shall offer an acceptable offering and sacrifice in the house of the Lord, which house shall be built unto the Lord in this generation, upon the consecrated spot as I have appointed--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.81449951988039
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 5,
+                    "text": "Go and tell my servant David, Thus saith the Lord, Shalt thou build me an house for me to dwell in?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8136242229788404
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 2,
+                    "verse": 2,
+                    "text": "And it shall come to pass in the last days, that the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8130416682715114
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 8,
+                    "verse": 29,
+                    "text": "That thine eyes may be open toward this house night and day, even toward the place of which thou hast said, My name shall be there: that thou mayest hearken unto the prayer which thy servant shall make toward this place.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8126679714343954
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 12,
+                    "verse": 11,
+                    "text": "Then there shall be a place which the Lord your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the Lord:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117881068770428
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 56,
+                    "verse": 5,
+                    "text": "Even unto them will I give in mine house and within my walls a place and a name better than of sons and of daughters: I will give them an everlasting name, that shall not be cut off.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8113591003682308
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 66,
+                    "verse": 20,
+                    "text": "And they shall bring all your brethren for an offering unto the Lord out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the Lord, as the children of Israel bring an offering in a clean vessel into the house of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8112576472581573
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 110,
                     "verse": 7,
                     "text": "For behold, I have accepted this house, and my name shall be here; and I will manifest myself to my people in mercy in this house.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8108872935278512
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 44,
+                    "verse": 11,
+                    "text": "Yet they shall be ministers in my sanctuary, having charge at the gates of the house, and ministering to the house: they shall slay the burnt offering and the sacrifice for the people, and they shall stand before them to minister unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8104577484785951
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 14,
+                    "verse": 21,
+                    "text": "Yea, every pot in Jerusalem and in Judah shall be holiness unto the Lord of hosts: and all they that sacrifice shall come and take of them, and seethe therein: and in that day there shall be no more the Canaanite in the house of the Lord of hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8097955609877128
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 1,
+                    "verse": 11,
+                    "text": "For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087294290124033
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 12,
                     "verse": 2,
                     "text": "And it shall come to pass in the last days, when the mountain of the Lord's house shall be established in the top of the mountains, and shall be exalted above the hills, and all nations shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8085192498183442
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
+                    "verse": 14,
+                    "text": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083541511664849
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 20,
+                    "verse": 6,
+                    "text": "Yet I will send my servants unto thee to morrow about this time, and they shall search thine house, and the houses of thy servants; and it shall be, that whatsoever is pleasant in thine eyes, they shall put it in their hand, and take it away.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079263026039301
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 17,
+                    "verse": 8,
+                    "text": "And thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075019142916185
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 101,
                     "verse": 22,
                     "text": "Behold, it is my will, that all they who call on my name, and worship me according to mine everlasting gospel, should gather together, and stand in holy places;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8073622202280326
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 20,
+                    "verse": 3,
+                    "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067555723563827
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 27,
+                    "text": "If this people go up to do sacrifice in the house of the Lord at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064832558905182
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 145,
                     "text": "And that ye should prepare rooms for all these offices in my house when you build it unto my name, saith the Lord your God. Even so. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8064305858326949
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 137,
-                    "text": "And ye are called to do this by prayer and thanksgiving, as the Spirit shall give utterance in all your doings in the house of the Lord, in the school of the prophets, that it may become a sanctuary, a tabernacle of the Holy Spirit to your edification.",
-                    "score": 0.8050380386091557
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 12,
+                    "verse": 14,
+                    "text": "But in the place which the Lord shall choose in one of thy tribes, there thou shalt offer thy burnt offerings, and there thou shalt do all that I command thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056290787218638
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 2,
+                    "verse": 36,
+                    "text": "And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055098440074719
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 6,
+                    "verse": 13,
+                    "text": "Then shall ye know that I am the Lord, when their slain men shall be among their idols round about their altars, upon every high hill, in all the tops of the mountains, and under every green tree, and under every thick oak, the place where they did offer sweet savour to all their idols.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051826619781989
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 2,
+                    "verse": 4,
+                    "text": "Behold, I build an house to the name of the Lord my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the Lord our God. This is an ordinance for ever to Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050603538670817
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 88,
+                    "verse": 137,
+                    "text": "And ye are called to do this by prayer and thanksgiving, as the Spirit shall give utterance in all your doings in the house of the Lord, in the school of the prophets, that it may become a sanctuary, a tabernacle of the Holy Spirit to your edification.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050380386091557
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 27,
+                    "text": "For thou, O Lord of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046458529002423
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 124,
                     "verse": 23,
                     "text": "And it shall be for a house for boarding, a house that strangers may come from afar to lodge therein; therefore let it be a good house, worthy of all acceptation, that the weary traveler may find health and safety while he shall contemplate the word of the Lord; and the cornerstone I have appointed for Zion.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8042606952846224
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 6,
+                    "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040726083763559
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 101,
+                    "verse": 6,
+                    "text": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039267207241021
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "But in the last days it shall come to pass, that the mountain of the house of the Lord shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029018034925072
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 124,
+                    "verse": 42,
+                    "text": "And I will show unto my servant Joseph all things pertaining to this house, and the priesthood thereof, and the place whereon it shall be built.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028091043207296
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Obadiah",
+                    "volume_book_index": 31,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017593695358698
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 109,
+                    "verse": 12,
+                    "text": "That thy glory may rest down upon thy people, and upon this thy house, which we now dedicate to thee, that it may be sanctified and consecrated to be holy, and that thy holy presence may be continually in this house;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016936122307138
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 28,
+                    "verse": 22,
+                    "text": "And this stone, which I have set for a pillar, shall be God's house: and of all that thou shalt give me I will surely give the tenth unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015118704105958
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 58,
+                    "verse": 9,
+                    "text": "Yea, a supper of the house of the Lord, well prepared, unto which all nations shall be invited.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010939057220546
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
+                    "verse": 12,
+                    "text": "And the Lord appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010133086554566
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 116,
+                    "verse": 17,
+                    "text": "I will offer to thee the sacrifice of thanksgiving, and will call upon the name of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004871028673463
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 20,
+                    "verse": 40,
+                    "text": "For in mine holy mountain, in the mountain of the height of Israel, saith the Lord God, there shall all the house of Israel, all of them in the land, serve me: there will I accept them, and there will I require your offerings, and the firstfruits of your oblations, with all your holy things.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9216634216403103
                 }
             ]
         },
@@ -610,84 +2070,204 @@
             "text": "The Lord God which gathereth the outcasts of Israel saith, Yet will I gather others to him, beside those that are gathered unto him.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 21,
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 147,
+                    "verse": 2,
+                    "text": "The Lord doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8749516686378793
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 28,
+                    "verse": 25,
+                    "text": "Thus saith the Lord God; When I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8395688126154887
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 11,
                     "verse": 12,
                     "text": "And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8252369171080444
                 },
                 {
                     "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 21,
+                    "verse": 12,
+                    "text": "And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8252369171080444
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 64,
+                    "text": "And the Lord shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8221374448577052
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 11,
+                    "verse": 17,
+                    "text": "Therefore say, Thus saith the Lord God; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8205319344244635
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 21,
+                    "text": "And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8141058997316526
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 29,
+                    "verse": 13,
+                    "text": "Yet thus saith the Lord God; At the end of forty years will I gather the Egyptians from the people whither they were scattered:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134909685303668
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 31,
+                    "verse": 1,
+                    "text": "At the same time, saith the Lord, will I be the God of all the families of Israel, and they shall be my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8129835758779455
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 17,
+                    "verse": 22,
+                    "text": "For thy people Israel didst thou make thine own people for ever; and thou, Lord, becamest their God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056993076136566
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 34,
+                    "verse": 30,
+                    "text": "Thus shall they know that I the Lord their God am with them, and that they, even the house of Israel, are my people, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037472870911463
+                },
+                {
+                    "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 21,
                     "verse": 24,
                     "text": "And then shall they assist my people that they may be gathered in, who are scattered upon all the face of the land, in unto the New Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8014664542371938
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 23,
                     "verse": 2,
-                    "text": "Who will gather his people even as a hen gathereth her chickens under her wings, even as many as will hearken to my voice and humble themselves before me, and call upon me in mighty prayer.",
-                    "score": 0.7985743609668029
+                    "text": "Therefore thus saith the Lord God of Israel against the pastors that feed my people; Ye have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005050674085229
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 14,
-                    "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
-                    "score": 0.7926704168128227
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 8,
-                    "text": "But wo, saith the Father, unto the unbelieving of the Gentiles--for notwithstanding they have come forth upon the face of this land, and have scattered my people who are of the house of Israel; and my people who are of the house of Israel have been cast out from among them, and have been trodden under feet by them;",
-                    "score": 0.7898856437656165
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 7,
-                    "text": "And it meaneth that the time cometh that after all the house of Israel have been scattered and confounded, that the Lord God will raise up a mighty nation among the Gentiles, yea, even upon the face of this land; and by them shall our seed be scattered.",
-                    "score": 0.7896143065486871
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 11,
-                    "verse": 22,
-                    "text": "And it shall come to pass that they shall know that I am the Lord their God, and am a jealous God, visiting the iniquities of my people.",
-                    "score": 0.7894340691282125
+                    "verse": 17,
+                    "text": "Therefore say, Thus saith the Lord God; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9251214363006667
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 5,
-                    "text": "And now, saith the Lord--that formed me from the womb that I should be his servant, to bring Jacob again to him--though Israel be not gathered, yet shall I be glorious in the eyes of the Lord, and my God shall be my strength.",
-                    "score": 0.7894307152938297
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 147,
+                    "verse": 2,
+                    "text": "The Lord doth build up Jerusalem: he gathereth together the outcasts of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.917962183709431
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And it shall come to pass that they shall be gathered in from their long dispersion, from the isles of the sea, and from the four parts of the earth; and the nations of the Gentiles shall be great in the eyes of me, saith God, in carrying them forth to the lands of their inheritance.",
-                    "score": 0.7867569885998171
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 37,
+                    "verse": 21,
+                    "text": "And say unto them, Thus saith the Lord God; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9114517463984446
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 28,
+                    "verse": 25,
+                    "text": "Thus saith the Lord God; When I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9043211708834643
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 29,
+                    "verse": 13,
+                    "text": "Yet thus saith the Lord God; At the end of forty years will I gather the Egyptians from the people whither they were scattered:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9030298417264084
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
-                    "chapter": 22,
-                    "verse": 15,
-                    "text": "Behold, they shall surely gather together against thee, not by me; whosoever shall gather together against thee shall fall for thy sake.",
-                    "score": 0.7860639109310598
+                    "volume_book_index": 11,
+                    "chapter": 5,
+                    "verse": 24,
+                    "text": "And as surely as the Lord liveth, will he gather in from the four quarters of the earth all the remnant of the seed of Jacob, who are scattered abroad upon all the face of the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9024272270283795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 6,
+                    "verse": 9,
+                    "text": "Thus saith the Lord of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9004110515852807
                 }
             ]
         },
@@ -696,258 +2276,106 @@
             "text": "All ye beasts of the field, come to devour, yea, all ye beasts in the forest.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 7,
+                    "text": "All sheep and oxen, yea, and the beasts of the field;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.843856238026865
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 104,
+                    "verse": 20,
+                    "text": "Thou makest darkness, and it is night: wherein all the beasts of the forest do creep forth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8365152791212622
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 29,
                     "verse": 20,
                     "text": "And it shall come to pass that the beasts of the forest and the fowls of the air shall devour them up.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8333911015575065
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 1,
+                    "verse": 20,
+                    "text": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8239385075598188
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 8,
                     "verse": 21,
                     "text": "Yea, they are as a wild flock which fleeth from the shepherd, and scattereth, and are driven, and are devoured by the beasts of the forest.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8235156614938716
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "Yea, and ye shall be smitten on every hand, and shall be driven and scattered to and fro, even as a wild flock is driven by wild and ferocious beasts.",
-                    "score": 0.7949348518347464
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 10,
+                    "text": "For every beast of the forest is mine, and the cattle upon a thousand hills.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8171013287313689
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 19,
-                    "text": "For, behold, the beasts of the field and the fowls of the air, and that which cometh of the earth, is ordained for the use of man for food and for raiment, and that he might have in abundance.",
-                    "score": 0.7856585857673444
+                    "volume_book_index": 1,
+                    "chapter": 29,
+                    "verse": 20,
+                    "text": "And it shall come to pass that the beasts of the forest and the fowls of the air shall devour them up.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9136490277261268
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 59,
-                    "verse": 16,
-                    "text": "Verily I say, that inasmuch as ye do this, the fulness of the earth is yours, the beasts of the field and the fowls of the air, and that which climbeth upon the trees and walketh upon the earth;",
-                    "score": 0.7782564403293015
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 7,
+                    "text": "All sheep and oxen, yea, and the beasts of the field;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9099689668398496
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 19,
-                    "verse": 18,
-                    "text": "For wickedness burneth as the fire; it shall devour the briers and thorns, and shall kindle in the thickets of the forests, and they shall mount up like the lifting up of smoke.",
-                    "score": 0.7718944138030556
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 4,
-                    "verse": 24,
-                    "text": "Thorns also, and thistles shall it bring forth to thee, and thou shalt eat the herb of the field.",
-                    "score": 0.7714762266516634
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 18,
-                    "text": "And shall consume the glory of his forest, and of his fruitful field, both soul and body; and they shall be as when a standard-bearer fainteth.",
-                    "score": 0.7667336184574259
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 10,
-                    "verse": 12,
-                    "text": "Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.",
-                    "score": 0.7666605978910069
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 18,
-                    "verse": 25,
-                    "text": "And it came to pass that we did find upon the land of promise, as we journeyed in the wilderness, that there were beasts in the forests of every kind, both the cow and the ox, and the ass and the horse, and the goat and the wild goat, and all manner of wild animals, which were for the use of men. And we did find all manner of ore, both of gold, and of silver, and of copper.",
-                    "score": 0.7652657813949663
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 1,
+                    "verse": 20,
+                    "text": "The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9014344307792526
                 }
             ]
         },
         {
             "verse": 10,
             "text": "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 69,
-                    "text": "In my name they shall open the eyes of the blind, and unstop the ears of the deaf;",
-                    "score": 0.7278201405758383
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet.",
-                    "score": 0.7255395943128152
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 11,
-                    "verse": 8,
-                    "text": "(According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.",
-                    "score": 0.7230195592344711
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 12,
-                    "verse": 22,
-                    "text": "Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw.",
-                    "score": 0.7218913240378295
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 12,
-                    "verse": 40,
-                    "text": "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them.",
-                    "score": 0.7198962536917397
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 14,
-                    "verse": 37,
-                    "text": "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch one hour?",
-                    "score": 0.7179921747665327
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 15,
-                    "verse": 14,
-                    "text": "Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.",
-                    "score": 0.7162638003374445
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 8,
-                    "verse": 20,
-                    "text": "O how marvelous are the works of the Lord, and how long doth he suffer with his people; yea, and how blind and impenetrable are the understandings of the children of men; for they will not seek wisdom, neither do they desire that she should rule over them!",
-                    "score": 0.7150532798902476
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "2 Peter",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.",
-                    "score": 0.7130179242245328
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 10,
-                    "verse": 21,
-                    "text": "Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?",
-                    "score": 0.712322812284493
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 11,
             "text": "Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 56,
-                    "verse": 17,
-                    "text": "Wo unto you poor men, whose hearts are not broken, whose spirits are not contrite, and whose bellies are not satisfied, and whose hands are not stayed from laying hold upon other men's goods, whose eyes are full of greediness, and who will not labor with your own hands!",
-                    "score": 0.7327243558798875
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 68,
-                    "verse": 31,
-                    "text": "Now, I, the Lord, am not well pleased with the inhabitants of Zion, for there are idlers among them; and their children are also growing up in wickedness; they also seek not earnestly the riches of eternity, but their eyes are full of greediness.",
-                    "score": 0.7323061272649897
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 60,
-                    "verse": 9,
-                    "text": "But behold, this is not all--ye have withheld your provisions from them, insomuch that many have fought and bled out their lives because of their great desires which they had for the welfare of this people; yea, and this they have done when they were about to perish with hunger, because of your exceedingly great neglect towards them.",
-                    "score": 0.7243126241338784
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 7,
-                    "verse": 6,
-                    "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
-                    "score": 0.7233443007903605
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 14,
-                    "verse": 6,
-                    "text": "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.",
-                    "score": 0.7233443007903605
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 20,
-                    "text": "Their basket shall not be full, their houses and their barns shall perish, and they themselves shall be despised by those that flattered them.",
-                    "score": 0.7188411233751273
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 12,
-                    "verse": 15,
-                    "text": "And he said unto them, Take heed, and beware of covetousness: for a man's life consisteth not in the abundance of the things which he possesseth.",
-                    "score": 0.7171147184373926
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 59,
-                    "text": "For what shepherd is there among you having many sheep doth not watch over them, that the wolves enter not and devour his flock? And behold, if a wolf enter his flock doth he not drive him out? Yea, and at the last, if he can, he will destroy him.",
-                    "score": 0.7170965436265273
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 19,
-                    "verse": 20,
-                    "text": "And he shall snatch on the right hand and be hungry; and he shall eat on the left hand and they shall not be satisfied; they shall eat every man the flesh of his own arm--",
-                    "score": 0.7134880810047521
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Timothy",
-                    "chapter": 6,
-                    "verse": 10,
-                    "text": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
-                    "score": 0.7123237662840993
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
@@ -956,82 +2384,32 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 15,
                     "verse": 22,
                     "text": "Wo unto the mighty to drink wine, and men of strength to mingle strong drink;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8267767250705687
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 55,
                     "verse": 11,
                     "text": "For, said they: We are weary, therefore let us take of the wine, and by and by we shall receive wine for our rations, which will strengthen us to go against the Nephites.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8120860608933194
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 5,
-                    "text": "And when they had given unto the multitude he also gave them wine to drink, and commanded them that they should give unto the multitude.",
-                    "score": 0.7910636969006309
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 6,
-                    "verse": 18,
-                    "text": "And I will feed them that oppress thee, with their own flesh; and they shall be drunken with their own blood as with sweet wine; and all flesh shall know that I the Lord am thy Savior and thy Redeemer, the Mighty One of Jacob.",
-                    "score": 0.7844124314428098
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 8,
-                    "text": "And it came to pass that when he said these words, he commanded his disciples that they should take of the wine of the cup and drink of it, and that they should also give unto the multitude that they might drink of it.",
-                    "score": 0.7843366987565532
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 26,
-                    "text": "And I will feed them that oppress thee with their own flesh; they shall be drunken with their own blood as with sweet wine; and all flesh shall know that I, the Lord, am thy Savior and thy Redeemer, the Mighty One of Jacob.",
-                    "score": 0.7832342746857132
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 55,
-                    "verse": 9,
-                    "text": "Now when the Lamanites heard these words they received him with joy; and they said unto him: Give us of your wine, that we may drink; we are glad that ye have thus taken wine with you for we are weary.",
-                    "score": 0.7781975468663863
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 5,
-                    "verse": 18,
-                    "text": "And be not drunk with wine, wherein is excess; but be filled with the Spirit;",
-                    "score": 0.7771320270274695
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
-                    "verse": 18,
-                    "text": "And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:",
-                    "score": 0.7759192052015079
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 4,
-                    "text": "For behold, all ye that doeth iniquity, stay yourselves and wonder, for ye shall cry out, and cry; yea, ye shall be drunken but not with wine, ye shall stagger but not with strong drink.",
-                    "score": 0.7742513943418396
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 31,
+                    "verse": 6,
+                    "text": "Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8102852406414363
                 }
             ]
         }

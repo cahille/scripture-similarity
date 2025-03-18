@@ -10,82 +10,42 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 23,
                     "verse": 1,
                     "text": "The burden of Babylon, which Isaiah the son of Amoz did see.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170180006902584
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 13,
+                    "verse": 1,
+                    "text": "The burden of Babylon, which Isaiah the son of Amoz did see.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8170180006902584
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 8,
-                    "verse": 14,
-                    "text": "And it came to pass that while he was journeying thither, being weighed down with sorrow, wading through much tribulation and anguish of soul, because of the wickedness of the people who were in the city of Ammonihah, it came to pass while Alma was thus weighed down with sorrow, behold an angel of the Lord appeared unto him, saying:",
-                    "score": 0.7553628119282867
-                },
-                {
-                    "volume": "Book of Mormon",
                     "book": "2 Nephi",
-                    "chapter": 19,
+                    "volume_book_index": 2,
+                    "chapter": 23,
                     "verse": 1,
-                    "text": "Nevertheless, the dimness shall not be such as was in her vexation, when at first he lightly afflicted the land of Zebulun, and the land of Naphtali, and afterwards did more grievously afflict by the way of the Red Sea beyond Jordan in Galilee of the nations.",
-                    "score": 0.745067756112821
+                    "text": "The burden of Babylon, which Isaiah the son of Amoz did see.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9285147849817204
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 28,
-                    "text": "In the year that king Ahaz died was this burden.",
-                    "score": 0.7429840679322472
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 3,
-                    "verse": 15,
-                    "text": "And many signs, and wonders, and types, and shadows showed he unto them, concerning his coming; and also holy prophets spake unto them concerning his coming; and yet they hardened their hearts, and understood not that the law of Moses availeth nothing except it were through the atonement of his blood.",
-                    "score": 0.7333154669876518
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
-                    "score": 0.7328370955256538
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 12,
-                    "text": "And now, when Amulek had spoken these words the people began to be astonished, seeing there was more than one witness who testified of the things whereof they were accused, and also of the things which were to come, according to the spirit of prophecy which was in them.",
-                    "score": 0.7319595362262763
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 7,
-                    "text": "As I was journeying to see a very near kindred, behold an angel of the Lord appeared unto me and said: Amulek, return to thine own house, for thou shalt feed a prophet of the Lord; yea, a holy man, who is a chosen man of God; for he has fasted many days because of the sins of this people, and he is an hungered, and thou shalt receive him into thy house and feed him, and he shall bless thee and thy house; and the blessing of the Lord shall rest upon thee and thy house.",
-                    "score": 0.7313573780992063
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 4,
-                    "verse": 15,
-                    "text": "And now it came to pass that Alma, having seen the afflictions of the humble followers of God, and the persecutions which were heaped upon them by the remainder of his people, and seeing all their inequality, began to be very sorrowful; nevertheless the Spirit of the Lord did not fail him.",
-                    "score": 0.7266660538274414
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 24,
-                    "verse": 15,
-                    "text": "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)",
-                    "score": 0.7227575540070329
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 13,
+                    "verse": 1,
+                    "text": "The burden of Babylon, which Isaiah the son of Amoz did see.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9285147849817204
                 }
             ]
         },
@@ -96,82 +56,182 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 109,
                     "verse": 49,
                     "text": "O Lord, how long wilt thou suffer this people to bear this affliction, and the cries of their innocent ones to ascend up in thine ears, and their blood come up in testimony before thee, and not make a display of thy testimony in their behalf?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8574622531444157
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 89,
+                    "verse": 46,
+                    "text": "How long, Lord? wilt thou hide thyself for ever? shall thy wrath burn like fire?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8344474468976059
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 79,
+                    "verse": 5,
+                    "text": "How long, Lord? wilt thou be angry for ever? shall thy jealousy burn like fire?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8212412293349987
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 80,
+                    "verse": 4,
+                    "text": "O Lord God of hosts, how long wilt thou be angry against the prayer of thy people?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.818257705009022
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 30,
+                    "verse": 20,
+                    "text": "I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8161659843672998
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 13,
+                    "verse": 1,
+                    "text": "How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152594814175805
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 21,
+                    "verse": 13,
+                    "text": "Whoso stoppeth his ears at the cry of the poor, he also shall cry himself, but shall not be heard.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8121167175623947
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 47,
+                    "verse": 6,
+                    "text": "O thou sword of the Lord, how long will it be ere thou be quiet? put up thyself into thy scabbard, rest, and be still.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811545539132007
                 },
                 {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 6,
                     "verse": 10,
                     "text": "And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8097022705874966
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 64,
+                    "verse": 12,
+                    "text": "Wilt thou refrain thyself for these things, O Lord? wilt thou hold thy peace, and afflict us very sore?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042242123654846
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 31,
                     "verse": 30,
                     "text": "O Lord God, how long wilt thou suffer that such wickedness and infidelity shall be among this people? O Lord, wilt thou give me strength, that I may bear with mine infirmities. For I am infirm, and such wickedness among this people doth pain my soul.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8034862558144584
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 141,
+                    "verse": 1,
+                    "text": "Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018036897291387
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 60,
+                    "verse": 18,
+                    "text": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015604407892718
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 121,
                     "verse": 2,
                     "text": "How long shall thy hand be stayed, and thine eye, yea thy pure eye, behold from the eternal heavens the wrongs of thy people and of thy servants, and thine ear be penetrated with their cries?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.800112838655933
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 11,
-                    "verse": 12,
-                    "text": "O Lord, wilt thou turn away thine anger, yea, thy fierce anger, and cause that this famine may cease in this land.",
-                    "score": 0.7984975794706444
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 109,
+                    "verse": 49,
+                    "text": "O Lord, how long wilt thou suffer this people to bear this affliction, and the cries of their innocent ones to ascend up in thine ears, and their blood come up in testimony before thee, and not make a display of thy testimony in their behalf?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9089235229676255
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 11,
-                    "verse": 16,
-                    "text": "And now, O Lord, wilt thou turn away thine anger, and try again if they will serve thee? And if so, O Lord, thou canst bless them according to thy words which thou hast said.",
-                    "score": 0.7953589035739914
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 141,
+                    "verse": 1,
+                    "text": "Lord, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9052283268153193
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 33,
-                    "verse": 8,
-                    "text": "Yea, thou art merciful unto thy children when they cry unto thee, to be heard of thee and not of men, and thou wilt hear them.",
-                    "score": 0.7940012068098407
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 41,
+                    "text": "They cried, but there was none to save them: even unto the Lord, but he answered them not.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9017055572095861
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 32,
-                    "text": "May the gates of hell be shut continually before me, because that my heart is broken and my spirit is contrite! O Lord, wilt thou not shut the gates of thy righteousness before me, that I may walk in the path of the low valley, that I may be strict in the plain road!",
-                    "score": 0.793224461185371
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 11,
-                    "verse": 14,
-                    "text": "O Lord, thou didst hearken unto my words when I said, Let there be a famine, that the pestilence of the sword might cease; and I know that thou wilt, even at this time, hearken unto my words, for thou saidst that: If this people repent I will spare them.",
-                    "score": 0.791901780359966
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 25,
-                    "text": "And except they repent in sackcloth and ashes, and cry mightily to the Lord their God, I will not hear their prayers, neither will I deliver them out of their afflictions; and thus saith the Lord, and thus hath he commanded me.",
-                    "score": 0.7869298714511367
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 30,
+                    "verse": 20,
+                    "text": "I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9006180763244693
                 }
             ]
         },
@@ -180,84 +240,14 @@
             "text": "Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 7,
-                    "text": "And now if there should be another appointed in his stead, behold I fear there would rise contentions among you. And who knoweth but what my son, to whom the kingdom doth belong, should turn to be angry and draw away a part of this people after him, which would cause wars and contentions among you, which would be the cause of shedding much blood and perverting the way of the Lord, yea, and destroy the souls of many people.",
-                    "score": 0.7983437421789779
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 29,
-                    "text": "For verily, verily I say unto you, he that hath the spirit of contention is not of me, but is of the devil, who is the father of contention, and he stirreth up the hearts of men to contend with anger, one with another.",
-                    "score": 0.7883891782216053
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 98,
-                    "text": "For this is a very sore and grievous sin against me, and against my people, in consequence of those things which I have decreed and which are soon to befall the nations.",
-                    "score": 0.7872937230902901
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 7,
-                    "verse": 8,
-                    "text": "And the Lord is near, and he justifieth me. Who will contend with me? Let us stand together. Who is mine adversary? Let him come near me, and I will smite him with the strength of my mouth.",
-                    "score": 0.7800781178322118
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 28,
-                    "text": "I command you to bring Abinadi hither, that I may slay him, for he has said these things that he might stir up my people to anger one with another, and to raise contentions among my people; therefore I will slay him.",
-                    "score": 0.7741344324470213
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 32,
-                    "text": "But, O my people, beware lest there shall arise contentions among you, and ye list to obey the evil spirit, which was spoken of by my father Mosiah.",
-                    "score": 0.7719657999168992
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 9,
-                    "verse": 4,
-                    "text": "Behold, I am laboring with them continually; and when I speak the word of God with sharpness they tremble and anger against me; and when I use no sharpness they harden their hearts against it; wherefore, I fear lest the Spirit of the Lord hath ceased striving with them.",
-                    "score": 0.7712195490296466
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 10,
-                    "verse": 63,
-                    "text": "And this I do that I may establish my gospel, that there may not be so much contention; yea, Satan doth stir up the hearts of the people to contention concerning the points of my doctrine; and in these things they do err, for they do wrest the scriptures and do not understand them.",
-                    "score": 0.7698259176000015
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 95,
-                    "verse": 10,
-                    "text": "Nevertheless, my servants sinned a very grievous sin; and contentions arose in the school of the prophets; which was very grievous unto me, saith your Lord; therefore I sent them forth to be chastened.",
-                    "score": 0.7660447366453901
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 95,
-                    "verse": 2,
-                    "text": "Wherefore, ye must needs be chastened and stand rebuked before my face;",
-                    "score": 0.7650470459896012
+                    "verse": 17,
+                    "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046732498944301
                 }
             ]
         },
@@ -266,84 +256,74 @@
             "text": "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 36,
+                    "verse": 17,
+                    "text": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8116758913032985
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 18,
+                    "verse": 25,
+                    "text": "That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079315485359125
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 88,
                     "verse": 35,
                     "text": "That which breaketh a law, and abideth not by law, but seeketh to become a law unto itself, and willeth to abide in sin, and altogether abideth in sin, cannot be sanctified by law, neither by mercy, justice, nor judgment. Therefore, they must remain filthy still.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8031480079602824
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 9,
-                    "verse": 19,
-                    "text": "Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?",
-                    "score": 0.7889159064946226
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 15,
-                    "verse": 27,
-                    "text": "Therefore ought ye not to tremble? For salvation cometh to none such; for the Lord hath redeemed none such; yea, neither can the Lord redeem such; for he cannot deny himself; for he cannot deny justice when it has its claim.",
-                    "score": 0.7827223201949588
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 9,
-                    "verse": 31,
-                    "text": "But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.",
-                    "score": 0.7814690723886941
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 58,
-                    "verse": 29,
-                    "text": "But he that doeth not anything until he is commanded, and receiveth a commandment with doubtful heart, and keepeth it with slothfulness, the same is damned.",
-                    "score": 0.7765338134403555
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 2,
-                    "verse": 23,
-                    "text": "Thou that makest thy boast of the law, through breaking the law dishonourest thou God?",
-                    "score": 0.776282677008401
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
                     "chapter": 7,
-                    "verse": 24,
-                    "text": "Judge not according to the appearance, but judge righteous judgment.",
-                    "score": 0.7762288049895438
+                    "verse": 26,
+                    "text": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8024850505697254
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 23,
-                    "text": "And he enacteth laws, and sendeth them forth among his people, yea, laws after the manner of his own wickedness; and whosoever doth not obey his laws he causeth to be destroyed; and whosoever doth rebel against him he will send his armies against them to war, and if he can he will destroy them; and thus an unrighteous king doth pervert the ways of all righteousness.",
-                    "score": 0.7760431472853004
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021262286218813
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
                     "chapter": 3,
-                    "verse": 20,
-                    "text": "Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.",
-                    "score": 0.7734886370193684
+                    "verse": 5,
+                    "text": "The just Lord is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8017357793107436
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Galatians",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.",
-                    "score": 0.7734719510423084
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 23,
+                    "verse": 2,
+                    "text": "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to wrest judgment:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800244192851509
                 }
             ]
         },
@@ -354,170 +334,299 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 21,
                     "verse": 9,
                     "text": "For in that day, for my sake shall the Father work a work, which shall be a great and a marvelous work among them; and there shall be among them those who will not believe it, although a man shall declare it unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8549724070109798
                 },
                 {
                     "volume": "New Testament",
                     "book": "Acts",
+                    "volume_book_index": 5,
                     "chapter": 13,
                     "verse": 41,
                     "text": "Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8499697625845086
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 16,
                     "text": "I say unto you, can you imagine to yourselves that ye hear the voice of the Lord, saying unto you, in that day: Come unto me ye blessed, for behold, your works have been the works of righteousness upon the face of the earth?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8334609098520489
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 29,
+                    "verse": 14,
+                    "text": "Therefore, behold, I will proceed to do a marvellous work among this people, even a marvellous work and a wonder: for the wisdom of their wise men shall perish, and the understanding of their prudent men shall be hid.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8312902658491131
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 18,
                     "verse": 44,
                     "text": "And by your hands I will work a marvelous work among the children of men, unto the convincing of many of their sins, that they may come unto repentance, and that they may come unto the kingdom of my Father.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.82093377521996
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mormon",
+                    "volume_book_index": 13,
                     "chapter": 8,
                     "verse": 34,
                     "text": "Behold, the Lord hath shown unto me great and marvelous things concerning that which must shortly come, at that day when these things shall come forth among you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8195761295845573
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 92,
+                    "verse": 4,
+                    "text": "For thou, Lord, hast made me glad through thy work: I will triumph in the works of thy hands.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181881318015651
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 24,
+                    "text": "Declare his glory among the heathen; his marvellous works among all nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181764010531244
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 14,
                     "verse": 7,
                     "text": "For the time cometh, saith the Lamb of God, that I will work a great and a marvelous work among the children of men; a work which shall be everlasting, either on the one hand or on the other--either to the convincing of them unto peace and life eternal, or unto the deliverance of them to the hardness of their hearts and the blindness of their minds unto their being brought down into captivity, and also into destruction, both temporally and spiritually, according to the captivity of the devil, of which I have spoken.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8173981719366273
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 136,
                     "verse": 37,
                     "text": "Therefore, marvel not at these things, for ye are not yet pure; ye can not yet bear my glory; but ye shall behold it if ye are faithful in keeping all my words that I have given you, from the days of Adam to Abraham, from Abraham to Moses, from Moses to Jesus and his apostles, and from Jesus and his apostles to Joseph Smith, whom I did call upon by mine angels, my ministering servants, and by mine own voice out of the heavens, to bring forth my work;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169922627181029
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 5,
-                    "verse": 17,
-                    "text": "Or do ye imagine to yourselves that ye can lie unto the Lord in that day, and say--Lord, our works have been righteous works upon the face of the earth--and that he will save you?",
-                    "score": 0.8153550733798562
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 96,
+                    "verse": 3,
+                    "text": "Declare his glory among the heathen, his wonders among all people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8163901401278094
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 139,
+                    "verse": 14,
+                    "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8159198533198713
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 17,
+                    "text": "Or do ye imagine to yourselves that ye can lie unto the Lord in that day, and say--Lord, our works have been righteous works upon the face of the earth--and that he will save you?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8153550733798562
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 90,
+                    "verse": 16,
+                    "text": "Let thy work appear unto thy servants, and thy glory unto their children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8132668596052101
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 37,
                     "verse": 23,
                     "text": "And the Lord said: I will prepare unto my servant Gazelem, a stone, which shall shine forth in darkness unto light, that I may discover unto my people who serve me, that I may discover unto them the works of their brethren, yea, their secret works, their works of darkness, and their wickedness and abominations.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8102945008492635
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 9,
+                    "verse": 1,
+                    "text": "I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8101134518527526
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 12,
                     "verse": 7,
                     "text": "Behold, I speak unto you, and also to all those who have desires to bring forth and establish this work;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8070106831334061
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 4,
+                    "text": "Behold, the work which you are called to do is to write for my servant Joseph.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062898871405311
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 27,
+                    "verse": 26,
+                    "text": "Therefore, I will proceed to do a marvelous work among this people, yea, a marvelous work and a wonder, for the wisdom of their wise and learned shall perish, and the understanding of their prudent shall be hid.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055573889043183
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 50,
+                    "text": "Therefore I will give thanks unto thee, O Lord, among the heathen, and I will sing praises unto thy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050049298712025
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 7,
+                    "verse": 15,
+                    "text": "According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034726574118368
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 101,
+                    "verse": 95,
+                    "text": "That I may proceed to bring to pass my act, my strange act, and perform my work, my strange work, that men may discern between the righteous and the wicked, saith your God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026494207936965
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 35,
+                    "verse": 7,
+                    "text": "And it shall come to pass that there shall be a great work in the land, even among the Gentiles, for their folly and their abominations shall be made manifest in the eyes of all people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020675852429666
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 57,
+                    "verse": 12,
+                    "text": "I will declare thy righteousness, and thy works; for they shall not profit thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009544884635923
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "Behold, hearken ye unto my precept; if they shall say there is a miracle wrought by the hand of the Lord, believe it not; for this day he is not a God of miracles; he hath done his work.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009233419957139
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 39,
+                    "verse": 7,
+                    "text": "And now, behold, I say unto you, my servant James, I have looked upon thy works and I know thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003538986891539
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 13,
+                    "verse": 41,
+                    "text": "Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.846166193485266
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 13,
+                    "verse": 41,
+                    "text": "Behold, ye despisers, and wonder, and perish: for I work a work in your days, a work which ye shall in no wise believe, though a man declare it unto you.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9490878016300471
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 34,
+                    "verse": 10,
+                    "text": "And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the Lord: for it is a terrible thing that I will do with thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9038668985525555
                 }
             ]
         },
         {
             "verse": 6,
             "text": "For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 24,
-                    "text": "And inasmuch as mine enemies come against you to drive you from my goodly land, which I have consecrated to be the land of Zion, even from your own lands after these testimonies, which ye have brought before me against them, ye shall curse them;",
-                    "score": 0.7818287649664221
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "In the land of the Chaldeans, at the residence of my fathers, I, Abraham, saw that it was needful for me to obtain another place of residence;",
-                    "score": 0.7692843197375021
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 117,
-                    "verse": 9,
-                    "text": "Therefore, come up hither unto the land of my people, even Zion.",
-                    "score": 0.7684640944713014
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 56,
-                    "verse": 7,
-                    "text": "Wherefore, let my servant Newel Knight remain with them; and as many as will go may go, that are contrite before me, and be led by him to the land which I have appointed.",
-                    "score": 0.7677827457456405
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 27,
-                    "text": "Wherefore, I the Lord will that you should purchase the lands, that you may have advantage of the world, that you may have claim on the world, that they may not be stirred up unto anger.",
-                    "score": 0.7677080434110511
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 29,
-                    "verse": 14,
-                    "text": "And it shall come to pass that my people, which are of the house of Israel, shall be gathered home unto the lands of their possessions; and my word also shall be gathered in one. And I will show unto them that fight against my word and against my people, who are of the house of Israel, that I am God, and that I covenanted with Abraham that I would remember his seed forever.",
-                    "score": 0.7671318706210498
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 80,
-                    "text": "And for this purpose have I established the Constitution of this land, by the hands of wise men whom I raised up unto this very purpose, and redeemed the land by the shedding of blood.",
-                    "score": 0.7664911316864834
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 25,
-                    "text": "That I will bring the Assyrian in my land, and upon my mountains tread him under foot; then shall his yoke depart from off them, and his burden depart from off their shoulders.",
-                    "score": 0.7646622896418039
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 48,
-                    "verse": 2,
-                    "text": "And inasmuch as ye have lands, ye shall impart to the eastern brethren;",
-                    "score": 0.7641518156418703
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 39,
-                    "text": "Let my servant Titus Billings, who has the care thereof, dispose of the land, that he may be prepared in the coming spring to take his journey up unto the land of Zion, with those that dwell upon the face thereof, excepting those whom I shall reserve unto myself, that shall not go until I shall command them.",
-                    "score": 0.7632776402187521
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 7,
@@ -526,82 +635,42 @@
                 {
                     "volume": "New Testament",
                     "book": "1 Corinthians",
+                    "volume_book_index": 7,
                     "chapter": 5,
                     "verse": 13,
                     "text": "But them that are without God judgeth. Therefore put away from among yourselves that wicked person.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8228865547358084
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 3,
                     "verse": 25,
                     "text": "And if they be evil they are consigned to an awful view of their own guilt and abominations, which doth cause them to shrink from the presence of the Lord into a state of misery and endless torment, from whence they can no more return; therefore they have drunk damnation to their own souls.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.812411359734899
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 115,
-                    "text": "For if they do reject these things the hour of their judgment is nigh, and their house shall be left unto them desolate.",
-                    "score": 0.7985782074870362
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 21,
+                    "verse": 7,
+                    "text": "The robbery of the wicked shall destroy them; because they refuse to do judgment.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012582679171966
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 15,
-                    "text": "Let such beware and repent speedily, lest judgment shall come upon them as a snare, and their folly shall be made manifest, and their works shall follow them in the eyes of the people.",
-                    "score": 0.7984324142478398
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 9,
-                    "text": "And the world, because of their iniquity, shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, because of his loving kindness and his long-suffering towards the children of men.",
-                    "score": 0.7912378458915543
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 36,
-                    "text": "Wo unto them who commit whoredoms, for they shall be thrust down to hell.",
-                    "score": 0.7910331074595762
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 3,
-                    "verse": 19,
-                    "text": "Now I would that ye should see that they brought upon themselves the curse; and even so doth every man that is cursed bring upon himself his own condemnation.",
-                    "score": 0.7863344041305284
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 6,
-                    "text": "But wo unto them that are deceivers and hypocrites, for, thus saith the Lord, I will bring them to judgment.",
-                    "score": 0.7832342407428828
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 5,
-                    "verse": 22,
-                    "text": "And thus saith the Lord God: I will cause that they shall be loathsome unto thy people, save they shall repent of their iniquities.",
-                    "score": 0.7787677390663891
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 9,
-                    "verse": 14,
-                    "text": "And then cometh the judgment of the Holy One upon them; and then cometh the time that he that is filthy shall be filthy still; and he that is righteous shall be righteous still; he that is happy shall be happy still; and he that is unhappy shall be unhappy still.",
-                    "score": 0.7787161543838051
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 83,
+                    "verse": 17,
+                    "text": "Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005219470082066
                 }
             ]
         },
@@ -610,84 +679,24 @@
             "text": "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 4,
+                    "verse": 13,
+                    "text": "Behold, he shall come up as clouds, and his chariots shall be as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8096793714150744
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 15,
                     "verse": 28,
                     "text": "Whose arrows shall be sharp, and all their bows bent, and their horses' hoofs shall be counted like flint, and their wheels like a whirlwind, their roaring like a lion.",
-                    "score": 0.7952315313714594
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 9,
-                    "verse": 9,
-                    "text": "And they had breastplates, as it were breastplates of iron; and the sound of their wings was as the sound of chariots of many horses running to battle.",
-                    "score": 0.7709744630150865
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 20,
-                    "text": "And it shall come to pass that the beasts of the forest and the fowls of the air shall devour them up.",
-                    "score": 0.7628460412250819
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 15,
-                    "verse": 29,
-                    "text": "They shall roar like young lions; yea, they shall roar, and lay hold of the prey, and shall carry away safe, and none shall deliver.",
-                    "score": 0.7600716023640013
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 9,
-                    "verse": 17,
-                    "text": "And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses were as the heads of lions; and out of their mouths issued fire and smoke and brimstone.",
-                    "score": 0.7570969332051151
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "Yea, and ye shall be smitten on every hand, and shall be driven and scattered to and fro, even as a wild flock is driven by wild and ferocious beasts.",
-                    "score": 0.7457520285902611
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 28,
-                    "text": "Their enemies shall become a prey unto them,",
-                    "score": 0.7421771847085792
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Revelation",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword.",
-                    "score": 0.7369983922223573
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 124,
-                    "verse": 99,
-                    "text": "And he shall be led in paths where the poisonous serpent cannot lay hold upon his heel, and he shall mount up in the imagination of his thoughts as upon eagles' wings.",
-                    "score": 0.7357285679616498
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 8,
-                    "verse": 21,
-                    "text": "Yea, they are as a wild flock which fleeth from the shepherd, and scattereth, and are driven, and are devoured by the beasts of the forest.",
-                    "score": 0.7353746616611664
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.90995365946244
                 }
             ]
         },
@@ -698,82 +707,42 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 7,
                     "verse": 31,
                     "text": "And again he saith: If my people shall sow filthiness they shall reap the east wind, which bringeth immediate destruction.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8099949533291833
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 21,
                     "verse": 13,
                     "text": "Their hand shall be lifted up upon their adversaries, and all their enemies shall be cut off.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8098599052726788
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 42,
+                    "text": "They shall hold the bow and the lance: they are cruel, and will not shew mercy: their voice shall roar like the sea, and they shall ride upon horses, every one put in array, like a man to the battle, against thee, O daughter of Babylon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067503000821649
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 12,
                     "verse": 6,
                     "text": "And it shall come to pass that I will send forth hail among them, and it shall smite them; and they shall also be smitten with the east wind; and insects shall pester their land also, and devour their grain.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8033664924935066
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 61,
-                    "verse": 31,
-                    "text": "And in that place they shall lift up their voices unto God against that people, yea, unto him whose anger is kindled against their wickedness, a people who are well-nigh ripened for destruction.",
-                    "score": 0.7943643331212975
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 11,
-                    "verse": 21,
-                    "text": "And except they repent and turn to the Lord their God, behold, I will deliver them into the hands of their enemies; yea, and they shall be brought into bondage; and they shall be afflicted by the hand of their enemies.",
-                    "score": 0.7937807880630502
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 122,
-                    "verse": 7,
-                    "text": "And if thou shouldst be cast into the pit, or into the hands of murderers, and the sentence of death passed upon thee; if thou be cast into the deep; if the billowing surge conspire against thee; if fierce winds become thine enemy; if the heavens gather blackness, and all the elements combine to hedge up the way; and above all, if the very jaws of hell shall gape open the mouth wide after thee, know thou, my son, that all these things shall give thee experience, and shall be for thy good.",
-                    "score": 0.7881229436112942
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 15,
-                    "verse": 30,
-                    "text": "And in that day they shall roar against them like the roaring of the sea; and if they look unto the land, behold, darkness and sorrow, and the light is darkened in the heavens thereof.",
-                    "score": 0.7833552975106233
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 8,
-                    "text": "And they shall be afraid; pangs and sorrows shall take hold of them; they shall be amazed one at another; their faces shall be as flames.",
-                    "score": 0.7827953869422024
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 28,
-                    "text": "And if they shall smite this people thou wilt smite them; thou wilt fight for thy people as thou didst in the day of battle, that they may be delivered from the hands of all their enemies.",
-                    "score": 0.7817788962388281
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 24,
-                    "verse": 16,
-                    "text": "And it shall come to pass that whosoever shall lay their hands upon you by violence, ye shall command to be smitten in my name; and, behold, I will smite them according to your words, in mine own due time.",
-                    "score": 0.7813036166557406
                 }
             ]
         },
@@ -782,84 +751,74 @@
             "text": "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 76,
+                    "verse": 12,
+                    "text": "He shall cut off the spirit of princes: he is terrible to the kings of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8204264520408447
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Hosea",
+                    "volume_book_index": 28,
+                    "chapter": 5,
+                    "verse": 10,
+                    "text": "The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8175875847926665
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 27,
+                    "verse": 30,
+                    "text": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8119018056088374
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 53,
                     "text": "And then shall they weep because of their iniquities; then shall they lament because they persecuted their king.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8094633375107098
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 9,
-                    "text": "And the world, because of their iniquity, shall judge him to be a thing of naught; wherefore they scourge him, and he suffereth it; and they smite him, and he suffereth it. Yea, they spit upon him, and he suffereth it, because of his loving kindness and his long-suffering towards the children of men.",
-                    "score": 0.7845825606896468
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 49,
+                    "verse": 38,
+                    "text": "And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803827680047101
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 14,
-                    "text": "And because they turn their hearts aside, saith the prophet, and have despised the Holy One of Israel, they shall wander in the flesh, and perish, and become a hiss and a byword, and be hated among all nations.",
-                    "score": 0.7725669482496249
+                    "volume": "Old Testament",
+                    "book": "Esther",
+                    "volume_book_index": 17,
+                    "chapter": 1,
+                    "verse": 18,
+                    "text": "Likewise shall the ladies of Persia and Media say this day unto all the king's princes, which have heard of the deed of the queen. Thus shall there arise too much contempt and wrath.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014921754558718
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 20,
-                    "text": "Their basket shall not be full, their houses and their barns shall perish, and they themselves shall be despised by those that flattered them.",
-                    "score": 0.772102758809817
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 21,
-                    "verse": 23,
-                    "text": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.",
-                    "score": 0.7713615773548997
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 28,
-                    "verse": 20,
-                    "text": "For behold, at that day shall he rage in the hearts of the children of men, and stir them up to anger against that which is good.",
-                    "score": 0.7712373050731596
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 37,
-                    "text": "But behold, their sins shall be upon the heads of their fathers; Satan shall be their father, and misery shall be their doom; and the whole heavens shall weep over them, even all the workmanship of mine hands; wherefore should not the heavens weep, seeing these shall suffer?",
-                    "score": 0.770195155378018
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 14,
-                    "text": "And every nation which shall war against thee, O house of Israel, shall be turned one against another, and they shall fall into the pit which they digged to ensnare the people of the Lord. And all that fight against Zion shall be destroyed, and that great whore, who hath perverted the right ways of the Lord, yea, that great and abominable church, shall tumble to the dust and great shall be the fall of it.",
-                    "score": 0.76903318231198
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 2,
-                    "verse": 23,
-                    "text": "For behold, in that day that they shall rebel against me, I will curse them even with a sore curse, and they shall have no power over thy seed except they shall rebel against me also.",
-                    "score": 0.7681813368627676
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 16,
-                    "verse": 15,
-                    "text": "But if they will not turn unto me, and hearken unto my voice, I will suffer them, yea, I will suffer my people, O house of Israel, that they shall go through among them, and shall tread them down, and they shall be as salt that hath lost its savor, which is thenceforth good for nothing but to be cast out, and to be trodden under foot of my people, O house of Israel.",
-                    "score": 0.7680560263229368
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 38,
+                    "verse": 4,
+                    "text": "Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012357029099736
                 }
             ]
         },
@@ -868,84 +827,14 @@
             "text": "Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 21,
-                    "verse": 11,
-                    "text": "Therefore it shall come to pass that whosoever will not believe in my words, who am Jesus Christ, which the Father shall cause him to bring forth unto the Gentiles, and shall give unto him power that he shall bring them forth unto the Gentiles, (it shall be done even as Moses said) they shall be cut off from among my people who are of the covenant.",
-                    "score": 0.7938632932967595
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 32,
-                    "text": "And it shall be given unto you, power over that spirit; and you shall proclaim against that spirit with a loud voice that it is not of God--",
-                    "score": 0.7921070836158595
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 1,
-                    "verse": 13,
-                    "text": "Yea, and moreover I say unto you, that if this highly favored people of the Lord should fall into transgression, and become a wicked and an adulterous people, that the Lord will deliver them up, that thereby they become weak like unto their brethren; and he will no more preserve them by his matchless and marvelous power, as he has hitherto preserved our fathers.",
-                    "score": 0.779884362663912
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 37,
-                    "verse": 15,
-                    "text": "And now behold, I tell you by the spirit of prophecy, that if ye transgress the commandments of God, behold, these things which are sacred shall be taken away from you by the power of God, and ye shall be delivered up unto Satan, that he may sift you as chaff before the wind.",
-                    "score": 0.7775372167397662
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 60,
-                    "verse": 3,
-                    "text": "And it shall come to pass, if they are not more faithful unto me, it shall be taken away, even that which they have.",
-                    "score": 0.7760607717445417
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 8,
-                    "verse": 12,
-                    "text": "And now behold, if God gave unto this man such power, then why should ye dispute among yourselves, and say that he hath given unto me no power whereby I may know concerning the judgments that shall come upon you except ye repent?",
-                    "score": 0.7751341574227547
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
-                    "verse": 10,
-                    "text": "And behold, if ye shall say that God shall smite this people, it shall come to pass.",
-                    "score": 0.7734747815365952
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 12,
-                    "verse": 21,
-                    "text": "And if the Lord shall say--Because of thine iniquities thou shalt be cut off from my presence--he will cause that it shall be so.",
-                    "score": 0.7724531785641386
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 37,
-                    "text": "And it shall come to pass, that he that sinneth and repenteth not shall be cast out of the church, and shall not receive again that which he has consecrated unto the poor and the needy of my church, or in other words, unto me--",
-                    "score": 0.7720532335833515
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 27,
-                    "text": "And it shall come to pass in that day that his burden shall be taken away from off thy shoulder, and his yoke from off thy neck, and the yoke shall be destroyed because of the anointing.",
-                    "score": 0.7718770970895514
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 14,
+                    "verse": 20,
+                    "text": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8194552804477632
                 }
             ]
         },
@@ -954,84 +843,134 @@
             "text": "Art thou not from everlasting, O Lord my God, mine Holy One? we shall not die. O Lord, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.",
             "similars": [
                 {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 11,
+                    "verse": 44,
+                    "text": "For I am the Lord your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8097189265436678
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 143,
+                    "verse": 2,
+                    "text": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8090112011054552
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 17,
+                    "text": "I shall not die, but live, and declare the works of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.807977653091875
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 4,
+                    "verse": 31,
+                    "text": "(For the Lord thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041893526206635
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 138,
+                    "verse": 8,
+                    "text": "The Lord will perfect that which concerneth me: thy mercy, O Lord, endureth for ever: forsake not the works of thine own hands.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8038678825311895
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 11,
+                    "verse": 21,
+                    "text": "Therefore thus saith the Lord of the men of Anathoth, that seek thy life, saying, Prophesy not in the name of the Lord, that thou die not by our hand:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036202392233286
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 2,
+                    "verse": 17,
+                    "text": "Hast thou not procured this unto thyself, in that thou hast forsaken the Lord thy God, when he led thee by the way?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026350111181453
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 37,
+                    "verse": 28,
+                    "text": "For the Lord loveth judgment, and forsaketh not his saints; they are preserved for ever: but the seed of the wicked shall be cut off.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8022250677930644
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 10,
+                    "verse": 24,
+                    "text": "O Lord, correct me, but with judgment; not in thine anger, lest thou bring me to nothing.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.801521356829935
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 109,
                     "verse": 77,
                     "text": "O Lord God Almighty, hear us in these our petitions, and answer us from heaven, thy holy habitation, where thou sittest enthroned, with glory, honor, power, majesty, might, dominion, truth, justice, judgment, mercy, and an infinity of fulness, from everlasting to everlasting.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8009690131139077
                 },
                 {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 10,
+                    "verse": 2,
+                    "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005080378223007
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 16,
+                    "verse": 2,
+                    "text": "O my soul, thou hast said unto the Lord, Thou art my Lord: my goodness extendeth not to thee;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004305085121087
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 42,
                     "verse": 60,
                     "text": "And he that doeth according to these things shall be saved, and he that doeth them not shall be damned if he so continue.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8003696500586516
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 16,
-                    "text": "And assuredly, as the Lord liveth, for the Lord God hath spoken it, and it is his eternal word, which cannot pass away, that they who are righteous shall be righteous still, and they who are filthy shall be filthy still; wherefore, they who are filthy are the devil and his angels; and they shall go away into everlasting fire, prepared for them; and their torment is as a lake of fire and brimstone, whose flame ascendeth up forever and ever and has no end.",
-                    "score": 0.7979455404154592
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 22,
-                    "verse": 14,
-                    "text": "In righteousness shalt thou be established; thou shalt be far from oppression for thou shalt not fear, and from terror for it shall not come near thee.",
-                    "score": 0.7964790447196454
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 26,
-                    "text": "Wherefore, I the Lord God will not suffer that this people shall do like unto them of old.",
-                    "score": 0.7954903449296284
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 12,
-                    "verse": 27,
-                    "text": "But behold, it was not so; but it was appointed unto men that they must die; and after death, they must come to judgment, even that same judgment of which we have spoken, which is the end.",
-                    "score": 0.7943829695810314
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 19,
-                    "text": "And again, I say, thou shalt not kill; but he that killeth shall die.",
-                    "score": 0.7942767014559239
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain.",
-                    "score": 0.7941191755256735
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
-                    "verse": 5,
-                    "text": "And now, because thou hast done this with such unwearyingness, behold, I will bless thee forever; and I will make thee mighty in word and in deed, in faith and in works; yea, even that all things shall be done unto thee according to thy word, for thou shalt not ask that which is contrary to my will.",
-                    "score": 0.7939715390766783
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 12,
-                    "verse": 32,
-                    "text": "Therefore God gave unto them commandments, after having made known unto them the plan of redemption, that they should not do evil, the penalty thereof being a second death, which was an everlasting death as to things pertaining unto righteousness; for on such the plan of redemption could have no power, for the works of justice could not be destroyed, according to the supreme goodness of God.",
-                    "score": 0.7938953687589938
                 }
             ]
         },
@@ -1040,430 +979,366 @@
             "text": "Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 9,
-                    "verse": 47,
-                    "text": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:",
-                    "score": 0.8195342313338478
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 91,
+                    "verse": 8,
+                    "text": "Only with thine eyes shalt thou behold and see the reward of the wicked.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8435828033431599
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 33,
+                    "verse": 15,
+                    "text": "He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppressions, that shaketh his hands from holding of bribes, that stoppeth his ears from hearing of blood, and shutteth his eyes from seeing evil;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.827907669068608
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 15,
+                    "verse": 4,
+                    "text": "In whose eyes a vile person is contemned; but he honoureth them that fear the Lord. He that sweareth to his own hurt, and changeth not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8234605764775231
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 28,
+                    "verse": 22,
+                    "text": "He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8199541066406955
                 },
                 {
                     "volume": "New Testament",
                     "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 9,
+                    "verse": 47,
+                    "text": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8195342313338478
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 16,
+                    "verse": 30,
+                    "text": "He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8187947651681485
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 19,
+                    "text": "Thou givest thy mouth to evil, and thy tongue frameth deceit.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8182661450052389
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 54,
+                    "text": "So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181796784472406
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 29,
+                    "text": "And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.815664037771906
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 11,
+                    "verse": 11,
+                    "text": "For he knoweth vain men: he seeth wickedness also; will he not then consider it?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8156224487389899
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 33,
+                    "verse": 19,
+                    "text": "Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, that thou canst not understand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.815596257970966
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 16,
+                    "verse": 19,
+                    "text": "Thou shalt not wrest judgment; thou shalt not respect persons, neither take a gift: for a gift doth blind the eyes of the wise, and pervert the words of the righteous.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8133633972327992
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
                     "chapter": 7,
                     "verse": 22,
                     "text": "Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8131189052506558
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 121,
                     "verse": 2,
                     "text": "How long shall thy hand be stayed, and thine eye, yea thy pure eye, behold from the eternal heavens the wrongs of thy people and of thy servants, and thine ear be penetrated with their cries?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8129445173413907
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 47,
+                    "verse": 10,
+                    "text": "For thou hast trusted in thy wickedness: thou hast said, None seeth me. Thy wisdom and thy knowledge, it hath perverted thee; and thou hast said in thine heart, I am, and none else beside me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812656993939324
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 10,
+                    "verse": 32,
+                    "text": "The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8118901673592057
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 12,
+                    "verse": 10,
+                    "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.81077038894165
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 34,
+                    "text": "So that thou shalt be mad for the sight of thine eyes which thou shalt see.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8090977391017505
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 28,
+                    "verse": 27,
+                    "text": "He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8072475819028498
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 51,
+                    "verse": 4,
+                    "text": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062546219483097
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 45,
+                    "verse": 5,
+                    "text": "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the Lord: but thy life will I give unto thee for a prey in all places whither thou goest.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060618311083885
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 30,
+                    "verse": 32,
+                    "text": "If thou hast done foolishly in lifting up thyself, or if thou hast thought evil, lay thine hand upon thy mouth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055555457539224
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 4,
+                    "verse": 30,
+                    "text": "And when thou art spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; thy lovers will despise thee, they will seek thy life.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035095006994036
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 39,
                     "verse": 11,
                     "text": "Suffer not yourself to be led away by any vain or foolish thing; suffer not the devil to lead away your heart again after those wicked harlots. Behold, O my son, how great iniquity ye brought upon the Zoramites; for when they saw your conduct they would not believe in my words.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8023352843010991
                 },
                 {
                     "volume": "New Testament",
                     "book": "1 Peter",
+                    "volume_book_index": 21,
                     "chapter": 3,
                     "verse": 12,
                     "text": "For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8022697132271055
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 37,
+                    "verse": 30,
+                    "text": "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021178750218126
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Helaman",
+                    "volume_book_index": 10,
                     "chapter": 7,
                     "verse": 23,
                     "text": "For behold, thus saith the Lord: I will not show unto the wicked of my strength, to one more than the other, save it be unto those who repent of their sins, and hearken unto my words. Now therefore, I would that ye should behold, my brethren, that it shall be better for the Lamanites than for you except ye shall repent.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8018480234547621
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 98,
                     "verse": 10,
                     "text": "Wherefore, honest men and wise men should be sought for diligently, and good men and wise men ye should observe to uphold; otherwise whatsoever is less than these cometh of evil.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8017210845180072
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 9,
                     "verse": 28,
                     "text": "O that cunning plan of the evil one! O the vainness, and the frailties, and the foolishness of men! When they are learned they think they are wise, and they hearken not unto the counsel of God, for they set it aside, supposing they know of themselves, wherefore, their wisdom is foolishness and it profiteth them not. And they shall perish.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016489848351318
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations that are in the midst of thee; and ye shall know that I am the Lord that smiteth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009743302849607
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 37,
+                    "verse": 32,
+                    "text": "The wicked watcheth the righteous, and seeketh to slay him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008193187149524
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 30,
                     "verse": 47,
                     "text": "But behold, it is better that thy soul should be lost than that thou shouldst be the means of bringing many souls down to destruction, by thy lying and by thy flattering words; therefore if thou shalt deny again, behold God shall smite thee, that thou shalt become dumb, that thou shalt never open thy mouth any more, that thou shalt not deceive this people any more.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.800541777069755
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 53,
-                    "text": "But inasmuch as they will repent, thou art gracious and merciful, and wilt turn away thy wrath when thou lookest upon the face of thine Anointed.",
-                    "score": 0.7986193156613346
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 143,
+                    "verse": 2,
+                    "text": "And enter not into judgment with thy servant: for in thy sight shall no man living be justified.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800539724690403
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 10,
+                    "verse": 15,
+                    "text": "Break thou the arm of the wicked and the evil man: seek out his wickedness till thou find none.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003846052083649
                 }
             ]
         },
         {
             "verse": 14,
             "text": "And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 15,
-                    "verse": 39,
-                    "text": "All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds.",
-                    "score": 0.7405680112960886
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 26,
-                    "text": "And the Gods took counsel among themselves and said: Let us go down and form man in our image, after our likeness; and we will give them dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
-                    "score": 0.7401711026068089
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 26,
-                    "text": "And I, God, said unto mine Only Begotten, which was with me from the beginning: Let us make man in our image, after our likeness; and it was so. And I, God, said: Let them have dominion over the fishes of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
-                    "score": 0.7360148353943576
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "And he saith unto them, Follow me, and I will make you fishers of men.",
-                    "score": 0.7355984301184622
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 10,
-                    "text": "And inasmuch as they are not the saviors of men, they are as salt that has lost its savor, and is thenceforth good for nothing but to be cast out and trodden under foot of men.",
-                    "score": 0.7178026486922129
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 8,
-                    "verse": 27,
-                    "text": "But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!",
-                    "score": 0.7173400975482197
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 5,
-                    "verse": 9,
-                    "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:",
-                    "score": 0.7171799696184206
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 91,
-                    "verse": 2,
-                    "text": "There are many things contained therein that are not true, which are interpolations by the hands of men.",
-                    "score": 0.7148493324668717
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 48,
-                    "text": "Wherefore, the end, the width, the height, the depth, and the misery thereof, they understand not, neither any man except those who are ordained unto this condemnation.",
-                    "score": 0.7131348376299269
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 5,
-                    "verse": 18,
-                    "text": "But now, behold, they are led about by Satan, even as chaff is driven before the wind, or as a vessel is tossed about upon the waves, without sail or anchor, or without anything wherewith to steer her; and even as she is, so are they.",
-                    "score": 0.7098834133735529
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 15,
             "text": "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 1,
-                    "verse": 18,
-                    "text": "And straightway they forsook their nets, and followed him.",
-                    "score": 0.7561205428709332
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 27,
-                    "verse": 36,
-                    "text": "Then were they all of good cheer, and they also took some meat.",
-                    "score": 0.7471429644842632
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 26,
-                    "verse": 4,
-                    "text": "Behold, thousands of them do rejoice, and have been brought into the fold of God.",
-                    "score": 0.7409848239090435
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 12,
-                    "verse": 18,
-                    "text": "But now hath God set the members every one of them in the body, as it hath pleased him.",
-                    "score": 0.7250969188210123
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 138,
-                    "verse": 15,
-                    "text": "I beheld that they were filled with joy and gladness, and were rejoicing together because the day of their deliverance was at hand.",
-                    "score": 0.7249648495598311
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 12,
-                    "verse": 15,
-                    "text": "Rejoice with them that do rejoice, and weep with them that weep.",
-                    "score": 0.7227282017949197
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 25,
-                    "text": "Yea, and he also saw that their hearts were lifted up unto great boasting, in their pride.",
-                    "score": 0.7214015868531711
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 5,
-                    "verse": 11,
-                    "text": "And when they had brought their ships to land, they forsook all, and followed him.",
-                    "score": 0.7170543834796979
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 127,
-                    "verse": 3,
-                    "text": "Let all the saints rejoice, therefore, and be exceedingly glad; for Israel's God is their God, and he will mete out a just recompense of reward upon the heads of all their oppressors.",
-                    "score": 0.7121847183482648
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "And it came to pass that when they had prepared all manner of food, that thereby they might subsist upon the water, and also food for their flocks and herds, and whatsoever beast or animal or fowl that they should carry with them--and it came to pass that when they had done all these things they got aboard of their vessels or barges, and set forth into the sea, commending themselves unto the Lord their God.",
-                    "score": 0.7119707397870723
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 16,
             "text": "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 16,
-                    "text": "Therefore shall the Lord, the Lord of Hosts, send among his fat ones, leanness; and under his glory he shall kindle a burning like the burning of a fire.",
-                    "score": 0.7543328666976941
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 5,
-                    "verse": 14,
-                    "text": "But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.",
-                    "score": 0.7492991753067286
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 10,
-                    "verse": 28,
-                    "text": "But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord's, and the fulness thereof:",
-                    "score": 0.7458119088099515
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 9,
-                    "verse": 10,
-                    "text": "And after they had done this thing, they did murder them in a most cruel manner, torturing their bodies even unto death; and after they have done this, they devour their flesh like unto wild beasts, because of the hardness of their hearts; and they do it for a token of bravery.",
-                    "score": 0.7457039956840789
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 15,
-                    "verse": 17,
-                    "text": "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.",
-                    "score": 0.7415258530293398
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 40,
-                    "text": "They are called to be the savor of men; therefore, if that salt of the earth lose its savor, behold, it is thenceforth good for nothing only to be cast out and trodden under the feet of men.",
-                    "score": 0.7373868862054102
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 23,
-                    "verse": 18,
-                    "text": "Therefore they did watch over their people, and did nourish them with things pertaining to righteousness.",
-                    "score": 0.7369631017406352
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 10,
-                    "verse": 18,
-                    "text": "Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?",
-                    "score": 0.7339775414800298
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 26,
-                    "text": "And thus he flattereth them, and leadeth them along until he draggeth their souls down to hell; and thus he causeth them to catch themselves in their own snare.",
-                    "score": 0.7333537089207997
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 8,
-                    "verse": 7,
-                    "text": "Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled.",
-                    "score": 0.7328217800597759
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 17,
             "text": "Shall they therefore empty their net, and not spare continually to slay the nations?",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 13,
-                    "text": "Behold the Lord slayeth the wicked to bring forth his righteous purposes. It is better that one man should perish than that a nation should dwindle and perish in unbelief.",
-                    "score": 0.7715085238728241
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
-                    "verse": 4,
-                    "text": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plow-shares, and their spears into pruning-hooks--nation shall not lift up sword against nation, neither shall they learn war any more.",
-                    "score": 0.7644138326221266
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 8,
-                    "verse": 22,
-                    "text": "And whatsoever nation shall uphold such secret combinations, to get power and gain, until they shall spread over the nation, behold, they shall be destroyed; for the Lord will not suffer that the blood of his saints, which shall be shed by them, shall always cry unto him from the ground for vengeance upon them and yet he avenge them not.",
-                    "score": 0.7616864398546777
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 20,
-                    "text": "Their basket shall not be full, their houses and their barns shall perish, and they themselves shall be despised by those that flattered them.",
-                    "score": 0.7572671328791204
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 10,
-                    "verse": 6,
-                    "text": "Wherefore, because of their iniquities, destructions, famines, pestilences, and bloodshed shall come upon them; and they who shall not be destroyed shall be scattered among all nations.",
-                    "score": 0.7558988812177166
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 10,
-                    "verse": 2,
-                    "text": "For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.",
-                    "score": 0.7548651982880715
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 19,
-                    "text": "For behold, the righteous shall not perish; for the time surely must come that all they who fight against Zion shall be cut off.",
-                    "score": 0.7547940174936272
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 121,
-                    "verse": 15,
-                    "text": "And not many years hence, that they and their posterity shall be swept from under heaven, saith God, that not one of them is left to stand by the wall.",
-                    "score": 0.7518012409406946
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 16,
-                    "verse": 12,
-                    "text": "And the Lord have removed men far away, for there shall be a great forsaking in the midst of the land.",
-                    "score": 0.7515307480550794
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 17,
-                    "text": "Thy children shall make haste against thy destroyers; and they that made thee waste shall go forth of thee.",
-                    "score": 0.7513303395067006
-                }
-            ]
+            "similars": []
         }
     ]
 }

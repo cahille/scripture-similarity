@@ -4,89 +4,29 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Book of Mormon Verses</title>
+        <link rel="stylesheet" href="styles.css" />
         <style>
-            body {
-                font-family: Arial, sans-serif;
-                background-color: #f4f4f9;
-                margin: 0;
-                padding: 0;
-            }
-            #header {
-                background-color: #4caf50;
-                color: white;
-                padding: 20px;
-                text-align: center;
-            }
-            .container {
-                padding: 20px;
-            }
-            .form-group {
+            /* Add styles for the checkbox group */
+            .checkbox-group {
                 display: flex;
                 align-items: center;
                 margin-bottom: 10px;
             }
-            .form-group label {
-                width: 150px;
+
+            .checkbox-group input {
                 margin-right: 10px;
-                font-weight: bold;
-            }
-            input[type="number"],
-            select {
-                padding: 5px;
-                border: 1px solid #ccc;
-                border-radius: 4px;
-                flex: 1;
-            }
-            .verse-container {
-                display: flex;
-                flex-direction: column;
-                background-color: white;
-                padding: 20px;
-                margin-bottom: 20px;
-                border-radius: 8px;
-                box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            }
-            .verse {
-                margin-bottom: 10px;
-            }
-            .similar-verses {
-                margin-top: 10px;
-            }
-            .similar-verse {
-                margin-bottom: 10px;
-                padding: 10px;
-                background-color: #f9f9f9;
-                border-left: 4px solid #4caf50;
-                border-radius: 4px;
-            }
-            .similar-verse-score {
-                font-size: 0.9em;
-                color: #555;
-            }
-            #chapters a {
-                display: inline-block;
-                padding: 10px 15px;
-                margin: 5px;
-                background-color: #4caf50;
-                color: white;
-                text-decoration: none;
-                border-radius: 4px;
-                transition: background-color 0.3s;
-            }
-            #chapters a:hover {
-                background-color: #45a049;
-            }
-            .verse-link {
-                color: #555;
-                text-decoration: none;
-                cursor: pointer;
-                display: block;
-                transition: background-color 0.2s;
             }
 
-            .verse-link:hover {
-                background-color: #f0f0f0;
-                color: #4caf50;
+            .checkbox-group label {
+                cursor: pointer;
+            }
+
+            /* Make multiple select show more options */
+            #volumes {
+                height: auto;
+                min-height: 120px;
+                overflow-y: auto;
+                width: 100%;
             }
         </style>
     </head>
@@ -119,7 +59,7 @@
                 <input
                     type="number"
                     id="threshold"
-                    value="50"
+                    value="80"
                     min="0"
                     max="100"
                     step="1"
@@ -128,11 +68,15 @@
             <div class="form-group">
                 <label for="model">Embedding Model</label>
                 <select id="model">
-                    <option value="all">All Models</option>
+                    <option value="all" selected>All Models</option>
                     <option value="hugging_face_bge">Hugging Face BGE</option>
-                    <option value="text-embedding-ada-002" selected>Ada 002</option>
+                    <option value="text-embedding-ada-002">Ada 002</option>
                     <option value="text-embedding-3-small">Embedding 3 Small</option>
                 </select>
+            </div>
+            <div class="form-group checkbox-group">
+                <input type="checkbox" id="onlySimilar" />
+                <label for="onlySimilar">Only show verses with similar verses</label>
             </div>
             <br />
             <div id="chapters"></div>
@@ -144,13 +88,21 @@
             let versesData = [];
             let libraryInfo = {}; // Initialize libraryInfo
 
-            // Update the renderVerses function to make similar verses clickable
             function renderVerses(threshold, selectedVolumes) {
                 const versesContainer = document.getElementById("verses");
                 versesContainer.innerHTML = ""; // Clear existing content
                 const selectedModel = document.getElementById("model").value;
+                const onlySimilar = document.getElementById("onlySimilar").checked;
 
-                versesData.forEach((verse) => {
+                // First pass: identify verses that have matching similar verses
+                // ...existing code for onlySimilar filtering...
+
+                versesData.forEach((verse, index) => {
+                    // Skip verses with no similar matches if the filter is on
+                    if (onlySimilar && !versesWithSimilars.has(index)) {
+                        return;
+                    }
+
                     const verseContainer = document.createElement("div");
                     verseContainer.classList.add("verse-container");
 
@@ -166,40 +118,69 @@
 
                     const similarVerses = verse.similars;
                     if (similarVerses && Array.isArray(similarVerses)) {
-                        similarVerses.forEach((similarVerse) => {
-                            const scorePercentage = (similarVerse.score * 100).toFixed(2);
-                            if (
-                                scorePercentage >= threshold &&
-                                selectedVolumes.includes(similarVerse.volume) &&
-                                (selectedModel === "all" ||
-                                    similarVerse.embedding_model === selectedModel)
-                            ) {
-                                const similarVerseElement = document.createElement("div");
-                                similarVerseElement.classList.add("similar-verse");
-
-                                // Create a clickable link for the similar verse
-                                similarVerseElement.innerHTML = `
-                        <div class="similar-verse-score">
-                            <a href="?volume=${encodeURIComponent(
-                                similarVerse.volume
-                            )}&book=${encodeURIComponent(similarVerse.book)}&chapter=${
-                                    similarVerse.chapter
-                                }&verse=${
-                                    similarVerse.verse
-                                }&threshold=${threshold}&model=${selectedModel}" class="verse-link">
-                                ${similarVerse.volume}: ${similarVerse.book} ${
-                                    similarVerse.chapter
-                                }:${similarVerse.verse} ${
-                                    similarVerse.text
-                                } (${scorePercentage}%${
-                                    similarVerse.embedding_model
-                                        ? ` - ${similarVerse.embedding_model}`
-                                        : ""
-                                })</a>
-                        </div>
-                    `;
-                                similarVersesElement.appendChild(similarVerseElement);
+                        // First, collect all matching similar verses
+                        const matchingSimilarVerses = similarVerses.filter(
+                            (similarVerse) => {
+                                const scorePercentage = (
+                                    similarVerse.score * 100
+                                ).toFixed(2);
+                                return (
+                                    scorePercentage >= threshold &&
+                                    selectedVolumes.includes(similarVerse.volume) &&
+                                    (selectedModel === "all" ||
+                                        similarVerse.embedding_model === selectedModel)
+                                );
                             }
+                        );
+
+                        // Sort by score (descending) and then by embedding model
+                        matchingSimilarVerses.sort((a, b) => {
+                            // First compare by score (descending)
+                            if (b.score !== a.score) {
+                                return b.score - a.score;
+                            }
+                            // If scores are equal, compare by embedding model name
+                            if (a.embedding_model && b.embedding_model) {
+                                return a.embedding_model.localeCompare(b.embedding_model);
+                            }
+                            // Handle cases where embedding_model might be undefined
+                            return a.embedding_model ? -1 : b.embedding_model ? 1 : 0;
+                        });
+
+                        // Now display the sorted verses
+                        matchingSimilarVerses.forEach((similarVerse) => {
+                            const scorePercentage = (similarVerse.score * 100).toFixed(2);
+                            const similarVerseElement = document.createElement("div");
+                            similarVerseElement.classList.add("similar-verse");
+
+                            // Format the display text to avoid redundancy
+                            let displayText = `${similarVerse.volume}: `;
+
+                            // Only add the book name if it's different from the volume name
+                            if (similarVerse.volume !== similarVerse.book) {
+                                displayText += `${similarVerse.book} `;
+                            }
+
+                            displayText += `${similarVerse.chapter}:${similarVerse.verse} ${similarVerse.text}`;
+
+                            // Create a clickable link for the similar verse
+                            similarVerseElement.innerHTML = `
+                    <div class="similar-verse-score">
+                        <a href="?volume=${encodeURIComponent(
+                            similarVerse.volume
+                        )}&book=${encodeURIComponent(similarVerse.book)}&chapter=${
+                                similarVerse.chapter
+                            }&verse=${
+                                similarVerse.verse
+                            }&threshold=${threshold}&model=${selectedModel}&onlySimilar=${onlySimilar}" class="verse-link">
+                            ${displayText} (${scorePercentage}%${
+                                similarVerse.embedding_model
+                                    ? ` - ${similarVerse.embedding_model}`
+                                    : ""
+                            })</a>
+                    </div>
+                `;
+                            similarVersesElement.appendChild(similarVerseElement);
                         });
                     } else {
                         console.error(
@@ -252,6 +233,7 @@
                 const selectedBook = bookSelect.value;
                 const threshold = document.getElementById("threshold").value;
                 const selectedModel = document.getElementById("model").value;
+                const onlySimilar = document.getElementById("onlySimilar").checked;
                 let chapterCount = 0;
 
                 if (libraryInfo[selectedVolume]) {
@@ -265,7 +247,7 @@
                 if (chapterCount > 0) {
                     const chapterLinks = Array.from({ length: chapterCount }, (_, i) => {
                         const chapterNumber = i + 1;
-                        return `<a href="?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapterNumber}&threshold=${threshold}&model=${selectedModel}">${chapterNumber}</a>`;
+                        return `<a href="?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapterNumber}&threshold=${threshold}&model=${selectedModel}&onlySimilar=${onlySimilar}">${chapterNumber}</a>`;
                     }).join(" ");
                     chaptersDiv.innerHTML = chapterLinks;
                 } else {
@@ -280,36 +262,51 @@
                     book: params.get("book"),
                     chapter: params.get("chapter"),
                     verse: params.get("verse"),
-                    threshold: params.get("threshold") || 50,
-                    model: params.get("model") || "text-embedding-3-small",
+                    threshold: params.get("threshold") || 80,
+                    model: params.get("model") || "all",
+                    onlySimilar: params.get("onlySimilar") === "true",
                 };
             }
 
-            // Update in the fetch library info section
             fetch("json/library-info.json")
                 .then((response) => response.json())
                 .then((data) => {
                     libraryInfo = data;
-                    const volumes = Object.keys(libraryInfo);
+                    const volumes = Object.keys(libraryInfo).sort();
                     populateSelect(document.getElementById("volume"), volumes);
 
                     // Fetch verses based on URL parameters
-                    const { volume, book, chapter, verse, threshold, model } =
-                        getQueryParams();
+                    const {
+                        volume,
+                        book,
+                        chapter,
+                        verse,
+                        threshold,
+                        model,
+                        onlySimilar,
+                    } = getQueryParams();
                     document.getElementById("threshold").value = threshold;
                     if (model) document.getElementById("model").value = model;
+                    document.getElementById("onlySimilar").checked = onlySimilar;
 
                     if (volume && book && chapter) {
                         document.getElementById("volume").value = volume;
                         updateBooks(book);
                         fetchVerses(volume, book, chapter, verse);
                     } else {
-                        // ...existing default code...
+                        // Default values
+                        const defaultVolume = "Book of Mormon";
+                        const defaultBook = "1 Nephi";
+                        const defaultChapter = 1;
+                        document.getElementById("volume").value = defaultVolume;
+                        updateBooks(defaultBook);
+                        fetchVerses(defaultVolume, defaultBook, defaultChapter);
                     }
                 })
                 .catch((error) =>
                     console.error("Error fetching library info JSON:", error)
                 );
+
             function fetchVerses(volume, book, chapter, highlightVerse) {
                 const formattedVolume = volume.replace(/\s+/g, "_").toLowerCase();
                 const formattedBook = book.replace(/\s+/g, "_").toLowerCase();
@@ -322,8 +319,21 @@
                         document.getElementById("header").innerHTML = `<h1>${title}</h1>`;
                         versesData = data.verses;
 
-                        // Re-add all volumes to the multi-select options
-                        // ...existing code...
+                        // Add all volumes to the multi-select options
+                        const volumeSelect = document.getElementById("volumes");
+                        volumeSelect.innerHTML = "";
+
+                        // Get all volumes and sort them alphabetically
+                        const allVolumes = Object.keys(libraryInfo).sort();
+
+                        allVolumes.forEach((vol) => {
+                            const optionElement = document.createElement("option");
+                            optionElement.value = vol;
+                            optionElement.textContent = vol;
+                            // Select all volumes EXCEPT the current one by default
+                            optionElement.selected = vol !== data.volume;
+                            volumeSelect.appendChild(optionElement);
+                        });
 
                         const threshold = parseFloat(
                             document.getElementById("threshold").value
@@ -358,35 +368,6 @@
                     })
                     .catch((error) => console.error("Error fetching JSON:", error));
             }
-            // Fetch the library info JSON file
-            fetch("json/library-info.json")
-                .then((response) => response.json())
-                .then((data) => {
-                    libraryInfo = data; // Assign fetched data to libraryInfo
-                    const volumes = Object.keys(libraryInfo);
-                    populateSelect(document.getElementById("volume"), volumes);
-
-                    // Fetch verses based on URL parameters
-                    const { volume, book, chapter, threshold, model } = getQueryParams();
-                    document.getElementById("threshold").value = threshold;
-                    if (model) document.getElementById("model").value = model;
-
-                    if (volume && book && chapter) {
-                        document.getElementById("volume").value = volume;
-                        updateBooks(book);
-                        fetchVerses(volume, book, chapter);
-                    } else {
-                        const defaultVolume = "Book of Mormon";
-                        const defaultBook = "1 Nephi";
-                        const defaultChapter = 1;
-                        document.getElementById("volume").value = defaultVolume;
-                        updateBooks(defaultBook);
-                        fetchVerses(defaultVolume, defaultBook, defaultChapter);
-                    }
-                })
-                .catch((error) =>
-                    console.error("Error fetching library info JSON:", error)
-                );
 
             // Add event listener to the threshold input
             document.getElementById("threshold").addEventListener("input", (event) => {
@@ -400,8 +381,9 @@
                 const selectedBook = bookSelect.value;
                 const chapter = getQueryParams().chapter || 1;
                 const selectedModel = document.getElementById("model").value;
+                const onlySimilar = document.getElementById("onlySimilar").checked;
 
-                const url = `?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapter}&threshold=${threshold}&model=${selectedModel}`;
+                const url = `?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapter}&threshold=${threshold}&model=${selectedModel}&onlySimilar=${onlySimilar}`;
                 window.history.pushState({}, "", url);
             });
 
@@ -423,11 +405,32 @@
                 const selectedBook = bookSelect.value;
                 const chapter = getQueryParams().chapter || 1;
                 const selectedModel = document.getElementById("model").value;
+                const onlySimilar = document.getElementById("onlySimilar").checked;
 
-                const url = `?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapter}&threshold=${threshold}&model=${selectedModel}`;
+                const url = `?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapter}&threshold=${threshold}&model=${selectedModel}&onlySimilar=${onlySimilar}`;
                 window.history.pushState({}, "", url);
 
                 updateChapters(); // Update chapter links to include model parameter
+            });
+
+            // Add event listener to the "only similar" checkbox
+            document.getElementById("onlySimilar").addEventListener("change", () => {
+                const threshold = parseFloat(document.getElementById("threshold").value);
+                renderVerses(threshold, getSelectedVolumes());
+
+                // Update URL to include the checkbox state without reloading
+                const volumeSelect = document.getElementById("volume");
+                const bookSelect = document.getElementById("book");
+                const selectedVolume = volumeSelect.value;
+                const selectedBook = bookSelect.value;
+                const chapter = getQueryParams().chapter || 1;
+                const selectedModel = document.getElementById("model").value;
+                const onlySimilar = document.getElementById("onlySimilar").checked;
+
+                const url = `?volume=${selectedVolume}&book=${selectedBook}&chapter=${chapter}&threshold=${threshold}&model=${selectedModel}&onlySimilar=${onlySimilar}`;
+                window.history.pushState({}, "", url);
+
+                updateChapters(); // Update chapter links to include onlySimilar parameter
             });
 
             // Add event listeners to update books and chapters
@@ -438,10 +441,11 @@
                 const bookSelect = document.getElementById("book");
                 const selectedBook = bookSelect.value || bookSelect.options[0].value;
                 const selectedModel = document.getElementById("model").value;
+                const onlySimilar = document.getElementById("onlySimilar").checked;
 
                 window.location.href = `?volume=${selectedVolume}&book=${selectedBook}&chapter=1&threshold=${
                     document.getElementById("threshold").value
-                }&model=${selectedModel}`;
+                }&model=${selectedModel}&onlySimilar=${onlySimilar}`;
             });
 
             document.getElementById("book").addEventListener("change", () => {
@@ -451,10 +455,11 @@
                 const selectedVolume = volumeSelect.value;
                 const selectedBook = bookSelect.value;
                 const selectedModel = document.getElementById("model").value;
+                const onlySimilar = document.getElementById("onlySimilar").checked;
 
                 window.location.href = `?volume=${selectedVolume}&book=${selectedBook}&chapter=1&threshold=${
                     document.getElementById("threshold").value
-                }&model=${selectedModel}`;
+                }&model=${selectedModel}&onlySimilar=${onlySimilar}`;
             });
 
             // Function to get selected volumes from the multi-select

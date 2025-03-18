@@ -10,82 +10,52 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 1,
                     "text": "Thus saith the Lord, Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9649493671333084
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 117,
                     "verse": 5,
                     "text": "Let the properties of Kirtland be turned out for debts, saith the Lord. Let them go, saith the Lord, and whatsoever remaineth, let it remain in your hands, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8066255545995042
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 19,
-                    "verse": 9,
-                    "text": "And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.",
-                    "score": 0.7994020325417913
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 5,
-                    "verse": 31,
-                    "text": "It hath been said, Whosoever shall put away his wife, let him give her a writing of divorcement:",
-                    "score": 0.7932327988115984
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Micah",
-                    "chapter": 6,
-                    "verse": 3,
-                    "text": "O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.",
-                    "score": 0.7890606117513487
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 26,
-                    "verse": 13,
-                    "text": "Then thou shalt say before the Lord thy God, I have brought away the hallowed things out of mine house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten them:",
-                    "score": 0.7878855248119104
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 9,
-                    "text": "Wherefore, I say unto you that I have sent unto you mine everlasting covenant, even that which was from the beginning.",
-                    "score": 0.7878585784777443
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 12,
+                    "verse": 32,
+                    "text": "Verily, verily, I say unto you, that whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery; and whoso shall marry her who is divorced committeth adultery.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001313102279516
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
                     "verse": 1,
-                    "text": "Now the Lord had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:",
-                    "score": 0.7863038698455779
+                    "text": "Thus saith the Lord, Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9230973399608539
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 16,
-                    "verse": 18,
-                    "text": "Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery.",
-                    "score": 0.7859124784747726
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 66,
-                    "verse": 4,
-                    "text": "And now, verily, I, the Lord, will show unto you what I will concerning you, or what is my will concerning you.",
-                    "score": 0.7857113810559788
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "Thus saith the Lord, Where is the bill of your mother's divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9722289459568908
                 }
             ]
         },
@@ -96,82 +66,52 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 2,
                     "text": "Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.948373292092853
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 20,
                     "verse": 13,
                     "text": "But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, which if a man do, he shall even live in them; and my sabbaths they greatly polluted: then I said, I would pour out my fury upon them in the wilderness, to consume them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8001772403041121
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 2,
+                    "text": "Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8920103311538696
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 2,
+                    "text": "Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.975499836400137
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 68,
                     "text": "Behold, at my rebuke I dry up the sea. I make the rivers a wilderness; their fish stink, and die for thirst.",
-                    "score": 0.7908164873315252
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 11,
-                    "verse": 24,
-                    "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.",
-                    "score": 0.7784915965513056
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 36,
-                    "verse": 17,
-                    "text": "Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman.",
-                    "score": 0.7779530102506765
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 30,
-                    "verse": 12,
-                    "text": "And I will make the rivers dry, and sell the land into the hand of the wicked: and I will make the land waste, and all that is therein, by the hand of strangers: I the Lord have spoken it.",
-                    "score": 0.7773266230354208
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 20,
-                    "verse": 30,
-                    "text": "Wherefore say unto the house of Israel, Thus saith the Lord God; Are ye polluted after the manner of your fathers? and commit ye whoredom after their abominations?",
-                    "score": 0.7772547445793863
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 33,
-                    "verse": 11,
-                    "text": "Say unto them, As I live, saith the Lord God, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn ye, turn ye from your evil ways; for why will ye die, O house of Israel?",
-                    "score": 0.7729660008399406
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 2,
-                    "verse": 6,
-                    "text": "Neither said they, Where is the Lord that brought us up out of the land of Egypt, that led us through the wilderness, through a land of deserts and of pits, through a land of drought, and of the shadow of death, through a land that no man passed through, and where no man dwelt?",
-                    "score": 0.7718287050944949
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 17,
-                    "verse": 13,
-                    "text": "O Lord, the hope of Israel, all that forsake thee shall be ashamed, and they that depart from me shall be written in the earth, because they have forsaken the Lord, the fountain of living waters.",
-                    "score": 0.7708793963191174
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9071623953331235
                 }
             ]
         },
@@ -182,82 +122,72 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 3,
                     "text": "I clothe the heavens with blackness, and I make sackcloth their covering.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 69,
                     "text": "I clothe the heavens with blackness, and make sackcloth their covering.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9941057342704898
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 69,
                     "verse": 11,
                     "text": "I made sackcloth also my garment; and I became a proverb to them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8032364561343838
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 16,
-                    "verse": 15,
-                    "text": "I have sewed sackcloth upon my skin, and defiled my horn in the dust.",
-                    "score": 0.7848280451547951
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 3,
+                    "text": "I clothe the heavens with blackness, and I make sackcloth their covering.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 69,
+                    "text": "I clothe the heavens with blackness, and make sackcloth their covering.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9855316307190143
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 104,
-                    "verse": 2,
-                    "text": "Who coverest thyself with light as with a garment: who stretchest out the heavens like a curtain:",
-                    "score": 0.7839299733126049
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 3,
+                    "text": "I clothe the heavens with blackness, and I make sackcloth their covering.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 32,
-                    "verse": 7,
-                    "text": "And when I shall put thee out, I will cover the heaven, and make the stars thereof dark; I will cover the sun with a cloud, and the moon shall not give her light.",
-                    "score": 0.7769189513896665
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 38,
-                    "verse": 9,
-                    "text": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,",
-                    "score": 0.7699693228966344
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Song of Solomon",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
-                    "score": 0.7698707404232454
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 16,
-                    "verse": 10,
-                    "text": "I clothed thee also with broidered work, and shod thee with badgers' skin, and I girded thee about with fine linen, and I covered thee with silk.",
-                    "score": 0.7684263288812913
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 22,
-                    "verse": 18,
-                    "text": "They part my garments among them, and cast lots upon my vesture.",
-                    "score": 0.7675957908767089
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 69,
+                    "text": "I clothe the heavens with blackness, and make sackcloth their covering.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.996723651495417
                 }
             ]
         },
@@ -268,82 +198,142 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 4,
                     "text": "The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.964720757186813
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 10,
                     "verse": 1,
                     "text": "Hear ye the word which the Lord speaketh unto you, O house of Israel:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8444183145459587
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "Hearken, O ye house of Israel, and hear the words of me, a prophet of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8300877927173621
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 54,
                     "verse": 2,
                     "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8233047485772927
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 25,
+                    "verse": 4,
+                    "text": "Wherefore, hearken, O my people, which are of the house of Israel, and give ear unto my words; for because the words of Isaiah are not plain unto you, nevertheless they are plain unto all those that are filled with the spirit of prophecy. But I give unto you a prophecy, according to the spirit which is in me; wherefore I shall prophesy according to the plainness which hath been with me from the time that I came out from Jerusalem with my father; for behold, my soul delighteth in plainness unto my people, that they may learn.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8107278602187235
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 12,
                     "verse": 25,
                     "text": "For I am the Lord: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.806606407660374
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 32,
                     "verse": 1,
                     "text": "Give ear, O ye heavens, and I will speak; and hear, O earth, the words of my mouth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8044168933565871
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 6,
                     "verse": 10,
                     "text": "The Lord therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the Lord promised, and have built the house for the name of the Lord God of Israel.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8035441575740133
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 34,
                     "verse": 16,
                     "text": "If now thou hast understanding, hear this: hearken to the voice of my words.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8027195872393169
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 30,
+                    "verse": 1,
+                    "text": "Hearken, O ye Gentiles, and hear the words of Jesus Christ, the Son of the living God, which he hath commanded me that I should speak concerning you, for, behold he commandeth me that I should write, saying:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025407323484806
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 11,
                     "verse": 5,
                     "text": "And the Spirit of the Lord fell upon me, and said unto me, Speak; Thus saith the Lord; Thus have ye said, O house of Israel: for I know the things that come into your mind, every one of them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021036595790613
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.",
-                    "score": 0.7976687813113186
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 4,
+                    "text": "The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9468858806422894
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 30,
-                    "verse": 2,
-                    "text": "Thus speaketh the Lord God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.",
-                    "score": 0.7970550337566615
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 4,
+                    "text": "The Lord God hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9852615630003134
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 11,
+                    "verse": 5,
+                    "text": "And the Spirit of the Lord fell upon me, and said unto me, Speak; Thus saith the Lord; Thus have ye said, O house of Israel: for I know the things that come into your mind, every one of them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9008137165045069
                 }
             ]
         },
@@ -354,82 +344,62 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 5,
                     "text": "The Lord God hath opened mine ear, and I was not rebellious, neither turned away back.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 116,
                     "verse": 1,
                     "text": "I love the Lord, because he hath heard my voice and my supplications.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8156010541906024
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 77,
                     "verse": 1,
                     "text": "I cried unto God with my voice, even unto God with my voice; and he gave ear unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8109777581498677
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 66,
-                    "verse": 20,
-                    "text": "Blessed be God, which hath not turned away my prayer, nor his mercy from me.",
-                    "score": 0.7997954963381145
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 5,
+                    "text": "The Lord God hath opened mine ear, and I was not rebellious, neither turned away back.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 1.0
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 5,
+                    "text": "The Lord God hath opened mine ear, and I was not rebellious, neither turned away back.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
-                    "chapter": 28,
-                    "verse": 6,
-                    "text": "Blessed be the Lord, because he hath heard the voice of my supplications.",
-                    "score": 0.7997675089979347
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 17,
+                    "volume_book_index": 19,
+                    "chapter": 40,
                     "verse": 1,
-                    "text": "Hear the right, O Lord, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.",
-                    "score": 0.7946897823075906
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 111,
-                    "verse": 1,
-                    "text": "I, the Lord your God, am not displeased with your coming this journey, notwithstanding your follies.",
-                    "score": 0.7939764348128193
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 66,
-                    "verse": 19,
-                    "text": "But verily God hath heard me; he hath attended to the voice of my prayer.",
-                    "score": 0.7937228768761049
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 130,
-                    "verse": 2,
-                    "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.",
-                    "score": 0.7904837420330878
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "Hear ye, and give ear; be not proud: for the Lord hath spoken.",
-                    "score": 0.7899757010570362
+                    "text": "I waited patiently for the Lord; and he inclined unto me, and heard my cry.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9014916722451728
                 }
             ]
         },
@@ -440,82 +410,32 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 6,
                     "text": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9941366714305977
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 39,
-                    "verse": 24,
-                    "text": "According to their uncleanness and according to their transgressions have I done unto them, and hid my face from them.",
-                    "score": 0.79949143434632
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 6,
+                    "text": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9786052107811044
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 31,
-                    "verse": 19,
-                    "text": "Surely after that I was turned, I repented; and after that I was instructed, I smote upon my thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth.",
-                    "score": 0.7948816568197274
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 7,
-                    "text": "Because for thy sake I have borne reproach; shame hath covered my face.",
-                    "score": 0.7797660533286115
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 4,
-                    "text": "They that hate me without a cause are more than the hairs of mine head: they that would destroy me, being mine enemies wrongfully, are mighty: then I restored that which I took not away.",
-                    "score": 0.7782645105112037
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 33,
-                    "verse": 23,
-                    "text": "And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.",
-                    "score": 0.7725162300460849
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 17,
-                    "verse": 35,
-                    "text": "And I went out after him, and smote him, and delivered it out of his mouth: and when he arose against me, I caught him by his beard, and smote him, and slew him.",
-                    "score": 0.772508065212112
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 13,
-                    "verse": 25,
-                    "text": "And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.",
-                    "score": 0.7625852224555406
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 9,
-                    "verse": 3,
-                    "text": "And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.",
-                    "score": 0.7562012158439185
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 51,
-                    "verse": 9,
-                    "text": "Hide thy face from my sins, and blot out all mine iniquities.",
-                    "score": 0.7512587170184837
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 6,
+                    "text": "I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9936617024348208
                 }
             ]
         },
@@ -526,82 +446,182 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 7,
                     "text": "For the Lord God will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 1.0
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 41,
                     "verse": 10,
                     "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8332359838530744
                 },
                 {
                     "volume": "New Testament",
                     "book": "Hebrews",
+                    "volume_book_index": 19,
                     "chapter": 13,
                     "verse": 6,
                     "text": "So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8304587914462176
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 16,
                     "verse": 63,
                     "text": "That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8169635752062575
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 27,
                     "verse": 9,
                     "text": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8114904420381253
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 25,
                     "verse": 2,
                     "text": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8101488522147376
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 118,
                     "verse": 13,
                     "text": "Thou hast thrust sore at me that I might fall: but the Lord helped me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.807729800025698
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 119,
                     "verse": 6,
                     "text": "Then shall I not be ashamed, when I have respect unto all thy commandments.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8076278219980337
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 56,
                     "verse": 4,
                     "text": "In God I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8067514078456035
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 119,
                     "verse": 80,
                     "text": "Let my heart be sound in thy statutes; that I be not ashamed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8049774951525445
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 31,
+                    "verse": 17,
+                    "text": "Let me not be ashamed, O Lord; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8046186499079262
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 13,
+                    "text": "For I the Lord thy God will hold thy right hand, saying unto thee, Fear not; I will help thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8038690160113309
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "Thou therefore gird up thy loins, and arise, and speak unto them all that I command thee: be not dismayed at their faces, lest I confound thee before them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036517789194471
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 1,
+                    "verse": 9,
+                    "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020670739030342
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 26,
+                    "verse": 1,
+                    "text": "Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010650149653876
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 35,
+                    "text": "Yea, I know that God will give liberally to him that asketh. Yea, my God will give me, if I ask not amiss; therefore I will lift up my voice unto thee; yea, I will cry unto thee, my God, the rock of my righteousness. Behold, my voice shall forever ascend up unto thee, my rock and mine everlasting God. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800720461974145
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 7,
+                    "text": "For the Lord God will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9999995231629288
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 7,
+                    "text": "For the Lord God will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 1.0
                 }
             ]
         },
@@ -612,82 +632,1482 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 8,
                     "text": "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9396165207123244
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 59,
                     "verse": 1,
                     "text": "Deliver me from mine enemies, O my God: defend me from them that rise up against me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8562482730239757
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 35,
                     "verse": 1,
                     "text": "Plead my cause, O Lord, with them that strive with me: fight against them that fight against me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8486886103615662
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 27,
                     "verse": 7,
                     "text": "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8418015317210205
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 1,
                     "verse": 24,
                     "text": "Therefore saith the Lord, the Lord of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.841506952999653
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 14,
                     "verse": 8,
                     "text": "And I will set my face against that man, and will make him a sign and a proverb, and I will cut him off from the midst of my people; and ye shall know that I am the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8396478209161359
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 15,
                     "verse": 7,
                     "text": "And I will set my face against them; they shall go out from one fire, and another fire shall devour them; and ye shall know that I am the Lord, when I set my face against them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8388022664049359
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 109,
                     "verse": 20,
                     "text": "Let this be the reward of mine adversaries from the Lord, and of them that speak evil against my soul.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.837347724376221
                 },
                 {
                     "volume": "New Testament",
                     "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 2,
                     "verse": 16,
                     "text": "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8363089249957147
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Malachi",
+                    "volume_book_index": 39,
                     "chapter": 3,
                     "verse": 5,
                     "text": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the Lord of hosts.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8325772196450143
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 40,
+                    "text": "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8325448929921488
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 24,
+                    "verse": 5,
+                    "text": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow and the fatherless, and that turn aside the stranger, and fear not me, saith the Lord of Hosts.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8317706891285721
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 24,
+                    "verse": 16,
+                    "text": "And it shall come to pass that whosoever shall lay their hands upon you by violence, ye shall command to be smitten in my name; and, behold, I will smite them according to your words, in mine own due time.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8306574540691594
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 50,
+                    "verse": 31,
+                    "text": "Behold, I am against thee, O thou most proud, saith the Lord God of hosts: for thy day is come, the time that I will visit thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.829258723608388
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zephaniah",
+                    "volume_book_index": 36,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Therefore wait ye upon me, saith the Lord, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8291518330556316
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 47,
+                    "text": "It is God that avengeth me, and subdueth the people under me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8291152601785541
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 16,
+                    "verse": 9,
+                    "text": "He teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8291016016785513
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 5,
+                    "verse": 39,
+                    "text": "But I say unto you, That ye resist not evil: but whosoever shall smite thee on thy right cheek, turn to him the other also.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8277775527393297
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 1,
+                    "verse": 19,
+                    "text": "And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the Lord, to deliver thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8261209298362449
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 19,
+                    "verse": 11,
+                    "text": "He hath also kindled his wrath against me, and he counteth me unto him as one of his enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8251820097734991
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 110,
+                    "verse": 1,
+                    "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8243677345443325
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 71,
+                    "verse": 10,
+                    "text": "For mine enemies speak against me; and they that lay wait for my soul take counsel together,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8235828665250311
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 12,
+                    "verse": 5,
+                    "text": "For the oppression of the poor, for the sighing of the needy, now will I arise, saith the Lord; I will set him in safety from him that puffeth at him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.823522216277034
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 5,
+                    "verse": 8,
+                    "text": "Lead me, O Lord, in thy righteousness because of mine enemies; make thy way straight before my face.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8228250042223343
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 48,
+                    "text": "It is God that avengeth me, and that bringeth down the people under me,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8216495772120895
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 39,
+                    "text": "But I say unto you, that ye shall not resist evil, but whosoever shall smite thee on thy right cheek, turn to him the other also;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8214039077795209
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 13,
+                    "text": "The Lord shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8213735050468859
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 33,
+                    "verse": 10,
+                    "text": "Behold, he findeth occasions against me, he counteth me for his enemy,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8213083131327549
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 59,
+                    "verse": 9,
+                    "text": "Because of his strength will I wait upon thee: for God is my defence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8209210161006067
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 21,
+                    "verse": 17,
+                    "text": "I will also smite mine hands together, and I will cause my fury to rest: I the Lord have said it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.820875776859079
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 23,
+                    "verse": 22,
+                    "text": "But if thou shalt indeed obey his voice, and do all that I speak; then I will be an enemy unto thine enemies, and an adversary unto thine adversaries.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8208201086980116
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 44,
+                    "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8207379759342557
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 19,
+                    "verse": 11,
+                    "text": "Therefore the Lord shall set up the adversaries of Rezin against him, and join his enemies together;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8201509534867459
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 9,
+                    "verse": 11,
+                    "text": "Therefore the Lord shall set up the adversaries of Rezin against him, and join his enemies together;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8201509534867459
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 54,
+                    "verse": 4,
+                    "text": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8199015777724643
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Zechariah",
+                    "volume_book_index": 38,
+                    "chapter": 13,
+                    "verse": 7,
+                    "text": "Awake, O sword, against my shepherd, and against the man that is my fellow, saith the Lord of hosts: smite the shepherd, and the sheep shall be scattered: and I will turn mine hand upon the little ones.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8193966578664932
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "I will bear the indignation of the Lord, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, and I shall behold his righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.819290491180592
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 7,
+                    "verse": 6,
+                    "text": "Arise, O Lord, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8190688150255226
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 22,
+                    "verse": 19,
+                    "text": "But be not thou far from me, O Lord: O my strength, haste thee to help me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8189933704686561
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nahum",
+                    "volume_book_index": 34,
+                    "chapter": 2,
+                    "verse": 13,
+                    "text": "Behold, I am against thee, saith the Lord of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8189763361750824
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 23,
+                    "verse": 22,
+                    "text": "Therefore, O Aholibah, thus saith the Lord God; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8185906757881277
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 39,
+                    "text": "For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181477158965161
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 3,
+                    "text": "I will call upon the Lord, who is worthy to be praised: so shall I be saved from mine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8176759339375574
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 23,
+                    "verse": 6,
+                    "text": "Will he plead against me with his great power? No; but he would put strength in me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8169093931415364
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 26,
+                    "verse": 17,
+                    "text": "And I will set my face against you, and ye shall be slain before your enemies: they that hate you shall reign over you; and ye shall flee when none pursueth you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8168020488040817
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 30,
+                    "verse": 21,
+                    "text": "Thou art become cruel to me: with thy strong hand thou opposest thyself against me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8167441318171406
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 21,
+                    "verse": 13,
+                    "text": "Behold, I am against thee, O inhabitant of the valley, and rock of the plain, saith the Lord; which say, Who shall come down against us? or who shall enter into our habitations?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8165619448308808
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 10,
+                    "verse": 2,
+                    "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8160227921256423
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Micah",
+                    "volume_book_index": 33,
+                    "chapter": 7,
+                    "verse": 8,
+                    "text": "Rejoice not against me, O mine enemy: when I fall, I shall arise; when I sit in darkness, the Lord shall be a light unto me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8159010705784513
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 3,
+                    "verse": 16,
+                    "text": "And again: I will set a mark upon him that fighteth against thee and thy seed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8154229877718676
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 23,
+                    "verse": 5,
+                    "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8152415906532983
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 49,
+                    "verse": 37,
+                    "text": "For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, saith the Lord; and I will send the sword after them, till I have consumed them:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151898222975033
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 49,
+                    "text": "And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8151630336949272
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 35,
+                    "verse": 11,
+                    "text": "Therefore, as I live, saith the Lord God, I will even do according to thine anger, and according to thine envy which thou hast used out of thy hatred against them; and I will make myself known among them, when I have judged thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8146110471469264
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 71,
+                    "verse": 16,
+                    "text": "I will go in the strength of the Lord God: I will make mention of thy righteousness, even of thine only.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8145982200391165
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 2,
+                    "verse": 29,
+                    "text": "Wherefore will ye plead with me? ye all have transgressed against me, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8144562907276088
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 20,
+                    "verse": 3,
+                    "text": "And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8143874461796998
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 5,
+                    "verse": 14,
+                    "text": "Wherefore thus saith the Lord God of hosts, Because ye speak this word, behold, I will make my words in thy mouth fire, and this people wood, and it shall devour them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140817688960478
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 18,
+                    "text": "Behold, my brethren, I say unto you, that these things must shortly come; yea, even blood, and fire, and vapor of smoke must come; and it must needs be upon the face of this earth; and it cometh unto men according to the flesh if it so be that they will harden their hearts against the Holy One of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8140112703534672
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 6,
+                    "text": "The Lord is on my side; I will not fear: what can man do unto me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8139883188943946
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 41,
+                    "verse": 10,
+                    "text": "None is so fierce that dare stir him up: who then is able to stand before me?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8136511650180865
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 59,
+                    "verse": 21,
+                    "text": "As for me, this is my covenant with them, saith the Lord; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed's seed, saith the Lord, from henceforth and for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.81336699042253
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 17,
+                    "verse": 9,
+                    "text": "If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall ye be our servants, and serve us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812778425294465
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 13,
+                    "verse": 14,
+                    "text": "And I will dash them one against another, even the fathers and the sons together, saith the Lord: I will not pity, nor spare, nor have mercy, but destroy them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.81243351855514
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 118,
+                    "verse": 7,
+                    "text": "The Lord taketh my part with them that help me: therefore shall I see my desire upon them that hate me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8120043930492705
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 57,
+                    "text": "And again, I say, let not my servant Joseph put his property out of his hands, lest an enemy come and destroy him; for Satan seeketh to destroy; for I am the Lord thy God, and he is my servant; and behold, and lo, I am with him, as I was with Abraham, thy father, even unto his exaltation and glory.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8119455789102487
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 3,
+                    "verse": 7,
+                    "text": "Arise, O Lord; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8118672279335286
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 9,
+                    "verse": 19,
+                    "text": "For I was afraid of the anger and hot displeasure, wherewith the Lord was wroth against you to destroy you. But the Lord hearkened unto me at that time also.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8117214651110172
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 2,
+                    "text": "The Lord is my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, and my high tower.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8116346744210652
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 4,
+                    "text": "I will call on the Lord, who is worthy to be praised: so shall I be saved from mine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8113263317584795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 44,
+                    "verse": 11,
+                    "text": "Therefore thus saith the Lord of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8112031974047352
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 59,
+                    "verse": 10,
+                    "text": "The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8111959927403434
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 18,
+                    "verse": 48,
+                    "text": "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8111720622221535
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 54,
+                    "verse": 12,
+                    "text": "And behold, if ye do not this, I will come against you with my armies; yea, even I will arm my women and my children, and I will come against you, and I will follow you even into your own land, which is the land of our first inheritance; yea, and it shall be blood for blood, yea, life for life; and I will give you battle even until you are destroyed from off the face of the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811103498013203
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 144,
+                    "verse": 1,
+                    "text": "Blessed be the Lord my strength, which teacheth my hands to war, and my fingers to fight:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8108507173867359
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 10,
+                    "verse": 14,
+                    "text": "For he that raiseth up a king against me shall perish, for I, the Lord, the king of heaven, will be their king, and I will be a light unto them forever, that hear my words.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.810761450099166
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 20,
+                    "verse": 4,
+                    "text": "For the Lord your God is he that goeth with you, to fight for you against your enemies, to save you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8107612336923672
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 144,
+                    "verse": 2,
+                    "text": "My goodness, and my fortress; my high tower, and my deliverer; my shield, and he in whom I trust; who subdueth my people under me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8101279662701754
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 36,
+                    "verse": 11,
+                    "text": "Let not the foot of pride come against me, and let not the hand of the wicked remove me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087150899196925
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 103,
+                    "verse": 6,
+                    "text": "Behold they shall, for I have decreed it, begin to prevail against mine enemies from this very hour.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8085960335490647
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 35,
+                    "verse": 3,
+                    "text": "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am thy salvation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8084997003895897
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 21,
+                    "verse": 5,
+                    "text": "And I myself will fight against you with an outstretched hand and with a strong arm, even in anger, and in fury, and in great wrath.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8083561514365982
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 44,
+                    "verse": 29,
+                    "text": "And this shall be a sign unto you, saith the Lord, that I will punish you in this place, that ye may know that my words shall surely stand against you for evil:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082799180542699
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 8,
+                    "verse": 21,
+                    "text": "Wo unto such, for they are in danger of death, hell, and an endless torment. I speak it boldly; God hath commanded me. Listen unto them and give heed, or they stand against you at the judgment-seat of Christ.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079360687369288
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 3,
+                    "text": "Behold, here I am: witness against me before the Lord, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078494121651374
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 26,
+                    "verse": 25,
+                    "text": "And I will bring a sword upon you, that shall avenge the quarrel of my covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078485388858859
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 25,
+                    "verse": 8,
+                    "text": "But if thou wilt go, do it, be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8076049991221044
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 45,
+                    "verse": 24,
+                    "text": "Surely, shall one say, in the Lord have I righteousness and strength: even to him shall men come; and all that are incensed against him shall be ashamed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8067579385625522
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Samuel",
+                    "volume_book_index": 9,
+                    "chapter": 25,
+                    "verse": 26,
+                    "text": "Now therefore, my lord, as the Lord liveth, and as thy soul liveth, seeing the Lord hath withholden thee from coming to shed blood, and from avenging thyself with thine own hand, now let thine enemies, and they that seek evil to my lord, be as Nabal.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065911429401077
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 89,
+                    "verse": 28,
+                    "text": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063505574036341
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 27,
+                    "verse": 6,
+                    "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063441084444753
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 68,
+                    "verse": 6,
+                    "text": "Wherefore, be of good cheer, and do not fear, for I the Lord am with you, and will stand by you; and ye shall bear record of me, even Jesus Christ, that I am the Son of the living God, that I was, that I am, and that I am to come.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8061647786370186
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 92,
+                    "verse": 11,
+                    "text": "Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060353709672822
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 61,
+                    "verse": 17,
+                    "text": "Gather together whatsoever force ye can upon your march hither, and we will go speedily against those dissenters, in the strength of our God according to the faith which is in us.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8058840737183479
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 22,
+                    "verse": 21,
+                    "text": "Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8058269109611789
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 31,
+                    "verse": 17,
+                    "text": "Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day, Are not these evils come upon us, because our God is not among us?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056473281396441
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 9,
+                    "verse": 19,
+                    "text": "If I speak of strength, lo, he is strong: and if of judgment, who shall set me a time to plead?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055250442536556
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 3,
+                    "verse": 8,
+                    "text": "Behold, I have made thy face strong against their faces, and thy forehead strong against their foreheads.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054980092803823
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mosiah",
+                    "volume_book_index": 8,
+                    "chapter": 2,
+                    "verse": 32,
+                    "text": "But, O my people, beware lest there shall arise contentions among you, and ye list to obey the evil spirit, which was spoken of by my father Mosiah.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8053667341619508
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 12,
+                    "verse": 23,
+                    "text": "Therefore, if ye shall come unto me, or shall desire to come unto me, and rememberest that thy brother hath aught against thee--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051857389766761
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 6,
+                    "verse": 17,
+                    "text": "But thus saith the Lord: Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered; for the Mighty God shall deliver his covenant people. For thus saith the Lord: I will contend with them that contendeth with thee--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8051612507629133
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 140,
+                    "verse": 4,
+                    "text": "Keep me, O Lord, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050975886628116
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 94,
+                    "verse": 16,
+                    "text": "Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049515716676559
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 56,
+                    "verse": 1,
+                    "text": "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8048579664203335
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 103,
+                    "verse": 26,
+                    "text": "And my presence shall be with you even in avenging me of mine enemies, unto the third and fourth generation of them that hate me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8047710326530336
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 98,
+                    "verse": 14,
+                    "text": "Therefore, be not afraid of your enemies, for I have decreed in my heart, saith the Lord, that I will prove you in all things, whether you will abide in my covenant, even unto death, that you may be found worthy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045432234587296
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 35,
+                    "verse": 14,
+                    "text": "And their arm shall be my arm, and I will be their shield and their buckler; and I will gird up their loins, and they shall fight manfully for me; and their enemies shall be under their feet; and I will let fall the sword in their behalf, and by the fire of mine indignation will I preserve them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8045223942973261
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 23,
+                    "verse": 27,
+                    "text": "I will send my fear before thee, and will destroy all the people to whom thou shalt come, and I will make all thine enemies turn their backs unto thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041409736954933
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 41,
+                    "verse": 10,
+                    "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041308460476705
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 7,
+                    "text": "Hear, O my people, and I will speak; O Israel, and I will testify against thee: I am God, even thy God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039677525740209
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 13,
+                    "verse": 4,
+                    "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039208170489914
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 38,
+                    "verse": 21,
+                    "text": "And I will call for a sword against him throughout all my mountains, saith the Lord God: every man's sword shall be against his brother.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803807074074629
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 12,
+                    "verse": 35,
+                    "text": "And whosoever will harden his heart and will do iniquity, behold, I swear in my wrath that he shall not enter into my rest.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803725243866349
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 10,
+                    "verse": 17,
+                    "text": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035480725376596
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 3,
+                    "verse": 21,
+                    "text": "Because of their faith their words shall proceed forth out of my mouth unto their brethren who are the fruit of thy loins; and the weakness of their words will I make strong in their faith, unto the remembering of my covenant which I made unto thy fathers.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035204493810918
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 51,
+                    "verse": 25,
+                    "text": "Behold, I am against thee, O destroying mountain, saith the Lord, which destroyest all the earth: and I will stretch out mine hand upon thee, and roll thee down from the rocks, and will make thee a burnt mountain.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034076270551548
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 7,
+                    "text": "The Lord shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033226580161096
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 143,
+                    "verse": 7,
+                    "text": "Hear me speedily, O Lord: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8028546908063813
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 30,
+                    "verse": 21,
+                    "text": "And their nobles shall be of themselves, and their governor shall proceed from the midst of them; and I will cause him to draw near, and he shall approach unto me: for who is this that engaged his heart to approach unto me? saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025780761801992
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 49,
+                    "verse": 8,
+                    "text": "Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8025480558038306
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 138,
+                    "verse": 7,
+                    "text": "Though I walk in the midst of trouble, thou wilt revive me: thou shalt stretch forth thine hand against the wrath of mine enemies, and thy right hand shall save me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023791100130249
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 42,
+                    "text": "O Lord, thou shalt come down to make thy name known to thine adversaries, and all nations shall tremble at thy presence--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023719189073987
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 69,
+                    "text": "And now, behold, whosoever is of my church, and endureth of my church to the end, him will I establish upon my rock, and the gates of hell shall not prevail against them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023521594183622
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 21,
+                    "verse": 31,
+                    "text": "And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, and skilful to destroy.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023346143411793
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations that are in the midst of thee; and ye shall know that I am the Lord that smiteth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021929173548891
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Joel",
+                    "volume_book_index": 29,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "And the Lord shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the Lord is great and very terrible; and who can abide it?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021508195191054
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020352154530122
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 28,
+                    "verse": 22,
+                    "text": "And say, Thus saith the Lord God; Behold, I am against thee, O Zidon; and I will be glorified in the midst of thee: and they shall know that I am the Lord, when I shall have executed judgments in her, and shall be sanctified in her.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018412582718931
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 86,
+                    "verse": 14,
+                    "text": "O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016798425681243
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 4,
+                    "verse": 8,
+                    "text": "And he that will contend against the word of the Lord, let him be accursed; and he that shall deny these things, let him be accursed; for unto them will I show no greater things, saith Jesus Christ; for I am he who speaketh.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015314932860879
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 24,
+                    "verse": 13,
+                    "text": "Your words have been stout against me, saith the Lord. Yet ye say: What have we spoken against thee?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014472020642921
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 95,
+                    "text": "The wicked have waited for me to destroy me: but I will consider thy testimonies.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013742672893944
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 25,
+                    "text": "But thus saith the Lord, even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered; for I will contend with him that contendeth with thee, and I will save thy children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012611863128709
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 49,
+                    "verse": 25,
+                    "text": "But thus saith the Lord, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012611863128709
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 38,
+                    "verse": 16,
+                    "text": "And thou shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring thee against my land, that the heathen may know me, when I shall be sanctified in thee, O Gog, before their eyes.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009851647605815
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 44,
+                    "verse": 18,
+                    "text": "Then Judah came near unto him, and said, Oh my lord, let thy servant, I pray thee, speak a word in my lord's ears, and let not thine anger burn against thy servant: for thou art even as Pharaoh.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009447024637919
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 26,
+                    "verse": 44,
+                    "text": "And yet for all that, when they be in the land of their enemies, I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant with them: for I am the Lord their God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.800875048876084
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 89,
+                    "verse": 23,
+                    "text": "And I will beat down his foes before his face, and plague them that hate him.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008180525456521
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 15,
+                    "verse": 20,
+                    "text": "And I will make thee unto this people a fenced brasen wall: and they shall fight against thee, but they shall not prevail against thee: for I am with thee to save thee and to deliver thee, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007548438293022
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 140,
+                    "verse": 1,
+                    "text": "Deliver me, O Lord, from the evil man: preserve me from the violent man;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006975370750775
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 41,
+                    "verse": 5,
+                    "text": "Mine enemies speak evil of me, When shall he die, and his name perish?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005498263744977
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 18,
+                    "verse": 19,
+                    "text": "Give heed to me, O Lord, and hearken to the voice of them that contend with me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004608454434007
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 59,
+                    "verse": 3,
+                    "text": "For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8004100333743674
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 5,
+                    "verse": 8,
+                    "text": "Therefore thus saith the Lord God; Behold, I, even I, am against thee, and will execute judgments in the midst of thee in the sight of the nations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003914200321517
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 32,
+                    "verse": 11,
+                    "text": "Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000967410767512
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 22,
+                    "verse": 6,
+                    "text": "Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8000157828078158
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 8,
+                    "text": "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8750983551085991
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 8,
+                    "text": "He is near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9571668480138245
                 }
             ]
         },
@@ -698,82 +2118,92 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 9,
                     "text": "Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9820017475275343
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 51,
                     "verse": 8,
                     "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8901865592004212
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 8,
+                    "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool. But my righteousness shall be forever, and my salvation from generation to generation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8892313574396233
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Hosea",
+                    "volume_book_index": 28,
                     "chapter": 5,
                     "verse": 12,
                     "text": "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8280653904519281
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 29,
                     "verse": 18,
                     "text": "Wherefore, I the Lord God will send forth flies upon the face of the earth, which shall take hold of the inhabitants thereof, and shall eat their flesh, and shall cause maggots to come in upon them;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8044309339436968
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
-                    "chapter": 41,
-                    "verse": 14,
-                    "text": "Fear not, thou worm Jacob, and ye men of Israel; I will help thee, saith the Lord, and thy redeemer, the Holy One of Israel.",
-                    "score": 0.7947436232222663
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 9,
+                    "text": "Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9569051188656917
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 26,
-                    "verse": 16,
-                    "text": "I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.",
-                    "score": 0.7944377517194894
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 9,
+                    "text": "Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9851531092776961
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Micah",
-                    "chapter": 7,
-                    "verse": 17,
-                    "text": "They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the Lord our God, and shall fear because of thee.",
-                    "score": 0.793879344916914
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 51,
+                    "verse": 8,
+                    "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool: but my righteousness shall be for ever, and my salvation from generation to generation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.915526645709078
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 1,
-                    "verse": 11,
-                    "text": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;",
-                    "score": 0.7930254314231588
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 13,
-                    "verse": 28,
-                    "text": "And he, as a rotten thing, consumeth, as a garment that is moth eaten.",
-                    "score": 0.7927995658891049
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 18,
-                    "verse": 28,
-                    "text": "For thou wilt light my candle: the Lord my God will enlighten my darkness.",
-                    "score": 0.7902664020408406
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 8,
+                    "text": "For the moth shall eat them up like a garment, and the worm shall eat them like wool. But my righteousness shall be forever, and my salvation from generation to generation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9152939390434659
                 }
             ]
         },
@@ -784,82 +2214,142 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 10,
                     "text": "Who is among you that feareth the Lord, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the Lord, and stay upon his God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9700170216785371
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 128,
                     "verse": 1,
                     "text": "Blessed is every one that feareth the Lord; that walketh in his ways.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8301075720116342
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 25,
                     "verse": 12,
                     "text": "What man is he that feareth the Lord? him shall he teach in the way that he shall choose.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8175776141192397
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 27,
                     "verse": 1,
                     "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8174891057693071
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 6,
                     "verse": 13,
                     "text": "Thou shalt fear the Lord thy God, and serve him, and shalt swear by his name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8150261848545421
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 13,
                     "verse": 4,
                     "text": "Ye shall walk after the Lord your God, and fear him, and keep his commandments, and obey his voice, and ye shall serve him, and cleave unto him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8144093730355991
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 10,
                     "verse": 20,
                     "text": "Thou shalt fear the Lord thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8140314204766552
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Proverbs",
+                    "volume_book_index": 20,
                     "chapter": 14,
                     "verse": 2,
                     "text": "He that walketh in his uprightness feareth the Lord: but he that is perverse in his ways despiseth him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8137869781371502
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 112,
                     "verse": 1,
                     "text": "Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.811681121112153
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 128,
                     "verse": 4,
                     "text": "Behold, that thus shall the man be blessed that feareth the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.810206547141738
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 135,
+                    "verse": 20,
+                    "text": "Bless the Lord, O house of Levi: ye that fear the Lord, bless the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049424349284324
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 38,
+                    "text": "Stablish thy word unto thy servant, who is devoted to thy fear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039232535614927
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 10,
+                    "text": "Who is among you that feareth the Lord, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the Lord, and stay upon his God.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.923787011423051
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 10,
+                    "text": "Who is among you that feareth the Lord, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the Lord, and stay upon his God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9599500966161334
                 }
             ]
         },
@@ -870,82 +2360,72 @@
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 50,
                     "verse": 11,
                     "text": "Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.990634452163223
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 133,
                     "verse": 70,
                     "text": "And this shall ye have of my hand--ye shall lie down in sorrow.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8107024714807068
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 9,
                     "verse": 18,
                     "text": "For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up like the lifting up of smoke.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8030891883641462
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 20,
-                    "verse": 47,
-                    "text": "And say to the forest of the south, Hear the word of the Lord; Thus saith the Lord God; Behold, I will kindle a fire in thee, and it shall devour every green tree in thee, and every dry tree: the flaming flame shall not be quenched, and all faces from the south to the north shall be burned therein.",
-                    "score": 0.7887428899031458
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 21,
-                    "verse": 14,
-                    "text": "But I will punish you according to the fruit of your doings, saith the Lord: and I will kindle a fire in the forest thereof, and it shall devour all things round about it.",
-                    "score": 0.7828690248642454
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 25,
-                    "verse": 41,
-                    "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
-                    "score": 0.778140435064121
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 15,
-                    "verse": 14,
-                    "text": "And I will make thee to pass with thine enemies into a land which thou knowest not: for a fire is kindled in mine anger, which shall burn upon you.",
-                    "score": 0.776864444998827
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 12,
-                    "verse": 49,
-                    "text": "I am come to send fire on the earth; and what will I, if it be already kindled?",
-                    "score": 0.7761965841230328
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Joel",
-                    "chapter": 1,
-                    "verse": 19,
-                    "text": "O Lord, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.",
-                    "score": 0.7760316426281395
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 19,
+                    "verse": 18,
+                    "text": "For wickedness burneth as the fire; it shall devour the briers and thorns, and shall kindle in the thickets of the forests, and they shall mount up like the lifting up of smoke.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802874411256434
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
-                    "chapter": 43,
-                    "verse": 2,
-                    "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.",
-                    "score": 0.7753379418340298
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 11,
+                    "text": "Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.986234724521637
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 50,
+                    "verse": 11,
+                    "text": "Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9900179511297988
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 133,
+                    "verse": 70,
+                    "text": "And this shall ye have of my hand--ye shall lie down in sorrow.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9006795018708891
                 }
             ]
         }

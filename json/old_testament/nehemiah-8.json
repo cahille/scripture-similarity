@@ -8,84 +8,54 @@
             "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 9,
-                    "verse": 19,
-                    "text": "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,",
-                    "score": 0.7679463119730403
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148353896326919
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 1,
-                    "verse": 10,
-                    "text": "Therefore, he had Mosiah brought before him; and these are the words which he spake unto him, saying: My son, I would that ye should make a proclamation throughout all this land among all this people, or the people of Zarahemla, and the people of Mosiah who dwell in the land, that thereby they may be gathered together; for on the morrow I shall proclaim unto this my people out of mine own mouth that thou art a king and a ruler over this people, whom the Lord our God hath given us.",
-                    "score": 0.7603663062774361
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 16,
+                    "text": "So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065194241691591
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 25,
-                    "text": "And he did execute a law throughout all the land, which gave power unto the prophets that they should go whithersoever they would; and by this cause the people were brought unto repentance.",
-                    "score": 0.7601859015449532
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 25,
-                    "verse": 1,
-                    "text": "And now king Mosiah caused that all the people should be gathered together.",
-                    "score": 0.7591521469938586
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
-                    "score": 0.7589898284675645
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "Therefore they separated themselves one from another, and went forth among them, every man alone, according to the word and power of God which was given unto him.",
-                    "score": 0.758522107300232
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 5,
-                    "text": "And the people went forth and witnessed against them--testifying that they had reviled against the law, and their lawyers and judges of the land, and also of all the people that were in the land; and also testified that there was but one God, and that he should send his Son among the people, but he should not save them; and many such things did the people testify against Alma and Amulek. Now this was done before the chief judge of the land.",
-                    "score": 0.7542899161982758
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 36,
-                    "text": "And it came to pass that Moses spake unto the Lord, saying: Be merciful unto thy servant, O God, and tell me concerning this earth, and the inhabitants thereof, and also the heavens, and then thy servant will be content.",
-                    "score": 0.754048695217979
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 22,
-                    "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;",
-                    "score": 0.7539832051167732
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 8,
                     "verse": 13,
-                    "text": "Now when the people had said this, and withstood all his words, and reviled him, and spit upon him, and caused that he should be cast out of their city, he departed thence and took his journey towards the city which was called Aaron.",
-                    "score": 0.7497058129993935
+                    "text": "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055424276317628
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9036148402346532
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 2,
+                    "text": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022592960441677
                 }
             ]
         },
@@ -94,84 +64,44 @@
             "text": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 23,
-                    "text": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
-                    "score": 0.7652007543077092
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 13,
+                    "text": "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8133815093896843
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 44,
-                    "text": "And the next sabbath day came almost the whole city together to hear the word of God.",
-                    "score": 0.7593670428132913
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 13,
+                    "text": "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9239171834090795
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 12,
-                    "verse": 28,
-                    "text": "And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?",
-                    "score": 0.7593270760239355
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 10,
+                    "verse": 16,
+                    "text": "And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9058186580266984
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on.",
-                    "score": 0.7570905390750691
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 22,
-                    "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;",
-                    "score": 0.7524522021161099
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 6,
-                    "verse": 2,
-                    "text": "And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?",
-                    "score": 0.7522568885816804
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 21,
-                    "verse": 38,
-                    "text": "And all the people came early in the morning to him in the temple, for to hear him.",
-                    "score": 0.7512471545713411
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 28,
-                    "verse": 23,
-                    "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.",
-                    "score": 0.749095373707579
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 20,
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
                     "verse": 1,
-                    "text": "And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,",
-                    "score": 0.7488120787404547
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 5,
-                    "verse": 17,
-                    "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them.",
-                    "score": 0.7483329524326156
+                    "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022592960441677
                 }
             ]
         },
@@ -180,84 +110,24 @@
             "text": "And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 21,
-                    "verse": 38,
-                    "text": "And all the people came early in the morning to him in the temple, for to hear him.",
-                    "score": 0.7689805268132188
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 12,
-                    "text": "Wherefore, at that day when the book shall be delivered unto the man of whom I have spoken, the book shall be hid from the eyes of the world, that the eyes of none shall behold it save it be that three witnesses shall behold it, by the power of God, besides him to whom the book shall be delivered; and they shall testify to the truth of the book and the things therein.",
-                    "score": 0.7558646390301769
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 44,
-                    "text": "And the next sabbath day came almost the whole city together to hear the word of God.",
-                    "score": 0.75168421022749
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 28,
-                    "verse": 23,
-                    "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.",
-                    "score": 0.7509330460468909
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 10,
-                    "verse": 26,
-                    "text": "He said unto him, What is written in the law? how readest thou?",
-                    "score": 0.7504646734801899
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 9,
-                    "verse": 10,
-                    "text": "Therefore said they unto him, How were thine eyes opened?",
-                    "score": 0.747756498448874
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on.",
-                    "score": 0.7456726375489242
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 5,
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
                     "verse": 1,
-                    "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,",
-                    "score": 0.7418314585360207
+                    "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8148353896326919
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 22,
-                    "verse": 66,
-                    "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
-                    "score": 0.7409639654269267
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 2,
-                    "verse": 13,
-                    "text": "(For not the hearers of the law are just before God, but the doers of the law shall be justified.",
-                    "score": 0.7396973730582987
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 1,
+                    "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9036148402346532
                 }
             ]
         },
@@ -266,256 +136,95 @@
             "text": "And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
-                    "score": 0.7574284177113987
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 12,
+                    "verse": 36,
+                    "text": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9052497361823685
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 15,
-                    "text": "And it came to pass that the multitude went forth, and thrust their hands into his side, and did feel the prints of the nails in his hands and in his feet; and this they did do, going forth one by one until they had all gone forth, and did see with their eyes and did feel with their hands, and did know of a surety and did bear record, that it was he, of whom it was written by the prophets, that should come.",
-                    "score": 0.7528881861029211
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 19,
-                    "verse": 4,
-                    "text": "And it came to pass that on the morrow, when the multitude was gathered together, behold, Nephi and his brother whom he had raised from the dead, whose name was Timothy, and also his son, whose name was Jonas, and also Mathoni, and Mathonihah, his brother, and Kumen, and Kumenonhi, and Jeremiah, and Shemnon, and Jonas, and Zedekiah, and Isaiah--now these were the names of the disciples whom Jesus had chosen--and it came to pass that they went forth and stood in the midst of the multitude.",
-                    "score": 0.7416984616479901
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 20,
-                    "verse": 14,
-                    "text": "All ye, assemble yourselves, and hear; who among them hath declared these things unto them? The Lord hath loved him; yea, and he will fulfil his word which he hath declared by them; and he will do his pleasure on Babylon, and his arm shall come upon the Chaldeans.",
-                    "score": 0.7392841496869202
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 25,
-                    "text": "But the king stood forth among them and administered unto them. And they were pacified towards Aaron and those who were with him.",
-                    "score": 0.7390252496152431
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 9,
-                    "verse": 2,
-                    "text": "For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.",
-                    "score": 0.7381350120797352
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 22,
-                    "text": "Now when Aaron saw the determination of the queen, he, also knowing the hardness of the hearts of the people, feared lest that a multitude should assemble themselves together, and there should be a great contention and a disturbance among them; therefore he put forth his hand and raised the king from the earth, and said unto him: Stand. And he stood upon his feet, receiving his strength.",
-                    "score": 0.7376622487157565
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 26,
-                    "text": "And it came to pass that when the king saw that the people were pacified, he caused that Aaron and his brethren should stand forth in the midst of the multitude, and that they should preach the word unto them.",
-                    "score": 0.7357035545278406
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 18,
-                    "verse": 2,
-                    "text": "And I took unto me faithful witnesses to record, Uriah the priest, and Zechariah the son of Jeberechiah.",
-                    "score": 0.7356576263198094
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 3,
-                    "verse": 24,
-                    "text": "And there shall rise up one mighty among them, who shall do much good, both in word and in deed, being an instrument in the hands of God, with exceeding faith, to work mighty wonders, and do that thing which is great in the sight of God, unto the bringing to pass much restoration unto the house of Israel, and unto the seed of thy brethren.",
-                    "score": 0.7356391274630674
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 15,
+                    "verse": 20,
+                    "text": "And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9004254281774434
                 }
             ]
         },
         {
             "verse": 5,
             "text": "And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 34,
-                    "text": "And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.",
-                    "score": 0.7551772959283399
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 20,
-                    "verse": 45,
-                    "text": "Then in the audience of all the people he said unto his disciples,",
-                    "score": 0.7401473573763193
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 4,
-                    "text": "And I saw the Lord; and he stood before my face, and he talked with me, even as a man talketh one with another, face to face; and he said unto me: Look, and I will show unto thee the world for the space of many generations.",
-                    "score": 0.7359681751132598
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
-                    "verse": 14,
-                    "text": "And when he had called all the people unto him, he said unto them, Hearken unto me every one of you, and understand:",
-                    "score": 0.7344375044552958
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 22,
-                    "text": "Now when Aaron saw the determination of the queen, he, also knowing the hardness of the hearts of the people, feared lest that a multitude should assemble themselves together, and there should be a great contention and a disturbance among them; therefore he put forth his hand and raised the king from the earth, and said unto him: Stand. And he stood upon his feet, receiving his strength.",
-                    "score": 0.7311070616855946
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 6,
-                    "verse": 5,
-                    "text": "When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?",
-                    "score": 0.730060348602743
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 15,
-                    "verse": 35,
-                    "text": "And some of them that stood by, when they heard it, said, Behold, he calleth Elias.",
-                    "score": 0.7296932676971082
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 56,
-                    "text": "And said, Behold, I see the heavens opened, and the Son of man standing on the right hand of God.",
-                    "score": 0.7286384717526785
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 5,
-                    "verse": 1,
-                    "text": "And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:",
-                    "score": 0.7282672355987413
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 6,
-                    "text": "He that ascended up on high, as also he descended below all things, in that he comprehended all things, that he might be in all and through all things, the light of truth;",
-                    "score": 0.7277386867371761
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 6,
             "text": "And Ezra blessed the Lord, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the Lord with their faces to the ground.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 24,
-                    "verse": 53,
-                    "text": "And were continually in the temple, praising and blessing God. Amen.",
-                    "score": 0.7764678016432586
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 20,
+                    "verse": 18,
+                    "text": "And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the Lord, worshipping the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8175712842262726
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 11,
-                    "verse": 21,
-                    "text": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord.",
-                    "score": 0.7719637714558701
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 28,
-                    "verse": 9,
-                    "text": "And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him.",
-                    "score": 0.7714079340746688
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 24,
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 9,
                     "verse": 22,
-                    "text": "And they gave thanks to God, yea, all their men and all their women and all their children that could speak lifted their voices in the praises of their God.",
-                    "score": 0.7690519196858177
+                    "text": "And Aaron lifted up his hand toward the people, and blessed them, and came down from offering of the sin offering, and the burnt offering, and peace offerings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8084687471966229
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 4,
-                    "verse": 24,
-                    "text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is:",
-                    "score": 0.7683348011026551
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 25,
-                    "verse": 24,
-                    "text": "And they were called the people of God. And the Lord did pour out his Spirit upon them, and they were blessed, and prospered in the land.",
-                    "score": 0.7667503005987537
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
                     "verse": 36,
-                    "text": "Now it came to pass that when Alma had said these words, that he clapped his hands upon all them who were with him. And behold, as he clapped his hands upon them, they were filled with the Holy Spirit.",
-                    "score": 0.7650645125319187
+                    "text": "Blessed be the Lord God of Israel for ever and ever. And all the people said, Amen, and praised the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064276495759071
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 45,
-                    "verse": 1,
-                    "text": "Behold, now it came to pass that the people of Nephi were exceedingly rejoiced, because the Lord had again delivered them out of the hands of their enemies; therefore they gave thanks unto the Lord their God; yea, and they did fast much and pray much, and they did worship God with exceedingly great joy.",
-                    "score": 0.7636437049611282
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 29,
+                    "verse": 20,
+                    "text": "And David said to all the congregation, Now bless the Lord your God. And all the congregation blessed the Lord God of their fathers, and bowed down their heads, and worshipped the Lord, and the king.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9081705212593143
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 10,
-                    "verse": 16,
-                    "text": "And he took them up in his arms, put his hands upon them, and blessed them.",
-                    "score": 0.7631654745151393
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 16,
+                    "verse": 36,
+                    "text": "Blessed be the Lord God of Israel for ever and ever. And all the people said, Amen, and praised the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9053577184677188
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 2,
-                    "verse": 32,
-                    "text": "This Jesus hath God raised up, whereof we all are witnesses.",
-                    "score": 0.7622721446266759
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 31,
+                    "text": "And the people believed: and when they heard that the Lord had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902668995142401
                 }
             ]
         },
@@ -524,84 +233,24 @@
             "text": "Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 25,
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 9,
                     "verse": 4,
-                    "text": "Remember ye the law of Moses, my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
-                    "score": 0.7644962748332359
+                    "text": "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the Lord their God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056192732522601
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 3,
-                    "text": "Yea, and the people did observe to keep the commandments of the Lord; and they were strict in observing the ordinances of God, according to the law of Moses; for they were taught to keep the law of Moses until it should be fulfilled.",
-                    "score": 0.7584518910936006
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on.",
-                    "score": 0.7580656136436579
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 22,
-                    "text": "And we know that the people who were in the land of Jerusalem were a righteous people; for they kept the statutes and judgments of the Lord, and all his commandments, according to the law of Moses; wherefore, we know that they are a righteous people; and our father hath judged them, and hath led us away because we would hearken unto his words; yea, and our brother is like unto him. And after this manner of language did my brethren murmur and complain against us.",
-                    "score": 0.7580184513933189
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 51,
-                    "verse": 7,
-                    "text": "And it came to pass that this matter of their contention was settled by the voice of the people. And it came to pass that the voice of the people came in favor of the freemen, and Pahoran retained the judgment-seat, which caused much rejoicing among the brethren of Pahoran and also many of the people of liberty, who also put the king-men to silence, that they durst not oppose but were obliged to maintain the cause of freedom.",
-                    "score": 0.756630850924532
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 29,
-                    "verse": 39,
-                    "text": "Therefore, it came to pass that they assembled themselves together in bodies throughout the land, to cast in their voices concerning who should be their judges, to judge them according to the law which had been given them; and they were exceedingly rejoiced because of the liberty which had been granted unto them.",
-                    "score": 0.7466010520871443
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 22,
-                    "verse": 26,
-                    "text": "And it came to pass that when the king saw that the people were pacified, he caused that Aaron and his brethren should stand forth in the midst of the multitude, and that they should preach the word unto them.",
-                    "score": 0.745557436576466
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 28,
-                    "text": "And they said: We teach the law of Moses.",
-                    "score": 0.7449580719172956
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 14,
-                    "verse": 20,
-                    "text": "And it came to pass that they departed and went their ways, but came again on the morrow; and the judge also smote them again on their cheeks. And many came forth also, and smote them, saying: Will ye stand again and judge this people, and condemn our law? If ye have such great power why do ye not deliver yourselves?",
-                    "score": 0.7439933144217128
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 7,
-                    "verse": 14,
-                    "text": "And it came to pass in the thirty and first year that they were divided into tribes, every man according to his family, kindred and friends; nevertheless they had come to an agreement that they would not go to war one with another; but they were not united as to their laws, and their manner of government, for they were established according to the minds of those who were their chiefs and their leaders. But they did establish very strict laws that one tribe should not trespass against another, insomuch that in some degree they had peace in the land; nevertheless, their hearts were turned from the Lord their God, and they did stone the prophets and did cast them out from among them.",
-                    "score": 0.7439447006194536
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 9,
+                    "verse": 5,
+                    "text": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.902064138773928
                 }
             ]
         },
@@ -610,84 +259,14 @@
             "text": "So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 24,
-                    "verse": 45,
-                    "text": "Then opened he their understanding, that they might understand the scriptures,",
-                    "score": 0.7882405916346921
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 4,
-                    "text": "And they (the Gods) comprehended the light, for it was bright; and they divided the light, or caused it to be divided, from the darkness.",
-                    "score": 0.7856364300646185
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 10,
-                    "verse": 26,
-                    "text": "He said unto him, What is written in the law? how readest thou?",
-                    "score": 0.7729758836616858
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "But it came to pass that they soon became converted, and were convinced of the error which they were in, for it was made known unto them that the law was not yet fulfilled, and that it must be fulfilled in every whit; yea, the word came unto them that it must be fulfilled; yea, that one jot or tittle should not pass away till it should all be fulfilled; therefore in this same year were they brought to a knowledge of their error and did confess their faults.",
-                    "score": 0.7677820695901935
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 16,
-                    "verse": 29,
-                    "text": "And there was also written upon them a new writing, which was plain to be read, which did give us understanding concerning the ways of the Lord; and it was written and changed from time to time, according to the faith and diligence which we gave unto it. And thus we see that by small means the Lord can bring about great things.",
-                    "score": 0.7677696630922146
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 91,
-                    "verse": 4,
-                    "text": "Therefore, whoso readeth it, let him understand, for the Spirit manifesteth truth;",
-                    "score": 0.7675872233489544
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 9,
-                    "verse": 10,
-                    "text": "Therefore said they unto him, How were thine eyes opened?",
-                    "score": 0.7661907148096933
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 28,
-                    "text": "And they said: We teach the law of Moses.",
-                    "score": 0.7658804410284489
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
                     "verse": 3,
-                    "text": "Yea, and the people did observe to keep the commandments of the Lord; and they were strict in observing the ordinances of God, according to the law of Moses; for they were taught to keep the law of Moses until it should be fulfilled.",
-                    "score": 0.7647500811277768
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 1,
-                    "verse": 19,
-                    "text": "Because that which may be known of God is manifest in them; for God hath shewed it unto them.",
-                    "score": 0.7632791416444118
+                    "text": "And they stood up in their place, and read in the book of the law of the Lord their God one fourth part of the day; and another fourth part they confessed, and worshipped the Lord their God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806857719553499
                 }
             ]
         },
@@ -696,84 +275,14 @@
             "text": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "The Lord shall bring upon thee, and upon thy people, and upon thy father's house, days that have not come from the day that Ephraim departed from Judah, the king of Assyria.",
-                    "score": 0.7770128063244248
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 20,
-                    "text": "And the Lord will surely prepare a way for his people, unto the fulfilling of the words of Moses, which he spake, saying: A prophet shall the Lord your God raise up unto you, like unto me; him shall ye hear in all things whatsoever he shall say unto you. And it shall come to pass that all those who will not hear that prophet shall be cut off from among the people.",
-                    "score": 0.7745515161058577
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 33,
-                    "verse": 13,
-                    "text": "And now, my beloved brethren, all those who are of the house of Israel, and all ye ends of the earth, I speak unto you as the voice of one crying from the dust: Farewell until that great day shall come.",
-                    "score": 0.7707856440273433
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 7,
-                    "verse": 37,
-                    "text": "This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.",
-                    "score": 0.7690209080462207
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 25,
-                    "verse": 4,
-                    "text": "Wherefore, hearken, O my people, which are of the house of Israel, and give ear unto my words; for because the words of Isaiah are not plain unto you, nevertheless they are plain unto all those that are filled with the spirit of prophecy. But I give unto you a prophecy, according to the spirit which is in me; wherefore I shall prophesy according to the plainness which hath been with me from the time that I came out from Jerusalem with my father; for behold, my soul delighteth in plainness unto my people, that they may learn.",
-                    "score": 0.7685671497457159
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 98,
-                    "verse": 32,
-                    "text": "Behold, this is the law I gave unto my servant Nephi, and thy fathers, Joseph, and Jacob, and Isaac, and Abraham, and all mine ancient prophets and apostles.",
-                    "score": 0.7684554991530504
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on.",
-                    "score": 0.7681504891101486
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 17,
-                    "verse": 22,
-                    "text": "And we know that the people who were in the land of Jerusalem were a righteous people; for they kept the statutes and judgments of the Lord, and all his commandments, according to the law of Moses; wherefore, we know that they are a righteous people; and our father hath judged them, and hath led us away because we would hearken unto his words; yea, and our brother is like unto him. And after this manner of language did my brethren murmur and complain against us.",
-                    "score": 0.7640620515320683
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 37,
-                    "text": "And speak freely to all; yea, preach, exhort, declare the truth, even with a loud voice, with a sound of rejoicing, crying--Hosanna, hosanna, blessed be the name of the Lord God!",
-                    "score": 0.762892099149463
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 8,
-                    "verse": 21,
-                    "text": "And he that shall breathe out wrath and strifes against the work of the Lord, and against the covenant people of the Lord who are the house of Israel, and shall say: We will destroy the work of the Lord, and the Lord will not remember his covenant which he hath made unto the house of Israel--the same is in danger to be hewn down and cast into the fire;",
-                    "score": 0.7627493674809313
+                    "verse": 13,
+                    "text": "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062633241199261
                 }
             ]
         },
@@ -784,170 +293,69 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 31,
                     "verse": 38,
                     "text": "And the Lord provided for them that they should hunger not, neither should they thirst; yea, and he also gave them strength, that they should suffer no manner of afflictions, save it were swallowed up in the joy of Christ. Now this was according to the prayer of Alma; and this because he prayed in faith.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8086686357647507
                 },
                 {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 14,
                     "verse": 16,
                     "text": "But Jesus said unto them, They need not depart; give ye them to eat.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.806241842036556
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 60,
                     "verse": 35,
                     "text": "And behold, if ye will not do this I come unto you speedily; for behold, God will not suffer that we should perish with hunger; therefore he will give unto us of your food, even if it must be by the sword. Now see that ye fulfil the word of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.804221082880624
                 },
                 {
                     "volume": "New Testament",
                     "book": "Romans",
+                    "volume_book_index": 6,
                     "chapter": 14,
                     "verse": 6,
                     "text": "He that regardeth the day, regardeth it unto the Lord; and he that regardeth not the day, to the Lord he doth not regard it. He that eateth, eateth to the Lord, for he giveth God thanks; and he that eateth not, to the Lord he eateth not, and giveth God thanks.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8040315591596159
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 17,
-                    "verse": 8,
-                    "text": "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?",
-                    "score": 0.7923935698994884
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 28,
+                    "verse": 48,
+                    "text": "Therefore shalt thou serve thine enemies which the Lord shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037732853296871
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 18,
-                    "verse": 21,
-                    "text": "And they shall pass through it hardly bestead and hungry; and it shall come to pass that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward.",
-                    "score": 0.7908932962172586
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 20,
-                    "verse": 16,
-                    "text": "Therefore shall the Lord, the Lord of Hosts, send among his fat ones, leanness; and under his glory he shall kindle a burning like the burning of a fire.",
-                    "score": 0.7904734374619709
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 14,
-                    "verse": 3,
-                    "text": "Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.",
-                    "score": 0.7899651084207339
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 46,
-                    "text": "Prepare your souls for that glorious day when justice shall be administered unto the righteous, even the day of judgment, that ye may not shrink with awful fear; that ye may not remember your awful guilt in perfectness, and be constrained to exclaim: Holy, holy are thy judgments, O Lord God Almighty--but I know my guilt; I transgressed thy law, and my transgressions are mine; and the devil hath obtained me, that I am a prey to his awful misery.",
-                    "score": 0.7873605196657981
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 12,
-                    "verse": 22,
-                    "text": "And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.",
-                    "score": 0.786161913061336
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 39,
+                    "verse": 19,
+                    "text": "And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009687654912697
                 }
             ]
         },
         {
             "verse": 11,
             "text": "So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be ye grieved.",
-            "similars": [
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 4,
-                    "verse": 9,
-                    "text": "There remaineth therefore a rest to the people of God.",
-                    "score": 0.75757304427447
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Ephesians",
-                    "chapter": 4,
-                    "verse": 30,
-                    "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
-                    "score": 0.7574046767544194
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 11,
-                    "verse": 18,
-                    "text": "Keep my commandments; hold your peace; appeal unto my Spirit;",
-                    "score": 0.7560337340105788
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 John",
-                    "chapter": 5,
-                    "verse": 3,
-                    "text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous.",
-                    "score": 0.7530996644603098
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 6,
-                    "text": "For the Lord would not suffer, after he had led them out of the land of Jerusalem and kept and preserved them from falling into the hands of their enemies, yea, he would not suffer that the words should not be verified, which he spake unto our fathers, saying that: Inasmuch as ye will not keep my commandments ye shall not prosper in the land.",
-                    "score": 0.7493795846086313
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 25,
-                    "text": "And now when ye talk, ye say: If our days had been in the days of our fathers of old, we would not have slain the prophets; we would not have stoned them, and cast them out.",
-                    "score": 0.7458605660874383
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 13,
-                    "verse": 33,
-                    "text": "O that I had repented, and had not killed the prophets, and stoned them, and cast them out. Yea, in that day ye shall say: O that we had remembered the Lord our God in the day that he gave us our riches, and then they would not have become slippery that we should lose them; for behold, our riches are gone from us.",
-                    "score": 0.7438238707952789
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 16,
-                    "text": "Remember the sabbath day, to keep it holy.",
-                    "score": 0.7400690662869052
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "John",
-                    "chapter": 14,
-                    "verse": 27,
-                    "text": "Peace I leave with you, my peace I give unto you: not as the world giveth, give I unto you. Let not your heart be troubled, neither let it be afraid.",
-                    "score": 0.7377830356111318
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 40,
-                    "text": "O, my beloved brethren, give ear to my words. Remember the greatness of the Holy One of Israel. Do not say that I have spoken hard things against you; for if ye do, ye will revile against the truth; for I have spoken the words of your Maker. I know that the words of truth are hard against all uncleanness; but the righteous fear them not, for they love the truth and are not shaken.",
-                    "score": 0.7351530920494538
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
@@ -956,82 +364,32 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 18,
                     "verse": 9,
                     "text": "And it came to pass that they did so, and did drink of it and were filled; and they gave unto the multitude, and they did drink, and they were filled.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8073325035549137
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 35,
                     "verse": 4,
                     "text": "And they sent and gathered together throughout all the land all the people, and consulted with them concerning the words which had been spoken.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8046761115277322
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 18,
-                    "verse": 4,
-                    "text": "And when they had eaten and were filled, he commanded that they should give unto the multitude.",
-                    "score": 0.7790343411066791
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 8,
-                    "text": "And it came to pass that when he said these words, he commanded his disciples that they should take of the wine of the cup and drink of it, and that they should also give unto the multitude that they might drink of it.",
-                    "score": 0.775267089839933
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 6,
-                    "verse": 4,
-                    "text": "And it came to pass that when they had prepared all manner of food, that thereby they might subsist upon the water, and also food for their flocks and herds, and whatsoever beast or animal or fowl that they should carry with them--and it came to pass that when they had done all these things they got aboard of their vessels or barges, and set forth into the sea, commending themselves unto the Lord their God.",
-                    "score": 0.7722826271383758
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 10,
-                    "verse": 17,
-                    "text": "And it came to pass that thus he did go forth in the Spirit, from multitude to multitude, declaring the word of God, even until he had declared it unto them all, or sent it forth among all the people.",
-                    "score": 0.7718180188321804
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 5,
-                    "text": "And when they had given unto the multitude he also gave them wine to drink, and commanded them that they should give unto the multitude.",
-                    "score": 0.7713158121673608
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 18,
-                    "verse": 1,
-                    "text": "And it came to pass that Jesus commanded his disciples that they should bring forth some bread and wine unto him.",
-                    "score": 0.7702863264243694
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 4,
-                    "text": "And when they had eaten he commanded them that they should break bread, and give unto the multitude.",
-                    "score": 0.7698932212538865
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 19,
-                    "verse": 32,
-                    "text": "And they that were sent went their way, and found even as he had said unto them.",
-                    "score": 0.7678511709512885
+                    "verse": 9,
+                    "text": "And it came to pass that they did so, and did drink of it and were filled; and they gave unto the multitude, and they did drink, and they were filled.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055923763270618
                 }
             ]
         },
@@ -1040,84 +398,64 @@
             "text": "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 85,
-                    "verse": 12,
-                    "text": "Therefore, it shall be done unto them as unto the children of the priest, as will be found recorded in the second chapter and sixty-first and second verses of Ezra.",
-                    "score": 0.7998799294478683
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 10,
+                    "verse": 5,
+                    "text": "Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8237370948072102
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,",
-                    "score": 0.793574032509464
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 2,
+                    "text": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8133815093896843
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 22,
-                    "verse": 66,
-                    "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,",
-                    "score": 0.790639383915617
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 9,
+                    "text": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the Lord your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062633241199261
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 7,
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
+                    "verse": 2,
+                    "text": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9239171834090795
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 10,
+                    "verse": 16,
+                    "text": "And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9071973021508888
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 8,
                     "verse": 1,
-                    "text": "Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.",
-                    "score": 0.7895338282742052
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 27,
-                    "verse": 62,
-                    "text": "Now the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,",
-                    "score": 0.7893319663365445
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 23,
-                    "verse": 13,
-                    "text": "And Pilate, when he had called together the chief priests and the rulers and the people,",
-                    "score": 0.7797303648721285
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 20,
-                    "verse": 1,
-                    "text": "And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,",
-                    "score": 0.7729017875528519
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 21,
-                    "verse": 23,
-                    "text": "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?",
-                    "score": 0.7691717733855917
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 13,
-                    "verse": 15,
-                    "text": "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on.",
-                    "score": 0.7659918071324868
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 15,
-                    "verse": 1,
-                    "text": "Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,",
-                    "score": 0.7636671548048589
+                    "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055424276317628
                 }
             ]
         },
@@ -1126,84 +464,224 @@
             "text": "And they found written in the law which the Lord had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 25,
-                    "verse": 4,
-                    "text": "Remember ye the law of Moses, my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
-                    "score": 0.7931852237768138
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 44,
+                    "text": "And Moses declared unto the children of Israel the feasts of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8256744430943672
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 2,
-                    "verse": 21,
-                    "text": "And the days of the children of men were prolonged, according to the will of God, that they might repent while in the flesh; wherefore, their state became a state of probation, and their time was lengthened, according to the commandments which the Lord God gave unto the children of men. For he gave commandment that all men must repent; for he showed unto all men that they were lost, because of the transgression of their parents.",
-                    "score": 0.774185259484011
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 34,
+                    "text": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8211564780473536
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 12,
-                    "verse": 28,
-                    "text": "And they said: We teach the law of Moses.",
-                    "score": 0.7707748765386944
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 42,
+                    "text": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8131011621337229
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 10,
-                    "verse": 5,
-                    "text": "For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.",
-                    "score": 0.770558864153347
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 9,
+                    "verse": 14,
+                    "text": "And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8104031834868781
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 2,
-                    "verse": 26,
-                    "text": "And the Messiah cometh in the fulness of time, that he may redeem the children of men from the fall. And because that they are redeemed from the fall they have become free forever, knowing good from evil; to act for themselves and not to be acted upon, save it be by the punishment of the law at the great and last day, according to the commandments which God hath given.",
-                    "score": 0.7673660749932755
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 39,
+                    "text": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the Lord seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8088391673515234
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 3,
-                    "text": "Yea, and the people did observe to keep the commandments of the Lord; and they were strict in observing the ordinances of God, according to the law of Moses; for they were taught to keep the law of Moses until it should be fulfilled.",
-                    "score": 0.7649878015114979
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 29,
+                    "verse": 40,
+                    "text": "And Moses told the children of Israel according to all that the Lord commanded Moses.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.808335108320922
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 22,
-                    "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;",
-                    "score": 0.7645088214738364
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 54,
+                    "text": "And the children of Israel did according to all that the Lord commanded Moses, so did they.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082222040506938
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
+                    "volume": "Old Testament",
+                    "book": "Joshua",
+                    "volume_book_index": 6,
+                    "chapter": 8,
+                    "verse": 31,
+                    "text": "As Moses the servant of the Lord commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up any iron: and they offered thereon burnt offerings unto the Lord, and sacrificed peace offerings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.807527563485208
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 4,
+                    "verse": 44,
+                    "text": "And this is the law which Moses set before the children of Israel:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8039191890707422
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 41,
+                    "text": "And ye shall keep it a feast unto the Lord seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034556844004327
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 8,
+                    "verse": 20,
+                    "text": "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the Lord commanded Moses concerning the Levites, so did the children of Israel unto them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8032845236579343
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 35,
+                    "verse": 1,
+                    "text": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the Lord hath commanded, that ye should do them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029179208294323
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
                     "chapter": 7,
-                    "verse": 5,
-                    "text": "And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:",
-                    "score": 0.7633648073872383
+                    "verse": 36,
+                    "text": "Which the Lord commanded to be given them of the children of Israel, in the day that he anointed them, by a statute for ever throughout their generations.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018078678278832
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 27,
+                    "verse": 34,
+                    "text": "These are the commandments, which the Lord commanded Moses for the children of Israel in mount Sinai.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008030388272388
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 42,
+                    "text": "Ye shall dwell in booths seven days; all that are Israelites born shall dwell in booths:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9193370616238535
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 44,
+                    "text": "And Moses declared unto the children of Israel the feasts of the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9183904157630017
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 31,
+                    "verse": 10,
+                    "text": "And Moses commanded them, saying, At the end of every seven years, in the solemnity of the year of release, in the feast of tabernacles,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9171860119326145
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 34,
+                    "text": "Speak unto the children of Israel, saying, The fifteenth day of this seventh month shall be the feast of tabernacles for seven days unto the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9107961170546065
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 9,
+                    "verse": 18,
+                    "text": "At the commandment of the Lord the children of Israel journeyed, and at the commandment of the Lord they pitched: as long as the cloud abode upon the tabernacle they rested in their tents.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9086859064272674
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 5,
-                    "verse": 22,
-                    "text": "And insomuch as the children of Lehi have kept his commandments he hath blessed them and prospered them according to his word.",
-                    "score": 0.7630821059194487
+                    "verse": 3,
+                    "text": "Wherefore all the men of Israel assembled themselves unto the king in the feast which was in the seventh month.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9068933455081974
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 133,
-                    "verse": 60,
-                    "text": "And for this cause these commandments were given; they were commanded to be kept from the world in the day that they were given, but now are to go forth unto all flesh--",
-                    "score": 0.7627965469520535
+                    "volume": "Old Testament",
+                    "book": "Numbers",
+                    "volume_book_index": 4,
+                    "chapter": 9,
+                    "verse": 5,
+                    "text": "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the Lord commanded Moses, so did the children of Israel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9055734602936268
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 35,
+                    "verse": 17,
+                    "text": "And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9004508674950958
                 }
             ]
         },
@@ -1212,84 +690,14 @@
             "text": "And that they should publish and proclaim in all their cities, and in Jerusalem, saying, Go forth unto the mount, and fetch olive branches, and pine branches, and myrtle branches, and palm branches, and branches of thick trees, to make booths, as it is written.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 29,
-                    "text": "And thou shalt declare glad tidings, yea, publish it upon the mountains, and upon every high place, and among every people that thou shalt be permitted to see.",
-                    "score": 0.7866507251392184
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 10,
-                    "verse": 39,
-                    "text": "And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:",
-                    "score": 0.7796277760078373
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 69,
-                    "verse": 8,
-                    "text": "Preaching and expounding, writing, copying, selecting, and obtaining all things which shall be for the good of the church, and for the rising generations that shall grow up on the land of Zion, to possess it from generation to generation, forever and ever. Amen.",
-                    "score": 0.7761023113707484
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 18,
-                    "text": "And also gave commandments to others, that they should proclaim these things unto the world; and all this that it might be fulfilled, which was written by the prophets--",
-                    "score": 0.7749023501148455
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 109,
-                    "verse": 39,
-                    "text": "And whatsoever city thy servants shall enter, and the people of that city receive their testimony, let thy peace and thy salvation be upon that city; that they may gather out of that city the righteous, that they may come forth to Zion, or to her stakes, the places of thine appointment, with songs of everlasting joy;",
-                    "score": 0.7746011338883935
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 101,
-                    "verse": 45,
-                    "text": "And set watchmen round about them, and build a tower, that one may overlook the land round about, to be a watchman upon the tower, that mine olive trees may not be broken down when the enemy shall come to spoil and take upon themselves the fruit of my vineyard.",
-                    "score": 0.7721599912277743
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 112,
-                    "verse": 7,
-                    "text": "Therefore, gird up thy loins for the work. Let thy feet be shod also, for thou art chosen, and thy path lieth among the mountains, and among many nations.",
-                    "score": 0.771732406282309
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 12,
-                    "verse": 22,
-                    "text": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,",
-                    "score": 0.7717308911358217
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 12,
-                    "verse": 13,
-                    "text": "Yea, and the day of the Lord shall come upon all the cedars of Lebanon, for they are high and lifted up; and upon all the oaks of Bashan;",
-                    "score": 0.7699044232622185
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 3,
-                    "verse": 18,
-                    "text": "And the Lord said unto me also: I will raise up unto the fruit of thy loins; and I will make for him a spokesman. And I, behold, I will give unto him that he shall write the writing of the fruit of thy loins, unto the fruit of thy loins; and the spokesman of thy loins shall declare it.",
-                    "score": 0.7684970209451811
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 4,
+                    "verse": 5,
+                    "text": "Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029477782477179
                 }
             ]
         },
@@ -1298,84 +706,34 @@
             "text": "So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 32,
-                    "verse": 1,
-                    "text": "And it came to pass that they did go forth, and began to preach the word of God unto the people, entering into their synagogues, and into their houses; yea, and even they did preach the word in their streets.",
-                    "score": 0.7924069342216873
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Luke",
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 8,
-                    "verse": 39,
-                    "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.",
-                    "score": 0.7869436764012042
+                    "verse": 1,
+                    "text": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the Lord had commanded to Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065194241691591
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 17,
-                    "text": "Therefore they separated themselves one from another, and went forth among them, every man alone, according to the word and power of God which was given unto him.",
-                    "score": 0.7686172758760266
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 9,
+                    "verse": 7,
+                    "text": "And he said unto them, Defile the house, and fill the courts with the slain: go ye forth. And they went forth, and slew in the city.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8020223294785196
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 14,
-                    "verse": 21,
-                    "text": "So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.",
-                    "score": 0.7668485473897373
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
                     "chapter": 12,
-                    "verse": 3,
-                    "text": "And many people shall go and say, Come ye, and let us go up to the mountain of the Lord, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths; for out of Zion shall go forth the law, and the word of the Lord from Jerusalem.",
-                    "score": 0.7650112567176104
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Mark",
-                    "chapter": 14,
-                    "verse": 16,
-                    "text": "And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.",
-                    "score": 0.7623653737363103
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 21,
-                    "verse": 16,
-                    "text": "And they went forth whithersoever they were led by the Spirit of the Lord, preaching the word of God in every synagogue of the Amalekites, or in every assembly of the Lamanites where they could be admitted.",
-                    "score": 0.7618907887012517
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 16,
-                    "verse": 32,
-                    "text": "And they spake unto him the word of the Lord, and to all that were in his house.",
-                    "score": 0.7603189146787159
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 26,
-                    "verse": 29,
-                    "text": "And we have entered into their houses and taught them, and we have taught them in their streets; yea, and we have taught them upon their hills; and we have also entered into their temples and their synagogues and taught them; and we have been cast out, and mocked, and spit upon, and smote upon our cheeks; and we have been stoned, and taken and bound with strong cords, and cast into prison; and through the power and wisdom of God we have been delivered again.",
-                    "score": 0.7593290444937275
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 19,
-                    "verse": 18,
-                    "text": "And they began to assemble themselves together unto the house of the king. And there came a multitude, and to their astonishment, they beheld the king, and the queen, and their servants prostrate upon the earth, and they all lay there as though they were dead; and they also saw Ammon, and behold, he was a Nephite.",
-                    "score": 0.7580428370049667
+                    "verse": 31,
+                    "text": "And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8003984431030536
                 }
             ]
         },
@@ -1384,84 +742,14 @@
             "text": "And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 8,
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 30,
                     "verse": 25,
-                    "text": "And in another place they were heard to cry and mourn, saying: O that we had repented before this great and terrible day, and had not killed and stoned the prophets, and cast them out; then would our mothers and our fair daughters, and our children have been spared, and not have been buried up in that great city Moronihah. And thus were the howlings of the people great and terrible.",
-                    "score": 0.7893152372417629
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 27,
-                    "verse": 19,
-                    "text": "Now the joy of Alma in meeting his brethren was truly great, and also the joy of Aaron, of Omner, and Himni; but behold their joy was not that to exceed their strength.",
-                    "score": 0.781246544453517
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 7,
-                    "verse": 26,
-                    "text": "And because the people did repent of their iniquities and idolatries the Lord did spare them, and they began to prosper again in the land. And it came to pass that Shule begat sons and daughters in his old age.",
-                    "score": 0.7743094640996138
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 3,
-                    "verse": 34,
-                    "text": "And they were lifted up in pride, even to the persecution of many of their brethren. Now this was a great evil, which did cause the more humble part of the people to suffer great persecutions, and to wade through much affliction.",
-                    "score": 0.7666228185779835
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 31,
-                    "verse": 12,
-                    "text": "Now, when they had come into the land, behold, to their astonishment they found that the Zoramites had built synagogues, and that they did gather themselves together on one day of the week, which day they did call the day of the Lord; and they did worship after a manner which Alma and his brethren had never beheld;",
-                    "score": 0.766505947958908
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 6,
-                    "verse": 13,
-                    "text": "Some were lifted up in pride, and others were exceedingly humble; some did return railing for railing, while others would receive railing and persecution and all manner of afflictions, and would not turn and revile again, but were humble and penitent before God.",
-                    "score": 0.7661214611182494
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 4,
-                    "verse": 12,
-                    "text": "And there never had been so great wickedness among all the children of Lehi, nor even among all the house of Israel, according to the words of the Lord, as was among this people.",
-                    "score": 0.7641799347675688
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 22,
-                    "text": "Yea, and after having been delivered of God out of the land of Jerusalem, by the hand of the Lord; having been saved from famine, and from sickness, and all manner of diseases of every kind; and they having waxed strong in battle, that they might not be destroyed; having been brought out of bondage time after time, and having been kept and preserved until now; and they have been prospered until they are rich in all manner of things--",
-                    "score": 0.760635659057413
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 22,
-                    "verse": 12,
-                    "text": "Wherefore, he will bring them again out of captivity, and they shall be gathered together to the lands of their inheritance; and they shall be brought out of obscurity and out of darkness; and they shall know that the Lord is their Savior and their Redeemer, the Mighty One of Israel.",
-                    "score": 0.760478052741155
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 8,
-                    "verse": 24,
-                    "text": "And in one place they were heard to cry, saying: O that we had repented before this great and terrible day, and then would our brethren have been spared, and they would not have been burned in that great city Zarahemla.",
-                    "score": 0.759048767864057
+                    "text": "And all the congregation of Judah, with the priests and the Levites, and all the congregation that came out of Israel, and the strangers that came out of the land of Israel, and that dwelt in Judah, rejoiced.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901117205619812
                 }
             ]
         },
@@ -1470,84 +758,114 @@
             "text": "Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner.",
             "similars": [
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 4,
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8717432384965522
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 39,
+                    "text": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the Lord seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8283047784159899
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 16,
+                    "verse": 15,
+                    "text": "Seven days shalt thou keep a solemn feast unto the Lord thy God in the place which the Lord shall choose: because the Lord thy God shall bless thee in all thine increase, and in all the works of thine hands, therefore thou shalt surely rejoice.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8228081772181647
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 30,
+                    "verse": 23,
+                    "text": "And the whole assembly took counsel to keep other seven days: and they kept other seven days with gladness.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128288629181135
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 41,
+                    "text": "And ye shall keep it a feast unto the Lord seven days in the year. It shall be a statute for ever in your generations: ye shall celebrate it in the seventh month.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.805726741192276
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 36,
+                    "text": "Seven days ye shall offer an offering made by fire unto the Lord: on the eighth day shall be an holy convocation unto you; and ye shall offer an offering made by fire unto the Lord: it is a solemn assembly; and ye shall do no servile work therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8012470453334205
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 7,
+                    "verse": 9,
+                    "text": "And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9371319729944513
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 30,
+                    "verse": 23,
+                    "text": "And the whole assembly took counsel to keep other seven days: and they kept other seven days with gladness.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9068572250945239
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Leviticus",
+                    "volume_book_index": 3,
+                    "chapter": 23,
+                    "verse": 39,
+                    "text": "Also in the fifteenth day of the seventh month, when ye have gathered in the fruit of the land, ye shall keep a feast unto the Lord seven days: on the first day shall be a sabbath, and on the eighth day shall be a sabbath.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9044973523765018
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezra",
+                    "volume_book_index": 15,
+                    "chapter": 3,
                     "verse": 4,
-                    "text": "For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.",
-                    "score": 0.7799349609459874
+                    "text": "They kept also the feast of tabernacles, as it is written, and offered the daily burnt offerings by number, according to the custom, as the duty of every day required;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9031344863594614
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 30,
-                    "text": "Therefore there was a law given them, yea, a law of performances and of ordinances, a law which they were to observe strictly from day to day, to keep them in remembrance of God and their duty towards him.",
-                    "score": 0.7741967886115553
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 1,
-                    "text": "The rise of the Church of Christ in these last days, being one thousand eight hundred and thirty years since the coming of our Lord and Savior Jesus Christ in the flesh, it being regularly organized and established agreeable to the laws of our country, by the will and commandments of God, in the fourth month, and on the sixth day of the month which is called April--",
-                    "score": 0.7740069071043841
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 4,
-                    "verse": 31,
-                    "text": "And the Gods said: We will do everything that we have said, and organize them; and behold, they shall be very obedient. And it came to pass that it was from evening until morning they called night; and it came to pass that it was from morning until evening that they called day; and they numbered the sixth time.",
-                    "score": 0.7702150284359073
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 25,
-                    "text": "And there was one day in every week that was set apart that they should gather themselves together to teach the people, and to worship the Lord their God, and also, as often as it was in their power, to assemble themselves together.",
-                    "score": 0.765451311836365
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 18,
-                    "verse": 23,
-                    "text": "And he commanded them that they should observe the sabbath day, and keep it holy, and also every day they should give thanks to the Lord their God.",
-                    "score": 0.7594327594542377
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 17,
-                    "verse": 2,
-                    "text": "And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,",
-                    "score": 0.7588122549672299
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "And they prophesied unto Com many things; and he was blessed in all the remainder of his days.",
-                    "score": 0.7554146861092403
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 13,
-                    "verse": 19,
-                    "text": "For in six days the Lord made heaven and earth, and the sea, and all that in them is; wherefore the Lord blessed the sabbath day, and hallowed it.",
-                    "score": 0.7537313384828114
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 28,
-                    "verse": 23,
-                    "text": "And when they had appointed him a day, there came many to him into his lodging; to whom he expounded and testified the kingdom of God, persuading them concerning Jesus, both out of the law of Moses, and out of the prophets, from morning till evening.",
-                    "score": 0.7529137595706068
+                    "volume": "Old Testament",
+                    "book": "2 Chronicles",
+                    "volume_book_index": 14,
+                    "chapter": 29,
+                    "verse": 17,
+                    "text": "Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the Lord: so they sanctified the house of the Lord in eight days; and in the sixteenth day of the first month they made an end.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901754298649354
                 }
             ]
         }

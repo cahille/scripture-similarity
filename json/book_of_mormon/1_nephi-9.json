@@ -8,84 +8,84 @@
             "text": "And all these things did my father see, and hear, and speak, as he dwelt in a tent, in the valley of Lemuel, and also a great many more things, which cannot be written upon these plates.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 42,
-                    "text": "Again, he told me, that when I got those plates of which he had spoken--for the time that they should be obtained was not yet fulfilled--I should not show them to any person; neither the breastplate with the Urim and Thummim; only to those to whom I should be commanded to show them; if I did I should be destroyed. While he was conversing with me about the plates, the vision was opened to my mind that I could see the place where the plates were deposited, and that so clearly and distinctly that I knew the place again when I visited it.",
-                    "score": 0.7552932628309582
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "Now, all these things were said and done as my father dwelt in a tent in the valley which he called Lemuel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8998609065772252
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Luke",
-                    "chapter": 2,
-                    "verse": 33,
-                    "text": "And Joseph and his mother marvelled at those things which were spoken of him.",
-                    "score": 0.7510602749274281
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And it came to pass that I beheld in the valley of Shum, and lo, a great people which dwelt in tents, which were the people of Shum.",
-                    "score": 0.7478845092614111
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 35,
-                    "verse": 11,
-                    "text": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,",
-                    "score": 0.7390827494632046
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 46,
-                    "text": "By this time, so deep were the impressions made on my mind, that sleep had fled from my eyes, and I lay overwhelmed in astonishment at what I had both seen and heard. But what was my surprise when again I beheld the same messenger at my bedside, and heard him rehearse or repeat over again to me the same things as before; and added a caution to me, telling me that Satan would try to tempt me (in consequence of the indigent circumstances of my father's family), to get the plates for the purpose of getting rich. This he forbade me, saying that I must have no other object in view in getting the plates but to glorify God, and must not be influenced by any other motive than that of building his kingdom; otherwise I could not get them.",
-                    "score": 0.735019368368664
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Acts",
-                    "chapter": 4,
-                    "verse": 20,
-                    "text": "For we cannot but speak the things which we have seen and heard.",
-                    "score": 0.7314983036304611
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 6,
-                    "verse": 38,
-                    "text": "And they came forth to hear him, upon the high places, saying unto the tent-keepers: Tarry ye here and keep the tents, while we go yonder to behold the seer, for he prophesieth, and there is a strange thing in the land; a wild man hath come among us.",
-                    "score": 0.7310647494941972
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 10,
-                    "verse": 39,
-                    "text": "Yea, and you remember it was said in those writings that a more particular account was given of these things upon the plates of Nephi.",
-                    "score": 0.7298328345861599
+                    "verse": 16,
+                    "text": "And all these things, of which I have spoken, were done as my father dwelt in a tent, in the valley of Lemuel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.895980457006545
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 93,
-                    "verse": 5,
-                    "text": "I was in the world and received of my Father, and the works of him were plainly manifest.",
-                    "score": 0.7289561729811398
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 16,
+                    "text": "And all these things, of which I have spoken, were done as my father dwelt in a tent, in the valley of Lemuel.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8296647769412546
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 78,
-                    "verse": 12,
-                    "text": "Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.",
-                    "score": 0.7286153513214951
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "Now, all these things were said and done as my father dwelt in a tent in the valley which he called Lemuel.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8042333365748331
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 16,
+                    "text": "And all these things, of which I have spoken, were done as my father dwelt in a tent, in the valley of Lemuel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9452455921544416
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 6,
+                    "text": "Now, all these things were said and done as my father dwelt in a tent in the valley which he called Lemuel.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9356036311517002
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 15,
+                    "text": "And after this manner of language did my father prophesy and speak unto my brethren, and also many more things which I do not write in this book; for I have written as many of them as were expedient for me in mine other book.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9071219397405278
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 15,
+                    "text": "And my father dwelt in a tent.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9015189140582605
                 }
             ]
         },
@@ -94,84 +94,324 @@
             "text": "And now, as I have spoken concerning these plates, behold they are not the plates upon which I make a full account of the history of my people; for the plates upon which I make a full account of my people I have given the name of Nephi; wherefore, they are called the plates of Nephi, after mine own name; and these plates also are called the plates of Nephi.",
             "similars": [
                 {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 5,
+                    "verse": 10,
+                    "text": "Therefore I have made my record of these things according to the record of Nephi, which was engraven on the plates which were called the plates of Nephi.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8622811187999142
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "Wherefore, I, Nephi, did make a record upon the other plates, which gives an account, or which gives a greater account of the wars and contentions and destructions of my people. And this have I done, and commanded my people what they should do after I was gone; and that these plates should be handed down from one generation to another, or from one prophet to another, until further commandments of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8533535733677498
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Words of Mormon",
+                    "volume_book_index": 7,
+                    "chapter": 1,
+                    "verse": 5,
+                    "text": "Wherefore, I chose these things, to finish my record upon them, which remainder of my record I shall take from the plates of Nephi; and I cannot write the hundredth part of the things of my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8380293075847955
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Words of Mormon",
+                    "volume_book_index": 7,
+                    "chapter": 1,
+                    "verse": 3,
+                    "text": "And now, I speak somewhat concerning that which I have written; for after I had made an abridgment from the plates of Nephi, down to the reign of this king Benjamin, of whom Amaleki spake, I searched among the records which had been delivered into my hands, and I found these plates, which contained this small account of the prophets, from Jacob down to the reign of this king Benjamin, and also many of the words of Nephi.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8356017081224365
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 29,
+                    "text": "And I, Nephi, had kept the records upon my plates, which I had made, of my people thus far.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8346412388125386
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 14,
+                    "text": "These plates are called the plates of Jacob, and they were made by the hand of Nephi. And I make an end of speaking these words.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8341780021045835
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 1,
+                    "text": "And now I, Nephi, proceed to give an account upon these plates of my proceedings, and my reign and ministry; wherefore, to proceed with mine account, I must speak somewhat of the things of my father, and also of my brethren.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8334737894625556
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mormon",
+                    "volume_book_index": 13,
+                    "chapter": 2,
+                    "verse": 18,
+                    "text": "And upon the plates of Nephi I did make a full account of all the wickedness and abominations; but upon these plates I did forbear to make a full account of their wickedness and abominations, for behold, a continual scene of wickedness and abominations has been before mine eyes ever since I have been sufficient to behold the ways of man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8329810390357734
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mormon",
+                    "volume_book_index": 13,
+                    "chapter": 1,
+                    "verse": 4,
+                    "text": "And behold, ye shall take the plates of Nephi unto yourself, and the remainder shall ye leave in the place where they are; and ye shall engrave on the plates of Nephi all the things that ye have observed concerning this people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8321459312821098
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 2,
+                    "text": "And I knew not at the time when I made them that I should be commanded of the Lord to make these plates; wherefore, the record of my father, and the genealogy of his fathers, and the more part of all our proceedings in the wilderness are engraven upon those first plates of which I have spoken; wherefore, the things which transpired before I made these plates are, of a truth, more particularly made mention upon the first plates.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8313560679133777
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 39,
                     "text": "Yea, and you remember it was said in those writings that a more particular account was given of these things upon the plates of Nephi.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8263613093763476
                 },
                 {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 1,
+                    "text": "And now I, Nephi, do not give the genealogy of my fathers in this part of my record; neither at any time shall I give it after upon these plates which I am writing; for it is given in the record which has been kept by my father; wherefore, I do not write it in this work.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8211256780800874
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 14,
+                    "text": "For I, Nephi, was constrained to speak unto them, according to his word; for I had spoken many things unto them, and also my father, before his death; many of which sayings are written upon mine other plates; for a more history part are written upon mine other plates.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8208645246068613
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jarom",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "And I, Jarom, do not write more, for the plates are small. But behold, my brethren, ye can go to the other plates of Nephi; for behold, upon them the records of our wars are engraven, according to the writings of the kings, or those which they caused to be written.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8195713281316274
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 40,
                     "text": "And now, because the account which is engraven upon the plates of Nephi is more particular concerning the things which, in my wisdom, I would bring to the knowledge of the people in this account--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8175699809028952
                 },
                 {
+                    "volume": "Book of Mormon",
+                    "book": "Helaman",
+                    "volume_book_index": 10,
+                    "chapter": 2,
+                    "verse": 14,
+                    "text": "Behold I do not mean the end of the book of Helaman, but I mean the end of the book of Nephi, from which I have taken all the account which I have written.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128625443490208
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 38,
                     "text": "And now, verily I say unto you, that an account of those things that you have written, which have gone out of your hands, is engraven upon the plates of Nephi;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8110517736131562
                 },
                 {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 31,
+                    "text": "Wherefore, I, Nephi, to be obedient to the commandments of the Lord, went and made these plates upon which I have engraven these things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8078066894963267
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 4,
+                    "text": "Upon the other plates should be engraven an account of the reign of the kings, and the wars and contentions of my people; wherefore these plates are for the more part of the ministry; and the other plates are for the more part of the reign of the kings and the wars and contentions of my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071925712484845
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 26,
+                    "verse": 7,
+                    "text": "But behold the plates of Nephi do contain the more part of the things which he taught the people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8063155429860454
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 10,
                     "verse": 45,
                     "text": "Behold, there are many things engraven upon the plates of Nephi which do throw greater views upon my gospel; therefore, it is wisdom in me that you should translate this first part of the engravings of Nephi, and send forth in this work.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8058314184033819
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 42,
-                    "text": "And behold, you shall publish it as the record of Nephi; and thus I will confound those who have altered my words.",
-                    "score": 0.7979329877336173
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
+                    "volume": "Book of Mormon",
+                    "book": "Words of Mormon",
+                    "volume_book_index": 7,
                     "chapter": 1,
-                    "verse": 42,
-                    "text": "Again, he told me, that when I got those plates of which he had spoken--for the time that they should be obtained was not yet fulfilled--I should not show them to any person; neither the breastplate with the Urim and Thummim; only to those to whom I should be commanded to show them; if I did I should be destroyed. While he was conversing with me about the plates, the vision was opened to my mind that I could see the place where the plates were deposited, and that so clearly and distinctly that I knew the place again when I visited it.",
-                    "score": 0.7959307020202288
+                    "verse": 9,
+                    "text": "And now I, Mormon, proceed to finish out my record, which I take from the plates of Nephi; and I make it according to the knowledge and the understanding which God has given me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8029087329350312
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 41,
-                    "text": "Therefore, you shall translate the engravings which are on the plates of Nephi, down even till you come to the reign of king Benjamin, or until you come to that which you have translated, which you have retained;",
-                    "score": 0.7930142123259414
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 44,
-                    "text": "Behold, they have only got a part, or an abridgment of the account of Nephi.",
-                    "score": 0.7749323236529516
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 5,
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 22,
                     "verse": 1,
-                    "text": "Behold, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant Joseph Smith, Jun., have got the plates of which you have testified and borne record that you have received of me;",
-                    "score": 0.7530889788036899
+                    "text": "And now it came to pass that after I, Nephi, had read these things which were engraven upon the plates of brass, my brethren came unto me and said unto me: What meaneth these things which ye have read? Behold, are they to be understood according to things which are spiritual, which shall come to pass according to the spirit and not the flesh?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027451187257651
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Romans",
-                    "chapter": 9,
-                    "verse": 26,
-                    "text": "And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.",
-                    "score": 0.7520994781571091
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 5,
+                    "verse": 10,
+                    "text": "Therefore I have made my record of these things according to the record of Nephi, which was engraven on the plates which were called the plates of Nephi.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8013074157284366
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 5,
+                    "verse": 10,
+                    "text": "Therefore I have made my record of these things according to the record of Nephi, which was engraven on the plates which were called the plates of Nephi.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9318296909332342
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 14,
+                    "text": "These plates are called the plates of Jacob, and they were made by the hand of Nephi. And I make an end of speaking these words.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9197689616749036
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 29,
+                    "text": "And I, Nephi, had kept the records upon my plates, which I had made, of my people thus far.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9108986583084304
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 40,
+                    "text": "And now, because the account which is engraven upon the plates of Nephi is more particular concerning the things which, in my wisdom, I would bring to the knowledge of the people in this account--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.90668690204621
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 1,
+                    "text": "And now I, Nephi, proceed to give an account upon these plates of my proceedings, and my reign and ministry; wherefore, to proceed with mine account, I must speak somewhat of the things of my father, and also of my brethren.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9058747403770995
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 14,
+                    "text": "For I, Nephi, was constrained to speak unto them, according to his word; for I had spoken many things unto them, and also my father, before his death; many of which sayings are written upon mine other plates; for a more history part are written upon mine other plates.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9016651687028718
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Mormon",
+                    "volume_book_index": 13,
+                    "chapter": 1,
+                    "verse": 4,
+                    "text": "And behold, ye shall take the plates of Nephi unto yourself, and the remainder shall ye leave in the place where they are; and ye shall engrave on the plates of Nephi all the things that ye have observed concerning this people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012798666954105
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "Wherefore, I, Nephi, did make a record upon the other plates, which gives an account, or which gives a greater account of the wars and contentions and destructions of my people. And this have I done, and commanded my people what they should do after I was gone; and that these plates should be handed down from one generation to another, or from one prophet to another, until further commandments of the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9010435997817771
                 }
             ]
         },
@@ -180,84 +420,234 @@
             "text": "Nevertheless, I have received a commandment of the Lord that I should make these plates, for the special purpose that there should be an account engraven of the ministry of my people.",
             "similars": [
                 {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 31,
+                    "text": "Wherefore, I, Nephi, to be obedient to the commandments of the Lord, went and made these plates upon which I have engraven these things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8492516763927389
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 3,
+                    "text": "And after I had made these plates by way of commandment, I, Nephi, received a commandment that the ministry and the prophecies, the more plain and precious parts of them, should be written upon these plates; and that the things which were written should be kept for the instruction of my people, who should possess the land, and also for other wise purposes, which purposes are known unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8486586429319712
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 30,
+                    "text": "And it came to pass that the Lord God said unto me: Make other plates; and thou shalt engraven many things upon them which are good in my sight, for the profit of thy people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8409945615172824
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 5,
+                    "text": "And an account of my making these plates shall be given hereafter; and then, behold, I proceed according to that which I have spoken; and this I do that the more sacred things may be kept for the knowledge of my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8387373062462543
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 1,
+                    "text": "And now I, Nephi, proceed to give an account upon these plates of my proceedings, and my reign and ministry; wherefore, to proceed with mine account, I must speak somewhat of the things of my father, and also of my brethren.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.830913398338634
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 32,
+                    "text": "And I engraved that which is pleasing unto God. And if my people are pleased with the things of God they will be pleased with mine engravings which are upon these plates.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8280843632153579
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 1,
+                    "text": "And it came to pass that the Lord commanded me, wherefore I did make plates of ore that I might engraven upon them the record of my people. And upon the plates which I made I did engraven the record of my father, and also our journeyings in the wilderness, and the prophecies of my father; and also many of mine own prophecies have I engraven upon them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8265108823287632
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 4,
+                    "text": "Upon the other plates should be engraven an account of the reign of the kings, and the wars and contentions of my people; wherefore these plates are for the more part of the ministry; and the other plates are for the more part of the reign of the kings and the wars and contentions of my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8223013491672466
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 5,
+                    "text": "Wherefore, the Lord hath commanded me to make these plates for a wise purpose in him, which purpose I know not.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8219100566916151
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 2,
+                    "text": "And I knew not at the time when I made them that I should be commanded of the Lord to make these plates; wherefore, the record of my father, and the genealogy of his fathers, and the more part of all our proceedings in the wilderness are engraven upon those first plates of which I have spoken; wherefore, the things which transpired before I made these plates are, of a truth, more particularly made mention upon the first plates.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8106693389880284
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 3,
                     "verse": 19,
                     "text": "And for this very purpose are these plates preserved, which contain these records--that the promises of the Lord might be fulfilled, which he made to his people;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8074252540673841
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
                     "chapter": 5,
-                    "verse": 4,
-                    "text": "And you have a gift to translate the plates; and this is the first gift that I bestowed upon you; and I have commanded that you should pretend to no other gift until my purpose is fulfilled in this; for I will grant unto you no other gift until it is finished.",
-                    "score": 0.7964685569842734
+                    "verse": 2,
+                    "text": "And behold, ye may be privileged that ye may show the plates unto those who shall assist to bring forth this work;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8064834624142161
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 59,
-                    "text": "At length the time arrived for obtaining the plates, the Urim and Thummim, and the breastplate. On the twenty-second day of September, one thousand eight hundred and twenty-seven, having gone as usual at the end of another year to the place where they were deposited, the same heavenly messenger delivered them up to me with this charge: that I should be responsible for them; that if I should let them go carelessly, or through any neglect of mine, I should be cut off; but that if I would use all my endeavors to preserve them, until he, the messenger, should call for them, they should be protected.",
-                    "score": 0.7950195351508558
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 5,
+                    "verse": 10,
+                    "text": "Therefore I have made my record of these things according to the record of Nephi, which was engraven on the plates which were called the plates of Nephi.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035326513084672
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 5,
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
                     "verse": 1,
-                    "text": "Behold, I say unto you, that as my servant Martin Harris has desired a witness at my hand, that you, my servant Joseph Smith, Jun., have got the plates of which you have testified and borne record that you have received of me;",
-                    "score": 0.7941069210273725
+                    "text": "And it came to pass that the Lord commanded me, wherefore I did make plates of ore that I might engraven upon them the record of my people. And upon the plates which I made I did engraven the record of my father, and also our journeyings in the wilderness, and the prophecies of my father; and also many of mine own prophecies have I engraven upon them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.923794278646204
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 104,
-                    "verse": 13,
-                    "text": "For it is expedient that I, the Lord, should make every man accountable, as a steward over earthly blessings, which I have made and prepared for my creatures.",
-                    "score": 0.7926437124025097
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 30,
+                    "text": "And it came to pass that the Lord God said unto me: Make other plates; and thou shalt engraven many things upon them which are good in my sight, for the profit of thy people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9208891533215515
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 69,
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
                     "verse": 5,
-                    "text": "And also, my servants who are abroad in the earth should send forth the accounts of their stewardships to the land of Zion;",
-                    "score": 0.7909836405550354
+                    "text": "And an account of my making these plates shall be given hereafter; and then, behold, I proceed according to that which I have spoken; and this I do that the more sacred things may be kept for the knowledge of my people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9172422289848328
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 40,
-                    "text": "And now, because the account which is engraven upon the plates of Nephi is more particular concerning the things which, in my wisdom, I would bring to the knowledge of the people in this account--",
-                    "score": 0.7893804935177907
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 5,
+                    "text": "Wherefore, the Lord hath commanded me to make these plates for a wise purpose in him, which purpose I know not.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9164183289256846
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 70,
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 2,
+                    "text": "And I knew not at the time when I made them that I should be commanded of the Lord to make these plates; wherefore, the record of my father, and the genealogy of his fathers, and the more part of all our proceedings in the wilderness are engraven upon those first plates of which I have spoken; wherefore, the things which transpired before I made these plates are, of a truth, more particularly made mention upon the first plates.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9153313263056905
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 32,
+                    "text": "And I engraved that which is pleasing unto God. And if my people are pleased with the things of God they will be pleased with mine engravings which are upon these plates.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9132648213786164
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 4,
+                    "text": "Upon the other plates should be engraven an account of the reign of the kings, and the wars and contentions of my people; wherefore these plates are for the more part of the ministry; and the other plates are for the more part of the reign of the kings and the wars and contentions of my people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9059903621673584
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
                     "verse": 3,
-                    "text": "I, the Lord, have appointed them, and ordained them to be stewards over the revelations and commandments which I have given unto them, and which I shall hereafter give unto them;",
-                    "score": 0.7893222038403015
+                    "text": "And after I had made these plates by way of commandment, I, Nephi, received a commandment that the ministry and the prophecies, the more plain and precious parts of them, should be written upon these plates; and that the things which were written should be kept for the instruction of my people, who should possess the land, and also for other wise purposes, which purposes are known unto the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9056196212768555
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 31,
+                    "text": "Wherefore, I, Nephi, to be obedient to the commandments of the Lord, went and made these plates upon which I have engraven these things.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9050818085670471
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
-                    "chapter": 104,
-                    "verse": 16,
-                    "text": "But it must needs be done in mine own way; and behold this is the way that I, the Lord, have decreed to provide for my saints, that the poor shall be exalted, in that the rich are made low.",
-                    "score": 0.7885111574370856
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 36,
-                    "text": "And thou shalt make a plate of pure gold, and grave upon it, like the engravings of a signet, Holiness to the Lord.",
-                    "score": 0.7871337164471778
+                    "volume_book_index": 1,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "And for this very purpose are these plates preserved, which contain these records--that the promises of the Lord might be fulfilled, which he made to his people;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020769000053406
                 }
             ]
         },
@@ -266,84 +656,124 @@
             "text": "Upon the other plates should be engraven an account of the reign of the kings, and the wars and contentions of my people; wherefore these plates are for the more part of the ministry; and the other plates are for the more part of the reign of the kings and the wars and contentions of my people.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 45,
-                    "text": "Behold, there are many things engraven upon the plates of Nephi which do throw greater views upon my gospel; therefore, it is wisdom in me that you should translate this first part of the engravings of Nephi, and send forth in this work.",
-                    "score": 0.7793134203427876
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "Wherefore, I, Nephi, did make a record upon the other plates, which gives an account, or which gives a greater account of the wars and contentions and destructions of my people. And this have I done, and commanded my people what they should do after I was gone; and that these plates should be handed down from one generation to another, or from one prophet to another, until further commandments of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8414039429557036
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 40,
-                    "text": "And now, because the account which is engraven upon the plates of Nephi is more particular concerning the things which, in my wisdom, I would bring to the knowledge of the people in this account--",
-                    "score": 0.7748674394083968
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 3,
+                    "text": "Nevertheless, I have received a commandment of the Lord that I should make these plates, for the special purpose that there should be an account engraven of the ministry of my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8223013491672466
                 },
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 10,
+                    "verse": 1,
+                    "text": "And now I, Nephi, proceed to give an account upon these plates of my proceedings, and my reign and ministry; wherefore, to proceed with mine account, I must speak somewhat of the things of my father, and also of my brethren.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8221476122581265
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 2,
+                    "text": "And I knew not at the time when I made them that I should be commanded of the Lord to make these plates; wherefore, the record of my father, and the genealogy of his fathers, and the more part of all our proceedings in the wilderness are engraven upon those first plates of which I have spoken; wherefore, the things which transpired before I made these plates are, of a truth, more particularly made mention upon the first plates.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8185961885361516
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jarom",
+                    "volume_book_index": 5,
                     "chapter": 1,
-                    "verse": 59,
-                    "text": "At length the time arrived for obtaining the plates, the Urim and Thummim, and the breastplate. On the twenty-second day of September, one thousand eight hundred and twenty-seven, having gone as usual at the end of another year to the place where they were deposited, the same heavenly messenger delivered them up to me with this charge: that I should be responsible for them; that if I should let them go carelessly, or through any neglect of mine, I should be cut off; but that if I would use all my endeavors to preserve them, until he, the messenger, should call for them, they should be protected.",
-                    "score": 0.770512481389504
+                    "verse": 14,
+                    "text": "And I, Jarom, do not write more, for the plates are small. But behold, my brethren, ye can go to the other plates of Nephi; for behold, upon them the records of our wars are engraven, according to the writings of the kings, or those which they caused to be written.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134232457672177
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 27,
-                    "verse": 7,
-                    "text": "Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah.",
-                    "score": 0.7623803479057046
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 38,
-                    "text": "And now, verily I say unto you, that an account of those things that you have written, which have gone out of your hands, is engraven upon the plates of Nephi;",
-                    "score": 0.7613863617175839
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 41,
-                    "text": "Therefore, you shall translate the engravings which are on the plates of Nephi, down even till you come to the reign of king Benjamin, or until you come to that which you have translated, which you have retained;",
-                    "score": 0.7504661777358681
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
                     "chapter": 3,
-                    "verse": 19,
-                    "text": "And for this very purpose are these plates preserved, which contain these records--that the promises of the Lord might be fulfilled, which he made to his people;",
-                    "score": 0.7493884420829232
+                    "verse": 13,
+                    "text": "And a hundredth part of the proceedings of this people, which now began to be numerous, cannot be written upon these plates; but many of their proceedings are written upon the larger plates, and their wars, and their contentions, and the reigns of their kings.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8131332535294394
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 10,
-                    "verse": 39,
-                    "text": "Yea, and you remember it was said in those writings that a more particular account was given of these things upon the plates of Nephi.",
-                    "score": 0.747912595541464
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 2,
+                    "text": "And now, as I have spoken concerning these plates, behold they are not the plates upon which I make a full account of the history of my people; for the plates upon which I make a full account of my people I have given the name of Nephi; wherefore, they are called the plates of Nephi, after mine own name; and these plates also are called the plates of Nephi.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8071925712484845
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 28,
-                    "verse": 11,
-                    "text": "With the work of an engraver in stone, like the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.",
-                    "score": 0.7468470140184035
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
+                    "volume": "Book of Mormon",
+                    "book": "Omni",
+                    "volume_book_index": 6,
                     "chapter": 1,
-                    "verse": 42,
-                    "text": "Again, he told me, that when I got those plates of which he had spoken--for the time that they should be obtained was not yet fulfilled--I should not show them to any person; neither the breastplate with the Urim and Thummim; only to those to whom I should be commanded to show them; if I did I should be destroyed. While he was conversing with me about the plates, the vision was opened to my mind that I could see the place where the plates were deposited, and that so clearly and distinctly that I knew the place again when I visited it.",
-                    "score": 0.746455136476874
+                    "verse": 11,
+                    "text": "And behold, the record of this people is engraven upon plates which is had by the kings, according to the generations; and I know of no revelation save that which has been written, neither prophecy; wherefore, that which is sufficient is written. And I make an end.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055650741997669
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 3,
+                    "text": "For he said that the history of his people should be engraven upon his other plates, and that I should preserve these plates and hand them down unto my seed, from generation to generation.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049730088710134
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jacob",
+                    "volume_book_index": 3,
+                    "chapter": 3,
+                    "verse": 13,
+                    "text": "And a hundredth part of the proceedings of this people, which now began to be numerous, cannot be written upon these plates; but many of their proceedings are written upon the larger plates, and their wars, and their contentions, and the reigns of their kings.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9086933244832431
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Jarom",
+                    "volume_book_index": 5,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "And I, Jarom, do not write more, for the plates are small. But behold, my brethren, ye can go to the other plates of Nephi; for behold, upon them the records of our wars are engraven, according to the writings of the kings, or those which they caused to be written.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9069921914930474
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 3,
+                    "text": "Nevertheless, I have received a commandment of the Lord that I should make these plates, for the special purpose that there should be an account engraven of the ministry of my people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9059903621673584
                 }
             ]
         },
@@ -352,84 +782,104 @@
             "text": "Wherefore, the Lord hath commanded me to make these plates for a wise purpose in him, which purpose I know not.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 3,
-                    "verse": 19,
-                    "text": "And for this very purpose are these plates preserved, which contain these records--that the promises of the Lord might be fulfilled, which he made to his people;",
-                    "score": 0.7850695918551769
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 18,
-                    "verse": 8,
-                    "text": "And now, marvel not that I have called him unto mine own purpose, which purpose is known in me; wherefore, if he shall be diligent in keeping my commandments he shall be blessed unto eternal life; and his name is Joseph.",
-                    "score": 0.7801308884513688
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 42,
-                    "text": "Again, he told me, that when I got those plates of which he had spoken--for the time that they should be obtained was not yet fulfilled--I should not show them to any person; neither the breastplate with the Urim and Thummim; only to those to whom I should be commanded to show them; if I did I should be destroyed. While he was conversing with me about the plates, the vision was opened to my mind that I could see the place where the plates were deposited, and that so clearly and distinctly that I knew the place again when I visited it.",
-                    "score": 0.7795363810823174
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 19,
-                    "verse": 12,
-                    "text": "Where are they? where are thy wise men? and let them tell thee now, and let them know what the Lord of hosts hath purposed upon Egypt.",
-                    "score": 0.7748606873437835
+                    "verse": 2,
+                    "text": "And I knew not at the time when I made them that I should be commanded of the Lord to make these plates; wherefore, the record of my father, and the genealogy of his fathers, and the more part of all our proceedings in the wilderness are engraven upon those first plates of which I have spoken; wherefore, the things which transpired before I made these plates are, of a truth, more particularly made mention upon the first plates.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8711250354923201
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 16,
-                    "verse": 38,
-                    "text": "The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the Lord, therefore they are hallowed: and they shall be a sign unto the children of Israel.",
-                    "score": 0.7735435256338821
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 3,
+                    "text": "Nevertheless, I have received a commandment of the Lord that I should make these plates, for the special purpose that there should be an account engraven of the ministry of my people.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8219100566916151
                 },
                 {
-                    "volume": "New Testament",
-                    "book": "Hebrews",
-                    "chapter": 8,
-                    "verse": 5,
-                    "text": "Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.",
-                    "score": 0.7711349601203665
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Joseph Smith--History",
-                    "chapter": 1,
-                    "verse": 59,
-                    "text": "At length the time arrived for obtaining the plates, the Urim and Thummim, and the breastplate. On the twenty-second day of September, one thousand eight hundred and twenty-seven, having gone as usual at the end of another year to the place where they were deposited, the same heavenly messenger delivered them up to me with this charge: that I should be responsible for them; that if I should let them go carelessly, or through any neglect of mine, I should be cut off; but that if I would use all my endeavors to preserve them, until he, the messenger, should call for them, they should be protected.",
-                    "score": 0.7649326290392903
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 5,
-                    "verse": 4,
-                    "text": "And you have a gift to translate the plates; and this is the first gift that I bestowed upon you; and I have commanded that you should pretend to no other gift until my purpose is fulfilled in this; for I will grant unto you no other gift until it is finished.",
-                    "score": 0.7642460727313624
+                    "verse": 31,
+                    "text": "Wherefore, I, Nephi, to be obedient to the commandments of the Lord, went and made these plates upon which I have engraven these things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8200372198763058
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 44,
+                    "volume": "Book of Mormon",
+                    "book": "Words of Mormon",
+                    "volume_book_index": 7,
+                    "chapter": 1,
                     "verse": 7,
-                    "text": "And they said unto him, Wherefore saith my lord these words? God forbid that thy servants should do according to this thing:",
-                    "score": 0.7612402542508445
+                    "text": "And I do this for a wise purpose; for thus it whispereth me, according to the workings of the Spirit of the Lord which is in me. And now, I do not know all things; but the Lord knoweth all things which are to come; wherefore, he worketh in me to do according to his will.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8104516979072657
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 70,
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 3,
+                    "text": "And after I had made these plates by way of commandment, I, Nephi, received a commandment that the ministry and the prophecies, the more plain and precious parts of them, should be written upon these plates; and that the things which were written should be kept for the instruction of my people, who should possess the land, and also for other wise purposes, which purposes are known unto the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.806187042929268
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 6,
                     "verse": 6,
-                    "text": "Wherefore, a commandment I give unto them, that they shall not give these things unto the church, neither unto the world;",
-                    "score": 0.7597877260073899
+                    "text": "Wherefore, I shall give commandment unto my seed, that they shall not occupy these plates with things which are not of worth unto the children of men.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050326259719488
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 1,
+                    "text": "And it came to pass that the Lord commanded me, wherefore I did make plates of ore that I might engraven upon them the record of my people. And upon the plates which I made I did engraven the record of my father, and also our journeyings in the wilderness, and the prophecies of my father; and also many of mine own prophecies have I engraven upon them.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8038629522596793
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 9,
+                    "verse": 3,
+                    "text": "Nevertheless, I have received a commandment of the Lord that I should make these plates, for the special purpose that there should be an account engraven of the ministry of my people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9164183289256846
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 19,
+                    "verse": 2,
+                    "text": "And I knew not at the time when I made them that I should be commanded of the Lord to make these plates; wherefore, the record of my father, and the genealogy of his fathers, and the more part of all our proceedings in the wilderness are engraven upon those first plates of which I have spoken; wherefore, the things which transpired before I made these plates are, of a truth, more particularly made mention upon the first plates.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9028761771730351
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 5,
+                    "verse": 31,
+                    "text": "Wherefore, I, Nephi, to be obedient to the commandments of the Lord, went and made these plates upon which I have engraven these things.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005257665170993
                 }
             ]
         },
@@ -438,84 +888,104 @@
             "text": "But the Lord knoweth all things from the beginning; wherefore, he prepareth a way to accomplish all his works among the children of men; for behold, he hath all power unto the fulfilling of all his words. And thus it is. Amen.",
             "similars": [
                 {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 2,
+                    "verse": 24,
+                    "text": "But behold, all things have been done in the wisdom of him who knoweth all things.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8331920974960411
+                },
+                {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 8,
                     "verse": 39,
                     "text": "Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for thou, even thou only, knowest the hearts of all the children of men;)",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8139146308986069
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 6,
                     "verse": 30,
                     "text": "Then hear thou from heaven thy dwelling place, and forgive, and render unto every man according unto all his ways, whose heart thou knowest; (for thou only knowest the hearts of the children of men:)",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8137277648090566
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 30,
+                    "verse": 16,
+                    "text": "Wherefore, the things of all nations shall be made known; yea, all things shall be made known unto the children of men.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095036614296491
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 27,
+                    "verse": 18,
+                    "text": "And this is the word which he hath given unto the children of men. And for this cause he fulfilleth the words which he hath given, and he lieth not, but fulfilleth all his words.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8065341989264214
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 18,
+                    "verse": 32,
+                    "text": "And Ammon said: Yea, and he looketh down upon all the children of men; and he knows all the thoughts and intents of the heart; for by his hand were they all created from the beginning.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050971809511529
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 19,
                     "verse": 19,
                     "text": "Nevertheless, glory be to the Father, and I partook and finished my preparations unto the children of men.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8045969970947086
                 },
                 {
                     "volume": "New Testament",
                     "book": "John",
+                    "volume_book_index": 4,
                     "chapter": 6,
                     "verse": 45,
                     "text": "It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8032974643962467
                 },
                 {
+                    "volume": "Book of Mormon",
+                    "book": "Moroni",
+                    "volume_book_index": 15,
+                    "chapter": 7,
+                    "verse": 32,
+                    "text": "And by so doing, the Lord God prepareth the way that the residue of men may have faith in Christ, that the Holy Ghost may have place in their hearts, according to the power thereof; and after this manner bringeth to pass the Father, the covenants which he hath made unto the children of men.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027325494866255
+                },
+                {
                     "volume": "New Testament",
                     "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 22,
                     "text": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8007391212587567
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 100,
-                    "verse": 11,
-                    "text": "And I will give unto thee power to be mighty in expounding all scriptures, that thou mayest be a spokesman unto him, and he shall be a revelator unto thee, that thou mayest know the certainty of all things pertaining to the things of my kingdom on the earth.",
-                    "score": 0.795477164269877
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "Matthew",
-                    "chapter": 13,
-                    "verse": 51,
-                    "text": "Jesus saith unto them, Have ye understood all these things? They say unto him, Yea, Lord.",
-                    "score": 0.7909214352694558
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Abraham",
-                    "chapter": 3,
-                    "verse": 21,
-                    "text": "I dwell in the midst of them all; I now, therefore, have come down unto thee to declare unto thee the works which my hands have made, wherein my wisdom excelleth them all, for I rule in the heavens above, and in the earth beneath, in all wisdom and prudence, over all the intelligences thine eyes have seen from the beginning; I came down in the beginning in the midst of all the intelligences thou hast seen.",
-                    "score": 0.7908019967032116
-                },
-                {
-                    "volume": "New Testament",
-                    "book": "1 Corinthians",
-                    "chapter": 15,
-                    "verse": 24,
-                    "text": "Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.",
-                    "score": 0.7907594706464908
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ecclesiastes",
-                    "chapter": 5,
-                    "verse": 19,
-                    "text": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.",
-                    "score": 0.787928310955976
                 }
             ]
         }

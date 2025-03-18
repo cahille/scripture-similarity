@@ -8,84 +8,24 @@
             "text": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 5,
-                    "verse": 13,
-                    "text": "And his servants came near, and spake unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?",
-                    "score": 0.7792851286892601
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 70,
+                    "text": "As he spake by the mouth of his holy prophets, which have been since the world began:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9205982685089111
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Kings",
+                    "volume_book_index": 12,
                     "chapter": 21,
                     "verse": 10,
                     "text": "And the Lord spake by his servants the prophets, saying,",
-                    "score": 0.7778362752613421
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 33,
-                    "verse": 12,
-                    "text": "And when he was in affliction, he besought the Lord his God, and humbled himself greatly before the God of his fathers,",
-                    "score": 0.7760747362663662
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 19,
-                    "verse": 10,
-                    "text": "And the God of our fathers, who were led out of Egypt, out of bondage, and also were preserved in the wilderness by him, yea, the God of Abraham, and of Isaac, and the God of Jacob, yieldeth himself, according to the words of the angel, as a man, into the hands of wicked men, to be lifted up, according to the words of Zenock, and to be crucified, according to the words of Neum, and to be buried in a sepulchre, according to the words of Zenos, which he spake concerning the three days of darkness, which should be a sign given of his death unto those who should inhabit the isles of the sea, more especially given unto those who are of the house of Israel.",
-                    "score": 0.7751588452245743
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 30,
-                    "verse": 19,
-                    "text": "That prepareth his heart to seek God, the Lord God of his fathers, though he be not cleansed according to the purification of the sanctuary.",
-                    "score": 0.7744971064661826
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 9,
-                    "verse": 32,
-                    "text": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.",
-                    "score": 0.7714951651060092
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 16,
-                    "verse": 11,
-                    "text": "Then shalt thou say unto them, Because your fathers have forsaken me, saith the Lord, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;",
-                    "score": 0.7710312461641959
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 65,
-                    "verse": 7,
-                    "text": "Your iniquities, and the iniquities of your fathers together, saith the Lord, which have burned incense upon the mountains, and blasphemed me upon the hills: therefore will I measure their former work into their bosom.",
-                    "score": 0.76999549087557
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 9,
-                    "verse": 9,
-                    "text": "(Beforetime in Israel, when a man went to inquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.)",
-                    "score": 0.7691466550590865
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 8,
-                    "verse": 53,
-                    "text": "For thou didst separate them from among all the people of the earth, to be thine inheritance, as thou spakest by the hand of Moses thy servant, when thou broughtest our fathers out of Egypt, O Lord God.",
-                    "score": 0.7643445646336536
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9041209392331496
                 }
             ]
         },
@@ -96,82 +36,42 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
                     "verse": 24,
                     "text": "That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8044533828014166
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 93,
                     "verse": 10,
                     "text": "The worlds were made by him; men were made by him; all things were made by him, and through him, and of him.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8041700726478436
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 40,
                     "text": "And now, Moses, my son, I will speak unto thee concerning this earth upon which thou standest; and thou shalt write the things which I shall speak.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.802701987198451
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 3,
-                    "text": "And they prophesied unto Com many things; and he was blessed in all the remainder of his days.",
-                    "score": 0.7899704257496345
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 2,
-                    "verse": 14,
-                    "text": "And now, my sons, I speak unto you these things for your profit and learning; for there is a God, and he hath created all things, both the heavens and the earth, and all things that in them are, both things to act and things to be acted upon.",
-                    "score": 0.789081224712994
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 3,
-                    "verse": 10,
-                    "text": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.",
-                    "score": 0.7847550463915958
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "And blessed is he that is found faithful unto my name at the last day, for he shall be lifted up to dwell in the kingdom prepared for him from the foundation of the world. And behold it is I that hath spoken it. Amen.",
-                    "score": 0.7808329082704097
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 26,
-                    "verse": 14,
-                    "text": "But behold, I prophesy unto you concerning the last days; concerning the days when the Lord God shall bring these things forth unto the children of men.",
-                    "score": 0.7805856481033813
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 30,
-                    "verse": 4,
-                    "text": "Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his son's name, if thou canst tell?",
-                    "score": 0.7802271813909586
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 27,
-                    "verse": 18,
-                    "text": "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?",
-                    "score": 0.7800601452456862
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 24,
+                    "text": "That by him, and through him, and of him, the worlds are and were created, and the inhabitants thereof are begotten sons and daughters unto God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9070335196792891
                 }
             ]
         },
@@ -182,254 +82,483 @@
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 22,
                     "verse": 19,
                     "text": "And he said, Hear thou therefore the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8112742152102849
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 24,
                     "text": "And ascended into heaven, to sit down on the right hand of the Father, to reign with almighty power according to the will of the Father;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8098975229104123
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 18,
-                    "verse": 18,
-                    "text": "Again he said, Therefore hear the word of the Lord; I saw the Lord sitting upon his throne, and all the host of heaven standing on his right hand and on his left.",
-                    "score": 0.7984485932464561
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 49,
-                    "verse": 6,
-                    "text": "And they have done unto the Son of Man even as they listed; and he has taken his power on the right hand of his glory, and now reigneth in the heavens, and will reign till he descends on the earth to put all enemies under his feet, which time is nigh at hand--",
-                    "score": 0.7898812316742447
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 9,
-                    "verse": 26,
-                    "text": "And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the right hand of his power, until all things shall become subject unto him, be, and abide with you forever. Amen.",
-                    "score": 0.789445041498643
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 21,
-                    "verse": 5,
-                    "text": "His glory is great in thy salvation: honour and majesty hast thou laid upon him.",
-                    "score": 0.7864478544934315
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 20,
-                    "text": "And we beheld the glory of the Son, on the right hand of the Father, and received of his fulness;",
-                    "score": 0.7832275404839606
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 93,
-                    "verse": 17,
-                    "text": "And he received all power, both in heaven and on earth, and the glory of the Father was with him, for he dwelt in him.",
-                    "score": 0.7830669958581494
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 16,
-                    "verse": 27,
-                    "text": "Glory and honour are in his presence; strength and gladness are in his place.",
-                    "score": 0.7827361244026497
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 93,
-                    "verse": 1,
-                    "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.",
-                    "score": 0.7817428683788465
                 }
             ]
         },
         {
             "verse": 4,
             "text": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 22,
-                    "verse": 1,
-                    "text": "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
-                    "score": 0.7767665931316836
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 8,
-                    "verse": 5,
-                    "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.",
-                    "score": 0.7609233893514693
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 1,
-                    "verse": 47,
-                    "text": "And moreover the king's servants came to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne. And the king bowed himself upon the bed.",
-                    "score": 0.7607776142910402
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 48,
-                    "verse": 16,
-                    "text": "The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.",
-                    "score": 0.7594605656984693
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 107,
-                    "text": "And then shall the angels be crowned with the glory of his might, and the saints shall be filled with his glory, and receive their inheritance and be made equal with him.",
-                    "score": 0.7551822880208787
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 12,
-                    "verse": 26,
-                    "text": "The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.",
-                    "score": 0.750001172546956
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 7,
-                    "verse": 18,
-                    "text": "And it came to pass that they were angry with him, even because he had greater power than they, for it were not possible that they could disbelieve his words, for so great was his faith on the Lord Jesus Christ that angels did minister unto him daily.",
-                    "score": 0.7476494181161027
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 37,
-                    "verse": 16,
-                    "text": "A little that a righteous man hath is better than the riches of many wicked.",
-                    "score": 0.7450143967749152
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 9,
-                    "verse": 2,
-                    "text": "And he had a son, whose name was Saul, a choice young man, and a goodly: and there was not among the children of Israel a goodlier person than he: from his shoulders and upward he was higher than any of the people.",
-                    "score": 0.7447622711802059
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 36,
-                    "text": "The seed also of his servants shall inherit it: and they that love his name shall dwell therein.",
-                    "score": 0.7437406778030826
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 5,
             "text": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 6,
+                    "text": "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8487593666349191
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 2,
                     "verse": 7,
                     "text": "I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8480174981220622
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 12,
+                    "verse": 8,
+                    "text": "Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8446505425509347
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 24,
                     "verse": 40,
                     "text": "And he said unto me, The Lord, before whom I walk, will send his angel with thee, and prosper thy way; and thou shalt take a wife for my son of my kindred, and of my father's house:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8331047624223407
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Chronicles",
+                    "volume_book_index": 13,
                     "chapter": 17,
                     "verse": 13,
                     "text": "I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took it from him that was before thee:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8282103526666118
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 16,
+                    "verse": 27,
+                    "text": "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.82723855138407
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 6,
+                    "verse": 18,
+                    "text": "And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8259530445042336
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 51,
+                    "text": "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8238436861218315
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 29,
                     "verse": 42,
                     "text": "But, behold, I say unto you that I, the Lord God, gave unto Adam and unto his seed, that they should not die as to the temporal death, until I, the Lord God, should send forth angels to declare unto them repentance and redemption, through faith on the name of mine Only Begotten Son.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8226658881851825
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 48,
                     "text": "I say unto you, that I know of myself that whatsoever I shall say unto you, concerning that which is to come, is true; and I say unto you, that I know that Jesus Christ shall come, yea, the Son, the Only Begotten of the Father, full of grace, and mercy, and truth. And behold, it is he that cometh to take away the sins of the world, yea, the sins of every man who steadfastly believeth on his name.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8222342615445893
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 9,
+                    "verse": 26,
+                    "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8218904169549718
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 24,
                     "verse": 7,
                     "text": "The Lord God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8185669177866657
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 6,
+                    "text": "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8181303013129447
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 6,
                     "verse": 68,
                     "text": "Behold, thou art one in me, a son of God; and thus may all become my sons. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8164785564578348
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 13,
                     "verse": 26,
                     "text": "And it shall be made known unto just and holy men, by the mouth of angels, at the time of his coming, that the words of our fathers may be fulfilled, according to that which they have spoken concerning him, which was according to the spirit of prophecy which was in them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8151490358339629
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 27,
                     "verse": 28,
                     "text": "And now I go unto the Father. And verily I say unto you, whatsoever things ye shall ask the Father in my name shall be given unto you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8149375484646344
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 4,
                     "verse": 2,
                     "text": "But, behold, my Beloved Son, which was my Beloved and Chosen from the beginning, said unto me--Father, thy will be done, and the glory be thine forever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8138740459532355
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Judges",
+                    "volume_book_index": 7,
+                    "chapter": 13,
+                    "verse": 17,
+                    "text": "And Manoah said unto the angel of the Lord, What is thy name, that when thy sayings come to pass we may do thee honour?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134189411547148
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 41,
+                    "text": "The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8129422990259607
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 6,
+                    "verse": 3,
+                    "text": "Do this now, my son, and deliver thyself, when thou art come into the hand of thy friend; go, humble thyself, and make sure thy friend.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8123919605795282
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 13,
+                    "verse": 33,
+                    "text": "God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8123468777730581
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 27,
+                    "verse": 18,
+                    "text": "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8120649334961025
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 3,
+                    "verse": 27,
+                    "text": "And the Lord said: Whom shall I send? And one answered like unto the Son of Man: Here am I, send me. And another answered and said: Here am I, send me. And the Lord said: I will send the first.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8100473458597852
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 15,
+                    "verse": 31,
+                    "text": "And he said unto him, Son, thou art ever with me, and all that I have is thine.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8098007140999569
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 19,
+                    "verse": 23,
+                    "text": "And now Father, I pray unto thee for them, and also for all those who shall believe on their words, that they may believe in me, that I may be in them as thou, Father, art in me, that we may be one.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087563173908277
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 9,
+                    "verse": 37,
+                    "text": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8081432344956978
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Joseph Smith--Matthew",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 37,
+                    "text": "And whoso treasureth up my word, shall not be deceived, for the Son of Man shall come, and he shall send his angels before him with the great sound of a trumpet, and they shall gather together the remainder of his elect from the four winds, from one end of heaven to the other.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8068044921193008
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Philemon",
+                    "volume_book_index": 18,
+                    "chapter": 1,
+                    "verse": 10,
+                    "text": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8066147705539977
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 1,
+                    "verse": 32,
+                    "text": "And by the word of my power, have I created them, which is mine Only Begotten Son, who is full of grace and truth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8056965533159979
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 38,
+                    "text": "Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8054664112484093
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 49,
+                    "verse": 5,
+                    "text": "Thus saith the Lord; for I am God, and have sent mine Only Begotten Son into the world for the redemption of the world, and have decreed that he that receiveth him shall be saved, and he that receiveth him not shall be damned--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8052333942495093
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 3,
+                    "verse": 10,
+                    "text": "Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.804641412563974
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 28,
+                    "verse": 6,
+                    "text": "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8036526700095494
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 23,
+                    "text": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033592790317016
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 91,
+                    "verse": 11,
+                    "text": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026634630242153
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 7,
+                    "verse": 59,
+                    "text": "And Enoch beheld the Son of Man ascend up unto the Father; and he called unto the Lord, saying: Wilt thou not come again upon the earth? Forasmuch as thou art God, and I know thee, and thou hast sworn unto me, and commanded me that I should ask in the name of thine Only Begotten; thou hast made me, and given unto me a right to thy throne, and not of myself, but through thine own grace; wherefore, I ask thee if thou wilt not come again on the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018521201738249
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 21,
+                    "verse": 37,
+                    "text": "But last of all he sent unto them his son, saying, They will reverence my son.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015607876401015
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 5,
+                    "verse": 9,
+                    "text": "And in that day the Holy Ghost fell upon Adam, which beareth record of the Father and the Son, saying: I am the Only Begotten of the Father from the beginning, henceforth and forever, that as thou hast fallen thou mayest be redeemed, and all mankind, even as many as will.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8014957070478433
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 1,
+                    "text": "And I, the Lord God, spake unto Moses, saying: That Satan, whom thou hast commanded in the name of mine Only Begotten, is the same which was from the beginning, and he came before me, saying--Behold, here am I, send me, I will be thy son, and I will redeem all mankind, that one soul shall not be lost, and surely I will do it; wherefore give me thine honor.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8010894210877307
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 52,
+                    "text": "And he also said unto him: If thou wilt turn unto me, and hearken unto my voice, and believe, and repent of all thy transgressions, and be baptized, even in water, in the name of mine Only Begotten Son, who is full of grace and truth, which is Jesus Christ, the only name which shall be given under heaven, whereby salvation shall come unto the children of men, ye shall receive the gift of the Holy Ghost, asking all things in his name, and whatsoever ye shall ask, it shall be given you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009152304919311
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 14,
+                    "text": "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006792769909673
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 2,
+                    "verse": 7,
+                    "text": "I will declare the decree: the Lord hath said unto me, Thou art my Son; this day have I begotten thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9159583499456452
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 5,
+                    "verse": 5,
+                    "text": "So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9083601777768258
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 4,
+                    "verse": 2,
+                    "text": "But, behold, my Beloved Son, which was my Beloved and Chosen from the beginning, said unto me--Father, thy will be done, and the glory be thine forever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9026219728734525
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 13,
+                    "verse": 33,
+                    "text": "God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9016265751870428
                 }
             ]
         },
@@ -440,82 +569,12 @@
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 5,
                     "verse": 5,
                     "text": "And he gave unto them commandments, that they should worship the Lord their God, and should offer the firstlings of their flocks, for an offering unto the Lord. And Adam was obedient unto the commandments of the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8047732018600792
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 19,
-                    "verse": 7,
-                    "text": "And the angel of the Lord came again the second time, and touched him, and said, Arise and eat; because the journey is too great for thee.",
-                    "score": 0.7964658700601969
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 22,
-                    "verse": 15,
-                    "text": "And the angel of the Lord called unto Abraham out of heaven the second time,",
-                    "score": 0.7953407404044265
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 91,
-                    "verse": 11,
-                    "text": "For he shall give his angels charge over thee, to keep thee in all thy ways.",
-                    "score": 0.7915858453175871
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 4,
-                    "verse": 4,
-                    "text": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the Lord had respect unto Abel and to his offering:",
-                    "score": 0.7904889331977671
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 5,
-                    "verse": 20,
-                    "text": "And Abel, he also brought of the firstlings of his flock, and of the fat thereof. And the Lord had respect unto Abel, and to his offering;",
-                    "score": 0.7904889331977671
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 11,
-                    "verse": 21,
-                    "text": "And the Lord said unto him: I give unto you power that ye shall baptize this people when I am again ascended into heaven.",
-                    "score": 0.7894593088376854
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 88,
-                    "verse": 107,
-                    "text": "And then shall the angels be crowned with the glory of his might, and the saints shall be filled with his glory, and receive their inheritance and be made equal with him.",
-                    "score": 0.7878454301483807
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 11,
-                    "verse": 40,
-                    "text": "And he shall come into the world to redeem his people; and he shall take upon him the transgressions of those who believe on his name; and these are they that shall have eternal life, and salvation cometh to none else.",
-                    "score": 0.7848346549588484
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 10,
-                    "verse": 14,
-                    "text": "And again, to another, the beholding of angels and ministering spirits;",
-                    "score": 0.7822789354481277
                 }
             ]
         },
@@ -526,82 +585,172 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 104,
                     "verse": 4,
                     "text": "Who maketh his angels spirits; his ministers a flaming fire:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9646857067498337
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 7,
                     "verse": 6,
                     "text": "Yea, he has undertaken a greater work; therefore I will make him as flaming fire and a ministering angel; he shall minister for those who shall be heirs of salvation who dwell on the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8318804056607907
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 2,
+                    "verse": 18,
+                    "text": "And unto the angel of the church in Thyatira write; These things saith the Son of God, who hath his eyes like unto a flame of fire, and his feet are like fine brass;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.831362887536725
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 17,
                     "verse": 24,
                     "text": "And as they looked to behold they cast their eyes towards heaven, and they saw the heavens open, and they saw angels descending out of heaven as it were in the midst of fire; and they came down and encircled those little ones about, and they were encircled about with fire; and the angels did minister unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8299531085966153
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 13,
+                    "verse": 13,
+                    "text": "And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8247698022863708
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 29,
                     "verse": 7,
                     "text": "The voice of the Lord divideth the flames of fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8187271739469884
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Exodus",
+                    "volume_book_index": 2,
                     "chapter": 3,
                     "verse": 2,
                     "text": "And the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8171473430551351
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 5,
+                    "text": "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8162672655279446
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 16,
+                    "verse": 8,
+                    "text": "And the fourth angel poured out his vial upon the sun; and power was given unto him to scorch men with fire.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8154487771814036
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 97,
                     "verse": 3,
                     "text": "A fire goeth before him, and burneth up his enemies round about.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.812541517531656
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 19,
                     "verse": 14,
                     "text": "And behold, they were encircled about as if it were by fire; and it came down from heaven, and the multitude did witness it, and did bear record; and angels did come down out of heaven and did minister unto them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8097334942826883
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 66,
                     "verse": 15,
                     "text": "For, behold, the Lord will come with fire, and with his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8052874043657986
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 14,
                     "verse": 10,
                     "text": "And when Amulek saw the pains of the women and children who were consuming in the fire, he also was pained; and he said unto Alma: How can we witness this awful scene? Therefore let us stretch forth our hands, and exercise the power of God which is in us, and save them from the flames.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.804207706461404
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 10,
                     "verse": 14,
                     "text": "And again, to another, the beholding of angels and ministering spirits;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8030480574575205
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 36,
+                    "text": "These are they who shall go away into the lake of fire and brimstone, with the devil and his angels--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.802314033333307
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 104,
+                    "verse": 4,
+                    "text": "Who maketh his angels spirits; his ministers a flaming fire:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9001174509595321
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 104,
+                    "verse": 4,
+                    "text": "Who maketh his angels spirits; his ministers a flaming fire:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9614366911985479
                 }
             ]
         },
@@ -612,82 +761,342 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 45,
                     "verse": 6,
                     "text": "Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a right sceptre.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9239177040244515
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 72,
                     "verse": 1,
                     "text": "Give the king thy judgments, O God, and thy righteousness unto the king's son.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8586372342932905
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Lamentations",
+                    "volume_book_index": 25,
                     "chapter": 5,
                     "verse": 19,
                     "text": "Thou, O Lord, remainest for ever; thy throne from generation to generation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8354745952019275
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Daniel",
+                    "volume_book_index": 27,
                     "chapter": 2,
                     "verse": 37,
                     "text": "Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8283154587161249
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 9,
                     "verse": 8,
                     "text": "Blessed be the Lord thy God, which delighted in thee to set thee on his throne, to be king for the Lord thy God: because thy God loved Israel, to establish them for ever, therefore made he thee king over them, to do judgment and justice.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8269901412397632
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 31,
+                    "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8188737593479275
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 41,
                     "verse": 40,
                     "text": "Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.817005107199191
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 5,
                     "verse": 50,
                     "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8164575450790889
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Moroni",
+                    "volume_book_index": 15,
                     "chapter": 9,
                     "verse": 26,
                     "text": "And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the right hand of his power, until all things shall become subject unto him, be, and abide with you forever. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8147473137543204
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 40,
                     "verse": 25,
                     "text": "And then shall the righteous shine forth in the kingdom of God.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8145234594338925
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 1,
                     "verse": 30,
                     "text": "Even as I sware unto thee by the Lord God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8131771705892548
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 71,
+                    "verse": 19,
+                    "text": "Thy righteousness also, O God, is very high, who hast done great things: O God, who is like unto thee!",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8127177918252758
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 32,
+                    "verse": 1,
+                    "text": "Behold, a king shall reign in righteousness, and princes shall rule in judgment.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812557660495178
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 23,
+                    "verse": 22,
+                    "text": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811812191842039
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 28,
+                    "verse": 10,
+                    "text": "And for this cause ye shall have fulness of joy; and ye shall sit down in the kingdom of my Father; yea, your joy shall be full, even as the Father hath given me fulness of joy; and ye shall be even as I am, and I am even as the Father; and the Father and I are one;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.811762159974564
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 10,
+                    "verse": 9,
+                    "text": "Blessed be the Lord thy God, which delighted in thee, to set thee on the throne of Israel: because the Lord loved Israel for ever, therefore made he thee king, to do judgment and justice.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8095907359231148
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Chronicles",
+                    "volume_book_index": 13,
+                    "chapter": 22,
+                    "verse": 11,
+                    "text": "Now, my son, the Lord be with thee; and prosper thou, and build the house of the Lord thy God, as he hath said of thee.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8094353511974253
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8091174828254515
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 132,
+                    "verse": 49,
+                    "text": "For I am the Lord thy God, and will be with thee even unto the end of the world, and through all eternity; for verily I seal upon you your exaltation, and prepare a throne for you in the kingdom of my Father, with Abraham your father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8088344561050731
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 32,
+                    "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8055398554905635
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Exodus",
+                    "volume_book_index": 2,
+                    "chapter": 15,
+                    "verse": 18,
+                    "text": "The Lord shall reign for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8044202798320454
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 146,
+                    "verse": 10,
+                    "text": "The Lord shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8038444386186041
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "1 Kings",
+                    "volume_book_index": 11,
+                    "chapter": 9,
+                    "verse": 5,
+                    "text": "Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8033821149463662
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 23,
+                    "text": "Behold thou art Hyrum, my son; seek the kingdom of God, and all things shall be added according to that which is just.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016763783439259
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 3,
+                    "verse": 12,
+                    "text": "For whom the Lord loveth he correcteth; even as a father the son in whom he delighteth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8009189242870569
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 13,
+                    "verse": 43,
+                    "text": "Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008951802707509
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 28,
+                    "verse": 2,
+                    "text": "Son of man, say unto the prince of Tyrus, Thus saith the Lord God; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001485914250029
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 6,
+                    "text": "Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a right sceptre.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.871917716975076
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 6,
+                    "text": "Thy throne, O God, is for ever and ever: the sceptre of thy kingdom is a right sceptre.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9489285976333279
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "2 Samuel",
+                    "volume_book_index": 10,
+                    "chapter": 7,
+                    "verse": 16,
+                    "text": "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9150547486478455
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Lamentations",
+                    "volume_book_index": 25,
+                    "chapter": 5,
+                    "verse": 19,
+                    "text": "Thou, O Lord, remainest for ever; thy throne from generation to generation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9085962879709804
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 108,
+                    "text": "Then shall he be crowned with the crown of his glory, to sit on the throne of his power to reign forever and ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9036150632134058
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 93,
+                    "verse": 2,
+                    "text": "Thy throne is established of old: thou art from everlasting.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9029834866523743
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 145,
+                    "verse": 13,
+                    "text": "Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9025685402067226
                 }
             ]
         },
@@ -698,82 +1107,132 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 45,
                     "verse": 7,
                     "text": "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9586485699972976
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 28,
                     "verse": 47,
                     "text": "Because thou servedst not the Lord thy God with joyfulness, and with gladness of heart, for the abundance of all things;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8184780193411823
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 71,
                     "verse": 19,
                     "text": "Thy righteousness also, O God, is very high, who hast done great things: O God, who is like unto thee!",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.812811731582665
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 10,
                     "verse": 3,
                     "text": "For the wicked boasteth of his heart's desire, and blesseth the covetous, whom the Lord abhorreth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8060342506492946
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 33,
                     "verse": 1,
                     "text": "Rejoice in the Lord, O ye righteous: for praise is comely for the upright.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8041442524601831
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 12,
                     "verse": 1,
                     "text": "And in that day thou shalt say, O Lord, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8028985499635904
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 22,
                     "verse": 1,
                     "text": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8028985499635904
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 35,
                     "verse": 24,
                     "text": "Judge me, O Lord my God, according to thy righteousness; and let them not rejoice over me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8028013276145196
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 17,
                     "verse": 35,
                     "text": "Behold, the Lord esteemeth all flesh in one; he that is righteous is favored of God. But behold, this people had rejected every word of God, and they were ripe in iniquity; and the fulness of the wrath of God was upon them; and the Lord did curse the land against them, and bless it unto our fathers; yea, he did curse it against them unto their destruction, and he did bless it unto our fathers unto their obtaining power over it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021544819846713
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 5,
                     "verse": 17,
                     "text": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8014817768392957
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Ether",
+                    "volume_book_index": 14,
+                    "chapter": 3,
+                    "verse": 3,
+                    "text": "Behold, O Lord, thou hast smitten us because of our iniquity, and hast driven us forth, and for these many years we have been in the wilderness; nevertheless, thou hast been merciful unto us. O Lord, look upon me in pity, and turn away thine anger from this thy people, and suffer not that they shall go forth across this raging deep in darkness; but behold these things which I have molten out of the rock.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006116923682329
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 7,
+                    "text": "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9531063465412666
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 45,
+                    "verse": 7,
+                    "text": "Thou lovest righteousness, and hatest wickedness: therefore God, thy God, hath anointed thee with the oil of gladness above thy fellows.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9874824866631892
                 }
             ]
         },
@@ -784,82 +1243,442 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 102,
                     "verse": 25,
                     "text": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.936878596652838
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 89,
                     "verse": 11,
                     "text": "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8477720980744795
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Deuteronomy",
+                    "volume_book_index": 5,
                     "chapter": 3,
                     "verse": 24,
                     "text": "O Lord God, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8345525178594801
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Jeremiah",
+                    "volume_book_index": 24,
                     "chapter": 32,
                     "verse": 17,
                     "text": "Ah Lord God! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, and there is nothing too hard for thee:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8298612854940722
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 20,
                     "verse": 13,
                     "text": "Mine hand hath also laid the foundation of the earth, and my right hand hath spanned the heavens. I call unto them and they stand up together.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8258474136000685
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 48,
                     "verse": 13,
                     "text": "Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.823657239856826
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 8,
                     "verse": 16,
                     "text": "And I have put my words in thy mouth, and have covered thee in the shadow of mine hand, that I may plant the heavens and lay the foundations of the earth, and say unto Zion: Behold, thou art my people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8209959566592961
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 51,
                     "verse": 16,
                     "text": "And I have put my words in thy mouth, and I have covered thee in the shadow of mine hand, that I may plant the heavens, and lay the foundations of the earth, and say unto Zion, Thou art my people.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8205007421354255
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 1,
                     "text": "In the beginning God created the heaven and the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8188115974930529
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 1,
                     "text": "Hearken, O ye people of my church, to whom the kingdom has been given; hearken ye and give ear to him who laid the foundation of the earth, who made the heavens and all the hosts thereof, and by whom all things were made which live, and move, and have a being.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8187408707693797
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 45,
+                    "verse": 18,
+                    "text": "For thus saith the Lord that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I am the Lord; and there is none else.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8175020543236166
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 38,
+                    "verse": 4,
+                    "text": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8166058942730109
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 104,
+                    "verse": 14,
+                    "text": "I, the Lord, stretched out the heavens, and built the earth, my very handiwork; and all things therein are mine.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8128938678697207
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "1 Corinthians",
+                    "volume_book_index": 7,
+                    "chapter": 10,
+                    "verse": 26,
+                    "text": "For the earth is the Lord's, and the fulness thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812177379663948
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 90,
+                    "verse": 17,
+                    "text": "And let the beauty of the Lord our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8111780010497346
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.810020417146159
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 60,
+                    "verse": 2,
+                    "text": "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8084392684348338
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 19,
+                    "verse": 1,
+                    "text": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8050037370168885
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 26,
+                    "verse": 10,
+                    "text": "And now, behold, I have brought the firstfruits of the land, which thou, O Lord, hast given me. And thou shalt set it before the Lord thy God, and worship before the Lord thy God:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8044049946417078
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 44,
+                    "text": "The heavens he made; the earth is his footstool; and the foundation thereof is his. Behold, he laid it, an host of men hath he brought in upon the face thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8037739998082973
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8018125471828016
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 50,
+                    "verse": 1,
+                    "text": "The mighty God, even the Lord, hath spoken, and called the earth from the rising of the sun unto the going down thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8016901326161743
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 119,
+                    "verse": 90,
+                    "text": "Thy faithfulness is unto all generations: thou hast established the earth, and it abideth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015836822402452
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 24,
+                    "verse": 1,
+                    "text": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8008682073659239
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 5,
+                    "text": "Thus saith God the Lord, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8006930420461231
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 25,
+                    "text": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8713115790095489
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 25,
+                    "text": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9621776825719399
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 104,
+                    "verse": 14,
+                    "text": "I, the Lord, stretched out the heavens, and built the earth, my very handiwork; and all things therein are mine.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.93025737169473
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 89,
+                    "verse": 11,
+                    "text": "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9279964842795282
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 6,
+                    "verse": 44,
+                    "text": "The heavens he made; the earth is his footstool; and the foundation thereof is his. Behold, he laid it, an host of men hath he brought in upon the face thereof.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9138696466049451
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 32,
+                    "verse": 17,
+                    "text": "Ah Lord God! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, and there is nothing too hard for thee:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9138676693838379
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Proverbs",
+                    "volume_book_index": 20,
+                    "chapter": 3,
+                    "verse": 19,
+                    "text": "The Lord by wisdom hath founded the earth; by understanding hath he established the heavens.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.911967900752065
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 8,
+                    "verse": 3,
+                    "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9115343803388178
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Nehemiah",
+                    "volume_book_index": 16,
+                    "chapter": 9,
+                    "verse": 6,
+                    "text": "Thou, even thou, art Lord alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9075396441632928
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Job",
+                    "volume_book_index": 18,
+                    "chapter": 38,
+                    "verse": 4,
+                    "text": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9061494031771165
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 3,
+                    "verse": 24,
+                    "text": "O Lord God, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905568892095619
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 51,
+                    "verse": 15,
+                    "text": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heaven by his understanding.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9045538192455569
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 90,
+                    "verse": 2,
+                    "text": "Before the mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9042734177194068
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Jeremiah",
+                    "volume_book_index": 24,
+                    "chapter": 10,
+                    "verse": 12,
+                    "text": "He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heavens by his discretion.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9031960810428934
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "1 Nephi",
+                    "volume_book_index": 1,
+                    "chapter": 20,
+                    "verse": 13,
+                    "text": "Mine hand hath also laid the foundation of the earth, and my right hand hath spanned the heavens. I call unto them and they stand up together.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020533234492939
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "2 Nephi",
+                    "volume_book_index": 2,
+                    "chapter": 8,
+                    "verse": 16,
+                    "text": "And I have put my words in thy mouth, and have covered thee in the shadow of mine hand, that I may plant the heavens and lay the foundations of the earth, and say unto Zion: Behold, thou art my people.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9016495884448045
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 44,
+                    "verse": 24,
+                    "text": "Thus saith the Lord, thy redeemer, and he that formed thee from the womb, I am the Lord that maketh all things; that stretcheth forth the heavens alone; that spreadeth abroad the earth by myself;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.901570877573271
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 48,
+                    "verse": 13,
+                    "text": "Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005779296331985
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 45,
+                    "verse": 18,
+                    "text": "For thus saith the Lord that created the heavens; God himself that formed the earth and made it; he hath established it, he created it not in vain, he formed it to be inhabited: I am the Lord; and there is none else.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9003982394340474
                 }
             ]
         },
@@ -870,82 +1689,42 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 102,
                     "verse": 26,
                     "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9160859103508349
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 26,
                     "verse": 14,
                     "text": "They are dead, they shall not live; they are deceased, they shall not rise: therefore hast thou visited and destroyed them, and made all their memory to perish.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.808650821951514
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
-                    "chapter": 73,
-                    "verse": 27,
-                    "text": "For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.",
-                    "score": 0.7941965056047179
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 7,
-                    "verse": 9,
-                    "text": "For the Lord God will help me. And all they who shall condemn me, behold, all they shall wax old as a garment, and the moth shall eat them up.",
-                    "score": 0.7930254314231588
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 26,
+                    "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.9108841419219971
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 34,
-                    "verse": 15,
-                    "text": "All flesh shall perish together, and man shall turn again unto dust.",
-                    "score": 0.7857508178822199
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 9,
-                    "verse": 16,
-                    "text": "And assuredly, as the Lord liveth, for the Lord God hath spoken it, and it is his eternal word, which cannot pass away, that they who are righteous shall be righteous still, and they who are filthy shall be filthy still; wherefore, they who are filthy are the devil and his angels; and they shall go away into everlasting fire, prepared for them; and their torment is as a lake of fire and brimstone, whose flame ascendeth up forever and ever and has no end.",
-                    "score": 0.7854187713746106
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 41,
-                    "verse": 11,
-                    "text": "Behold, all they that were incensed against thee shall be ashamed and confounded: they shall be as nothing; and they that strive with thee shall perish.",
-                    "score": 0.7843797199562209
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 50,
-                    "verse": 9,
-                    "text": "Behold, the Lord God will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.",
-                    "score": 0.7834390238063959
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 13,
-                    "verse": 11,
-                    "text": "Wo unto the wicked, for they shall perish; for the reward of their hands shall be upon them!",
-                    "score": 0.7804715670113468
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 15,
-                    "verse": 16,
-                    "text": "Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O Lord, till the people pass over, which thou hast purchased.",
-                    "score": 0.779940879970324
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 26,
+                    "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9609779692279099
                 }
             ]
         },
@@ -956,82 +1735,52 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 102,
                     "verse": 26,
                     "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8372172008114842
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 102,
                     "verse": 27,
                     "text": "But thou art the same, and thy years shall have no end.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.819451595472307
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 22,
-                    "verse": 12,
-                    "text": "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself.",
-                    "score": 0.789166966487593
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 21,
-                    "verse": 18,
-                    "text": "Lift up thine eyes round about and behold; all these gather themselves together, and they shall come to thee. And as I live, saith the Lord, thou shalt surely clothe thee with them all, as with an ornament, and bind them on even as a bride.",
-                    "score": 0.77322987018851
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 26,
+                    "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8012029410125592
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 5,
-                    "verse": 3,
-                    "text": "Thou shalt also take thereof a few in number, and bind them in thy skirts.",
-                    "score": 0.7713704056720614
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 26,
+                    "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9196766519161114
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 49,
-                    "verse": 18,
-                    "text": "Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the Lord, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.",
-                    "score": 0.7698425884656314
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 42,
-                    "verse": 40,
-                    "text": "And again, thou shalt not be proud in thy heart; let all thy garments be plain, and their beauty the beauty of the work of thine own hands;",
-                    "score": 0.765537102466018
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 30,
-                    "text": "And thou shalt do it with all humility, trusting in me, reviling not against revilers.",
-                    "score": 0.7655349051854669
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 15,
-                    "verse": 39,
-                    "text": "And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the Lord, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:",
-                    "score": 0.7625121759936943
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 26,
-                    "verse": 23,
-                    "text": "And if ye will not be reformed by me by these things, but will walk contrary unto me;",
-                    "score": 0.7614785998530819
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 102,
+                    "verse": 27,
+                    "text": "But thou art the same, and thy years shall have no end.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9129660129547379
                 }
             ]
         },
@@ -1042,82 +1791,122 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 110,
                     "verse": 1,
                     "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9172504979683697
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 88,
-                    "text": "And whoso receiveth you, there I will be also, for I will go before your face. I will be on your right hand and on your left, and my Spirit shall be in your hearts, and mine angels round about you, to bear you up.",
-                    "score": 0.7858321167375385
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 16,
-                    "verse": 8,
-                    "text": "I have set the Lord always before me: because he is at my right hand, I shall not be moved.",
-                    "score": 0.7838906937992643
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 24,
-                    "text": "For behold, in my name are they called; and if they know me they shall come forth, and shall have a place eternally at my right hand.",
-                    "score": 0.7771043363117831
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 28,
-                    "verse": 14,
-                    "text": "And thou shalt not go aside from any of the words which I command thee this day, to the right hand, or to the left, to go after other gods to serve them.",
-                    "score": 0.7728010925557695
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 23,
-                    "verse": 20,
-                    "text": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.",
-                    "score": 0.7694109897590717
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 31,
-                    "verse": 15,
-                    "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.",
-                    "score": 0.7692912922186146
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 71,
-                    "verse": 10,
-                    "text": "For mine enemies speak against me; and they that lay wait for my soul take counsel together,",
-                    "score": 0.7690229618223171
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 17,
-                    "verse": 3,
-                    "text": "Lay down now, put me in a surety with thee; who is he that will strike hands with me?",
-                    "score": 0.7679102897011665
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
                     "chapter": 22,
-                    "verse": 34,
-                    "text": "And Balaam said unto the angel of the Lord, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.",
-                    "score": 0.7678673254538902
+                    "verse": 44,
+                    "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9153400570082022
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 36,
+                    "text": "For David himself said by the Holy Ghost, The Lord said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8737586371999929
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Acts",
+                    "volume_book_index": 5,
+                    "chapter": 2,
+                    "verse": 35,
+                    "text": "Until I make thy foes thy footstool.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8303326520496953
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 20,
+                    "verse": 43,
+                    "text": "Till I make thine enemies thy footstool.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8232779231929106
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 25,
+                    "verse": 41,
+                    "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8027718936036478
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 44,
+                    "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8114046791664354
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 110,
+                    "verse": 1,
+                    "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.80658479850474
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 44,
+                    "text": "The Lord said unto my Lord, Sit thou on my right hand, till I make thine enemies thy footstool?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9442315383026466
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 110,
+                    "verse": 1,
+                    "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9429153484974909
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Mark",
+                    "volume_book_index": 2,
+                    "chapter": 12,
+                    "verse": 36,
+                    "text": "For David himself said by the Holy Ghost, The Lord said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9341445843620478
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 20,
+                    "verse": 43,
+                    "text": "Till I make thine enemies thy footstool.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9022468001320009
                 }
             ]
         },
@@ -1128,82 +1917,22 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
                     "verse": 88,
                     "text": "And also the telestial receive it of the administering of angels who are appointed to minister for them, or who are appointed to be ministering spirits for them; for they shall be heirs of salvation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8295690615825263
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
-                    "verse": 86,
-                    "text": "These are they who receive not of his fulness in the eternal world, but of the Holy Spirit through the ministration of the terrestrial;",
-                    "score": 0.7920643760794439
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 132,
-                    "verse": 16,
-                    "text": "Therefore, when they are out of the world they neither marry nor are given in marriage; but are appointed angels in heaven, which angels are ministering servants, to minister for those who are worthy of a far more, and an exceeding, and an eternal weight of glory.",
-                    "score": 0.7805310905964491
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 27,
-                    "text": "As well as those who should come after, who should believe in the gifts and callings of God by the Holy Ghost, which beareth record of the Father and of the Son;",
-                    "score": 0.7766403320019212
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 10,
-                    "verse": 14,
-                    "text": "And again, to another, the beholding of angels and ministering spirits;",
-                    "score": 0.7761892813200082
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 12,
-                    "verse": 9,
-                    "text": "For ye are not as yet come to the rest and to the inheritance, which the Lord your God giveth you.",
-                    "score": 0.7717422648742972
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 8,
-                    "verse": 19,
-                    "text": "And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?",
-                    "score": 0.770806447327024
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 18,
-                    "verse": 19,
-                    "text": "And when they shall say unto you: Seek unto them that have familiar spirits, and unto wizards that peep and mutter--should not a people seek unto their God for the living to hear from the dead?",
-                    "score": 0.7706776321692075
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 130,
-                    "verse": 5,
-                    "text": "I answer, Yes. But there are no angels who minister to this earth but those who do belong or have belonged to it.",
-                    "score": 0.7700253607397788
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 76,
-                    "text": "These are they who receive of his glory, but not of his fulness.",
-                    "score": 0.7681505115599216
+                    "verse": 88,
+                    "text": "And also the telestial receive it of the administering of angels who are appointed to minister for them, or who are appointed to be ministering spirits for them; for they shall be heirs of salvation.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9082325806340543
                 }
             ]
         }

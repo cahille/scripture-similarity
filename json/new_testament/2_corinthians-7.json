@@ -10,170 +10,59 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 51,
                     "verse": 2,
                     "text": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.823587915173748
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 36,
                     "verse": 25,
                     "text": "Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8043821673834074
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 43,
                     "verse": 11,
                     "text": "Purge ye out the iniquity which is among you; sanctify yourselves before me;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8024126585988854
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Numbers",
+                    "volume_book_index": 4,
                     "chapter": 8,
                     "verse": 7,
                     "text": "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8011910327012803
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 42,
-                    "text": "And go ye out from among the wicked. Save yourselves. Be ye clean that bear the vessels of the Lord. Even so. Amen.",
-                    "score": 0.798264613129744
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 9,
-                    "text": "Wherewithal shall a young man cleanse his way? by taking heed thereto according to thy word.",
-                    "score": 0.7916614399572303
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 50,
-                    "verse": 29,
-                    "text": "And if ye are purified and cleansed from all sin, ye shall ask whatsoever you will in the name of Jesus and it shall be done.",
-                    "score": 0.7897814081504126
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 16,
-                    "verse": 30,
-                    "text": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the Lord.",
-                    "score": 0.7877644610029019
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 100,
-                    "verse": 8,
-                    "text": "And I give unto you this promise, that inasmuch as ye do this the Holy Ghost shall be shed forth in bearing record unto all things whatsoever ye shall say.",
-                    "score": 0.7877014724505376
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "Serve the Lord with fear, and rejoice with trembling.",
-                    "score": 0.7875417983296088
+                    "volume": "New Testament",
+                    "book": "Hebrews",
+                    "volume_book_index": 19,
+                    "chapter": 10,
+                    "verse": 22,
+                    "text": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.900441005891715
                 }
             ]
         },
         {
             "verse": 2,
             "text": "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 106,
-                    "verse": 6,
-                    "text": "We have sinned with our fathers, we have committed iniquity, we have done wickedly.",
-                    "score": 0.7985671906765988
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 5,
-                    "verse": 7,
-                    "text": "Our fathers have sinned, and are not; and we have borne their iniquities.",
-                    "score": 0.781647667391944
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 3,
-                    "verse": 42,
-                    "text": "We have transgressed and have rebelled: thou hast not pardoned.",
-                    "score": 0.7711435000717684
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 12,
-                    "verse": 4,
-                    "text": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man's hand.",
-                    "score": 0.764375121063766
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezra",
-                    "chapter": 9,
-                    "verse": 13,
-                    "text": "And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities deserve, and hast given us such deliverance as this;",
-                    "score": 0.7502053179073764
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 9,
-                    "verse": 31,
-                    "text": "Condemn me not because of mine imperfection, neither my father, because of his imperfection, neither them who have written before him; but rather give thanks unto God that he hath made manifest unto you our imperfections, that ye may learn to be more wise than we have been.",
-                    "score": 0.7443254972897798
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 1,
-                    "verse": 7,
-                    "text": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
-                    "score": 0.7439406210796112
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 2,
-                    "verse": 12,
-                    "text": "To deliver thee from the way of the evil man, from the man that speaketh froward things;",
-                    "score": 0.7433730889065755
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
-                    "chapter": 10,
-                    "verse": 13,
-                    "text": "Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men.",
-                    "score": 0.7433267949546188
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Articles of Faith",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "We believe that men will be punished for their own sins, and not for Adam's transgression.",
-                    "score": 0.7405296555301013
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 3,
@@ -182,82 +71,62 @@
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 45,
                     "verse": 5,
                     "text": "Now therefore be not grieved, nor angry with yourselves, that ye sold me hither: for God did send me before you to preserve life.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8136918049922521
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 15,
                     "verse": 10,
                     "text": "Behold, I said unto them: How is it that ye do not keep the commandments of the Lord? How is it that ye will perish, because of the hardness of your hearts?",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8054885145529795
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 12,
                     "verse": 36,
                     "text": "And now, my brethren, behold I say unto you, that if ye will harden your hearts ye shall not enter into the rest of the Lord; therefore your iniquity provoketh him that he sendeth down his wrath upon you as in the first provocation, yea, according to his word in the last provocation as well as the first, to the everlasting destruction of your souls; therefore, according to his word, unto the last death, as well as the first.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.803497010192589
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "John",
+                    "volume_book_index": 4,
+                    "chapter": 8,
+                    "verse": 24,
+                    "text": "I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8007529593348085
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Job",
+                    "volume_book_index": 18,
                     "chapter": 10,
                     "verse": 2,
                     "text": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8007297614671373
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 88,
                     "verse": 62,
                     "text": "And again, verily I say unto you, my friends, I leave these sayings with you to ponder in your hearts, with this commandment which I give unto you, that ye shall call upon me while I am near--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8004958323059612
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 116,
-                    "text": "Uphold me according unto thy word, that I may live: and let me not be ashamed of my hope.",
-                    "score": 0.797660261269556
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 14,
-                    "text": "But now I tell it unto you, and ye are blessed, not because of your iniquity, neither your hearts of unbelief; for verily some of you are guilty before me, but I will be merciful unto your weakness.",
-                    "score": 0.7953529703795703
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 1,
-                    "verse": 42,
-                    "text": "And the Lord said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.",
-                    "score": 0.7940682619458534
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 22,
-                    "verse": 23,
-                    "text": "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou shalt be in safeguard.",
-                    "score": 0.7937741673309597
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 4,
-                    "verse": 32,
-                    "text": "And it came to pass that I spake with him, that if he would hearken unto my words, as the Lord liveth, and as I live, even so that if he would hearken unto our words, we would spare his life.",
-                    "score": 0.7927578873265335
                 }
             ]
         },
@@ -268,254 +137,113 @@
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 71,
                     "verse": 21,
                     "text": "Thou shalt increase my greatness, and comfort me on every side.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8348643399665266
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mosiah",
+                    "volume_book_index": 8,
                     "chapter": 3,
                     "verse": 3,
                     "text": "And he said unto me: Awake, and hear the words which I shall tell thee; for behold, I am come to declare unto you the glad tidings of great joy.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8087600222877959
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 109,
-                    "verse": 30,
-                    "text": "I will greatly praise the Lord with my mouth; yea, I will praise him among the multitude.",
-                    "score": 0.7957567734930382
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 71,
-                    "verse": 8,
-                    "text": "Let my mouth be filled with thy praise and with thy honour all the day.",
-                    "score": 0.7953379571011261
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 18,
-                    "verse": 17,
-                    "text": "I say unto you, what is it, that thy marvelings are so great? Behold, I am a man, and am thy servant; therefore, whatsoever thou desirest which is right, that will I do.",
-                    "score": 0.7934795945722033
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 45,
-                    "verse": 62,
-                    "text": "For verily I say unto you, that great things await you;",
-                    "score": 0.792465445744243
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 9,
-                    "verse": 1,
-                    "text": "I will praise thee, O Lord, with my whole heart; I will shew forth all thy marvellous works.",
-                    "score": 0.7892912956373671
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 35,
-                    "verse": 18,
-                    "text": "I will give thee thanks in the great congregation: I will praise thee among much people.",
-                    "score": 0.7882158861040737
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 33,
-                    "verse": 18,
-                    "text": "For behold, verily, verily, I say unto you, that I come quickly. Even so. Amen.",
-                    "score": 0.7881246333464945
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
-                    "score": 0.78753444427465
                 }
             ]
         },
         {
             "verse": 5,
             "text": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Habakkuk",
-                    "chapter": 3,
-                    "verse": 16,
-                    "text": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.",
-                    "score": 0.7720352243367169
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 60,
-                    "verse": 16,
-                    "text": "Yea, had it not been for the war which broke out among ourselves; yea, were it not for these king-men, who caused so much bloodshed among ourselves; yea, at the time we were contending among ourselves, if we had united our strength as we hitherto have done; yea, had it not been for the desire of power and authority which those king-men had over us; had they been true to the cause of our freedom, and united with us, and gone forth against our enemies, instead of taking up their swords against us, which was the cause of so much bloodshed among ourselves; yea, if we had gone forth against them in the strength of the Lord, we should have dispersed our enemies, for it would have been done, according to the fulfilling of his word.",
-                    "score": 0.7663651648867741
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 8,
-                    "verse": 15,
-                    "text": "We looked for peace, but no good came; and for a time of health, and behold trouble!",
-                    "score": 0.7608737435391538
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 5,
-                    "verse": 5,
-                    "text": "Our necks are under persecution: we labour, and have no rest.",
-                    "score": 0.7518283028080525
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 8,
-                    "verse": 10,
-                    "text": "For before these days there was no hire for man, nor any hire for beast; neither was there any peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour.",
-                    "score": 0.7514821496652049
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 15,
-                    "verse": 5,
-                    "text": "And in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries.",
-                    "score": 0.7499578045777852
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 18,
-                    "verse": 4,
-                    "text": "The sorrows of death compassed me, and the floods of ungodly men made me afraid.",
-                    "score": 0.749570534051558
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 58,
-                    "verse": 15,
-                    "text": "And it came to pass that when they saw that we were not strong, according to our numbers, and fearing that we should cut them off from their support except they should come out to battle against us and kill us, and also supposing that they could easily destroy us with their numerous hosts, therefore they began to make preparations to come out against us to battle.",
-                    "score": 0.7467124650893951
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 24,
-                    "text": "But they hardened their hearts and could not endure his presence; therefore, the Lord in his wrath, for his anger was kindled against them, swore that they should not enter into his rest while in the wilderness, which rest is the fulness of his glory.",
-                    "score": 0.7464558676461553
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 56,
-                    "verse": 40,
-                    "text": "Now they durst not turn to the right nor to the left lest they should be surrounded; neither would I turn to the right nor to the left lest they should overtake me, and we could not stand against them, but be slain, and they would make their escape; and thus we did flee all that day into the wilderness, even until it was dark.",
-                    "score": 0.7453317816511054
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 6,
             "text": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 7,
+                    "verse": 13,
+                    "text": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8253242838883842
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 5,
+                    "verse": 4,
+                    "text": "Blessed are they that mourn: for they shall be comforted.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8239293048294248
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 1,
+                    "verse": 4,
+                    "text": "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.816763909910606
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 12,
                     "verse": 4,
                     "text": "And again, blessed are all they that mourn, for they shall be comforted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8120218517128873
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 101,
                     "verse": 14,
                     "text": "And all they who have mourned shall be comforted.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8081213578337214
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Isaiah",
+                    "volume_book_index": 23,
                     "chapter": 66,
                     "verse": 13,
                     "text": "As one whom his mother comforteth, so will I comfort you; and ye shall be comforted in Jerusalem.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8068633175947899
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 40,
-                    "verse": 1,
-                    "text": "Comfort ye, comfort ye my people, saith your God.",
-                    "score": 0.7984516681832017
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 7,
+                    "verse": 13,
+                    "text": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.923390512264342
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 24,
-                    "verse": 3,
-                    "text": "And it shall come to pass in that day that the Lord shall give thee rest, from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve.",
-                    "score": 0.7958241625320678
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 14,
-                    "verse": 3,
-                    "text": "And it shall come to pass in the day that the Lord shall give thee rest from thy sorrow, and from thy fear, and from the hard bondage wherein thou wast made to serve,",
-                    "score": 0.7947410286314252
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 53,
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 1,
                     "verse": 4,
-                    "text": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.",
-                    "score": 0.7897070422446872
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 16,
-                    "verse": 54,
-                    "text": "That thou mayest bear thine own shame, and mayest be confounded in all that thou hast done, in that thou art a comfort unto them.",
-                    "score": 0.7806949985833714
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 22,
-                    "verse": 1,
-                    "text": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.",
-                    "score": 0.777691369334668
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 12,
-                    "verse": 1,
-                    "text": "And in that day thou shalt say, O Lord, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.",
-                    "score": 0.777691369334668
+                    "text": "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9000901162463235
                 }
             ]
         },
@@ -524,172 +252,31 @@
             "text": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 53,
-                    "verse": 4,
-                    "text": "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.",
-                    "score": 0.7846962833882665
+                    "volume": "New Testament",
+                    "book": "Philippians",
+                    "volume_book_index": 11,
+                    "chapter": 2,
+                    "verse": 28,
+                    "text": "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8042727360985259
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 14,
-                    "verse": 4,
-                    "text": "Surely he has borne our griefs, and carried our sorrows; yet we did esteem him stricken, smitten of God, and afflicted.",
-                    "score": 0.7757887672848385
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 23,
-                    "text": "And he spake unto me, saying: Yea, and the most joyous to the soul.",
-                    "score": 0.7599058597805897
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 40,
-                    "verse": 1,
-                    "text": "Now my son, here is somewhat more I would say unto thee; for I perceive that thy mind is worried concerning the resurrection of the dead.",
-                    "score": 0.756941509029191
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 26,
-                    "verse": 27,
-                    "text": "Now when our hearts were depressed, and we were about to turn back, behold, the Lord comforted us, and said: Go amongst thy brethren, the Lamanites, and bear with patience thine afflictions, and I will give unto you success.",
-                    "score": 0.7554787443493829
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 116,
-                    "verse": 7,
-                    "text": "Return unto thy rest, O my soul; for the Lord hath dealt bountifully with thee.",
-                    "score": 0.7549084752206663
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
                     "chapter": 7,
-                    "verse": 22,
-                    "text": "Now, this thing was pleasing unto me, Jacob, for I had requested it of my Father who was in heaven; for he had heard my cry and answered my prayer.",
-                    "score": 0.7538349636583831
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 111,
-                    "verse": 1,
-                    "text": "I, the Lord your God, am not displeased with your coming this journey, notwithstanding your follies.",
-                    "score": 0.7537287653274604
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
-                    "score": 0.753512114781615
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 46,
-                    "verse": 25,
-                    "text": "Now behold, this giveth my soul sorrow; nevertheless, my soul hath joy in my son, because of that part of his seed which shall be taken unto God.",
-                    "score": 0.7522300835543828
+                    "verse": 13,
+                    "text": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9085791761529953
                 }
             ]
         },
         {
             "verse": 8,
             "text": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 31,
-                    "text": "And ye shall also forgive one another your trespasses; for verily I say unto you, he that forgiveth not his neighbor's trespasses when he says that he repents, the same hath brought himself under condemnation.",
-                    "score": 0.7424500237356517
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 103,
-                    "verse": 4,
-                    "text": "And that those who call themselves after my name might be chastened for a little season with a sore and grievous chastisement, because they did not hearken altogether unto the precepts and commandments which I gave unto them.",
-                    "score": 0.7295324852620287
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 8,
-                    "verse": 14,
-                    "text": "For thus saith the Lord of hosts; As I thought to punish you, when your fathers provoked me to wrath, saith the Lord of hosts, and I repented not:",
-                    "score": 0.7293375416529967
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 14,
-                    "verse": 18,
-                    "text": "Yea, and it bringeth to pass the condition of repentance, that whosoever repenteth the same is not hewn down and cast into the fire; but whosoever repenteth not is hewn down and cast into the fire; and there cometh upon them again a spiritual death, yea, a second death, for they are cut off again as to things pertaining to righteousness.",
-                    "score": 0.7230720252336982
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 56,
-                    "verse": 14,
-                    "text": "Behold, thus saith the Lord unto my people--you have many things to do and to repent of; for behold, your sins have come up unto me, and are not pardoned, because you seek to counsel in your own ways.",
-                    "score": 0.7225456532799477
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 26,
-                    "verse": 32,
-                    "text": "Now I say unto you, Go; and whosoever will not repent of his sins the same shall not be numbered among my people; and this shall be observed from this time forward.",
-                    "score": 0.7210350114658067
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 16,
-                    "text": "Get thee hence, Satan; deceive me not; for God said unto me: Thou art after the similitude of mine Only Begotten.",
-                    "score": 0.7202204062541963
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 15,
-                    "verse": 14,
-                    "text": "Therefore I say unto you, it shall be better for them than for you except ye repent.",
-                    "score": 0.720042709013822
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 14,
-                    "verse": 19,
-                    "text": "Therefore repent ye, repent ye, lest by knowing these things and not doing them ye shall suffer yourselves to come under condemnation, and ye are brought down unto this second death.",
-                    "score": 0.7195073064762129
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 98,
-                    "verse": 39,
-                    "text": "And again, verily I say unto you, if after thine enemy has come upon thee the first time, he repent and come unto thee praying thy forgiveness, thou shalt forgive him, and shalt hold it no more as a testimony against thine enemy--",
-                    "score": 0.719152520460474
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 9,
@@ -698,82 +285,42 @@
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 19,
                     "verse": 16,
                     "text": "For behold, I, God, have suffered these things for all, that they might not suffer if they would repent;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8156562180010243
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 13,
+                    "verse": 7,
+                    "text": "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8080177385265597
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 27,
                     "text": "And inasmuch as they sinned they might be chastened, that they might repent;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8061240934334961
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 29,
                     "verse": 3,
                     "text": "Behold, verily, verily, I say unto you, that at this time your sins are forgiven you, therefore ye receive these things; but remember to sin no more, lest perils shall come upon you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.805599679202085
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 9,
-                    "verse": 13,
-                    "text": "O all ye that are spared because ye were more righteous than they, will ye not now return unto me, and repent of your sins, and be converted, that I may heal you?",
-                    "score": 0.7984135579748801
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 14,
-                    "verse": 19,
-                    "text": "Therefore repent ye, repent ye, lest by knowing these things and not doing them ye shall suffer yourselves to come under condemnation, and ye are brought down unto this second death.",
-                    "score": 0.7923206287282427
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 13,
-                    "verse": 30,
-                    "text": "And may the Lord grant unto you repentance, that ye may not bring down his wrath upon you, that ye may not be bound down by the chains of hell, that ye may not suffer the second death.",
-                    "score": 0.7906585854469417
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 24,
-                    "verse": 10,
-                    "text": "And I also thank my God, yea, my great God, that he hath granted unto us that we might repent of these things, and also that he hath forgiven us of those our many sins and murders which we have committed, and taken away the guilt from our hearts, through the merits of his Son.",
-                    "score": 0.7898481086304634
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Ether",
-                    "chapter": 11,
-                    "verse": 8,
-                    "text": "And the people began to repent of their iniquity; and inasmuch as they did the Lord did have mercy on them.",
-                    "score": 0.7895323676460979
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 78,
-                    "text": "Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts.",
-                    "score": 0.7861710350882325
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 2,
-                    "verse": 13,
-                    "text": "But behold this my joy was vain, for their sorrowing was not unto repentance, because of the goodness of God; but it was rather the sorrowing of the damned, because the Lord would not always suffer them to take happiness in sin.",
-                    "score": 0.7852645800415402
                 }
             ]
         },
@@ -784,340 +331,148 @@
                 {
                     "volume": "Book of Mormon",
                     "book": "Mormon",
+                    "volume_book_index": 13,
                     "chapter": 2,
                     "verse": 13,
                     "text": "But behold this my joy was vain, for their sorrowing was not unto repentance, because of the goodness of God; but it was rather the sorrowing of the damned, because the Lord would not always suffer them to take happiness in sin.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8237516242769656
                 },
                 {
+                    "volume": "New Testament",
+                    "book": "Ephesians",
+                    "volume_book_index": 10,
+                    "chapter": 4,
+                    "verse": 30,
+                    "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8160347656058243
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "James",
+                    "volume_book_index": 20,
+                    "chapter": 1,
+                    "verse": 20,
+                    "text": "For the wrath of man worketh not the righteousness of God.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.812113305175969
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 13,
                     "verse": 30,
                     "text": "And may the Lord grant unto you repentance, that ye may not bring down his wrath upon you, that ye may not be bound down by the chains of hell, that ye may not suffer the second death.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8070002507705687
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 14,
-                    "verse": 19,
-                    "text": "Therefore repent ye, repent ye, lest by knowing these things and not doing them ye shall suffer yourselves to come under condemnation, and ye are brought down unto this second death.",
-                    "score": 0.7982490327817402
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 44,
-                    "text": "And they that believe not unto eternal damnation; for they cannot be redeemed from their spiritual fall, because they repent not;",
-                    "score": 0.7961718679698575
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 28,
+                    "volume": "New Testament",
+                    "book": "1 Thessalonians",
+                    "volume_book_index": 13,
+                    "chapter": 5,
                     "verse": 9,
-                    "text": "And again, ye shall not have pain while ye shall dwell in the flesh, neither sorrow save it be for the sins of the world; and all this will I do because of the thing which ye have desired of me, for ye have desired that ye might bring the souls of men unto me, while the world shall stand.",
-                    "score": 0.7961588826926517
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 11,
-                    "verse": 4,
-                    "text": "Riches profit not in the day of wrath: but righteousness delivereth from death.",
-                    "score": 0.794566524267362
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Amos",
-                    "chapter": 7,
-                    "verse": 3,
-                    "text": "The Lord repented for this: It shall not be, saith the Lord.",
-                    "score": 0.7944885632648487
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 18,
-                    "verse": 11,
-                    "text": "For, behold, the Lord your Redeemer suffered death in the flesh; wherefore he suffered the pain of all men, that all men might repent and come unto him.",
-                    "score": 0.7913013108751178
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 42,
-                    "verse": 16,
-                    "text": "Now, repentance could not come unto men except there were a punishment, which also was eternal as the life of the soul should be, affixed opposite to the plan of happiness, which was as eternal also as the life of the soul.",
-                    "score": 0.791267504255142
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 19,
-                    "verse": 16,
-                    "text": "For behold, I, God, have suffered these things for all, that they might not suffer if they would repent;",
-                    "score": 0.7899537402483844
+                    "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030920688127494
                 }
             ]
         },
         {
             "verse": 11,
             "text": "For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 20,
-                    "verse": 43,
-                    "text": "And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall lothe yourselves in your own sight for all your evils that ye have committed.",
-                    "score": 0.7996821064753966
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 54,
-                    "verse": 9,
-                    "text": "And now behold, we are prepared to receive you; yea, and except you withdraw your purposes, behold, ye will pull down the wrath of that God whom you have rejected upon you, even to your utter destruction.",
-                    "score": 0.7937447792554251
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 36,
-                    "verse": 31,
-                    "text": "Then shall ye remember your own evil ways, and your doings that were not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations.",
-                    "score": 0.7893098165478318
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 22,
-                    "verse": 31,
-                    "text": "Therefore have I poured out mine indignation upon them; I have consumed them with the fire of my wrath: their own way have I recompensed upon their heads, saith the Lord God.",
-                    "score": 0.786803000611872
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 29,
-                    "verse": 3,
-                    "text": "Behold, verily, verily, I say unto you, that at this time your sins are forgiven you, therefore ye receive these things; but remember to sin no more, lest perils shall come upon you.",
-                    "score": 0.7856972138709399
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 36,
-                    "verse": 2,
-                    "text": "For he flattereth himself in his own eyes, until his iniquity be found to be hateful.",
-                    "score": 0.7848741571953802
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 30,
-                    "verse": 15,
-                    "text": "Why criest thou for thine affliction? thy sorrow is incurable for the multitude of thine iniquity: because thy sins were increased, I have done these things unto thee.",
-                    "score": 0.7844794431542123
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 43,
-                    "verse": 11,
-                    "text": "Purge ye out the iniquity which is among you; sanctify yourselves before me;",
-                    "score": 0.7823414101586595
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 1,
-                    "verse": 12,
-                    "text": "Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the Lord hath afflicted me in the day of his fierce anger.",
-                    "score": 0.7807055191191304
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 7,
-                    "verse": 8,
-                    "text": "Now will I shortly pour out my fury upon thee, and accomplish mine anger upon thee: and I will judge thee according to thy ways, and will recompense thee for all thine abominations.",
-                    "score": 0.7772286192463412
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 12,
             "text": "Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.",
-            "similars": [
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Moroni",
-                    "chapter": 1,
-                    "verse": 4,
-                    "text": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.",
-                    "score": 0.7864555207761462
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 34,
-                    "verse": 28,
-                    "text": "And now behold, my beloved brethren, I say unto you, do not suppose that this is all; for after ye have done all these things, if ye turn away the needy, and the naked, and visit not the sick and afflicted, and impart of your substance, if ye have, to those who stand in need--I say unto you, if ye do not any of these things, behold, your prayer is vain, and availeth you nothing, and ye are as hypocrites who do deny the faith.",
-                    "score": 0.7823815126072563
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mormon",
-                    "chapter": 9,
-                    "verse": 31,
-                    "text": "Condemn me not because of mine imperfection, neither my father, because of his imperfection, neither them who have written before him; but rather give thanks unto God that he hath made manifest unto you our imperfections, that ye may learn to be more wise than we have been.",
-                    "score": 0.780601478280906
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 15,
-                    "verse": 13,
-                    "text": "For because ye did it not at the first, the Lord our God made a breach upon us, for that we sought him not after the due order.",
-                    "score": 0.7794175052966965
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 63,
-                    "verse": 12,
-                    "text": "Wherefore, I, the Lord, am not pleased with those among you who have sought after signs and wonders for faith, and not for the good of men unto my glory.",
-                    "score": 0.7777804586396809
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 74,
-                    "verse": 5,
-                    "text": "Wherefore, for this cause the apostle wrote unto the church, giving unto them a commandment, not of the Lord, but of himself, that a believer should not be united to an unbeliever; except the law of Moses should be done away among them,",
-                    "score": 0.7768322472955913
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 2,
-                    "verse": 16,
-                    "text": "Wherefore, the Lord God gave unto man that he should act for himself. Wherefore, man could not act for himself save it should be that he was enticed by the one or the other.",
-                    "score": 0.775855695266126
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 38,
-                    "verse": 14,
-                    "text": "But now I tell it unto you, and ye are blessed, not because of your iniquity, neither your hearts of unbelief; for verily some of you are guilty before me, but I will be merciful unto your weakness.",
-                    "score": 0.7737807478755532
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 15,
-                    "verse": 19,
-                    "text": "For were it not for the redemption which he hath made for his people, which was prepared from the foundation of the world, I say unto you, were it not for this, all mankind must have perished.",
-                    "score": 0.7720757652142133
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 66,
-                    "verse": 4,
-                    "text": "And now, verily, I, the Lord, will show unto you what I will concerning you, or what is my will concerning you.",
-                    "score": 0.771705114540073
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 13,
             "text": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 71,
-                    "verse": 21,
-                    "text": "Thou shalt increase my greatness, and comfort me on every side.",
-                    "score": 0.7795307033567821
+                    "volume": "New Testament",
+                    "book": "1 Corinthians",
+                    "volume_book_index": 7,
+                    "chapter": 16,
+                    "verse": 18,
+                    "text": "For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8257072074268837
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 23,
-                    "text": "And he spake unto me, saying: Yea, and the most joyous to the soul.",
-                    "score": 0.775425467349181
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 26,
-                    "verse": 11,
-                    "text": "And thou shalt rejoice in every good thing which the Lord thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that is among you.",
-                    "score": 0.772844232959836
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 17,
-                    "verse": 10,
-                    "text": "And it came to pass that the Lord did visit them with his Spirit, and said unto them: Be comforted. And they were comforted.",
-                    "score": 0.7718555515628308
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 32,
-                    "verse": 11,
-                    "text": "Be glad in the Lord, and rejoice, ye righteous: and shout for joy, all ye that are upright in heart.",
-                    "score": 0.7711117863671128
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 40,
-                    "verse": 1,
-                    "text": "Comfort ye, comfort ye my people, saith your God.",
-                    "score": 0.7702919998823778
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 126,
-                    "verse": 3,
-                    "text": "The Lord hath done great things for us; whereof we are glad.",
-                    "score": 0.7699801854875732
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 51,
-                    "verse": 12,
-                    "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit.",
-                    "score": 0.7697992883313093
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
                     "chapter": 7,
-                    "verse": 4,
-                    "text": "But blessed be the name of God, that he hath given me to know, yea, hath given unto me the exceedingly great joy of knowing that they are established again in the way of his righteousness.",
-                    "score": 0.7694148538114484
+                    "verse": 6,
+                    "text": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8253242838883842
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 105,
-                    "verse": 43,
-                    "text": "And he brought forth his people with joy, and his chosen with gladness:",
-                    "score": 0.766009787556714
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 1,
+                    "verse": 14,
+                    "text": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8074737742179797
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 8,
+                    "verse": 16,
+                    "text": "But thanks be to God, which put the same earnest care into the heart of Titus for you.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8035804326251488
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 7,
+                    "verse": 6,
+                    "text": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.923390512264342
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "1 Thessalonians",
+                    "volume_book_index": 13,
+                    "chapter": 3,
+                    "verse": 7,
+                    "text": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9123915768837073
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 7,
+                    "verse": 7,
+                    "text": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9085791761529953
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Philemon",
+                    "volume_book_index": 18,
+                    "chapter": 1,
+                    "verse": 7,
+                    "text": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9029899835586548
                 }
             ]
         },
@@ -1126,84 +481,14 @@
             "text": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 8,
-                    "verse": 12,
-                    "text": "Behold, it is I that have spoken it; and I am the same that spake unto you from the beginning. Amen.",
-                    "score": 0.78586357104941
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 6,
-                    "text": "Then shall I not be ashamed, when I have respect unto all thy commandments.",
-                    "score": 0.7795942610684263
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "And now, my brethren, I have spoken unto you concerning pride; and those of you which have afflicted your neighbor, and persecuted him because ye were proud in your hearts, of the things which God hath given you, what say ye of it?",
-                    "score": 0.7791906905271391
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 29,
-                    "verse": 17,
-                    "text": "I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy thy people, which are present here, to offer willingly unto thee.",
-                    "score": 0.7762735670096411
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 15,
-                    "verse": 5,
-                    "text": "Behold, blessed are you for this thing, and for speaking my words which I have given you according to my commandments.",
-                    "score": 0.7756693979545356
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
-                    "verse": 3,
-                    "text": "And behold, I have come having great hopes and much desire that I should find that ye had humbled yourselves before God, and that ye had continued in the supplicating of his grace, that I should find that ye were blameless before him, that I should find that ye were not in the awful dilemma that our brethren were in at Zarahemla.",
-                    "score": 0.7754536352380871
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zephaniah",
-                    "chapter": 3,
-                    "verse": 11,
-                    "text": "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.",
-                    "score": 0.7753933911802979
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 40,
-                    "verse": 10,
-                    "text": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.",
-                    "score": 0.7736777577966664
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 16,
-                    "verse": 5,
-                    "text": "Behold, blessed are you for this thing, and for speaking my words which I have given unto you according to my commandments.",
-                    "score": 0.7720533004217138
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 30,
-                    "verse": 41,
-                    "text": "But, behold, I have all things as a testimony that these things are true; and ye also have all things as a testimony unto you that they are true; and will ye deny them? Believest thou that these things are true?",
-                    "score": 0.771869338246886
+                    "volume": "New Testament",
+                    "book": "2 Corinthians",
+                    "volume_book_index": 8,
+                    "chapter": 10,
+                    "verse": 8,
+                    "text": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079756425387095
                 }
             ]
         },
@@ -1212,84 +497,24 @@
             "text": "And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "1 Thessalonians",
+                    "volume_book_index": 13,
+                    "chapter": 3,
+                    "verse": 12,
+                    "text": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8134380978236783
+                },
+                {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 121,
                     "verse": 43,
                     "text": "Reproving betimes with sharpness, when moved upon by the Holy Ghost; and then showing forth afterwards an increase of love toward him whom thou hast reproved, lest he esteem thee to be his enemy;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8021560279963534
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 112,
-                    "verse": 1,
-                    "text": "Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments.",
-                    "score": 0.7802435592876629
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Song of Solomon",
-                    "chapter": 7,
-                    "verse": 10,
-                    "text": "I am my beloved's, and his desire is toward me.",
-                    "score": 0.7759359992507375
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 1,
-                    "verse": 25,
-                    "text": "And I exceedingly fear and tremble because of you, lest he shall suffer again; for behold, ye have accused him that he sought power and authority over you; but I know that he hath not sought for power nor authority over you, but he hath sought the glory of God, and your own eternal welfare.",
-                    "score": 0.7753169653378272
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 10,
-                    "verse": 11,
-                    "text": "And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling.",
-                    "score": 0.7733724244662854
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 21,
-                    "text": "He hath filled me with his love, even unto the consuming of my flesh.",
-                    "score": 0.7722177624691953
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 16,
-                    "verse": 12,
-                    "text": "And he sent, and brought him in. Now he was ruddy, and withal of a beautiful countenance, and goodly to look to. And the Lord said, Arise, anoint him: for this is he.",
-                    "score": 0.7712844291355189
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 11,
-                    "verse": 13,
-                    "text": "If thou prepare thine heart, and stretch out thine hands toward him;",
-                    "score": 0.7697744183066619
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 38,
-                    "text": "Stablish thy word unto thy servant, who is devoted to thy fear.",
-                    "score": 0.7671240616414005
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 44,
-                    "verse": 3,
-                    "text": "But now, ye behold that the Lord is with us; and ye behold that he has delivered you into our hands. And now I would that ye should understand that this is done unto us because of our religion and our faith in Christ. And now ye see that ye cannot destroy this our faith.",
-                    "score": 0.766266414874725
                 }
             ]
         },
@@ -1298,84 +523,24 @@
             "text": "I rejoice therefore that I have confidence in you in all things.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 4,
-                    "verse": 19,
-                    "text": "And when I desire to rejoice, my heart groaneth because of my sins; nevertheless, I know in whom I have trusted.",
-                    "score": 0.7754943720973312
+                    "volume": "New Testament",
+                    "book": "Philippians",
+                    "volume_book_index": 11,
+                    "chapter": 1,
+                    "verse": 25,
+                    "text": "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8194327441212342
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 13,
-                    "verse": 5,
-                    "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.",
-                    "score": 0.7731694507685136
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 139,
-                    "verse": 14,
-                    "text": "I will praise thee; for I am fearfully and wonderfully made: marvellous are thy works; and that my soul knoweth right well.",
-                    "score": 0.7701316718112514
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 119,
-                    "verse": 14,
-                    "text": "I have rejoiced in the way of thy testimonies, as much as in all riches.",
-                    "score": 0.7600131006855408
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 16,
-                    "verse": 9,
-                    "text": "Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.",
-                    "score": 0.7580292852517173
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 38,
-                    "verse": 2,
-                    "text": "And now, my son, I trust that I shall have great joy in you, because of your steadiness and your faithfulness unto God; for as you have commenced in your youth to look to the Lord your God, even so I hope that you will continue in keeping his commandments; for blessed is he that endureth to the end.",
-                    "score": 0.7546909624616928
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 28,
-                    "verse": 7,
-                    "text": "The Lord is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.",
-                    "score": 0.7545239523235207
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 2,
-                    "verse": 20,
-                    "text": "I say unto you, my brethren, that if you should render all the thanks and praise which your whole soul has power to possess, to that God who has created you, and has kept and preserved you, and has caused that ye should rejoice, and has granted that ye should live in peace one with another--",
-                    "score": 0.7538941096208112
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 7,
-                    "verse": 26,
-                    "text": "And now my beloved brethren, I have spoken these words unto you according to the Spirit which testifieth in me; and my soul doth exceedingly rejoice, because of the exceeding diligence and heed which ye have given unto my word.",
-                    "score": 0.7535214445485053
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 31,
-                    "verse": 24,
-                    "text": "If I have made gold my hope, or have said to the fine gold, Thou art my confidence;",
-                    "score": 0.7534908853062556
+                    "volume": "New Testament",
+                    "book": "Philippians",
+                    "volume_book_index": 11,
+                    "chapter": 1,
+                    "verse": 25,
+                    "text": "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9118134817743713
                 }
             ]
         }

@@ -8,84 +8,34 @@
             "text": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.",
             "similars": [
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 77,
-                    "verse": 6,
-                    "text": "Q. What are we to understand by the book which John saw, which was sealed on the back with seven seals? A. We are to understand that it contains the revealed will, mysteries, and the works of God; the hidden things of his economy concerning this earth during the seven thousand years of its continuance, or its temporal existence.",
-                    "score": 0.7649643304576567
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 2,
-                    "verse": 9,
-                    "text": "And when I looked, behold, an hand was sent unto me; and, lo, a roll of a book was therein;",
-                    "score": 0.7622683521851192
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 22,
-                    "verse": 19,
-                    "text": "And he said, Hear thou therefore the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
-                    "score": 0.7528761065054553
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 18,
-                    "verse": 18,
-                    "text": "Again he said, Therefore hear the word of the Lord; I saw the Lord sitting upon his throne, and all the host of heaven standing on his right hand and on his left.",
-                    "score": 0.7464297512766401
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 5,
-                    "verse": 24,
-                    "text": "Then was the part of the hand sent from him; and this writing was written.",
-                    "score": 0.7379546974465929
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Omni",
-                    "chapter": 1,
-                    "verse": 9,
-                    "text": "Now I, Chemish, write what few things I write, in the same book with my brother; for behold, I saw the last which he wrote, that he wrote it with his own hand; and he wrote it in the day that he delivered them unto me. And after this manner we keep the records, for it is according to the commandments of our fathers. And I make an end.",
-                    "score": 0.7357442610796441
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Deuteronomy",
-                    "chapter": 17,
-                    "verse": 18,
-                    "text": "And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:",
-                    "score": 0.7347212846968937
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 28,
                     "verse": 7,
-                    "text": "For I have given him the keys of the mysteries, and the revelations which are sealed, until I shall appoint unto them another in his stead.",
-                    "score": 0.7345699323111854
+                    "text": "And he came and took the book out of the right hand of him that sat upon the throne.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8188718922428342
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
                     "verse": 7,
-                    "text": "And behold the book shall be sealed; and in the book shall be a revelation from God, from the beginning of the world to the ending thereof.",
-                    "score": 0.7324081974715047
+                    "text": "And he came and took the book out of the right hand of him that sat upon the throne.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9079442675146914
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 77,
-                    "verse": 7,
-                    "text": "Q. What are we to understand by the seven seals with which it was sealed? A. We are to understand that the first seal contains the things of the first thousand years, and the second also of the second thousand years, and so on until the seventh.",
-                    "score": 0.7305937325149038
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 2,
+                    "text": "And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002338111261258
                 }
             ]
         },
@@ -94,84 +44,34 @@
             "text": "And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 7,
+                    "verse": 2,
+                    "text": "And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9042887957182172
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 5,
                     "verse": 5,
-                    "text": "Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what is this that goeth forth.",
-                    "score": 0.7837865070438608
+                    "text": "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005823849937521
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
-                    "verse": 8,
-                    "text": "But behold, the voice said unto me: Arise. And I arose and stood up, and beheld the angel.",
-                    "score": 0.7766556198512826
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "And it came to pass that I obeyed the voice of the angel, and returned towards my house. And as I was going thither I found the man whom the angel said unto me: Thou shalt receive into thy house--and behold it was this same man who has been speaking unto you concerning the things of God.",
-                    "score": 0.7659749514145869
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 38,
-                    "verse": 7,
-                    "text": "But behold, the Lord in his great mercy sent his angel to declare unto me that I must stop the work of destruction among his people; yea, and I have seen an angel face to face, and he spake with me, and his voice was as thunder, and it shook the whole earth.",
-                    "score": 0.7644652810938112
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 25,
-                    "text": "And he saw angels descending out of heaven; and he heard a loud voice saying: Wo, wo be unto the inhabitants of the earth.",
-                    "score": 0.7599461457261998
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 4,
-                    "verse": 1,
-                    "text": "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,",
-                    "score": 0.7586026449467186
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 29,
-                    "text": "Now behold, this is the voice of the angel, crying unto the people.",
-                    "score": 0.7584509330439906
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zechariah",
-                    "chapter": 1,
-                    "verse": 13,
-                    "text": "And the Lord answered the angel that talked with me with good words and comfortable words.",
-                    "score": 0.7564666108222069
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 103,
-                    "verse": 20,
-                    "text": "Bless the Lord, ye his angels, that excel in strength, that do his commandments, hearkening unto the voice of his word.",
-                    "score": 0.7558601677236191
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 5,
-                    "verse": 29,
-                    "text": "And it came to pass that there came a voice as if it were above the cloud of darkness, saying: Repent ye, repent ye, and seek no more to destroy my servants whom I have sent unto you to declare good tidings.",
-                    "score": 0.7546796628348711
+                    "verse": 1,
+                    "text": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002338111261258
                 }
             ]
         },
@@ -180,84 +80,14 @@
             "text": "And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.",
             "similars": [
                 {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "Wherefore, no man can behold all my works, except he behold all my glory; and no man can behold all my glory, and afterwards remain in the flesh on the earth.",
-                    "score": 0.7654453797871712
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 4,
-                    "verse": 35,
-                    "text": "And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?",
-                    "score": 0.7502397871829548
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "For verily the voice of the Lord is unto all men, and there is none to escape; and there is no eye that shall not see, neither ear that shall not hear, neither heart that shall not be penetrated.",
-                    "score": 0.7421566245099445
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 20,
-                    "verse": 26,
-                    "text": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.",
-                    "score": 0.7397109793979642
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 22,
-                    "verse": 42,
-                    "text": "They looked, but there was none to save; even unto the Lord, but he answered them not.",
-                    "score": 0.7388009544607104
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 67,
-                    "verse": 12,
-                    "text": "Neither can any natural man abide the presence of God, neither after the carnal mind.",
-                    "score": 0.7372280361310618
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Proverbs",
-                    "chapter": 25,
-                    "verse": 3,
-                    "text": "The heaven for height, and the earth for depth, and the heart of kings is unsearchable.",
-                    "score": 0.7371880037219966
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 17,
-                    "text": "And the man shall say: I cannot bring the book, for it is sealed.",
-                    "score": 0.7356716767804385
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 12,
-                    "verse": 35,
-                    "text": "Nor by the earth, for it is his footstool;",
-                    "score": 0.735339536723032
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 27,
-                    "verse": 10,
-                    "text": "But the words which are sealed he shall not deliver, neither shall he deliver the book. For the book shall be sealed by the power of God, and the revelation which was sealed shall be kept in the book until the own due time of the Lord, that they may come forth; for behold, they reveal all things from the foundation of the world unto the end thereof.",
-                    "score": 0.7351093129959126
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 4,
+                    "text": "And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.917370562710147
                 }
             ]
         },
@@ -266,84 +96,14 @@
             "text": "And I wept much, because no man was found worthy to open and to read the book, neither to look thereon.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 142,
-                    "verse": 4,
-                    "text": "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul.",
-                    "score": 0.7439237589171349
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 24,
-                    "verse": 16,
-                    "text": "Son of man, behold, I take away from thee the desire of thine eyes with a stroke: yet neither shalt thou mourn nor weep, neither shall thy tears run down.",
-                    "score": 0.7404789486588245
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 20,
-                    "text": "Reproach hath broken my heart; and I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I found none.",
-                    "score": 0.7376766763305805
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 22,
-                    "verse": 4,
-                    "text": "Therefore said I, Look away from me; I will weep bitterly, labour not to comfort me, because of the spoiling of the daughter of my people.",
-                    "score": 0.7356194419556492
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 10,
-                    "verse": 8,
-                    "text": "Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.",
-                    "score": 0.7318143407664512
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 13,
-                    "verse": 17,
-                    "text": "But if ye will not hear it, my soul shall weep in secret places for your pride; and mine eye shall weep sore, and run down with tears, because the Lord's flock is carried away captive.",
-                    "score": 0.7265998771144692
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 30,
-                    "verse": 20,
-                    "text": "I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me not.",
-                    "score": 0.7265172811152452
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 53,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
                     "verse": 3,
-                    "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.",
-                    "score": 0.7245049645122537
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Mosiah",
-                    "chapter": 14,
-                    "verse": 3,
-                    "text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief; and we hid as it were our faces from him; he was despised, and we esteemed him not.",
-                    "score": 0.7245049645122537
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Lamentations",
-                    "chapter": 1,
-                    "verse": 16,
-                    "text": "For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.",
-                    "score": 0.723700571212254
+                    "text": "And no man in heaven, nor in earth, neither under the earth, was able to open the book, neither to look thereon.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.917370562710147
                 }
             ]
         },
@@ -352,84 +112,14 @@
             "text": "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Helaman",
-                    "chapter": 8,
-                    "verse": 11,
-                    "text": "Therefore he was constrained to speak more unto them saying: Behold, my brethren, have ye not read that God gave power unto one man, even Moses, to smite upon the waters of the Red Sea, and they parted hither and thither, insomuch that the Israelites, who were our fathers, came through upon dry ground, and the waters closed upon the armies of the Egyptians and swallowed them up?",
-                    "score": 0.7540409371933292
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 20,
-                    "verse": 36,
-                    "text": "Then said he unto him, Because thou hast not obeyed the voice of the Lord, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him.",
-                    "score": 0.75326099528243
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 11,
-                    "verse": 7,
-                    "text": "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father's house? and why are ye come unto me now when ye are in distress?",
-                    "score": 0.7524222089278298
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 38,
-                    "verse": 13,
-                    "text": "Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?",
-                    "score": 0.7518787950161244
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Hosea",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 5,
-                    "verse": 14,
-                    "text": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.",
-                    "score": 0.7505819080884466
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Samuel",
-                    "chapter": 17,
-                    "verse": 36,
-                    "text": "Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.",
-                    "score": 0.7504891552516503
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Judges",
-                    "chapter": 21,
-                    "verse": 8,
-                    "text": "And they said, What one is there of the tribes of Israel that came not up to Mizpeh to the Lord? And, behold, there came none to the camp from Jabesh-gilead to the assembly.",
-                    "score": 0.750145927895826
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 39,
-                    "verse": 23,
-                    "text": "And the heathen shall know that the house of Israel went into captivity for their iniquity: because they trespassed against me, therefore hid I my face from them, and gave them into the hand of their enemies: so fell they all by the sword.",
-                    "score": 0.7482299599958588
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Amos",
-                    "chapter": 3,
-                    "verse": 8,
-                    "text": "The lion hath roared, who will not fear? the Lord God hath spoken, who can but prophesy?",
-                    "score": 0.74799112683903
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 51,
-                    "verse": 9,
-                    "text": "Awake, awake, put on strength, O arm of the Lord; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the dragon?",
-                    "score": 0.7460851264433095
+                    "verse": 2,
+                    "text": "And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the book, and to loose the seals thereof?",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9005823849937521
                 }
             ]
         },
@@ -438,84 +128,104 @@
             "text": "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 13,
+                    "text": "And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170730280885397
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 15,
+                    "verse": 7,
+                    "text": "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8157117289666329
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 11,
                     "verse": 34,
                     "text": "And after he was slain I saw the multitudes of the earth, that they were gathered together to fight against the apostles of the Lamb; for thus were the twelve called by the angel of the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8150669775498951
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 35,
-                    "text": "And the multitude of the earth was gathered together; and I beheld that they were in a large and spacious building, like unto the building which my father saw. And the angel of the Lord spake unto me again, saying: Behold the world and the wisdom thereof; yea, behold the house of Israel hath gathered together to fight against the twelve apostles of the Lamb.",
-                    "score": 0.7999295000974256
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 34,
-                    "text": "And it came to pass that the angel of the Lord spake unto me, saying: Behold, saith the Lamb of God, after I have visited the remnant of the house of Israel--and this remnant of whom I speak is the seed of thy father--wherefore, after I have visited them in judgment, and smitten them by the hand of the Gentiles, and after the Gentiles do stumble exceedingly, because of the most plain and precious parts of the gospel of the Lamb which have been kept back by that abominable church, which is the mother of harlots, saith the Lamb--I will be merciful unto the Gentiles in that day, insomuch that I will bring forth unto them, in mine own power, much of my gospel, which shall be plain and precious, saith the Lamb.",
-                    "score": 0.7981676806126706
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 2,
-                    "verse": 24,
-                    "text": "And I, God, said: Let the earth bring forth the living creature after his kind, cattle, and creeping things, and beasts of the earth after their kind, and it was so;",
-                    "score": 0.7955110880821266
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 9,
-                    "verse": 3,
-                    "text": "Behold, the hand of the Lord is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.",
-                    "score": 0.7947780005712732
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 21,
-                    "verse": 30,
-                    "text": "And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well.",
-                    "score": 0.793337625754763
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 21,
-                    "verse": 29,
-                    "text": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?",
-                    "score": 0.7926717121881474
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 29,
-                    "verse": 21,
-                    "text": "And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the Lord.",
-                    "score": 0.7919596268058194
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
                     "verse": 8,
-                    "text": "And the angel spake unto me, saying: Behold the twelve disciples of the Lamb, who are chosen to minister unto thy seed.",
-                    "score": 0.7911413963797258
+                    "text": "And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041193978198199
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 8,
+                    "text": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8015903088915729
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 6,
+                    "verse": 1,
+                    "text": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9068865235515537
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 5,
+                    "text": "And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.906371008590346
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 11,
+                    "text": "And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9042689359588926
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 8,
+                    "text": "And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9030276536941528
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 35,
-                    "text": "For, behold, saith the Lamb: I will manifest myself unto thy seed, that they shall write many things which I shall minister unto them, which shall be plain and precious; and after thy seed shall be destroyed, and dwindle in unbelief, and also the seed of thy brethren, behold, these things shall be hid up, to come forth unto the Gentiles, by the gift and power of the Lamb.",
-                    "score": 0.7889003053151162
+                    "volume_book_index": 1,
+                    "chapter": 11,
+                    "verse": 32,
+                    "text": "And it came to pass that the angel spake unto me again, saying: Look! And I looked and beheld the Lamb of God, that he was taken by the people; yea, the Son of the everlasting God was judged of the world; and I saw and bear record.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9019098994839375
                 }
             ]
         },
@@ -524,84 +234,24 @@
             "text": "And he came and took the book out of the right hand of him that sat upon the throne.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 6,
-                    "verse": 7,
-                    "text": "Therefore said he, Take it up to thee. And he put out his hand, and took it.",
-                    "score": 0.7840527877593733
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
-                    "chapter": 11,
-                    "verse": 19,
-                    "text": "And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the Lord, and came by the way of the gate of the guard to the king's house. And he sat on the throne of the kings.",
-                    "score": 0.7761500581619731
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 20,
-                    "verse": 24,
-                    "text": "And ascended into heaven, to sit down on the right hand of the Father, to reign with almighty power according to the will of the Father;",
-                    "score": 0.7649337023872219
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ruth",
-                    "chapter": 4,
-                    "verse": 1,
-                    "text": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.",
-                    "score": 0.759123049625823
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 22,
-                    "verse": 19,
-                    "text": "And he said, Hear thou therefore the word of the Lord: I saw the Lord sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.",
-                    "score": 0.7577307537115335
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 7,
-                    "verse": 1,
-                    "text": "And it came to pass, when the king sat in his house, and the Lord had given him rest round about from all his enemies;",
-                    "score": 0.7536276933328667
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 13,
-                    "verse": 20,
-                    "text": "And it came to pass, as they sat at the table, that the word of the Lord came unto the prophet that brought him back:",
-                    "score": 0.750934811356442
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Chronicles",
-                    "chapter": 18,
-                    "verse": 18,
-                    "text": "Again he said, Therefore hear the word of the Lord; I saw the Lord sitting upon his throne, and all the host of heaven standing on his right hand and on his left.",
-                    "score": 0.7502050024004018
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 105,
-                    "verse": 20,
-                    "text": "The king sent and loosed him; even the ruler of the people, and let him go free.",
-                    "score": 0.7500646999626025
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Kings",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 5,
-                    "verse": 24,
-                    "text": "And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed.",
-                    "score": 0.7491922900452288
+                    "verse": 1,
+                    "text": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8188718922428342
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 1,
+                    "text": "And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9079442675146914
                 }
             ]
         },
@@ -610,256 +260,135 @@
             "text": "And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.",
             "similars": [
                 {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 29,
-                    "text": "And after these plain and precious things were taken away it goeth forth unto all the nations of the Gentiles; and after it goeth forth unto all the nations of the Gentiles, yea, even across the many waters which thou hast seen with the Gentiles which have gone forth out of captivity, thou seest--because of the many plain and precious things which have been taken out of the book, which were plain unto the understanding of the children of men, according to the plainness which is in the Lamb of God--because of these things which are taken away out of the gospel of the Lamb, an exceedingly great many do stumble, yea, insomuch that Satan hath great power over them.",
-                    "score": 0.7680568566848978
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 14,
+                    "text": "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8327294023854619
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 11,
-                    "verse": 27,
-                    "text": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
-                    "score": 0.7658328120264865
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8158369605839492
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 6,
+                    "text": "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8041193978198199
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.914452314376831
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 14,
+                    "text": "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9099252873703683
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 7,
-                    "verse": 88,
-                    "text": "And all the oxen for the sacrifice of the peace offerings were twenty and four bullocks, the rams sixty, the he goats sixty, the lambs of the first year sixty. This was the dedication of the altar, after that it was anointed.",
-                    "score": 0.7620836082623178
+                    "verse": 11,
+                    "text": "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.905454158782959
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 7,
-                    "text": "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.",
-                    "score": 0.7603560813678026
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 8,
-                    "verse": 8,
-                    "text": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.",
-                    "score": 0.759813769608099
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 147,
-                    "verse": 9,
-                    "text": "He giveth to the beast his food, and to the young ravens which cry.",
-                    "score": 0.7596660716572738
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Leviticus",
-                    "chapter": 4,
-                    "verse": 7,
-                    "text": "And the priest shall put some of the blood upon the horns of the altar of sweet incense before the Lord, which is in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which is at the door of the tabernacle of the congregation.",
-                    "score": 0.7583396790690189
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 31,
-                    "verse": 26,
-                    "text": "Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:",
-                    "score": 0.7550461272105361
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 11,
-                    "verse": 31,
-                    "text": "And he spake unto me again, saying: Look! And I looked, and I beheld the Lamb of God going forth among the children of men. And I beheld multitudes of people who were sick, and who were afflicted with all manner of diseases, and with devils and unclean spirits; and the angel spake and showed all these things unto me. And they were healed by the power of the Lamb of God; and the devils and the unclean spirits were cast out.",
-                    "score": 0.7541451266244289
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 28,
-                    "verse": 7,
-                    "text": "And the drink offering thereof shall be the fourth part of an hin for the one lamb: in the holy place shalt thou cause the strong wine to be poured unto the Lord for a drink offering.",
-                    "score": 0.7531174953473898
+                    "verse": 16,
+                    "text": "And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9012114405632019
                 }
             ]
         },
         {
             "verse": 9,
             "text": "And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;",
-            "similars": [
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 51,
-                    "verse": 14,
-                    "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.",
-                    "score": 0.7828961090333258
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 40,
-                    "verse": 3,
-                    "text": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the Lord.",
-                    "score": 0.7772209278057451
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 32,
-                    "verse": 32,
-                    "text": "Yet now, if thou wilt forgive their sin--; and if not, blot me, I pray thee, out of thy book which thou hast written.",
-                    "score": 0.7767407251641151
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 21,
-                    "verse": 19,
-                    "text": "And thou shalt speak unto him, saying, Thus saith the Lord, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the Lord, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine.",
-                    "score": 0.7721389969707124
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 84,
-                    "verse": 98,
-                    "text": "Until all shall know me, who remain, even from the least unto the greatest, and shall be filled with the knowledge of the Lord, and shall see eye to eye, and shall lift up their voice, and with the voice together sing this new song, saying:",
-                    "score": 0.771879389396697
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 149,
-                    "verse": 1,
-                    "text": "Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints.",
-                    "score": 0.7709063720356172
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jonah",
-                    "chapter": 1,
-                    "verse": 14,
-                    "text": "Wherefore they cried unto the Lord, and said, We beseech thee, O Lord, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O Lord, hast done as it pleased thee.",
-                    "score": 0.7706473665650856
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 4,
-                    "verse": 11,
-                    "text": "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand;",
-                    "score": 0.7702520456559915
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Jeremiah",
-                    "chapter": 20,
-                    "verse": 13,
-                    "text": "Sing unto the Lord, praise ye the Lord: for he hath delivered the soul of the poor from the hand of evildoers.",
-                    "score": 0.7699521758817621
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 98,
-                    "verse": 1,
-                    "text": "O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.",
-                    "score": 0.7683550483022171
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 10,
             "text": "And hast made us unto our God kings and priests: and we shall reign on the earth.",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 1,
+                    "verse": 6,
+                    "text": "And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8686829008093018
+                },
+                {
                     "volume": "Old Testament",
                     "book": "Zechariah",
+                    "volume_book_index": 38,
                     "chapter": 14,
                     "verse": 9,
                     "text": "And the Lord shall be king over all the earth: in that day shall there be one Lord, and his name one.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8062208023511387
                 },
                 {
                     "volume": "Old Testament",
                     "book": "2 Chronicles",
+                    "volume_book_index": 14,
                     "chapter": 1,
                     "verse": 9,
                     "text": "Now, O Lord God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8019370165127976
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 15,
-                    "verse": 18,
-                    "text": "The Lord shall reign for ever and ever.",
-                    "score": 0.7981502146849854
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 43,
-                    "verse": 29,
-                    "text": "For in mine own due time will I come upon the earth in judgment, and my people shall be redeemed and shall reign with me on earth.",
-                    "score": 0.7944091564527768
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Exodus",
-                    "chapter": 19,
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 1,
                     "verse": 6,
-                    "text": "And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.",
-                    "score": 0.7928289265680839
+                    "text": "And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8071966286184428
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 20,
-                    "verse": 19,
-                    "text": "For I will make my people with whom the Father hath covenanted, yea, I will make thy horn iron, and I will make thy hoofs brass. And thou shalt beat in pieces many people; and I will consecrate their gain unto the Lord, and their substance unto the Lord of the whole earth. And behold, I am he who doeth it.",
-                    "score": 0.7920874277013672
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 124,
-                    "verse": 8,
-                    "text": "Our help is in the name of the Lord, who made heaven and earth.",
-                    "score": 0.791926014773778
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 60,
-                    "verse": 4,
-                    "text": "For I, the Lord, rule in the heavens above, and among the armies of the earth; and in the day when I shall make up my jewels, all men shall know what it is that bespeaketh the power of God.",
-                    "score": 0.7906817688744868
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 35,
-                    "verse": 11,
-                    "text": "And God said unto him, I am God Almighty: be fruitful and multiply; a nation and a company of nations shall be of thee, and kings shall come out of thy loins;",
-                    "score": 0.7905469670470406
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "1 Chronicles",
-                    "chapter": 16,
-                    "verse": 31,
-                    "text": "Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The Lord reigneth.",
-                    "score": 0.7887998373400776
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 1,
+                    "verse": 6,
+                    "text": "And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9318024238406927
                 }
             ]
         },
@@ -868,172 +397,41 @@
             "text": "And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;",
             "similars": [
                 {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 7,
+                    "verse": 11,
+                    "text": "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8001017700696348
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 6,
+                    "text": "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9042689359588926
+                },
+                {
                     "volume": "Book of Mormon",
                     "book": "1 Nephi",
+                    "volume_book_index": 1,
                     "chapter": 13,
                     "verse": 1,
                     "text": "And it came to pass that the angel spake unto me, saying: Look! And I looked and beheld many nations and kingdoms.",
-                    "score": 0.7980092740740468
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 13,
-                    "verse": 2,
-                    "text": "And the angel said unto me: What beholdest thou? And I said: I behold many nations and kingdoms.",
-                    "score": 0.7924384377572544
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
-                    "verse": 22,
-                    "text": "Yea, methought I saw, even as our father Lehi saw, God sitting upon his throne, surrounded with numberless concourses of angels, in the attitude of singing and praising their God; yea, and my soul did long to be there.",
-                    "score": 0.7867170262814778
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 12,
-                    "verse": 1,
-                    "text": "And it came to pass that the angel said unto me: Look, and behold thy seed, and also the seed of thy brethren. And I looked and beheld the land of promise; and I beheld multitudes of people, yea, even as it were in number as many as the sand of the sea.",
-                    "score": 0.7832359982525888
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 35,
-                    "text": "And the multitude of the earth was gathered together; and I beheld that they were in a large and spacious building, like unto the building which my father saw. And the angel of the Lord spake unto me again, saying: Behold the world and the wisdom thereof; yea, behold the house of Israel hath gathered together to fight against the twelve apostles of the Lamb.",
-                    "score": 0.7738724376543197
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 19,
-                    "verse": 34,
-                    "text": "And behold, many did declare unto the people that they had seen angels and had conversed with them; and thus they had told them things of God, and of his righteousness.",
-                    "score": 0.7720281306604795
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Jacob",
-                    "chapter": 7,
-                    "verse": 5,
-                    "text": "And he had hope to shake me from the faith, notwithstanding the many revelations and the many things which I had seen concerning these things; for I truly had seen angels, and they had ministered unto me. And also, I had heard the voice of the Lord speaking unto me in very word, from time to time; wherefore, I could not be shaken.",
-                    "score": 0.7703306936238835
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 11,
-                    "verse": 28,
-                    "text": "And I beheld that he went forth ministering unto the people, in power and great glory; and the multitudes were gathered together to hear him; and I beheld that they cast him out from among them.",
-                    "score": 0.768146924479612
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 25,
-                    "text": "And he saw angels descending out of heaven; and he heard a loud voice saying: Wo, wo be unto the inhabitants of the earth.",
-                    "score": 0.7672881311431912
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 36,
-                    "verse": 8,
-                    "text": "But behold, the voice said unto me: Arise. And I arose and stood up, and beheld the angel.",
-                    "score": 0.7661919173876978
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9029627268843823
                 }
             ]
         },
         {
             "verse": 12,
             "text": "Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.",
-            "similars": [
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 119,
-                    "text": "And to God and the Lamb be glory, and honor, and dominion forever and ever. Amen.",
-                    "score": 0.79406392838281
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 76,
-                    "verse": 39,
-                    "text": "For all the rest shall be brought forth by the resurrection of the dead, through the triumph and the glory of the Lamb, who was slain, who was in the bosom of the Father before the worlds were made.",
-                    "score": 0.7915650245086954
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 22,
-                    "verse": 13,
-                    "text": "And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.",
-                    "score": 0.782647542764353
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 69,
-                    "verse": 31,
-                    "text": "This also shall please the Lord better than an ox or bullock that hath horns and hoofs.",
-                    "score": 0.776938019477784
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 65,
-                    "verse": 25,
-                    "text": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord.",
-                    "score": 0.7753610487155396
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "2 Samuel",
-                    "chapter": 12,
-                    "verse": 6,
-                    "text": "And he shall restore the lamb fourfold, because he did this thing, and because he had no pity.",
-                    "score": 0.7748820888501787
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 40,
-                    "verse": 11,
-                    "text": "He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young.",
-                    "score": 0.7724857901675477
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Ezekiel",
-                    "chapter": 46,
-                    "verse": 11,
-                    "text": "And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah.",
-                    "score": 0.7724121138331296
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "1 Nephi",
-                    "chapter": 14,
-                    "verse": 7,
-                    "text": "For the time cometh, saith the Lamb of God, that I will work a great and a marvelous work among the children of men; a work which shall be everlasting, either on the one hand or on the other--either to the convincing of them unto peace and life eternal, or unto the deliverance of them to the hardness of their hearts and the blindness of their minds unto their being brought down into captivity, and also into destruction, both temporally and spiritually, according to the captivity of the devil, of which I have spoken.",
-                    "score": 0.7709985470001087
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 89,
-                    "verse": 17,
-                    "text": "For thou art the glory of their strength: and in thy favour our horn shall be exalted.",
-                    "score": 0.7667337226917569
-                }
-            ]
+            "similars": []
         },
         {
             "verse": 13,
@@ -1042,82 +440,352 @@
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 2,
                     "verse": 28,
                     "text": "And I, God, blessed them, and said unto them: Be fruitful, and multiply, and replenish the earth, and subdue it, and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8503841127487152
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 1,
                     "verse": 28,
                     "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8379549412052383
                 },
                 {
                     "volume": "Doctrine and Covenants",
                     "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
                     "chapter": 76,
                     "verse": 119,
                     "text": "And to God and the Lamb be glory, and honor, and dominion forever and ever. Amen.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8255987227327453
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Genesis",
+                    "volume_book_index": 1,
                     "chapter": 8,
                     "verse": 17,
                     "text": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8221542122742121
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8211832443809716
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 23,
+                    "verse": 22,
+                    "text": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8197409434046731
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 6,
+                    "text": "And I beheld, and, lo, in the midst of the throne and of the four beasts, and in the midst of the elders, stood a Lamb as it had been slain, having seven horns and seven eyes, which are the seven Spirits of God sent forth into all the earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8170730280885397
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Abraham",
+                    "volume_book_index": 2,
                     "chapter": 4,
                     "verse": 28,
                     "text": "And the Gods said: We will bless them. And the Gods said: We will cause them to be fruitful and multiply, and replenish the earth, and subdue it, and to have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8163812506133215
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 2,
                     "verse": 24,
                     "text": "And I, God, said: Let the earth bring forth the living creature after his kind, cattle, and creeping things, and beasts of the earth after their kind, and it was so;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.815003090490834
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 2,
                     "verse": 26,
                     "text": "And I, God, said unto mine Only Begotten, which was with me from the beginning: Let us make man in our image, after our likeness; and it was so. And I, God, said: Let them have dominion over the fishes of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8146694831745094
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 7,
+                    "verse": 17,
+                    "text": "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8138025178014145
                 },
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Moses",
+                    "volume_book_index": 1,
                     "chapter": 2,
                     "verse": 30,
                     "text": "And to every beast of the earth, and to every fowl of the air, and to everything that creepeth upon the earth, wherein I grant life, there shall be given every clean herb for meat; and it was so, even as I spake.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8127814088957774
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 69,
                     "verse": 34,
                     "text": "Let the heaven and earth praise him, the seas, and every thing that moveth therein.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8124034637063474
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Micah",
+                    "volume_book_index": 33,
                     "chapter": 5,
                     "verse": 4,
                     "text": "And he shall stand and feed in the strength of the Lord, in the majesty of the name of the Lord his God; and they shall abide: for now shall he be great unto the ends of the earth.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8096800506575531
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 4,
+                    "verse": 30,
+                    "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, behold, we will give them life, and also we will give to them every green herb for meat, and all these things shall be thus organized.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8087020604889048
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "James",
+                    "volume_book_index": 20,
+                    "chapter": 3,
+                    "verse": 7,
+                    "text": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8082385711881831
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Genesis",
+                    "volume_book_index": 1,
+                    "chapter": 22,
+                    "verse": 17,
+                    "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8075986166753808
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Abraham",
+                    "volume_book_index": 2,
+                    "chapter": 2,
+                    "verse": 11,
+                    "text": "And I will bless them that bless thee, and curse them that curse thee; and in thee (that is, in thy Priesthood) and in thy seed (that is, thy Priesthood), for I give unto thee a promise that this right shall continue in thee, and in thy seed after thee (that is to say, the literal seed, or the seed of the body) shall all the families of the earth be blessed, even with the blessings of the Gospel, which are the blessings of salvation, even of life eternal.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8072845869265403
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 138,
+                    "verse": 4,
+                    "text": "All the kings of the earth shall praise thee, O Lord, when they hear the words of thy mouth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8062337376850552
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 22,
+                    "verse": 3,
+                    "text": "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8060498775319355
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 39,
+                    "verse": 18,
+                    "text": "Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8049485568995179
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 7,
+                    "verse": 12,
+                    "text": "Saying, Amen: Blessing, and glory, and wisdom, and thanksgiving, and honour, and power, and might, be unto our God for ever and ever. Amen.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8048979181398644
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Ezekiel",
+                    "volume_book_index": 26,
+                    "chapter": 38,
+                    "verse": 20,
+                    "text": "So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that are upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8040603612258755
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 65,
+                    "verse": 25,
+                    "text": "The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust shall be the serpent's meat. They shall not hurt nor destroy in all my holy mountain, saith the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8034933213250062
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "Alma",
+                    "volume_book_index": 9,
+                    "chapter": 5,
+                    "verse": 50,
+                    "text": "Yea, thus saith the Spirit: Repent, all ye ends of the earth, for the kingdom of heaven is soon at hand; yea, the Son of God cometh in his glory, in his might, majesty, power, and dominion. Yea, my beloved brethren, I say unto you, that the Spirit saith: Behold the glory of the King of all the earth; and also the King of heaven shall very soon shine forth among all the children of men.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8030829326754443
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Psalms",
+                    "volume_book_index": 19,
+                    "chapter": 146,
+                    "verse": 6,
+                    "text": "Which made heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8026735471057358
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 66,
+                    "verse": 20,
+                    "text": "And they shall bring all your brethren for an offering unto the Lord out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the Lord, as the children of Israel bring an offering in a clean vessel into the house of the Lord.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023898556164428
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Matthew",
+                    "volume_book_index": 1,
+                    "chapter": 28,
+                    "verse": 18,
+                    "text": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8023873729379053
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Moses",
+                    "volume_book_index": 1,
+                    "chapter": 2,
+                    "verse": 22,
+                    "text": "And I, God, blessed them, saying: Be fruitful, and multiply, and fill the waters in the sea; and let fowl multiply in the earth;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8013669675561493
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Isaiah",
+                    "volume_book_index": 23,
+                    "chapter": 42,
+                    "verse": 10,
+                    "text": "Sing unto the Lord a new song, and his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8005462996067082
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Deuteronomy",
+                    "volume_book_index": 5,
+                    "chapter": 4,
+                    "verse": 19,
+                    "text": "And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the Lord thy God hath divided unto all nations under the whole heaven.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8002729764320646
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 119,
+                    "text": "And to God and the Lamb be glory, and honor, and dominion forever and ever. Amen.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9184449412292313
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9126909427231005
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 76,
+                    "verse": 110,
+                    "text": "And heard the voice of the Lord saying: These all shall bow the knee, and every tongue shall confess to him who sits upon the throne forever and ever;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9045310673397159
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 14,
+                    "text": "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002494930923589
                 }
             ]
         },
@@ -1126,84 +794,144 @@
             "text": "And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.",
             "similars": [
                 {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 17,
-                    "text": "These great beasts, which are four, are four kings, which shall arise out of the earth.",
-                    "score": 0.7827546244945267
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Daniel",
-                    "chapter": 7,
-                    "verse": 23,
-                    "text": "Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.",
-                    "score": 0.7825337750784667
-                },
-                {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 77,
-                    "verse": 5,
-                    "text": "Q. What are we to understand by the four and twenty elders, spoken of by John? A. We are to understand that these elders whom John saw, were elders who had been faithful in the work of the ministry and were dead; who belonged to the seven churches, and were then in the paradise of God.",
-                    "score": 0.7810205944549379
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
                     "chapter": 19,
-                    "verse": 14,
-                    "text": "Now Ammon seeing the Spirit of the Lord poured out according to his prayers upon the Lamanites, his brethren, who had been the cause of so much mourning among the Nephites, or among all the people of God because of their iniquities and their traditions, he fell upon his knees, and began to pour out his soul in prayer and thanksgiving to God for what he had done for his brethren; and he was also overpowered with joy; and thus they all three had sunk to the earth.",
-                    "score": 0.7762365784985115
+                    "verse": 4,
+                    "text": "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.9235954252475126
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Genesis",
-                    "chapter": 50,
-                    "verse": 18,
-                    "text": "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants.",
-                    "score": 0.772593762322818
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.865173285376997
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "4 Nephi",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "And it came to pass that the thirty and fourth year passed away, and also the thirty and fifth, and behold the disciples of Jesus had formed a church of Christ in all the lands round about. And as many as did come unto them, and did truly repent of their sins, were baptized in the name of Jesus; and they did also receive the Holy Ghost.",
-                    "score": 0.7696893467464573
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 8,
+                    "text": "And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8327294023854619
                 },
                 {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 45,
-                    "verse": 12,
-                    "text": "Yea, and this because they shall dwindle in unbelief and fall into the works of darkness, and lasciviousness, and all manner of iniquities; yea, I say unto you, that because they shall sin against so great light and knowledge, yea, I say unto you, that from that day, even the fourth generation shall not all pass away before this great iniquity shall come.",
-                    "score": 0.7687564876901689
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 11,
+                    "verse": 16,
+                    "text": "And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8185792464541399
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Nehemiah",
-                    "chapter": 9,
-                    "verse": 3,
-                    "text": "And they stood up in their place, and read in the book of the law of the Lord their God one fourth part of the day; and another fourth part they confessed, and worshipped the Lord their God.",
-                    "score": 0.7667961210436307
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 7,
+                    "verse": 11,
+                    "text": "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8021563453603612
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Numbers",
-                    "chapter": 16,
-                    "verse": 22,
-                    "text": "And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?",
-                    "score": 0.7640934481165139
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8549568907903702
                 },
                 {
-                    "volume": "Doctrine and Covenants",
-                    "book": "Doctrine and Covenants",
-                    "chapter": 77,
-                    "verse": 2,
-                    "text": "Q. What are we to understand by the four beasts, spoken of in the same verse? A. They are figurative expressions, used by the Revelator, John, in describing heaven, the paradise of God, the happiness of man, and of beasts, and of creeping things, and of the fowls of the air; that which is spiritual being in the likeness of that which is temporal; and that which is temporal in the likeness of that which is spiritual; the spirit of man in the likeness of his person, as also the spirit of the beast, and every other creature which God has created.",
-                    "score": 0.7612794968246475
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8284861343196711
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 19,
+                    "verse": 4,
+                    "text": "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9665960689427828
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 10,
+                    "text": "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9295723480241108
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 7,
+                    "verse": 11,
+                    "text": "And all the angels stood round about the throne, and about the elders and the four beasts, and fell before the throne on their faces, and worshipped God,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9200286316854593
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 11,
+                    "verse": 16,
+                    "text": "And the four and twenty elders, which sat before God on their seats, fell upon their faces, and worshipped God,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9181426216278914
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 8,
+                    "text": "And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9099252873703683
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 4,
+                    "verse": 9,
+                    "text": "And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9034176526416763
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Revelation",
+                    "volume_book_index": 27,
+                    "chapter": 5,
+                    "verse": 13,
+                    "text": "And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9002494930923589
                 }
             ]
         }

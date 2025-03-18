@@ -10,82 +10,182 @@
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--History",
+                    "volume_book_index": 4,
                     "chapter": 1,
                     "verse": 38,
                     "text": "And again, he quoted the fifth verse thus: Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9300676185245065
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 25,
                     "verse": 5,
                     "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord;",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9027531247766066
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Malachi",
+                    "volume_book_index": 39,
                     "chapter": 4,
                     "verse": 5,
                     "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.9027531247766066
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 138,
+                    "verse": 46,
+                    "text": "And Malachi, the prophet who testified of the coming of Elijah--of whom also Moroni spake to the Prophet Joseph Smith, declaring that he should come before the ushering in of the great and dreadful day of the Lord--were also there.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8505288638041556
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 110,
+                    "verse": 14,
+                    "text": "Behold, the time has fully come, which was spoken of by the mouth of Malachi--testifying that he [Elijah] should be sent, before the great and dreadful day of the Lord come--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8396912059909307
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 128,
+                    "verse": 17,
+                    "text": "And again, in connection with this quotation I will give you a quotation from one of the prophets, who had his eye fixed on the restoration of the priesthood, the glories to be revealed in the last days, and in an especial manner this most glorious of all subjects belonging to the everlasting gospel, namely, the baptism for the dead; for Malachi says, last chapter, verses 5th and 6th: Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.823014045313634
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Mormon",
+                    "volume_book_index": 13,
                     "chapter": 8,
                     "verse": 34,
                     "text": "Behold, the Lord hath shown unto me great and marvelous things concerning that which must shortly come, at that day when these things shall come forth among you.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.810250726096334
                 },
                 {
                     "volume": "Old Testament",
                     "book": "1 Kings",
+                    "volume_book_index": 11,
                     "chapter": 18,
                     "verse": 14,
                     "text": "And now thou sayest, Go, tell thy lord, Behold, Elijah is here: and he shall slay me.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8047416299272058
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 43,
+                    "verse": 17,
+                    "text": "Hearken ye, for, behold, the great day of the Lord is nigh at hand.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.803873240725513
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Joel",
+                    "volume_book_index": 29,
                     "chapter": 1,
                     "verse": 15,
                     "text": "Alas for the day! for the day of the Lord is at hand, and as a destruction from the Almighty shall it come.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.801851354633614
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 26,
-                    "verse": 14,
-                    "text": "But behold, I prophesy unto you concerning the last days; concerning the days when the Lord God shall bring these things forth unto the children of men.",
-                    "score": 0.7907207778290685
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 25,
+                    "verse": 5,
+                    "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord;",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8340179324150085
                 },
                 {
                     "volume": "Old Testament",
-                    "book": "1 Kings",
-                    "chapter": 18,
-                    "verse": 11,
-                    "text": "And now thou sayest, Go, tell thy lord, Behold, Elijah is here.",
-                    "score": 0.7871365608233404
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 4,
+                    "verse": 5,
+                    "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8340179324150085
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Joseph Smith--History",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 38,
+                    "text": "And again, he quoted the fifth verse thus: Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.",
+                    "embedding_model": "text-embedding-3-small",
+                    "score": 0.8295595645904541
+                },
+                {
+                    "volume": "Pearl of Great Price",
+                    "book": "Joseph Smith--History",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 38,
+                    "text": "And again, he quoted the fifth verse thus: Behold, I will reveal unto you the Priesthood, by the hand of Elijah the prophet, before the coming of the great and dreadful day of the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9591632509730326
+                },
+                {
+                    "volume": "Old Testament",
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 4,
+                    "verse": 5,
+                    "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9585121944226888
                 },
                 {
                     "volume": "Book of Mormon",
-                    "book": "2 Nephi",
-                    "chapter": 23,
-                    "verse": 6,
-                    "text": "Howl ye, for the day of the Lord is at hand; it shall come as a destruction from the Almighty.",
-                    "score": 0.7865587455030935
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 25,
+                    "verse": 5,
+                    "text": "Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9585121944226888
                 },
                 {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 13,
-                    "verse": 6,
-                    "text": "Howl ye; for the day of the Lord is at hand; it shall come as a destruction from the Almighty.",
-                    "score": 0.7865587455030935
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 110,
+                    "verse": 14,
+                    "text": "Behold, the time has fully come, which was spoken of by the mouth of Malachi--testifying that he [Elijah] should be sent, before the great and dreadful day of the Lord come--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9170382197258534
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 128,
+                    "verse": 17,
+                    "text": "And again, in connection with this quotation I will give you a quotation from one of the prophets, who had his eye fixed on the restoration of the priesthood, the glories to be revealed in the last days, and in an especial manner this most glorious of all subjects belonging to the everlasting gospel, namely, the baptism for the dead; for Malachi says, last chapter, verses 5th and 6th: Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord: And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9020378110363708
                 }
             ]
         },
@@ -94,84 +194,204 @@
             "text": "And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers.",
             "similars": [
                 {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 138,
+                    "verse": 47,
+                    "text": "The Prophet Elijah was to plant in the hearts of the children the promises made to their fathers,",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.88523023036042
+                },
+                {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--History",
+                    "volume_book_index": 4,
                     "chapter": 1,
                     "verse": 39,
                     "text": "He also quoted the next verse differently: And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers. If it were not so, the whole earth would be utterly wasted at his coming.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.853197859341358
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Malachi",
+                    "volume_book_index": 39,
                     "chapter": 4,
                     "verse": 6,
                     "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8414489002399689
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "3 Nephi",
+                    "volume_book_index": 11,
                     "chapter": 25,
                     "verse": 6,
                     "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8414489002399689
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "2 Nephi",
+                    "volume_book_index": 2,
                     "chapter": 10,
                     "verse": 17,
                     "text": "For I will fulfil my promises which I have made unto the children of men, that I will do unto them while they are in the flesh--",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8412019815656533
                 },
                 {
                     "volume": "Book of Mormon",
                     "book": "Alma",
+                    "volume_book_index": 9,
                     "chapter": 37,
                     "verse": 17,
                     "text": "For he will fulfil all his promises which he shall make unto you, for he has fulfilled his promises which he has made unto our fathers.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8161423279916542
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Psalms",
+                    "volume_book_index": 19,
                     "chapter": 102,
                     "verse": 28,
                     "text": "The children of thy servants shall continue, and their seed shall be established before thee.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8141148079106406
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 98,
+                    "verse": 16,
+                    "text": "Therefore, renounce war and proclaim peace, and seek diligently to turn the hearts of the children to their fathers, and the hearts of the fathers to the children;",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8079268863039628
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Ezekiel",
+                    "volume_book_index": 26,
                     "chapter": 37,
                     "verse": 25,
                     "text": "And they shall dwell in the land that I have given unto Jacob my servant, wherein your fathers have dwelt; and they shall dwell therein, even they, and their children, and their children's children for ever: and my servant David shall be their prince for ever.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8071513868645758
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 18,
+                    "verse": 44,
+                    "text": "And by your hands I will work a marvelous work among the children of men, unto the convincing of many of their sins, that they may come unto repentance, and that they may come unto the kingdom of my Father.",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.8058563839092758
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 110,
+                    "verse": 15,
+                    "text": "To turn the hearts of the fathers to the children, and the children to the fathers, lest the whole earth be smitten with a curse--",
+                    "embedding_model": "hugging_face_bge",
+                    "score": 0.80500203549423
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Leviticus",
+                    "volume_book_index": 3,
                     "chapter": 27,
                     "verse": 2,
                     "text": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the Lord by thy estimation.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8016979222966067
                 },
                 {
                     "volume": "Old Testament",
                     "book": "Nehemiah",
+                    "volume_book_index": 16,
                     "chapter": 9,
                     "verse": 23,
                     "text": "Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess it.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8008762610734003
                 },
                 {
+                    "volume": "Pearl of Great Price",
+                    "book": "Joseph Smith--History",
+                    "volume_book_index": 4,
+                    "chapter": 1,
+                    "verse": 39,
+                    "text": "He also quoted the next verse differently: And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers. If it were not so, the whole earth would be utterly wasted at his coming.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9375678226432589
+                },
+                {
                     "volume": "Old Testament",
-                    "book": "Psalms",
-                    "chapter": 45,
+                    "book": "Malachi",
+                    "volume_book_index": 39,
+                    "chapter": 4,
+                    "verse": 6,
+                    "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9351858496666021
+                },
+                {
+                    "volume": "Book of Mormon",
+                    "book": "3 Nephi",
+                    "volume_book_index": 11,
+                    "chapter": 25,
+                    "verse": 6,
+                    "text": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9351858496666021
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 138,
+                    "verse": 47,
+                    "text": "The Prophet Elijah was to plant in the hearts of the children the promises made to their fathers,",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9310646057128973
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 110,
+                    "verse": 15,
+                    "text": "To turn the hearts of the fathers to the children, and the children to the fathers, lest the whole earth be smitten with a curse--",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9151304757906206
+                },
+                {
+                    "volume": "Doctrine and Covenants",
+                    "book": "Doctrine and Covenants",
+                    "volume_book_index": 1,
+                    "chapter": 98,
                     "verse": 16,
-                    "text": "Instead of thy fathers shall be thy children, whom thou mayest make princes in all the earth.",
-                    "score": 0.7996747442781591
+                    "text": "Therefore, renounce war and proclaim peace, and seek diligently to turn the hearts of the children to their fathers, and the hearts of the fathers to the children;",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9121861457824771
+                },
+                {
+                    "volume": "New Testament",
+                    "book": "Luke",
+                    "volume_book_index": 3,
+                    "chapter": 1,
+                    "verse": 17,
+                    "text": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord.",
+                    "embedding_model": "text-embedding-ada-002",
+                    "score": 0.9027630628802233
                 }
             ]
         },
@@ -182,82 +402,12 @@
                 {
                     "volume": "Pearl of Great Price",
                     "book": "Joseph Smith--History",
+                    "volume_book_index": 4,
                     "chapter": 1,
                     "verse": 39,
                     "text": "He also quoted the next verse differently: And he shall plant in the hearts of the children the promises made to the fathers, and the hearts of the children shall turn to their fathers. If it were not so, the whole earth would be utterly wasted at his coming.",
+                    "embedding_model": "hugging_face_bge",
                     "score": 0.8033998830248612
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 24,
-                    "verse": 1,
-                    "text": "Behold, the Lord maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
-                    "score": 0.7627728690083461
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 60,
-                    "verse": 12,
-                    "text": "For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.",
-                    "score": 0.762367439375793
-                },
-                {
-                    "volume": "Pearl of Great Price",
-                    "book": "Moses",
-                    "chapter": 7,
-                    "verse": 52,
-                    "text": "And he sent forth an unalterable decree, that a remnant of his seed should always be found among all nations, while the earth should stand;",
-                    "score": 0.7582382913255592
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Isaiah",
-                    "chapter": 24,
-                    "verse": 3,
-                    "text": "The land shall be utterly emptied, and utterly spoiled: for the Lord hath spoken this word.",
-                    "score": 0.7540258192044312
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "3 Nephi",
-                    "chapter": 26,
-                    "verse": 3,
-                    "text": "And he did expound all things, even from the beginning until the time that he should come in his glory--yea, even all things which should come upon the face of the earth, even until the elements should melt with fervent heat, and the earth should be wrapt together as a scroll, and the heavens and the earth should pass away;",
-                    "score": 0.7536021156647866
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Job",
-                    "chapter": 18,
-                    "verse": 4,
-                    "text": "He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?",
-                    "score": 0.7492070219160425
-                },
-                {
-                    "volume": "Book of Mormon",
-                    "book": "Alma",
-                    "chapter": 9,
-                    "verse": 11,
-                    "text": "Yea, and if it had not been for his matchless power, and his mercy, and his long-suffering towards us, we should unavoidably have been cut off from the face of the earth long before this period of time, and perhaps been consigned to a state of endless misery and woe.",
-                    "score": 0.7448365018172868
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Zephaniah",
-                    "chapter": 2,
-                    "verse": 11,
-                    "text": "The Lord will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen.",
-                    "score": 0.7444221915522299
-                },
-                {
-                    "volume": "Old Testament",
-                    "book": "Nahum",
-                    "chapter": 1,
-                    "verse": 5,
-                    "text": "The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.",
-                    "score": 0.7434528229786254
                 }
             ]
         }
